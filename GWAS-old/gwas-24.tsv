@@ -1,0 +1,26 @@
+TaxonID	3847
+Strain	Williams82
+Name
+LBC20180516.3
+PlatformName
+Illumina GoldenGate assay
+PlatformDetails
+Illumina Beadlab
+NumberLociTested
+1536
+NumberGermplasmTested
+282
+Assembly
+Wm82.a1.v1.1
+DOI|10.1007/s11032-015-0324-3
+phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+SDS root retention	SOY:0001460	ss107920581	2E-04	Gm03	459442	459442
+SDS root retention	SOY:0001460	ss107913501	1E-04	Gm06	13578142	13578142
+SDS dry matter retention	SOY:0001460	ss107922891	2E-05	Gm17	14613850	14613850
+SDS root retention	SOY:0001460	ss107922891	2E-07	Gm17	14613850	14613850
+SDS root retention	SOY:0001460	ss107917346	2E-04	Gm17	20023244	20023244
+SDS root retention	SOY:0001460	ss107929748	2E-05	Gm17	25475257	25475257
+SDS root retention	SOY:0001460	ss107927109	1E-05	Gm17	34725321	34725321
+SDS root retention	SOY:0001460	ss107928310	7E-06	Gm17	35707915	35707915
+SDS dry matter retention	SOY:0001460	ss107917416	6E-06	Gm18	55200681	55200681
+SDS root retention	SOY:0001460	ss107917416	6E-05	Gm18	55200681	55200681

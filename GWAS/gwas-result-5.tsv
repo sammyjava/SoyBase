@@ -1,0 +1,535 @@
+#identifier	phenotype	marker	pvalue
+Branching 1-g1.1	Branching	Chr18_55626229	4.37E-09
+Branching 1-g1.2	Branching	Chr18_55628880	4.37E-09
+Canopy width 1-g1.1	Canopy width	Chr03_38932768	5.01E-09
+Canopy width 1-g1.2	Canopy width	Chr03_38936586	5.01E-09
+Canopy width 1-g2.1	Canopy width	Chr19_36606460	1.17E-08
+Canopy width 1-g2.2	Canopy width	Chr19_36661427	1.17E-08
+Canopy width 1-g3.1	Canopy width	Chr19_46600788	7.08E-12
+Canopy width 1-g3.2	Canopy width	Chr19_46601442	7.08E-12
+Canopy width 1-g3.3	Canopy width	Chr19_46737870	7.08E-12
+First flower 5-g18	First flower	Chr01_2893024	4.17E-08
+First flower 5-g4.1	First flower	Chr02_10182071	6.31E-09
+First flower 5-g19.2	First flower	Chr02_10182071	1.45E-08
+First flower 5-g4.2	First flower	Chr02_10286440	6.31E-09
+First flower 5-g19.3	First flower	Chr02_10286440	1.45E-08
+First flower 5-g5.1	First flower	Chr02_12316110	0.00000001
+First flower 5-g20.1	First flower	Chr02_12316110	1.48E-07
+First flower 5-g20.2	First flower	Chr02_12408115	1.48E-07
+First flower 5-g5.2	First flower	Chr02_12408988	0.00000001
+First flower 5-g19.1	First flower	Chr02_9815707	1.45E-08
+First flower 5-g6	First flower	Chr03_3919776	2.34E-07
+First flower 5-g21	First flower	Chr03_3919776	6.92E-08
+First flower 5-g22.1	First flower	Chr03_5139801	2.14E-07
+First flower 5-g22.2	First flower	Chr03_5146262	2.14E-07
+First flower 5-g14.1	First flower	Chr05_40012587	1.23E-07
+First flower 5-g14.2	First flower	Chr05_40016323	1.23E-07
+First flower 5-g23.1	First flower	Chr06_19178035	7.08E-08
+First flower 5-g7.1	First flower	Chr06_20057204	1.02E-07
+First flower 5-g7.2	First flower	Chr06_20097064	1.02E-07
+First flower 5-g23.2	First flower	Chr06_20097064	7.08E-08
+First flower 5-g7.3	First flower	Chr06_20297543	1.02E-07
+First flower 5-g23.3	First flower	Chr06_20299454	7.08E-08
+First flower 5-g8.1	First flower	Chr09_45594506	1.45E-07
+First flower 5-g8.2	First flower	Chr09_45632566	1.45E-07
+First flower 5-g15.1	First flower	Chr-44710944	2.82E-14
+First flower 5-g1.1	First flower	Chr-44731893	1.41E-14
+First flower 5-g1.2	First flower	Chr-45310798	1.41E-14
+First flower 5-g15.2	First flower	Chr-45310798	2.82E-14
+First flower 5-g1.3	First flower	Chr-45465189	1.41E-14
+First flower 5-g15.3	First flower	Chr-45465189	2.82E-14
+First flower 5-g9	First flower	Chr11_10820746	2.19E-07
+First flower 5-g24.1	First flower	Chr11_10820746	1.32E-08
+First flower 5-g24.2	First flower	Chr11_10836170	1.32E-08
+First flower 5-g16.1	First flower	Chr11_24962516	3.72E-10
+First flower 5-g2	First flower	Chr11_25033166	7.41E-09
+First flower 5-g16.2	First flower	Chr11_25033166	3.72E-10
+First flower 5-g16.3	First flower	Chr11_25055297	3.72E-10
+First flower 5-g25.1	First flower	Chr11_31718686	2.45E-08
+First flower 5-g25.2	First flower	Chr11_31730516	2.45E-08
+First flower 5-g25.3	First flower	Chr11_31731024	2.45E-08
+First flower 5-g10.1	First flower	Chr12_5475503	1.17E-08
+First flower 5-g26.1	First flower	Chr12_5475503	5.89E-09
+First flower 5-g10.2	First flower	Chr12_5504773	1.17E-08
+First flower 5-g26.2	First flower	Chr12_5504773	5.89E-09
+First flower 5-g10.3	First flower	Chr12_5529926	1.17E-08
+First flower 5-g26.3	First flower	Chr12_5529926	5.89E-09
+First flower 5-g27.1	First flower	Chr13_37478851	1.74E-07
+First flower 5-g27.2	First flower	Chr13_37498490	1.74E-07
+First flower 5-g28	First flower	Chr14_12744442	1.78E-07
+First flower 5-g11	First flower	Chr14_47346921	2.09E-07
+First flower 5-g29.1	First flower	Chr15_13133351	0.00000001
+First flower 5-g29.2	First flower	Chr15_13160907	0.00000001
+First flower 5-g29.3	First flower	Chr15_13160963	0.00000001
+First flower 5-g30.1	First flower	Chr17_2233815	1.38E-07
+First flower 5-g30.2	First flower	Chr17_2239470	1.38E-07
+First flower 5-g30.3	First flower	Chr17_2239543	1.38E-07
+First flower 5-g12.1	First flower	Chr18_57269028	1.41E-08
+First flower 5-g12.2	First flower	Chr18_57269374	1.41E-08
+First flower 5-g31.1	First flower	Chr18_57269374	5.62E-08
+First flower 5-g12.3	First flower	Chr18_57272016	1.41E-08
+First flower 5-g31.2	First flower	Chr18_57272016	5.62E-08
+First flower 5-g3	First flower	Chr19_43183481	1.20E-07
+First flower 5-g17	First flower	Chr19_43183481	7.24E-08
+First flower 5-g13	First flower	Chr20_34256561	2.14E-07
+First flower 5-g32	First flower	Chr20_34256561	2.00E-07
+Flower color 2-g1.1	Flower color	Chr13_16609051	6.76E-166
+Flower color 2-g1.2	Flower color	Chr13_17307394	6.76E-166
+Flower color 2-g1.3	Flower color	Chr13_19868544	6.76E-166
+Hilum color 2-g1	Hilum color	Chr06_20138000	3.16E-09
+Hilum color 2-g3.1	Hilum color	Chr08_11469073	1.74E-10
+Hilum color 2-g3.2	Hilum color	Chr08_11469073	1.74E-10
+Hilum color 2-g3.3	Hilum color	Chr08_11469073	1.74E-10
+Hilum color 2-g4.1	Hilum color	Chr08_14158294	2.29E-09
+Hilum color 2-g4.2	Hilum color	Chr08_14158294	2.29E-09
+Hilum color 2-g4.3	Hilum color	Chr08_14158294	2.29E-09
+Hilum color 2-g2.1	Hilum color	Chr08_8360663	4.47E-13
+Hilum color 2-g2.2	Hilum color	Chr08_8402284	4.47E-13
+Hilum color 2-g2.3	Hilum color	Chr08_8608730	4.47E-13
+Hilum color 2-g5.1	Hilum color	Chr13_30062400	1.05E-09
+Hilum color 2-g5.2	Hilum color	Chr13_30062400	1.05E-09
+Hilum color 2-g5.3	Hilum color	Chr13_30062400	1.05E-09
+Hilum color 2-g6	Hilum color	Chr20_36902659	0.0000001
+Interbranch length 1-g2.1	Interbranch length	Chr06_19172865	4.17E-14
+Interbranch length 1-g2.2	Interbranch length	Chr06_21642015	4.17E-14
+Interbranch length 1-g1.1	Interbranch length	Chr19_42774588	3.09E-35
+Interbranch length 1-g1.2	Interbranch length	Chr19_45203169	3.09E-35
+Interbranch length 1-g1.3	Interbranch length	Chr19_46737870	3.09E-35
+Internode length 1-g3	Internode length	Chr03_45112152	9.77E-10
+Internode length 1-g1.1	Internode length	Chr13_20978742	6.31E-08
+Internode length 1-g1.2	Internode length	Chr13_20981056	6.31E-08
+Internode length 1-g4.1	Internode length	Chr18_54925329	9.12E-08
+Internode length 1-g4.2	Internode length	Chr18_54931296	9.12E-08
+Internode length 1-g2.1	Internode length	Chr19_44789500	1.70E-12
+Internode length 1-g2.2	Internode length	Chr19_44802143	1.70E-12
+Internode length 1-g2.3	Internode length	Chr19_45160841	1.70E-12
+Leaflet area 1-g2.1	Leaflet area	Chr03_2958986	1.07E-07
+Leaflet area 1-g2.2	Leaflet area	Chr03_2961780	1.07E-07
+Leaflet area 1-g3.1	Leaflet area	Chr19_45143539	3.02E-08
+Leaflet area 1-g3.2	Leaflet area	Chr19_45148240	3.02E-08
+Leaflet area 1-g3.3	Leaflet area	Chr19_45151648	3.02E-08
+Leaflet area 1-g1.1	Leaflet area	Chr20_35408048	5.25E-24
+Leaflet area 1-g1.2	Leaflet area	Chr20_35828042	5.25E-24
+Leaflet area 1-g1.3	Leaflet area	Chr20_36674350	5.25E-24
+Leaflet chlorophyll 2-g2.1	Leaflet chlorophyll	Chr11_31229649	1.26E-07
+Leaflet chlorophyll 2-g2.2	Leaflet chlorophyll	Chr11_31229668	1.26E-07
+Leaflet chlorophyll 2-g3.1	Leaflet chlorophyll	Chr13_33185039	2.82E-08
+Leaflet chlorophyll 2-g3.2	Leaflet chlorophyll	Chr13_33185121	2.82E-08
+Leaflet chlorophyll 2-g3.3	Leaflet chlorophyll	Chr13_33304202	2.82E-08
+Leaflet chlorophyll 2-g1	Leaflet chlorophyll	Chr13_37658142	2.00E-07
+Leaflet chlorophyll 2-g5	Leaflet chlorophyll	Chr18_50272746	1.86E-07
+Leaflet chlorophyll 2-g4	Leaflet chlorophyll	Chr18_6944172	2.29E-07
+Leaflet chlorophyll 2-g6	Leaflet chlorophyll	Chr20_543629	2.45E-07
+Leaflet length 1-g1.1	Leaflet length	Chr20_35819212	1.70E-10
+Leaflet length 1-g1.2	Leaflet length	Chr20_35828042	1.70E-10
+Leaflet length 1-g1.3	Leaflet length	Chr20_36429226	1.70E-10
+Leaflet shape 1-g1.1	Leaflet shape	Chr03_36978574	1.82E-09
+Leaflet shape 1-g1.2	Leaflet shape	Chr03_36990764	1.82E-09
+Leaflet shape 1-g1.3	Leaflet shape	Chr03_37081007	1.82E-09
+Leaflet shape 1-g2.1	Leaflet shape	Chr05_39755185	6.76E-09
+Leaflet shape 1-g2.2	Leaflet shape	Chr05_39890441	6.76E-09
+Leaflet shape 1-g3.1	Leaflet shape	Chr14_46348041	1.05E-10
+Leaflet shape 1-g3.2	Leaflet shape	Chr14_46680049	1.05E-10
+Leaflet shape 1-g3.3	Leaflet shape	Chr14_47053817	1.05E-10
+Leaflet shape 1-g4.1	Leaflet shape	Chr18_55501775	3.16E-11
+Leaflet shape 1-g4.2	Leaflet shape	Chr18_55546113	3.16E-11
+Leaflet shape 1-g4.3	Leaflet shape	Chr18_55552164	3.16E-11
+Leaflet shape 1-g5.1	Leaflet shape	Chr20_34667185	8.13E-219
+Leaflet shape 1-g5.2	Leaflet shape	Chr20_35828042	8.13E-219
+Leaflet shape 1-g5.3	Leaflet shape	Chr20_37127728	8.13E-219
+Leaflet width 1-g3.1	Leaflet width	Chr02_10512749	1.35E-08
+Leaflet width 1-g3.2	Leaflet width	Chr02_10512883	1.35E-08
+Leaflet width 1-g3.3	Leaflet width	Chr02_10565355	1.35E-08
+Leaflet width 1-g4.1	Leaflet width	Chr03_2958986	2.09E-08
+Leaflet width 1-g4.2	Leaflet width	Chr03_2961780	2.09E-08
+Leaflet width 1-g1	Leaflet width	Chr13_30332156	1.86E-07
+Leaflet width 1-g5.1	Leaflet width	Chr19_45143539	1.32E-10
+Leaflet width 1-g5.2	Leaflet width	Chr19_45143999	1.32E-10
+Leaflet width 1-g5.3	Leaflet width	Chr19_45253317	1.32E-10
+Leaflet width 1-g2.1	Leaflet width	Chr20_34772220	7.24E-64
+Leaflet width 1-g2.2	Leaflet width	Chr20_35828042	7.24E-64
+Leaflet width 1-g2.3	Leaflet width	Chr20_36767928	7.24E-64
+Lodging 1-g1.1	Lodging	Chr19_44826476	1.51E-10
+Lodging 1-g1.2	Lodging	Chr19_45131781	1.51E-10
+Lodging 1-g1.3	Lodging	Chr19_45281163	1.51E-10
+Node number 1-g3	Node number	Chr06_50575400	2.29E-07
+Node number 1-g1	Node number	Chr-45310798	3.72E-09
+Node number 1-g4	Node number	Chr11_4980454	7.76E-08
+Node number 1-g5.1	Node number	Chr16_37079553	1.62E-07
+Node number 1-g5.2	Node number	Chr16_37079569	1.62E-07
+Node number 1-g6.1	Node number	Chr18_55620032	8.32E-15
+Node number 1-g6.2	Node number	Chr18_55628880	8.32E-15
+Node number 1-g6.3	Node number	Chr18_55808363	8.32E-15
+Node number 1-g2.1	Node number	Chr19_43990450	5.89E-36
+Node number 1-g2.2	Node number	Chr19_45205190	5.89E-36
+Node number 1-g2.3	Node number	Chr19_47335622	5.89E-36
+Plant height 5-g1.1	Plant height	Chr-44961185	3.09E-10
+Plant height 5-g1.2	Plant height	Chr-45310798	3.09E-10
+Plant height 5-g2	Plant height	Chr11_4980454	1.38E-07
+Plant height 5-g4.1	Plant height	Chr18_55048864	1.70E-11
+Plant height 5-g4.2	Plant height	Chr18_55628880	1.70E-11
+Plant height 5-g4.3	Plant height	Chr18_55784929	1.70E-11
+Plant height 5-g3.1	Plant height	Chr19_44323024	1.48E-27
+Plant height 5-g3.2	Plant height	Chr19_45205190	1.48E-27
+Plant height 5-g3.3	Plant height	Chr19_46340503	1.48E-27
+Pod number 1-g3	Pod number	Chr09_32401720	2.00E-07
+Pod number 1-g4.1	Pod number	Chr09_39250197	1.23E-08
+Pod number 1-g4.2	Pod number	Chr09_39280392	1.23E-08
+Pod number 1-g4.3	Pod number	Chr09_39288965	1.23E-08
+Pod number 1-g5	Pod number	Chr09_41322819	1.12E-07
+Pod number 1-g6	Pod number	Chr11_5338661	5.01E-08
+Pod number 1-g1.1	Pod number	Chr18_55626229	9.55E-11
+Pod number 1-g1.2	Pod number	Chr18_55628880	9.55E-11
+Pod number 1-g1.3	Pod number	Chr18_55662445	9.55E-11
+Pod number 1-g2.1	Pod number	Chr19_44467769	5.37E-14
+Pod number 1-g2.2	Pod number	Chr19_45090914	5.37E-14
+Pod number 1-g2.3	Pod number	Chr19_46204451	5.37E-14
+Pod shattering 1-g1.1	Pod shattering	Chr16_29495010	5.01E-15
+Pod shattering 1-g1.2	Pod shattering	Chr16_29959803	5.01E-15
+Pod shattering 1-g1.3	Pod shattering	Chr16_30188301	5.01E-15
+Pubescence color 2-g1.1	Pubescence color	Chr03_45188204	1.32E-10
+Pubescence color 2-g1.2	Pubescence color	Chr03_45301350	1.32E-10
+Pubescence color 2-g1.3	Pubescence color	Chr03_45546666	1.32E-10
+Pubescence color 2-g2.1	Pubescence color	Chr06_16701822	1.38E-61
+Pubescence color 2-g2.2	Pubescence color	Chr06_18734414	1.38E-61
+Pubescence color 2-g2.3	Pubescence color	Chr06_19482848	1.38E-61
+Pubescence color 2-g3.1	Pubescence color	Chr12_16899433	1.70E-15
+Pubescence color 2-g3.2	Pubescence color	Chr12_16906312	1.70E-15
+Pubescence color 2-g4.1	Pubescence color	Chr16_1439581	6.31E-23
+Pubescence color 2-g4.2	Pubescence color	Chr16_1440263	6.31E-23
+Pubescence color 2-g4.3	Pubescence color	Chr16_1445782	6.31E-23
+R8 full maturity 5-g1	R8 full maturity	Chr05_41854422	1.35E-07
+R8 full maturity 5-g3	R8 full maturity	Chr06_46742623	1.95E-07
+R8 full maturity 5-g2.1	R8 full maturity	Chr-44587441	2.82E-15
+R8 full maturity 5-g2.2	R8 full maturity	Chr-45310798	2.82E-15
+R8 full maturity 5-g2.3	R8 full maturity	Chr-45548620	2.82E-15
+R8 full maturity 5-g4.1	R8 full maturity	Chr16_27495898	4.07E-08
+R8 full maturity 5-g4.2	R8 full maturity	Chr16_27954220	4.07E-08
+R8 full maturity 5-g4.3	R8 full maturity	Chr16_27956742	4.07E-08
+Reproductive stage length 1-g1.1	Reproductive stage length	Chr06_49288896	5.01E-09
+Reproductive stage length 1-g1.2	Reproductive stage length	Chr06_49301647	5.01E-09
+Reproductive stage length 1-g2.1	Reproductive stage length	Chr-44852177	9.77E-09
+Reproductive stage length 1-g2.2	Reproductive stage length	Chr-44985285	9.77E-09
+Reproductive stage length 1-g2.3	Reproductive stage length	Chr-45025153	9.77E-09
+Reproductive stage length 1-g3.1	Reproductive stage length	Chr14_2202535	5.75E-08
+Reproductive stage length 1-g3.2	Reproductive stage length	Chr14_2228033	5.75E-08
+Seed alpha-linolenic acid 1-g1.1	Seed alpha-linolenic acid	Chr04_5365622	1.45E-07
+Seed alpha-linolenic acid 1-g1.2	Seed alpha-linolenic acid	Chr04_5369762	1.45E-07
+Seed alpha-linolenic acid 1-g2.1	Seed alpha-linolenic acid	Chr14_45909173	1.62E-11
+Seed alpha-linolenic acid 1-g2.2	Seed alpha-linolenic acid	Chr14_45985528	1.62E-11
+Seed alpha-linolenic acid 1-g2.3	Seed alpha-linolenic acid	Chr14_46019811	1.62E-11
+Seed amino acids 1-g19	Seed amino acids	Chr01_2181558	5.37E-08
+Seed amino acids 1-g1.1	Seed amino acids	Chr01_53486467	3.16E-08
+Seed amino acids 1-g9.1	Seed amino acids	Chr01_53486467	1.82E-10
+Seed amino acids 1-g20.1	Seed amino acids	Chr01_53486467	1.35E-16
+Seed amino acids 1-g28.1	Seed amino acids	Chr01_53486467	7.76E-11
+Seed amino acids 1-g9.2	Seed amino acids	Chr01_53486490	1.82E-10
+Seed amino acids 1-g14	Seed amino acids	Chr01_53486490	1.91E-07
+Seed amino acids 1-g1.2	Seed amino acids	Chr01_53486650	3.16E-08
+Seed amino acids 1-g9.3	Seed amino acids	Chr01_53486686	1.82E-10
+Seed amino acids 1-g20.2	Seed amino acids	Chr01_53486686	1.35E-16
+Seed amino acids 1-g28.2	Seed amino acids	Chr01_53486686	7.76E-11
+Seed amino acids 1-g8	Seed amino acids	Chr01_989187	7.94E-10
+Seed amino acids 1-g18.1	Seed amino acids	Chr01_989187	1.66E-12
+Seed amino acids 1-g27	Seed amino acids	Chr01_989187	1.45E-08
+Seed amino acids 1-g18.2	Seed amino acids	Chr01_989204	1.66E-12
+Seed amino acids 1-g2.1	Seed amino acids	Chr08_35266140	2.19E-08
+Seed amino acids 1-g10.1	Seed amino acids	Chr08_35266140	7.94E-11
+Seed amino acids 1-g21.1	Seed amino acids	Chr08_35266140	1.15E-16
+Seed amino acids 1-g29.1	Seed amino acids	Chr08_35266140	7.94E-11
+Seed amino acids 1-g2.2	Seed amino acids	Chr08_35266158	2.19E-08
+Seed amino acids 1-g10.2	Seed amino acids	Chr08_35266158	7.94E-11
+Seed amino acids 1-g2.3	Seed amino acids	Chr08_35266324	2.19E-08
+Seed amino acids 1-g10.3	Seed amino acids	Chr08_35266324	7.94E-11
+Seed amino acids 1-g21.2	Seed amino acids	Chr08_35266324	1.15E-16
+Seed amino acids 1-g29.2	Seed amino acids	Chr08_35266324	7.94E-11
+Seed amino acids 1-g3	Seed amino acids	Chr09_33309127	6.03E-08
+Seed amino acids 1-g11	Seed amino acids	Chr09_33309127	1.74E-09
+Seed amino acids 1-g22	Seed amino acids	Chr09_33309127	1.41E-16
+Seed amino acids 1-g30	Seed amino acids	Chr09_33309127	1.10E-10
+Seed amino acids 1-g26.1	Seed amino acids	Chr-2400625	1.17E-07
+Seed amino acids 1-g26.2	Seed amino acids	Chr-2415581	1.17E-07
+Seed amino acids 1-g6.1	Seed amino acids	Chr-2422267	1.05E-07
+Seed amino acids 1-g6.2	Seed amino acids	Chr-2428789	1.05E-07
+Seed amino acids 1-g6.3	Seed amino acids	Chr-2436611	1.05E-07
+Seed amino acids 1-g15	Seed amino acids	Chr-2436611	1.07E-07
+Seed amino acids 1-g4.1	Seed amino acids	Chr13_2546775	1.12E-08
+Seed amino acids 1-g12.1	Seed amino acids	Chr13_2546775	1.02E-11
+Seed amino acids 1-g23.1	Seed amino acids	Chr13_2546775	9.12E-17
+Seed amino acids 1-g31.1	Seed amino acids	Chr13_2546775	2.19E-11
+Seed amino acids 1-g4.2	Seed amino acids	Chr13_2546862	1.12E-08
+Seed amino acids 1-g7	Seed amino acids	Chr13_2546862	1.82E-07
+Seed amino acids 1-g12.2	Seed amino acids	Chr13_2546862	1.02E-11
+Seed amino acids 1-g16	Seed amino acids	Chr13_2546862	4.57E-08
+Seed amino acids 1-g23.2	Seed amino acids	Chr13_2546862	9.12E-17
+Seed amino acids 1-g31.2	Seed amino acids	Chr13_2546862	2.19E-11
+Seed amino acids 1-g5.1	Seed amino acids	Chr14_5055466	5.62E-08
+Seed amino acids 1-g13.1	Seed amino acids	Chr14_5055466	9.77E-10
+Seed amino acids 1-g24.1	Seed amino acids	Chr14_5055466	2.09E-15
+Seed amino acids 1-g32.1	Seed amino acids	Chr14_5055466	2.82E-10
+Seed amino acids 1-g5.2	Seed amino acids	Chr14_5055474	5.62E-08
+Seed amino acids 1-g13.2	Seed amino acids	Chr14_5055474	9.77E-10
+Seed amino acids 1-g24.2	Seed amino acids	Chr14_5055474	2.09E-15
+Seed amino acids 1-g32.2	Seed amino acids	Chr14_5055474	2.82E-10
+Seed amino acids 1-g25.1	Seed amino acids	Chr19_44806855	1.29E-07
+Seed amino acids 1-g25.2	Seed amino acids	Chr19_44912660	1.29E-07
+Seed amino acids 1-g25.3	Seed amino acids	Chr19_44922846	1.29E-07
+Seed amino acids 1-g17	Seed amino acids	Chr20_38215861	2.45E-07
+Seed coat color 1-g1.1	Seed coat color	Chr01_3568116	1.12E-07
+Seed coat color 1-g1.2	Seed coat color	Chr01_3570619	1.12E-07
+Seed coat color 1-g1.3	Seed coat color	Chr01_3576803	1.12E-07
+Seed coat color 1-g2	Seed coat color	Chr01_53229579	4.17E-12
+Seed coat color 1-g3.1	Seed coat color	Chr08_7800853	2.63E-35
+Seed coat color 1-g3.2	Seed coat color	Chr08_8607374	2.63E-35
+Seed coat color 1-g3.3	Seed coat color	Chr08_9079037	2.63E-35
+Seed coat luster 1-g1.3	Seed coat luster	Chr15_10168658	4.27E-19
+Seed coat luster 1-g1.1	Seed coat luster	Chr15_8879684	4.27E-19
+Seed coat luster 1-g1.2	Seed coat luster	Chr15_9423523	4.27E-19
+Seed height 1-g1	Seed height	Chr02_45257422	1.29E-07
+Seed height 1-g2	Seed height	Chr04_13890053	2.63E-09
+Seed height 1-g3.1	Seed height	Chr16_29708364	2.40E-08
+Seed height 1-g3.2	Seed height	Chr16_29720337	2.40E-08
+Seed height 1-g3.3	Seed height	Chr16_29732386	2.40E-08
+Seed height 1-g4.1	Seed height	Chr16_31852019	8.32E-08
+Seed height 1-g4.2	Seed height	Chr16_31856997	8.32E-08
+Seed height 1-g4.3	Seed height	Chr16_31858061	8.32E-08
+Seed length to thickness ratio 2-g1.1	Seed length to thickness ratio	Chr02_45442886	1.12E-07
+Seed length to thickness ratio 2-g1.2	Seed length to thickness ratio	Chr02_45449455	1.12E-07
+Seed length to thickness ratio 2-g1.3	Seed length to thickness ratio	Chr02_45456425	1.12E-07
+Seed length to thickness ratio 2-g2.1	Seed length to thickness ratio	Chr04_46154865	1.70E-07
+Seed length to thickness ratio 2-g2.2	Seed length to thickness ratio	Chr04_46160140	1.70E-07
+Seed length to thickness ratio 2-g3	Seed length to thickness ratio	Chr13_43762199	1.45E-07
+Seed length to thickness ratio 2-g4.1	Seed length to thickness ratio	Chr16_31858976	2.19E-07
+Seed length to thickness ratio 2-g4.2	Seed length to thickness ratio	Chr16_31859883	2.19E-07
+Seed length to thickness ratio 2-g4.3	Seed length to thickness ratio	Chr16_31862501	2.19E-07
+Seed length to thickness ratio 2-g5	Seed length to thickness ratio	Chr17_3547250	1.05E-07
+Seed long-chain fatty acid 1-g6.1	Seed long-chain fatty acid	Chr02_19851000	1.15E-09
+Seed long-chain fatty acid 1-g11.1	Seed long-chain fatty acid	Chr02_19851000	2.57E-08
+Seed long-chain fatty acid 1-g6.2	Seed long-chain fatty acid	Chr02_19886706	1.15E-09
+Seed long-chain fatty acid 1-g11.2	Seed long-chain fatty acid	Chr02_19951148	2.57E-08
+Seed long-chain fatty acid 1-g11.3	Seed long-chain fatty acid	Chr02_19961433	2.57E-08
+Seed long-chain fatty acid 1-g6.3	Seed long-chain fatty acid	Chr02_19997509	1.15E-09
+Seed long-chain fatty acid 1-g7.1	Seed long-chain fatty acid	Chr03_12500458	2.19E-13
+Seed long-chain fatty acid 1-g13.1	Seed long-chain fatty acid	Chr03_12525686	6.31E-11
+Seed long-chain fatty acid 1-g7.2	Seed long-chain fatty acid	Chr03_12702388	2.19E-13
+Seed long-chain fatty acid 1-g13.2	Seed long-chain fatty acid	Chr03_12917268	6.31E-11
+Seed long-chain fatty acid 1-g13.3	Seed long-chain fatty acid	Chr03_12958942	6.31E-11
+Seed long-chain fatty acid 1-g7.3	Seed long-chain fatty acid	Chr03_12989558	2.19E-13
+Seed long-chain fatty acid 1-g12	Seed long-chain fatty acid	Chr03_4003522	1.91E-07
+Seed long-chain fatty acid 1-g4.1	Seed long-chain fatty acid	Chr04_2101652	1.55E-07
+Seed long-chain fatty acid 1-g4.2	Seed long-chain fatty acid	Chr04_2120885	1.55E-07
+Seed long-chain fatty acid 1-g4.3	Seed long-chain fatty acid	Chr04_2126907	1.55E-07
+Seed long-chain fatty acid 1-g21.2	Seed long-chain fatty acid	Chr05_1050109	1.10E-12
+Seed long-chain fatty acid 1-g19.2	Seed long-chain fatty acid	Chr05_1095346	7.59E-14
+Seed long-chain fatty acid 1-g14.1	Seed long-chain fatty acid	Chr05_1116077	1.41E-07
+Seed long-chain fatty acid 1-g14.2	Seed long-chain fatty acid	Chr05_1120475	1.41E-07
+Seed long-chain fatty acid 1-g1.2	Seed long-chain fatty acid	Chr05_1140198	8.51E-16
+Seed long-chain fatty acid 1-g1.3	Seed long-chain fatty acid	Chr05_1476699	8.51E-16
+Seed long-chain fatty acid 1-g19.3	Seed long-chain fatty acid	Chr05_1476699	7.59E-14
+Seed long-chain fatty acid 1-g21.3	Seed long-chain fatty acid	Chr05_1476699	1.10E-12
+Seed long-chain fatty acid 1-g2.1	Seed long-chain fatty acid	Chr05_1692088	3.98E-08
+Seed long-chain fatty acid 1-g2.2	Seed long-chain fatty acid	Chr05_1701656	3.98E-08
+Seed long-chain fatty acid 1-g20.1	Seed long-chain fatty acid	Chr05_1701656	1.12E-07
+Seed long-chain fatty acid 1-g20.2	Seed long-chain fatty acid	Chr05_1715940	1.12E-07
+Seed long-chain fatty acid 1-g2.3	Seed long-chain fatty acid	Chr05_1716595	3.98E-08
+Seed long-chain fatty acid 1-g1.1	Seed long-chain fatty acid	Chr05_925502	8.51E-16
+Seed long-chain fatty acid 1-g19.1	Seed long-chain fatty acid	Chr05_925502	7.59E-14
+Seed long-chain fatty acid 1-g21.1	Seed long-chain fatty acid	Chr05_925502	1.10E-12
+Seed long-chain fatty acid 1-g22	Seed long-chain fatty acid	Chr06_50581961	1.35E-07
+Seed long-chain fatty acid 1-g23.1	Seed long-chain fatty acid	Chr07_2438597	2.04E-09
+Seed long-chain fatty acid 1-g23.2	Seed long-chain fatty acid	Chr07_2439024	2.04E-09
+Seed long-chain fatty acid 1-g17	Seed long-chain fatty acid	Chr-45310798	1.15E-07
+Seed long-chain fatty acid 1-g5.1	Seed long-chain fatty acid	Chr11_10795759	6.03E-08
+Seed long-chain fatty acid 1-g5.2	Seed long-chain fatty acid	Chr11_10826709	6.03E-08
+Seed long-chain fatty acid 1-g5.3	Seed long-chain fatty acid	Chr11_10876169	6.03E-08
+Seed long-chain fatty acid 1-g3.1	Seed long-chain fatty acid	Chr13_14070515	6.03E-09
+Seed long-chain fatty acid 1-g3.2	Seed long-chain fatty acid	Chr13_14109681	6.03E-09
+Seed long-chain fatty acid 1-g3.3	Seed long-chain fatty acid	Chr13_14114485	6.03E-09
+Seed long-chain fatty acid 1-g8.1	Seed long-chain fatty acid	Chr14_14985465	8.13E-15
+Seed long-chain fatty acid 1-g15.1	Seed long-chain fatty acid	Chr14_15191684	1.58E-11
+Seed long-chain fatty acid 1-g15.2	Seed long-chain fatty acid	Chr14_17083726	1.58E-11
+Seed long-chain fatty acid 1-g8.2	Seed long-chain fatty acid	Chr14_17456087	8.13E-15
+Seed long-chain fatty acid 1-g15.3	Seed long-chain fatty acid	Chr14_19630147	1.58E-11
+Seed long-chain fatty acid 1-g8.3	Seed long-chain fatty acid	Chr14_19660594	8.13E-15
+Seed long-chain fatty acid 1-g9.1	Seed long-chain fatty acid	Chr14_34208617	4.27E-14
+Seed long-chain fatty acid 1-g16.1	Seed long-chain fatty acid	Chr14_34381036	2.40E-11
+Seed long-chain fatty acid 1-g9.2	Seed long-chain fatty acid	Chr14_39684297	4.27E-14
+Seed long-chain fatty acid 1-g16.2	Seed long-chain fatty acid	Chr14_39684297	2.40E-11
+Seed long-chain fatty acid 1-g16.3	Seed long-chain fatty acid	Chr14_40409746	2.40E-11
+Seed long-chain fatty acid 1-g9.3	Seed long-chain fatty acid	Chr14_40536866	4.27E-14
+Seed long-chain fatty acid 1-g18.1	Seed long-chain fatty acid	Chr14_45907223	7.76E-18
+Seed long-chain fatty acid 1-g10.1	Seed long-chain fatty acid	Chr14_45927234	2.04E-10
+Seed long-chain fatty acid 1-g18.2	Seed long-chain fatty acid	Chr14_45938204	7.76E-18
+Seed long-chain fatty acid 1-g10.2	Seed long-chain fatty acid	Chr14_45985528	2.04E-10
+Seed long-chain fatty acid 1-g18.3	Seed long-chain fatty acid	Chr14_46067489	7.76E-18
+Seed oil to protein ratio 1-g1	Seed oil to protein ratio	Chr02_45869612	0.0000001
+Seed palmitic 2-g1.2	Seed palmitic	Chr05_1050109	2.34E-14
+Seed palmitic 2-g1.3	Seed palmitic	Chr05_1476699	2.34E-14
+Seed palmitic 2-g1.1	Seed palmitic	Chr05_925502	2.34E-14
+Seed palmitic 2-g2	Seed palmitic	Chr06_50581961	1.17E-07
+Seed palmitic 2-g3.1	Seed palmitic	Chr07_2438597	5.62E-08
+Seed palmitic 2-g3.2	Seed palmitic	Chr07_2439024	5.62E-08
+Seed set 1-g11	Seed set	Chr01_52039777	1.74E-08
+Seed set 1-g12.1	Seed set	Chr02_14459921	2.14E-07
+Seed set 1-g12.2	Seed set	Chr02_14463444	2.14E-07
+Seed set 1-g1	Seed set	Chr02_14797903	5.75E-11
+Seed set 1-g45.1	Seed set	Chr02_3699898	4.90E-08
+Seed set 1-g45.2	Seed set	Chr02_3701362	4.90E-08
+Seed set 1-g28	Seed set	Chr02_4327729	8.91E-08
+Seed set 1-g54.1	Seed set	Chr02_45301846	1.35E-07
+Seed set 1-g54.2	Seed set	Chr02_45360996	1.35E-07
+Seed set 1-g2	Seed set	Chr03_12539660	1.78E-09
+Seed set 1-g31	Seed set	Chr03_12539660	2.75E-10
+Seed set 1-g14.1	Seed set	Chr03_33533018	9.12E-11
+Seed set 1-g14.2	Seed set	Chr03_33542939	9.12E-11
+Seed set 1-g32.1	Seed set	Chr03_36990764	1.41E-09
+Seed set 1-g32.2	Seed set	Chr03_37081007	1.41E-09
+Seed set 1-g13.1	Seed set	Chr03_659279	4.37E-08
+Seed set 1-g13.2	Seed set	Chr03_669584	4.37E-08
+Seed set 1-g6.1	Seed set	Chr05_34595284	2.24E-13
+Seed set 1-g6.2	Seed set	Chr05_34901192	2.24E-13
+Seed set 1-g6.3	Seed set	Chr05_35011212	2.24E-13
+Seed set 1-g3	Seed set	Chr05_35995777	2.00E-10
+Seed set 1-g33	Seed set	Chr05_35995777	7.41E-11
+Seed set 1-g25.1	Seed set	Chr06_50426708	8.71E-11
+Seed set 1-g43.1	Seed set	Chr06_50426708	5.50E-14
+Seed set 1-g51.1	Seed set	Chr06_50426708	4.07E-11
+Seed set 1-g43.2	Seed set	Chr06_50457715	5.50E-14
+Seed set 1-g25.2	Seed set	Chr06_50458245	8.71E-11
+Seed set 1-g51.2	Seed set	Chr06_50487622	4.07E-11
+Seed set 1-g25.3	Seed set	Chr06_50488039	8.71E-11
+Seed set 1-g43.3	Seed set	Chr06_50488039	5.50E-14
+Seed set 1-g51.3	Seed set	Chr06_50488039	4.07E-11
+Seed set 1-g7	Seed set	Chr06_50955096	5.50E-08
+Seed set 1-g41.1	Seed set	Chr07_5008759	8.71E-12
+Seed set 1-g41.2	Seed set	Chr07_5009560	8.71E-12
+Seed set 1-g41.3	Seed set	Chr07_5010394	8.71E-12
+Seed set 1-g15.1	Seed set	Chr08_10962492	8.32E-08
+Seed set 1-g15.2	Seed set	Chr08_10979773	8.32E-08
+Seed set 1-g35	Seed set	Chr08_16990280	9.77E-10
+Seed set 1-g39.1	Seed set	Chr08_23115727	3.55E-11
+Seed set 1-g39.2	Seed set	Chr08_23132059	3.55E-11
+Seed set 1-g39.3	Seed set	Chr08_23294168	3.55E-11
+Seed set 1-g16.1	Seed set	Chr08_46433091	4.17E-08
+Seed set 1-g16.2	Seed set	Chr08_46454061	4.17E-08
+Seed set 1-g34	Seed set	Chr08_8320138	2.09E-11
+Seed set 1-g17.1	Seed set	Chr09_3215373	1.29E-08
+Seed set 1-g17.2	Seed set	Chr09_3222171	1.29E-08
+Seed set 1-g17.3	Seed set	Chr09_3224372	1.29E-08
+Seed set 1-g4.1	Seed set	Chr-50270206	3.24E-14
+Seed set 1-g4.2	Seed set	Chr-50981304	3.24E-14
+Seed set 1-g36.1	Seed set	Chr-50981304	3.39E-11
+Seed set 1-g4.3	Seed set	Chr-51354084	3.24E-14
+Seed set 1-g36.2	Seed set	Chr-51354084	3.39E-11
+Seed set 1-g18.1	Seed set	Chr-5362354	3.39E-08
+Seed set 1-g18.2	Seed set	Chr-5411439	3.39E-08
+Seed set 1-g8.1	Seed set	Chr11_8911653	2.34E-08
+Seed set 1-g8.2	Seed set	Chr11_8911723	2.34E-08
+Seed set 1-g20	Seed set	Chr12_38592784	1.51E-07
+Seed set 1-g46.1	Seed set	Chr12_4759044	5.37E-08
+Seed set 1-g46.2	Seed set	Chr12_4801855	5.37E-08
+Seed set 1-g46.3	Seed set	Chr12_4802088	5.37E-08
+Seed set 1-g19.1	Seed set	Chr12_5509317	2.04E-10
+Seed set 1-g19.2	Seed set	Chr12_5692082	2.04E-10
+Seed set 1-g44.1	Seed set	Chr13_23464848	6.17E-14
+Seed set 1-g26.1	Seed set	Chr13_23566848	2.09E-11
+Seed set 1-g52.1	Seed set	Chr13_23566848	1.78E-12
+Seed set 1-g9.1	Seed set	Chr13_23631174	4.27E-08
+Seed set 1-g42	Seed set	Chr13_23631174	1.10E-07
+Seed set 1-g9.2	Seed set	Chr13_23649175	4.27E-08
+Seed set 1-g26.2	Seed set	Chr13_23712209	2.09E-11
+Seed set 1-g44.2	Seed set	Chr13_23769636	6.17E-14
+Seed set 1-g52.2	Seed set	Chr13_23769636	1.78E-12
+Seed set 1-g10	Seed set	Chr13_23863861	1.62E-07
+Seed set 1-g52.3	Seed set	Chr13_24076584	1.78E-12
+Seed set 1-g26.3	Seed set	Chr13_24090210	2.09E-11
+Seed set 1-g44.3	Seed set	Chr13_24261217	6.17E-14
+Seed set 1-g29.1	Seed set	Chr13_29034903	4.27E-08
+Seed set 1-g29.2	Seed set	Chr13_29064846	4.27E-08
+Seed set 1-g47.1	Seed set	Chr13_29713396	1.23E-07
+Seed set 1-g47.2	Seed set	Chr13_29713397	1.23E-07
+Seed set 1-g29.3	Seed set	Chr13_29802713	4.27E-08
+Seed set 1-g48.1	Seed set	Chr13_40871681	1.38E-07
+Seed set 1-g48.2	Seed set	Chr13_40890538	1.38E-07
+Seed set 1-g48.3	Seed set	Chr13_40904291	1.38E-07
+Seed set 1-g21.1	Seed set	Chr16_36034965	3.80E-09
+Seed set 1-g21.2	Seed set	Chr16_36035091	3.80E-09
+Seed set 1-g40	Seed set	Chr18_50977030	6.46E-10
+Seed set 1-g22.1	Seed set	Chr18_51584082	6.46E-10
+Seed set 1-g22.2	Seed set	Chr18_51678296	6.46E-10
+Seed set 1-g22.3	Seed set	Chr18_51684068	6.46E-10
+Seed set 1-g30	Seed set	Chr18_55037203	1.23E-07
+Seed set 1-g23.1	Seed set	Chr18_55940116	5.89E-11
+Seed set 1-g49.1	Seed set	Chr18_55954117	2.45E-07
+Seed set 1-g49.2	Seed set	Chr18_55954415	2.45E-07
+Seed set 1-g23.2	Seed set	Chr18_56137255	5.89E-11
+Seed set 1-g23.3	Seed set	Chr18_56472919	5.89E-11
+Seed set 1-g37.1	Seed set	Chr19_171263	3.31E-09
+Seed set 1-g37.2	Seed set	Chr19_175246	3.31E-09
+Seed set 1-g55.1	Seed set	Chr19_44526228	3.80E-10
+Seed set 1-g50.1	Seed set	Chr19_44529859	5.62E-10
+Seed set 1-g55.2	Seed set	Chr19_44568053	3.80E-10
+Seed set 1-g27.1	Seed set	Chr19_44873069	2.24E-10
+Seed set 1-g24.1	Seed set	Chr19_44926860	2.29E-07
+Seed set 1-g24.2	Seed set	Chr19_44926990	2.29E-07
+Seed set 1-g24.3	Seed set	Chr19_44946040	2.29E-07
+Seed set 1-g50.2	Seed set	Chr19_45393133	5.62E-10
+Seed set 1-g55.3	Seed set	Chr19_45569736	3.80E-10
+Seed set 1-g50.3	Seed set	Chr19_45570270	5.62E-10
+Seed set 1-g27.2	Seed set	Chr19_45899429	2.24E-10
+Seed set 1-g5.1	Seed set	Chr20_35408048	5.62E-87
+Seed set 1-g38.1	Seed set	Chr20_35408048	4.17E-96
+Seed set 1-g53.1	Seed set	Chr20_35589687	1.78E-16
+Seed set 1-g5.2	Seed set	Chr20_35828042	5.62E-87
+Seed set 1-g38.2	Seed set	Chr20_35828042	4.17E-96
+Seed set 1-g53.2	Seed set	Chr20_35828042	1.78E-16
+Seed set 1-g53.3	Seed set	Chr20_36429226	1.78E-16
+Seed set 1-g5.3	Seed set	Chr20_36674350	5.62E-87
+Seed set 1-g38.3	Seed set	Chr20_36864748	4.17E-96
+Seed stearic 1-g1.1	Seed stearic	Chr02_19886706	7.24E-08
+Seed stearic 1-g1.2	Seed stearic	Chr02_19955907	7.24E-08
+Seed stearic 1-g1.3	Seed stearic	Chr02_19985370	7.24E-08
+Seed stearic 1-g2.1	Seed stearic	Chr03_12501628	9.55E-10
+Seed stearic 1-g2.2	Seed stearic	Chr03_12704607	9.55E-10
+Seed stearic 1-g2.3	Seed stearic	Chr03_12954110	9.55E-10
+Seed stearic 1-g3.1	Seed stearic	Chr14_15199586	5.50E-11
+Seed stearic 1-g3.2	Seed stearic	Chr14_17456087	5.50E-11
+Seed stearic 1-g3.3	Seed stearic	Chr14_19630147	5.50E-11
+Seed stearic 1-g4.1	Seed stearic	Chr14_34771615	1.15E-10
+Seed stearic 1-g4.2	Seed stearic	Chr14_39684297	1.15E-10
+Seed stearic 1-g4.3	Seed stearic	Chr14_40356659	1.15E-10
+Seed thickness 2-g1.1	Seed thickness	Chr02_45412343	2.51E-08
+Seed thickness 2-g1.2	Seed thickness	Chr02_45442886	2.51E-08
+Seed thickness 2-g1.3	Seed thickness	Chr02_45456425	2.51E-08
+Seed thickness 2-g4	Seed thickness	Chr09_39383089	2.14E-07
+Seed thickness 2-g5.1	Seed thickness	Chr-50200713	1.95E-07
+Seed thickness 2-g5.2	Seed thickness	Chr-50212466	1.95E-07
+Seed thickness 2-g2.1	Seed thickness	Chr16_31851745	5.01E-10
+Seed thickness 2-g2.2	Seed thickness	Chr16_31851884	5.01E-10
+Seed thickness 2-g2.3	Seed thickness	Chr16_31862501	5.01E-10
+Seed thickness 2-g3.1	Seed thickness	Chr20_582353	2.75E-09
+Seed thickness 2-g3.2	Seed thickness	Chr20_587636	2.75E-09
+Seed thickness 2-g3.3	Seed thickness	Chr20_588706	2.75E-09
+Seed volume 1-g1.1	Seed volume	Chr04_13518076	8.13E-09
+Seed volume 1-g1.2	Seed volume	Chr04_13890053	8.13E-09
+Seed volume 1-g1.3	Seed volume	Chr04_14176459	8.13E-09
+Seed volume 1-g2	Seed volume	Chr13_21924051	1.78E-07
+Seed width to height ratio 1-g2.1	Seed width to height ratio	Chr05_1590873	1.32E-07
+Seed width to height ratio 1-g2.2	Seed width to height ratio	Chr05_1595240	1.32E-07
+Seed width to height ratio 1-g2.3	Seed width to height ratio	Chr05_1595726	1.32E-07
+Seed width to height ratio 1-g1.1	Seed width to height ratio	Chr13_43681231	7.24E-08
+Seed width to height ratio 1-g1.2	Seed width to height ratio	Chr13_43702857	7.24E-08
+Stem shape, main 1-g1.1	Stem shape, main	Chr14_46732925	6.17E-08
+Stem shape, main 1-g1.2	Stem shape, main	Chr14_46733015	6.17E-08
+Stem shape, main 1-g1.3	Stem shape, main	Chr14_46733138	6.17E-08
+Stem shape, main 1-g2.1	Stem shape, main	Chr19_44789500	1.70E-13
+Stem shape, main 1-g2.2	Stem shape, main	Chr19_45145714	1.70E-13
+Stem shape, main 1-g2.3	Stem shape, main	Chr19_45292195	1.70E-13
+Stem shape, main 1-g3.1	Stem shape, main	Chr20_36065864	4.27E-08
+Stem shape, main 1-g3.2	Stem shape, main	Chr20_36065943	4.27E-08
+Stem shape, main 1-g3.3	Stem shape, main	Chr20_36066371	4.27E-08
+Stem termination type 1-g1.1	Stem termination type	Chr19_44047586	3.31E-28
+Stem termination type 1-g1.2	Stem termination type	Chr19_45145714	3.31E-28
+Stem termination type 1-g1.3	Stem termination type	Chr19_46208015	3.31E-28
+Total seed number 3-g1.1	Total seed number	Chr19_45359595	5.13E-08
+Total seed number 3-g1.2	Total seed number	Chr19_45408782	5.13E-08

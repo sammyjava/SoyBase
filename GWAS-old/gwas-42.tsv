@@ -1,0 +1,30 @@
+TaxonID	3847
+Strain	Williams82
+Name
+LBC20180514.1
+PlatformName
+USLP
+PlatformDetails
+Universal 1536 soybean Golden Gate single nucleotide polymorphism (SNP) set
+NumberLociTested
+1536
+NumberGermplasmTested
+284
+Assembly
+Wm 82.a1.v1.1
+DOI|10.3835/plantgenome2011.04.0011
+phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Iron deficiency chlorosis	SOY:0001373	ss107927657		Gm03	43386736	43386736
+Iron deficiency chlorosis	SOY:0001373	ss107923476		Gm05	2612793	2612793
+Iron deficiency chlorosis	SOY:0001373	ss107916955		Gm05	39224723	39224723
+Iron deficiency chlorosis	SOY:0001373	ss107924009		Gm07	8693698	8693698
+Iron deficiency chlorosis	SOY:0001373	ss107928908		Gm11	34513506	34513506
+Iron deficiency chlorosis	SOY:0001373	ss107915800		Gm13	31661338	31661338
+Iron deficiency chlorosis	SOY:0001373	ss107920392		Gm15	49487693	49487693
+Iron deficiency chlorosis	SOY:0001373	ss107918800		Gm16	3064804	3064804
+Iron deficiency chlorosis	SOY:0001373	ss107914365		Gm16	37046875	37046875
+Iron deficiency chlorosis	SOY:0001373	ss107920404		Gm17	4629130	4629130
+Iron deficiency chlorosis	SOY:0001373	ss107914461		Gm18	1958299	1958299
+Iron deficiency chlorosis	SOY:0001373	ss107913107		Gm18	52157617	52157617
+Iron deficiency chlorosis	SOY:0001373	ss107927321		Gm19	40550665	40550665
+Iron deficiency chlorosis	SOY:0001373	ss107920153		Gm20	343016	343016

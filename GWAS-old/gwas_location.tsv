@@ -1,0 +1,1259 @@
+gwas_id	gwas_name	chromosome	linkage_group	qtl_start	qtl_end	assembly_version 
+1	Seed protein 3-g1	Gm20	I	30743655	30743655	Wm82.a2.v1 
+2	Seed protein 3-g2	Gm20	I	31127936	31127936	Wm82.a2.v1 
+3	Seed protein 3-g3	Gm20	I	21083301	21083301	Wm82.a2.v1 
+4	Seed protein 3-g4	Gm20	I	32281310	32281310	Wm82.a2.v1 
+5	Seed protein 3-g5	Gm20	I	32382722	32382722	Wm82.a2.v1 
+6	Seed protein 3-g6	Gm20	I	32575639	32575639	Wm82.a2.v1 
+7	Seed protein 3-g7	Gm20	I	32720642	32720642	Wm82.a2.v1 
+8	Seed protein 3-g8	Gm20	I	32750902	32750902	Wm82.a2.v1 
+9	Seed protein 3-g9	Gm20	I	32780487	32780487	Wm82.a2.v1 
+10	Seed protein 3-g10	Gm20	I	32833826	32833826	Wm82.a2.v1 
+11	Seed protein 3-g11	Gm20	I	33119884	33119884	Wm82.a2.v1 
+12	Seed protein 3-g12	Gm15	E	3846538	3846538	Wm82.a2.v1 
+13	Seed protein 3-g13	Gm15	E	3936757	3936757	Wm82.a2.v1 
+14	Seed protein 3-g14	Gm15	E	3937899	3937899	Wm82.a2.v1 
+15	Seed protein 3-g15	Gm15	E	3985288	3985288	Wm82.a2.v1 
+16	Seed protein 3-g16	Gm13	F	26343911	26343911	Wm82.a2.v1 
+17	Seed protein 3-g17	Gm06	C2	5597303	5597303	Wm82.a2.v1 
+18	Seed protein 3-g18	Gm06	C2	5666361	5666361	Wm82.a2.v1 
+19	Seed protein 3-g19	Gm06	C2	46571984	46571984	Wm82.a2.v1 
+20	Seed oil 4-g1	Gm20	I	21083301	21083301	Wm82.a2.v1 
+21	Seed oil 4-g2	Gm20	I	32281310	32281310	Wm82.a2.v1 
+22	Seed oil 4-g3	Gm20	I	32382722	32382722	Wm82.a2.v1 
+23	Seed oil 4-g4	Gm20	I	32720642	32720642	Wm82.a2.v1 
+24	Seed oil 4-g5	Gm20	I	32750902	32750902	Wm82.a2.v1 
+25	Seed oil 4-g6	Gm20	I	32780487	32780487	Wm82.a2.v1 
+26	Seed oil 4-g7	Gm20	I	32833826	32833826	Wm82.a2.v1 
+27	Seed oil 4-g8	Gm20	I	33119884	33119884	Wm82.a2.v1 
+28	Seed oil 4-g9	Gm15	E	3846538	3846538	Wm82.a2.v1 
+29	Seed oil 4-g10	Gm15	E	3851525	3851525	Wm82.a2.v1 
+30	Seed oil 4-g11	Gm15	E	3936757	3936757	Wm82.a2.v1 
+31	Seed oil 4-g12	Gm15	E	3937899	3937899	Wm82.a2.v1 
+32	Seed oil 4-g13	Gm15	E	3985288	3985288	Wm82.a2.v1 
+33	Seed oil 4-g14	Gm05	A1	41855235	41855235	Wm82.a2.v1 
+34	Seed oil 4-g15	Gm05	A1	41854786	41854786	Wm82.a2.v1 
+35	Seed oil 4-g16	Gm05	A1	41831154	41831154	Wm82.a2.v1 
+36	Seed oil 4-g17	Gm05	A1	41807117	41807117	Wm82.a2.v1 
+37	Seed oil 4-g18	Gm05	A1	41780982	41780982	Wm82.a2.v1 
+38	Seed oil 6-g1	Gm05	A1	41843996	41843996	Wm82.a2.v1 
+39	Seed oil 6-g2	Gm05	A1	41876457	41876457	Wm82.a2.v1 
+40	Seed oil 6-g3	Gm20	I	32296452	32296452	Wm82.a2.v1 
+41	Seed oil 6-g4	Gm20	I	601752	601752	Wm82.a2.v1 
+42	Seed yield 3-g1	Gm12	H	5718212	5718212	Wm82.a2.v1 
+43	Seed yield 3-g2	Gm12	H	4671136	4671136	Wm82.a2.v1 
+44	Seed yield 3-g3	Gm12	H	5797709	5797709	Wm82.a2.v1 
+45	Seed yield 3-g4	Gm12	H	5622210	5622210	Wm82.a2.v1 
+46	Seed yield 3-g5	Gm13	F	30157326	30157326	Wm82.a2.v1 
+47	Seed yield 3-g6	Gm06	C2	15074536	15074536	Wm82.a2.v1 
+48	Seed weight 3-g1	Gm05	A1	105085	105085	Wm82.a2.v1 
+49	Seed weight 3-g2	Gm05	A1	21750	21750	Wm82.a2.v1 
+50	Seed weight 3-g3	Gm12	H	5718212	5718212	Wm82.a2.v1 
+51	Seed weight 3-g4	Gm12	H	5797709	5797709	Wm82.a2.v1 
+52	Seed weight 3-g5	Gm12	H	4671136	4671136	Wm82.a2.v1 
+53	Seed weight 3-g6	Gm11	B1	5074720	5074720	Wm82.a2.v1 
+54	Seed weight 3-g7	Gm07	M	6985620	6985620	Wm82.a2.v1 
+55	Seed weight 3-g8	Gm12	H	5718212	5718212	Wm82.a2.v1 
+56	Plant height 3-g1	Gm19	L	45324187	45324187	Wm82.a2.v1 
+57	Plant height 3-g2	Gm19	L	45266572	45266572	Wm82.a2.v1 
+58	Plant height 3-g3	Gm19	L	45557339	45557339	Wm82.a2.v1 
+59	Plant height 3-g4	Gm19	L	45642661	45642661	Wm82.a2.v1 
+60	Plant height 3-g5	Gm19	L	45204029	45204029	Wm82.a2.v1 
+61	Plant height 3-g6	Gm19	L	45370182	45370182	Wm82.a2.v1 
+62	Plant height 3-g7	Gm19	L	45478026	45478026	Wm82.a2.v1 
+63	Plant height 3-g8	ZZ	ZZ	0	0	Wm82.a2.v1 
+64	Plant height 3-g9	Gm19	L	44964716	44964716	Wm82.a2.v1 
+65	Plant height 3-g10	Gm08	A2	40596492	40596492	Wm82.a2.v1 
+66	Plant height 3-g11	Gm19	L	32352993	32352993	Wm82.a2.v1 
+67	Plant height 3-g12	Gm11	B1	19062168	19062168	Wm82.a2.v1 
+68	Plant height 3-g13	Gm02	D1b	2967798	2967798	Wm82.a2.v1 
+69	Plant height 3-g14	Gm18	G	56876857	56876857	Wm82.a2.v1 
+70	Plant height 3-g15	Gm19	L	39924241	39924241	Wm82.a2.v1 
+71	Plant height 3-g16	Gm15	E	49521249	49521249	Wm82.a2.v1 
+72	Plant height 3-g17	Gm03	N	36845000	36845000	Wm82.a2.v1 
+73	Plant height 3-g18	Gm19	L	43321090	43321090	Wm82.a2.v1 
+74	Plant height 3-g19	Gm19	L	42660205	42660205	Wm82.a2.v1 
+75	Plant height 3-g20	Gm09	K	40608419	40608419	Wm82.a2.v1 
+76	Plant height 3-g21	scaffold_28	K	64787	64787	Wm82.a2.v1 
+77	Plant height 3-g22	Gm20	I	38957276	38957276	Wm82.a2.v1 
+78	Plant height 3-g23	Gm20	I	38511359	38511359	Wm82.a2.v1 
+79	Plant height 3-g24	Gm20	I	39009502	39009502	Wm82.a2.v1 
+80	Plant height 3-g25	scaffold_28	I	122454	122454	Wm82.a2.v1 
+81	Plant height 3-g26	Gm05	A1	38700130	38700130	Wm82.a2.v1 
+82	Plant height 3-g27	Gm05	A1	38597425	38597425	Wm82.a2.v1 
+83	Plant height 3-g28	Gm05	A1	38679910	38679910	Wm82.a2.v1 
+84	Leaf carotenoid content 1-g1.1	Gm01	D1a	3524524	3524524	Wm82.a2.v1 
+85	Leaf carotenoid content 1-g1.2	Gm01	D1a	4297976	4297976	Wm82.a2.v1 
+86	Leaf carotenoid content 1-g2	Gm01	D1a	6767604	6767604	Wm82.a2.v1 
+87	Leaf carotenoid content 1-g3	Gm02	D1b	44347373	44347373	Wm82.a2.v1 
+88	Leaf carotenoid content 1-g4.1	Gm04	C1	45235471	45235471	Wm82.a2.v1 
+89	Leaf carotenoid content 1-g4.2	Gm04	C1	45287419	45287419	Wm82.a2.v1 
+90	Leaf carotenoid content 1-g4.3	Gm04	C1	45298329	45298329	Wm82.a2.v1 
+91	Leaf carotenoid content 1-g4.4	Gm04	C1	45341780	45341780	Wm82.a2.v1 
+92	Leaf carotenoid content 1-g4.5	Gm04	C1	45356241	45356241	Wm82.a2.v1 
+93	Leaf carotenoid content 1-g5	Gm08	A2	12178990	12178990	Wm82.a2.v1 
+94	Leaf carotenoid content 1-g6	Gm08	A2	43566184	43566184	Wm82.a2.v1 
+95	Leaf carotenoid content 1-g7	Gm10	O	4433515	4433515	Wm82.a2.v1 
+96	Leaf carotenoid content 1-g8	Gm10	O	39682612	39682612	Wm82.a2.v1 
+97	Leaf carotenoid content 1-g9	Gm13	F	25779102	25779102	Wm82.a2.v1 
+98	Leaf carotenoid content 1-g10	Gm13	F	29790648	29790648	Wm82.a2.v1 
+99	Leaf carotenoid content 1-g11	Gm15	E	7742643	7742643	Wm82.a2.v1 
+100	Leaf carotenoid content 1-g12.1	Gm15	E	48137601	48137601	Wm82.a2.v1 
+101	Leaf carotenoid content 1-g12.2	Gm15	E	48144839	48144839	Wm82.a2.v1 
+102	Leaf carotenoid content 1-g12.3	Gm15	E	48193117	48193117	Wm82.a2.v1 
+103	Leaf carotenoid content 1-g12.4	Gm15	E	48194557	48194557	Wm82.a2.v1 
+104	Leaf carotenoid content 1-g12.5	Gm15	E	48211214	48211214	Wm82.a2.v1 
+105	Leaf carotenoid content 1-g13.1	Gm18	G	9346384	9346384	Wm82.a2.v1 
+106	Leaf carotenoid content 1-g13.2	Gm18	G	9495115	9495115	Wm82.a2.v1 
+107	Leaf carotenoid content 1-g13.3	Gm18	G	9536287	9536287	Wm82.a2.v1 
+108	Leaf carotenoid content 1-g13.4	Gm18	G	9641514	9641514	Wm82.a2.v1 
+109	Leaf carotenoid content 1-g13.5	Gm18	G	9663419	9663419	Wm82.a2.v1 
+110	Leaf carotenoid content 1-g13.6	Gm18	G	9714629	9714629	Wm82.a2.v1 
+111	Leaf carotenoid content 1-g14	Gm19	L	47187424	47187424	Wm82.a2.v1 
+112	First flower 5-g1.1	Gm10	O	44731893	44731893	Wm82.a2.v1 
+113	First flower 5-g1.2	Gm10	O	45310798	45310798	Wm82.a2.v1 
+114	First flower 5-g1.3	Gm10	O	45465189	45465189	Wm82.a2.v1 
+115	First flower 5-g2	Gm11	B1	25033166	25033166	Wm82.a2.v1 
+116	First flower 5-g3	Gm19	L	43183481	43183481	Wm82.a2.v1 
+117	First flower 5-g4.1	Gm02	D1b	10182071	10182071	Wm82.a2.v1 
+118	First flower 5-g4.2	Gm02	D1b	10286440	10286440	Wm82.a2.v1 
+119	First flower 5-g5.1	Gm02	D1b	12316110	12316110	Wm82.a2.v1 
+120	First flower 5-g5.2	Gm02	D1b	12408988	12408988	Wm82.a2.v1 
+121	First flower 5-g6	Gm03	N	3919776	3919776	Wm82.a2.v1 
+122	First flower 5-g7.1	Gm06	C2	20057204	20057204	Wm82.a2.v1 
+123	First flower 5-g7.2	Gm06	C2	20097064	20097064	Wm82.a2.v1 
+124	First flower 5-g7.3	Gm06	C2	20297543	20297543	Wm82.a2.v1 
+125	First flower 5-g8.1	Gm09	K	45594506	45594506	Wm82.a2.v1 
+126	First flower 5-g8.2	Gm09	K	45632566	45632566	Wm82.a2.v1 
+127	First flower 5-g9	Gm11	B1	10820746	10820746	Wm82.a2.v1 
+128	First flower 5-g10.1	Gm12	H	5475503	5475503	Wm82.a2.v1 
+129	First flower 5-g10.2	Gm12	H	5504773	5504773	Wm82.a2.v1 
+130	First flower 5-g10.3	Gm12	H	5529926	5529926	Wm82.a2.v1 
+131	First flower 5-g11	Gm14	B2	47346921	47346921	Wm82.a2.v1 
+132	First flower 5-g12.1	Gm18	G	57269028	57269028	Wm82.a2.v1 
+133	First flower 5-g12.2	Gm18	G	57269374	57269374	Wm82.a2.v1 
+134	First flower 5-g12.3	Gm18	G	57272016	57272016	Wm82.a2.v1 
+135	First flower 5-g13	Gm20	I	34256561	34256561	Wm82.a2.v1 
+136	Interbranch length 1-g1.1	Gm19	L	42774588	42774588	Wm82.a2.v1 
+137	Interbranch length 1-g1.2	Gm19	L	45203169	45203169	Wm82.a2.v1 
+138	Interbranch length 1-g1.3	Gm19	L	46737870	46737870	Wm82.a2.v1 
+139	Interbranch length 1-g2.1	Gm06	C2	19172865	19172865	Wm82.a2.v1 
+140	Interbranch length 1-g2.2	Gm06	C2	21642015	21642015	Wm82.a2.v1 
+141	Branching 1-g1.1	Gm18	G	55626229	55626229	Wm82.a2.v1 
+142	Branching 1-g1.2	Gm18	G	55628880	55628880	Wm82.a2.v1 
+143	Canopy width 1-g1.1	Gm03	N	38932768	38932768	Wm82.a2.v1 
+144	Canopy width 1-g1.2	Gm03	N	38936586	38936586	Wm82.a2.v1 
+145	Canopy width 1-g2.1	Gm19	L	36606460	36606460	Wm82.a2.v1 
+146	Canopy width 1-g2.2	Gm19	L	36661427	36661427	Wm82.a2.v1 
+147	Canopy width 1-g3.1	Gm19	L	46600788	46600788	Wm82.a2.v1 
+148	Canopy width 1-g3.2	Gm19	L	46601442	46601442	Wm82.a2.v1 
+149	Canopy width 1-g3.3	Gm19	L	46737870	46737870	Wm82.a2.v1 
+150	Leaflet chlorophyll 2-g1	Gm13	F	37658142	37658142	Wm82.a2.v1 
+151	Leaflet chlorophyll 2-g2.1	Gm11	B1	31229649	31229649	Wm82.a2.v1 
+152	Leaflet chlorophyll 2-g2.2	Gm11	B1	31229668	31229668	Wm82.a2.v1 
+153	Leaflet chlorophyll 2-g3.1	Gm13	F	33185039	33185039	Wm82.a2.v1 
+154	Leaflet chlorophyll 2-g3.2	Gm13	F	33185121	33185121	Wm82.a2.v1 
+155	Leaflet chlorophyll 2-g3.3	Gm13	F	33304202	33304202	Wm82.a2.v1 
+156	Leaflet chlorophyll 2-g4	Gm18	G	6944172	6944172	Wm82.a2.v1 
+157	Leaflet chlorophyll 2-g5	Gm18	G	50272746	50272746	Wm82.a2.v1 
+158	Leaflet chlorophyll 2-g6	Gm20	I	543629	543629	Wm82.a2.v1 
+159	Seed palmitic 2-g1.1	Gm05	A1	925502	925502	Wm82.a2.v1 
+160	Seed palmitic 2-g1.2	Gm05	A1	1050109	1050109	Wm82.a2.v1 
+161	Seed palmitic 2-g1.3	Gm05	A1	1476699	1476699	Wm82.a2.v1 
+162	Seed palmitic 2-g2	Gm06	C2	50581961	50581961	Wm82.a2.v1 
+163	Seed palmitic 2-g3.1	Gm07	M	2438597	2438597	Wm82.a2.v1 
+164	Seed palmitic 2-g3.2	Gm07	M	2439024	2439024	Wm82.a2.v1 
+165	Seed long-chain fatty acid 1-g1.1	Gm05	A1	925502	925502	Wm82.a2.v1 
+166	Seed long-chain fatty acid 1-g1.2	Gm05	A1	1140198	1140198	Wm82.a2.v1 
+167	Seed long-chain fatty acid 1-g1.3	Gm05	A1	1476699	1476699	Wm82.a2.v1 
+168	Seed long-chain fatty acid 1-g2.1	Gm05	A1	1692088	1692088	Wm82.a2.v1 
+169	Seed long-chain fatty acid 1-g2.2	Gm05	A1	1701656	1701656	Wm82.a2.v1 
+170	Seed long-chain fatty acid 1-g2.3	Gm05	A1	1716595	1716595	Wm82.a2.v1 
+171	Seed long-chain fatty acid 1-g3.1	Gm13	F	14070515	14070515	Wm82.a2.v1 
+172	Seed long-chain fatty acid 1-g3.2	Gm13	F	14109681	14109681	Wm82.a2.v1 
+173	Seed long-chain fatty acid 1-g3.3	Gm13	F	14114485	14114485	Wm82.a2.v1 
+174	Seed long-chain fatty acid 1-g4.1	Gm04	C1	2101652	2101652	Wm82.a2.v1 
+175	Seed long-chain fatty acid 1-g4.2	Gm04	C1	2120885	2120885	Wm82.a2.v1 
+176	Seed long-chain fatty acid 1-g4.3	Gm04	C1	2126907	2126907	Wm82.a2.v1 
+177	Seed long-chain fatty acid 1-g5.1	Gm11	B1	10795759	10795759	Wm82.a2.v1 
+178	Seed long-chain fatty acid 1-g5.2	Gm11	B1	10826709	10826709	Wm82.a2.v1 
+179	Seed long-chain fatty acid 1-g5.3	Gm11	B1	10876169	10876169	Wm82.a2.v1 
+180	Seed stearic 1-g1.1	Gm02	D1b	19886706	19886706	Wm82.a2.v1 
+181	Seed stearic 1-g1.2	Gm02	D1b	19955907	19955907	Wm82.a2.v1 
+182	Seed stearic 1-g1.3	Gm02	D1b	19985370	19985370	Wm82.a2.v1 
+183	Seed stearic 1-g2.1	Gm03	N	12501628	12501628	Wm82.a2.v1 
+184	Seed stearic 1-g2.2	Gm03	N	12704607	12704607	Wm82.a2.v1 
+185	Seed stearic 1-g2.3	Gm03	N	12954110	12954110	Wm82.a2.v1 
+186	Seed stearic 1-g3.1	Gm14	B2	15199586	15199586	Wm82.a2.v1 
+187	Seed stearic 1-g3.2	Gm14	B2	17456087	17456087	Wm82.a2.v1 
+188	Seed stearic 1-g3.3	Gm14	B2	19630147	19630147	Wm82.a2.v1 
+189	Seed stearic 1-g4.1	Gm14	B2	34771615	34771615	Wm82.a2.v1 
+190	Seed stearic 1-g4.2	Gm14	B2	39684297	39684297	Wm82.a2.v1 
+191	Seed stearic 1-g4.3	Gm14	B2	40356659	40356659	Wm82.a2.v1 
+192	Seed long-chain fatty acid 1-g6.1	Gm02	D1b	19851000	19851000	Wm82.a2.v1 
+193	Seed long-chain fatty acid 1-g6.2	Gm02	D1b	19886706	19886706	Wm82.a2.v1 
+194	Seed long-chain fatty acid 1-g6.3	Gm02	D1b	19997509	19997509	Wm82.a2.v1 
+195	Seed long-chain fatty acid 1-g7.1	Gm03	N	12500458	12500458	Wm82.a2.v1 
+196	Seed long-chain fatty acid 1-g7.2	Gm03	N	12702388	12702388	Wm82.a2.v1 
+197	Seed long-chain fatty acid 1-g7.3	Gm03	N	12989558	12989558	Wm82.a2.v1 
+198	Seed long-chain fatty acid 1-g8.1	Gm14	B2	14985465	14985465	Wm82.a2.v1 
+199	Seed long-chain fatty acid 1-g8.2	Gm14	B2	17456087	17456087	Wm82.a2.v1 
+200	Seed long-chain fatty acid 1-g8.3	Gm14	B2	19660594	19660594	Wm82.a2.v1 
+201	Seed long-chain fatty acid 1-g9.1	Gm14	B2	34208617	34208617	Wm82.a2.v1 
+202	Seed long-chain fatty acid 1-g9.2	Gm14	B2	39684297	39684297	Wm82.a2.v1 
+203	Seed long-chain fatty acid 1-g9.3	Gm14	B2	40536866	40536866	Wm82.a2.v1 
+204	Seed alpha-linolenic acid 1-g1.1	Gm04	C1	5365622	5365622	Wm82.a2.v1 
+205	Seed alpha-linolenic acid 1-g1.2	Gm04	C1	5369762	5369762	Wm82.a2.v1 
+206	Seed alpha-linolenic acid 1-g2.1	Gm14	B2	45909173	45909173	Wm82.a2.v1 
+207	Seed alpha-linolenic acid 1-g2.2	Gm14	B2	45985528	45985528	Wm82.a2.v1 
+208	Seed alpha-linolenic acid 1-g2.3	Gm14	B2	46019811	46019811	Wm82.a2.v1 
+209	Seed long-chain fatty acid 1-g10.1	Gm14	B2	45927234	45927234	Wm82.a2.v1 
+210	Seed long-chain fatty acid 1-g10.2	Gm14	B2	45985528	45985528	Wm82.a2.v1 
+211	Flower color 2-g1.1	Gm13	F	16609051	16609051	Wm82.a2.v1 
+212	Flower color 2-g1.2	Gm13	F	17307394	17307394	Wm82.a2.v1 
+213	Flower color 2-g1.3	Gm13	F	19868544	19868544	Wm82.a2.v1 
+214	First flower 5-g14.1	Gm05	A1	40012587	40012587	Wm82.a2.v1 
+215	First flower 5-g14.2	Gm05	A1	40016323	40016323	Wm82.a2.v1 
+216	First flower 5-g15.1	Gm10	O	44710944	44710944	Wm82.a2.v1 
+217	First flower 5-g15.2	Gm10	O	45310798	45310798	Wm82.a2.v1 
+218	First flower 5-g15.3	Gm10	O	45465189	45465189	Wm82.a2.v1 
+219	First flower 5-g16.1	Gm11	B1	24962516	24962516	Wm82.a2.v1 
+220	First flower 5-g16.2	Gm11	B1	25033166	25033166	Wm82.a2.v1 
+221	First flower 5-g16.3	Gm11	B1	25055297	25055297	Wm82.a2.v1 
+222	First flower 5-g17	Gm19	L	43183481	43183481	Wm82.a2.v1 
+223	First flower 5-g18	Gm01	D1a	2893024	2893024	Wm82.a2.v1 
+224	First flower 5-g19.1	Gm02	D1b	9815707	9815707	Wm82.a2.v1 
+225	First flower 5-g19.2	Gm02	D1b	10182071	10182071	Wm82.a2.v1 
+226	First flower 5-g19.3	Gm02	D1b	10286440	10286440	Wm82.a2.v1 
+227	First flower 5-g20.1	Gm02	D1b	12316110	12316110	Wm82.a2.v1 
+228	First flower 5-g20.2	Gm02	D1b	12408115	12408115	Wm82.a2.v1 
+229	First flower 5-g21	Gm03	N	3919776	3919776	Wm82.a2.v1 
+230	First flower 5-g22.1	Gm03	N	5139801	5139801	Wm82.a2.v1 
+231	First flower 5-g22.2	Gm03	N	5146262	5146262	Wm82.a2.v1 
+232	First flower 5-g23.1	Gm06	C2	19178035	19178035	Wm82.a2.v1 
+233	First flower 5-g23.2	Gm06	C2	20097064	20097064	Wm82.a2.v1 
+234	First flower 5-g23.3	Gm06	C2	20299454	20299454	Wm82.a2.v1 
+235	First flower 5-g24.1	Gm11	B1	10820746	10820746	Wm82.a2.v1 
+236	First flower 5-g24.2	Gm11	B1	10836170	10836170	Wm82.a2.v1 
+237	First flower 5-g25.1	Gm11	B1	31718686	31718686	Wm82.a2.v1 
+238	First flower 5-g25.2	Gm11	B1	31730516	31730516	Wm82.a2.v1 
+239	First flower 5-g25.3	Gm11	B1	31731024	31731024	Wm82.a2.v1 
+240	First flower 5-g26.1	Gm12	H	5475503	5475503	Wm82.a2.v1 
+241	First flower 5-g26.2	Gm12	H	5504773	5504773	Wm82.a2.v1 
+242	First flower 5-g26.3	Gm12	H	5529926	5529926	Wm82.a2.v1 
+243	First flower 5-g27.1	Gm13	F	37478851	37478851	Wm82.a2.v1 
+244	First flower 5-g27.2	Gm13	F	37498490	37498490	Wm82.a2.v1 
+245	First flower 5-g28	Gm14	B2	12744442	12744442	Wm82.a2.v1 
+246	First flower 5-g29.1	Gm15	E	13133351	13133351	Wm82.a2.v1 
+247	First flower 5-g29.2	Gm15	E	13160907	13160907	Wm82.a2.v1 
+248	First flower 5-g29.3	Gm15	E	13160963	13160963	Wm82.a2.v1 
+249	First flower 5-g30.1	Gm17	D2	2233815	2233815	Wm82.a2.v1 
+250	First flower 5-g30.2	Gm17	D2	2239470	2239470	Wm82.a2.v1 
+251	First flower 5-g30.3	Gm17	D2	2239543	2239543	Wm82.a2.v1 
+252	First flower 5-g31.1	Gm18	G	57269374	57269374	Wm82.a2.v1 
+253	First flower 5-g31.2	Gm18	G	57272016	57272016	Wm82.a2.v1 
+254	First flower 5-g32	Gm20	I	34256561	34256561	Wm82.a2.v1 
+255	Hilum color 2-g1	Gm06	C2	20138000	20138000	Wm82.a2.v1 
+256	Hilum color 2-g2.1	Gm08	A2	8360663	8360663	Wm82.a2.v1 
+257	Hilum color 2-g2.2	Gm08	A2	8402284	8402284	Wm82.a2.v1 
+258	Hilum color 2-g2.3	Gm08	A2	8608730	8608730	Wm82.a2.v1 
+259	Hilum color 2-g3.1	Gm08	A2	11469073	11469073	Wm82.a2.v1 
+260	Hilum color 2-g3.2	Gm08	A2	11469073	11469073	Wm82.a2.v1 
+261	Hilum color 2-g3.3	Gm08	A2	11469073	11469073	Wm82.a2.v1 
+262	Hilum color 2-g4.1	Gm08	A2	14158294	14158294	Wm82.a2.v1 
+263	Hilum color 2-g4.2	Gm08	A2	14158294	14158294	Wm82.a2.v1 
+264	Hilum color 2-g4.3	Gm08	A2	14158294	14158294	Wm82.a2.v1 
+265	Hilum color 2-g5.1	Gm13	F	30062400	30062400	Wm82.a2.v1 
+266	Hilum color 2-g5.2	Gm13	F	30062400	30062400	Wm82.a2.v1 
+267	Hilum color 2-g5.3	Gm13	F	30062400	30062400	Wm82.a2.v1 
+268	Hilum color 2-g6	Gm20	I	36902659	36902659	Wm82.a2.v1 
+269	Seed amino acids 1-g1.1	Gm01	D1a	53486467	53486467	Wm82.a2.v1 
+270	Seed amino acids 1-g1.2	Gm01	D1a	53486650	53486650	Wm82.a2.v1 
+271	Seed amino acids 1-g2.1	Gm08	A2	35266140	35266140	Wm82.a2.v1 
+272	Seed amino acids 1-g2.2	Gm08	A2	35266158	35266158	Wm82.a2.v1 
+273	Seed amino acids 1-g2.3	Gm08	A2	35266324	35266324	Wm82.a2.v1 
+274	Seed amino acids 1-g3	Gm09	K	33309127	33309127	Wm82.a2.v1 
+275	Seed amino acids 1-g4.1	Gm13	F	2546775	2546775	Wm82.a2.v1 
+276	Seed amino acids 1-g4.2	Gm13	F	2546862	2546862	Wm82.a2.v1 
+277	Seed amino acids 1-g5.1	Gm14	B2	5055466	5055466	Wm82.a2.v1 
+278	Seed amino acids 1-g5.2	Gm14	B2	5055474	5055474	Wm82.a2.v1 
+279	Seed amino acids 1-g6.1	Gm10	O	2422267	2422267	Wm82.a2.v1 
+280	Seed amino acids 1-g6.2	Gm10	O	2428789	2428789	Wm82.a2.v1 
+281	Seed amino acids 1-g6.3	Gm10	O	2436611	2436611	Wm82.a2.v1 
+282	Seed amino acids 1-g7	Gm13	F	2546862	2546862	Wm82.a2.v1 
+283	Seed amino acids 1-g8	Gm01	D1a	989187	989187	Wm82.a2.v1 
+284	Seed amino acids 1-g9.1	Gm01	D1a	53486467	53486467	Wm82.a2.v1 
+285	Seed amino acids 1-g9.2	Gm01	D1a	53486490	53486490	Wm82.a2.v1 
+286	Seed amino acids 1-g9.3	Gm01	D1a	53486686	53486686	Wm82.a2.v1 
+287	Seed amino acids 1-g10.1	Gm08	A2	35266140	35266140	Wm82.a2.v1 
+288	Seed amino acids 1-g10.2	Gm08	A2	35266158	35266158	Wm82.a2.v1 
+289	Seed amino acids 1-g10.3	Gm08	A2	35266324	35266324	Wm82.a2.v1 
+290	Seed amino acids 1-g11	Gm09	K	33309127	33309127	Wm82.a2.v1 
+291	Seed amino acids 1-g12.1	Gm13	F	2546775	2546775	Wm82.a2.v1 
+292	Seed amino acids 1-g12.2	Gm13	F	2546862	2546862	Wm82.a2.v1 
+293	Seed amino acids 1-g13.1	Gm14	B2	5055466	5055466	Wm82.a2.v1 
+294	Seed amino acids 1-g13.2	Gm14	B2	5055474	5055474	Wm82.a2.v1 
+295	Seed amino acids 1-g14	Gm01	D1a	53486490	53486490	Wm82.a2.v1 
+296	Seed amino acids 1-g15	Gm10	O	2436611	2436611	Wm82.a2.v1 
+297	Seed amino acids 1-g16	Gm13	F	2546862	2546862	Wm82.a2.v1 
+298	Seed amino acids 1-g17	Gm20	I	38215861	38215861	Wm82.a2.v1 
+299	Seed amino acids 1-g18.1	Gm01	D1a	989187	989187	Wm82.a2.v1 
+300	Seed amino acids 1-g18.2	Gm01	D1a	989204	989204	Wm82.a2.v1 
+301	Seed amino acids 1-g19	Gm01	D1a	2181558	2181558	Wm82.a2.v1 
+302	Seed amino acids 1-g20.1	Gm01	D1a	53486467	53486467	Wm82.a2.v1 
+303	Seed amino acids 1-g20.2	Gm01	D1a	53486686	53486686	Wm82.a2.v1 
+304	Seed amino acids 1-g21.1	Gm08	A2	35266140	35266140	Wm82.a2.v1 
+305	Seed amino acids 1-g21.2	Gm08	A2	35266324	35266324	Wm82.a2.v1 
+306	Seed amino acids 1-g22	Gm09	K	33309127	33309127	Wm82.a2.v1 
+307	Seed amino acids 1-g23.1	Gm13	F	2546775	2546775	Wm82.a2.v1 
+308	Seed amino acids 1-g23.2	Gm13	F	2546862	2546862	Wm82.a2.v1 
+309	Seed amino acids 1-g24.1	Gm14	B2	5055466	5055466	Wm82.a2.v1 
+310	Seed amino acids 1-g24.2	Gm14	B2	5055474	5055474	Wm82.a2.v1 
+311	Seed amino acids 1-g25.1	Gm19	L	44806855	44806855	Wm82.a2.v1 
+312	Seed amino acids 1-g25.2	Gm19	L	44912660	44912660	Wm82.a2.v1 
+313	Seed amino acids 1-g25.3	Gm19	L	44922846	44922846	Wm82.a2.v1 
+314	Leaflet area 1-g1.1	Gm20	I	35408048	35408048	Wm82.a2.v1 
+315	Leaflet area 1-g1.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+316	Leaflet area 1-g1.3	Gm20	I	36674350	36674350	Wm82.a2.v1 
+317	Leaflet area 1-g2.1	Gm03	N	2958986	2958986	Wm82.a2.v1 
+318	Leaflet area 1-g2.2	Gm03	N	2961780	2961780	Wm82.a2.v1 
+319	Leaflet area 1-g3.1	Gm19	L	45143539	45143539	Wm82.a2.v1 
+320	Leaflet area 1-g3.2	Gm19	L	45148240	45148240	Wm82.a2.v1 
+321	Leaflet area 1-g3.3	Gm19	L	45151648	45151648	Wm82.a2.v1 
+322	Leaflet length 1-g1.1	Gm20	I	35819212	35819212	Wm82.a2.v1 
+323	Leaflet length 1-g1.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+324	Leaflet length 1-g1.3	Gm20	I	36429226	36429226	Wm82.a2.v1 
+325	Leaflet shape 1-g1.1	Gm03	N	36978574	36978574	Wm82.a2.v1 
+326	Leaflet shape 1-g1.2	Gm03	N	36990764	36990764	Wm82.a2.v1 
+327	Leaflet shape 1-g1.3	Gm03	N	37081007	37081007	Wm82.a2.v1 
+328	Leaflet shape 1-g2.1	Gm05	A1	39755185	39755185	Wm82.a2.v1 
+329	Leaflet shape 1-g2.2	Gm05	A1	39890441	39890441	Wm82.a2.v1 
+330	Leaflet shape 1-g3.1	Gm14	B2	46348041	46348041	Wm82.a2.v1 
+331	Leaflet shape 1-g3.2	Gm14	B2	46680049	46680049	Wm82.a2.v1 
+332	Leaflet shape 1-g3.3	Gm14	B2	47053817	47053817	Wm82.a2.v1 
+333	Leaflet shape 1-g4.1	Gm18	G	55501775	55501775	Wm82.a2.v1 
+334	Leaflet shape 1-g4.2	Gm18	G	55546113	55546113	Wm82.a2.v1 
+335	Leaflet shape 1-g4.3	Gm18	G	55552164	55552164	Wm82.a2.v1 
+336	Leaflet shape 1-g5.1	Gm20	I	34667185	34667185	Wm82.a2.v1 
+337	Leaflet shape 1-g5.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+338	Leaflet shape 1-g5.3	Gm20	I	37127728	37127728	Wm82.a2.v1 
+339	Leaflet width 1-g1	Gm13	F	30332156	30332156	Wm82.a2.v1 
+340	Leaflet width 1-g2.1	Gm20	I	34772220	34772220	Wm82.a2.v1 
+341	Leaflet width 1-g2.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+342	Leaflet width 1-g2.3	Gm20	I	36767928	36767928	Wm82.a2.v1 
+343	Leaflet width 1-g3.1	Gm02	D1b	10512749	10512749	Wm82.a2.v1 
+344	Leaflet width 1-g3.2	Gm02	D1b	10512883	10512883	Wm82.a2.v1 
+345	Leaflet width 1-g3.3	Gm02	D1b	10565355	10565355	Wm82.a2.v1 
+346	Leaflet width 1-g4.1	Gm03	N	2958986	2958986	Wm82.a2.v1 
+347	Leaflet width 1-g4.2	Gm03	N	2961780	2961780	Wm82.a2.v1 
+348	Leaflet width 1-g5.1	Gm19	L	45143539	45143539	Wm82.a2.v1 
+349	Leaflet width 1-g5.2	Gm19	L	45143999	45143999	Wm82.a2.v1 
+350	Leaflet width 1-g5.3	Gm19	L	45253317	45253317	Wm82.a2.v1 
+351	Lodging 1-g1.1	Gm19	L	44826476	44826476	Wm82.a2.v1 
+352	Lodging 1-g1.2	Gm19	L	45131781	45131781	Wm82.a2.v1 
+353	Lodging 1-g1.3	Gm19	L	45281163	45281163	Wm82.a2.v1 
+354	Seed set 1-g1	Gm02	D1b	14797903	14797903	Wm82.a2.v1 
+355	Seed set 1-g2	Gm03	N	12539660	12539660	Wm82.a2.v1 
+356	Seed set 1-g3	Gm05	A1	35995777	35995777	Wm82.a2.v1 
+357	Seed set 1-g4.1	Gm10	O	50270206	50270206	Wm82.a2.v1 
+358	Seed set 1-g4.2	Gm10	O	50981304	50981304	Wm82.a2.v1 
+359	Seed set 1-g4.3	Gm10	O	51354084	51354084	Wm82.a2.v1 
+360	Seed set 1-g5.1	Gm20	I	35408048	35408048	Wm82.a2.v1 
+361	Seed set 1-g5.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+362	Seed set 1-g5.3	Gm20	I	36674350	36674350	Wm82.a2.v1 
+363	Seed set 1-g6.1	Gm05	A1	34595284	34595284	Wm82.a2.v1 
+364	Seed set 1-g6.2	Gm05	A1	34901192	34901192	Wm82.a2.v1 
+365	Seed set 1-g6.3	Gm05	A1	35011212	35011212	Wm82.a2.v1 
+366	Seed set 1-g7	Gm06	C2	50955096	50955096	Wm82.a2.v1 
+367	Seed set 1-g8.1	Gm11	B1	8911653	8911653	Wm82.a2.v1 
+368	Seed set 1-g8.2	Gm11	B1	8911723	8911723	Wm82.a2.v1 
+369	Seed set 1-g9.1	Gm13	F	23631174	23631174	Wm82.a2.v1 
+370	Seed set 1-g9.2	Gm13	F	23649175	23649175	Wm82.a2.v1 
+371	Seed set 1-g10	Gm13	F	23863861	23863861	Wm82.a2.v1 
+372	Seed set 1-g11	Gm01	D1a	52039777	52039777	Wm82.a2.v1 
+373	Seed set 1-g12.1	Gm02	D1b	14459921	14459921	Wm82.a2.v1 
+374	Seed set 1-g12.2	Gm02	D1b	14463444	14463444	Wm82.a2.v1 
+375	Seed set 1-g13.1	Gm03	N	659279	659279	Wm82.a2.v1 
+376	Seed set 1-g13.2	Gm03	N	669584	669584	Wm82.a2.v1 
+377	Seed set 1-g14.1	Gm03	N	33533018	33533018	Wm82.a2.v1 
+378	Seed set 1-g14.2	Gm03	N	33542939	33542939	Wm82.a2.v1 
+379	Seed set 1-g15.1	Gm08	A2	10962492	10962492	Wm82.a2.v1 
+380	Seed set 1-g15.2	Gm08	A2	10979773	10979773	Wm82.a2.v1 
+381	Seed set 1-g16.1	Gm08	A2	46433091	46433091	Wm82.a2.v1 
+382	Seed set 1-g16.2	Gm08	A2	46454061	46454061	Wm82.a2.v1 
+383	Seed set 1-g17.1	Gm09	K	3215373	3215373	Wm82.a2.v1 
+384	Seed set 1-g17.2	Gm09	K	3222171	3222171	Wm82.a2.v1 
+385	Seed set 1-g17.3	Gm09	K	3224372	3224372	Wm82.a2.v1 
+386	Seed set 1-g18.1	Gm10	O	5362354	5362354	Wm82.a2.v1 
+387	Seed set 1-g18.2	Gm10	O	5411439	5411439	Wm82.a2.v1 
+388	Seed set 1-g19.1	Gm12	H	5509317	5509317	Wm82.a2.v1 
+389	Seed set 1-g19.2	Gm12	H	5692082	5692082	Wm82.a2.v1 
+390	Seed set 1-g20	Gm12	H	38592784	38592784	Wm82.a2.v1 
+391	Seed set 1-g21.1	Gm16	J	36034965	36034965	Wm82.a2.v1 
+392	Seed set 1-g21.2	Gm16	J	36035091	36035091	Wm82.a2.v1 
+393	Seed set 1-g22.1	Gm18	G	51584082	51584082	Wm82.a2.v1 
+394	Seed set 1-g22.2	Gm18	G	51678296	51678296	Wm82.a2.v1 
+395	Seed set 1-g22.3	Gm18	G	51684068	51684068	Wm82.a2.v1 
+396	Seed set 1-g23.1	Gm18	G	55940116	55940116	Wm82.a2.v1 
+397	Seed set 1-g23.2	Gm18	G	56137255	56137255	Wm82.a2.v1 
+398	Seed set 1-g23.3	Gm18	G	56472919	56472919	Wm82.a2.v1 
+399	Seed set 1-g24.1	Gm19	L	44926860	44926860	Wm82.a2.v1 
+400	Seed set 1-g24.2	Gm19	L	44926990	44926990	Wm82.a2.v1 
+401	Seed set 1-g24.3	Gm19	L	44946040	44946040	Wm82.a2.v1 
+402	Seed set 1-g25.1	Gm06	C2	50426708	50426708	Wm82.a2.v1 
+403	Seed set 1-g25.2	Gm06	C2	50458245	50458245	Wm82.a2.v1 
+404	Seed set 1-g25.3	Gm06	C2	50488039	50488039	Wm82.a2.v1 
+405	Seed set 1-g26.1	Gm13	F	23566848	23566848	Wm82.a2.v1 
+406	Seed set 1-g26.2	Gm13	F	23712209	23712209	Wm82.a2.v1 
+407	Seed set 1-g26.3	Gm13	F	24090210	24090210	Wm82.a2.v1 
+408	Seed set 1-g27.1	Gm19	L	44873069	44873069	Wm82.a2.v1 
+409	Seed set 1-g27.2	Gm19	L	45899429	45899429	Wm82.a2.v1 
+410	Seed set 1-g28	Gm02	D1b	4327729	4327729	Wm82.a2.v1 
+411	Seed set 1-g29.1	Gm13	F	29034903	29034903	Wm82.a2.v1 
+412	Seed set 1-g29.2	Gm13	F	29064846	29064846	Wm82.a2.v1 
+413	Seed set 1-g29.3	Gm13	F	29802713	29802713	Wm82.a2.v1 
+414	Seed set 1-g30	Gm18	G	55037203	55037203	Wm82.a2.v1 
+415	Plant height 5-g1.1	Gm10	O	44961185	44961185	Wm82.a2.v1 
+416	Plant height 5-g1.2	Gm10	O	45310798	45310798	Wm82.a2.v1 
+417	Plant height 5-g2	Gm11	B1	4980454	4980454	Wm82.a2.v1 
+418	Plant height 5-g3.1	Gm19	L	44323024	44323024	Wm82.a2.v1 
+419	Plant height 5-g3.2	Gm19	L	45205190	45205190	Wm82.a2.v1 
+420	Plant height 5-g3.3	Gm19	L	46340503	46340503	Wm82.a2.v1 
+421	Plant height 5-g4.1	Gm18	G	55048864	55048864	Wm82.a2.v1 
+422	Plant height 5-g4.2	Gm18	G	55628880	55628880	Wm82.a2.v1 
+423	Plant height 5-g4.3	Gm18	G	55784929	55784929	Wm82.a2.v1 
+424	R8 full maturity 5-g1	Gm05	A1	41854422	41854422	Wm82.a2.v1 
+425	R8 full maturity 5-g2.1	Gm10	O	44587441	44587441	Wm82.a2.v1 
+426	R8 full maturity 5-g2.2	Gm10	O	45310798	45310798	Wm82.a2.v1 
+427	R8 full maturity 5-g2.3	Gm10	O	45548620	45548620	Wm82.a2.v1 
+428	R8 full maturity 5-g3	Gm06	C2	46742623	46742623	Wm82.a2.v1 
+429	R8 full maturity 5-g4.1	Gm16	J	27495898	27495898	Wm82.a2.v1 
+430	R8 full maturity 5-g4.2	Gm16	J	27954220	27954220	Wm82.a2.v1 
+431	R8 full maturity 5-g4.3	Gm16	J	27956742	27956742	Wm82.a2.v1 
+432	Pod shattering 1-g1.1	Gm16	J	29495010	29495010	Wm82.a2.v1 
+433	Pod shattering 1-g1.2	Gm16	J	29959803	29959803	Wm82.a2.v1 
+434	Pod shattering 1-g1.3	Gm16	J	30188301	30188301	Wm82.a2.v1 
+435	Pubescence color 2-g1.1	Gm03	N	45188204	45188204	Wm82.a2.v1 
+436	Pubescence color 2-g1.2	Gm03	N	45301350	45301350	Wm82.a2.v1 
+437	Pubescence color 2-g1.3	Gm03	N	45546666	45546666	Wm82.a2.v1 
+438	Pubescence color 2-g2.1	Gm06	C2	16701822	16701822	Wm82.a2.v1 
+439	Pubescence color 2-g2.2	Gm06	C2	18734414	18734414	Wm82.a2.v1 
+440	Pubescence color 2-g2.3	Gm06	C2	19482848	19482848	Wm82.a2.v1 
+441	Pubescence color 2-g3.1	Gm12	H	16899433	16899433	Wm82.a2.v1 
+442	Pubescence color 2-g3.2	Gm12	H	16906312	16906312	Wm82.a2.v1 
+443	Pubescence color 2-g4.1	Gm16	J	1439581	1439581	Wm82.a2.v1 
+444	Pubescence color 2-g4.2	Gm16	J	1440263	1440263	Wm82.a2.v1 
+445	Pubescence color 2-g4.3	Gm16	J	1445782	1445782	Wm82.a2.v1 
+446	Seed long-chain fatty acid 1-g11.1	Gm02	D1b	19851000	19851000	Wm82.a2.v1 
+447	Seed long-chain fatty acid 1-g11.2	Gm02	D1b	19951148	19951148	Wm82.a2.v1 
+448	Seed long-chain fatty acid 1-g11.3	Gm02	D1b	19961433	19961433	Wm82.a2.v1 
+449	Seed long-chain fatty acid 1-g12	Gm03	N	4003522	4003522	Wm82.a2.v1 
+450	Seed long-chain fatty acid 1-g13.1	Gm03	N	12525686	12525686	Wm82.a2.v1 
+451	Seed long-chain fatty acid 1-g13.2	Gm03	N	12917268	12917268	Wm82.a2.v1 
+452	Seed long-chain fatty acid 1-g13.3	Gm03	N	12958942	12958942	Wm82.a2.v1 
+453	Seed long-chain fatty acid 1-g14.1	Gm05	A1	1116077	1116077	Wm82.a2.v1 
+454	Seed long-chain fatty acid 1-g14.2	Gm05	A1	1120475	1120475	Wm82.a2.v1 
+455	Seed long-chain fatty acid 1-g15.1	Gm14	B2	15191684	15191684	Wm82.a2.v1 
+456	Seed long-chain fatty acid 1-g15.2	Gm14	B2	17083726	17083726	Wm82.a2.v1 
+457	Seed long-chain fatty acid 1-g15.3	Gm14	B2	19630147	19630147	Wm82.a2.v1 
+458	Seed long-chain fatty acid 1-g16.1	Gm14	B2	34381036	34381036	Wm82.a2.v1 
+459	Seed long-chain fatty acid 1-g16.2	Gm14	B2	39684297	39684297	Wm82.a2.v1 
+460	Seed long-chain fatty acid 1-g16.3	Gm14	B2	40409746	40409746	Wm82.a2.v1 
+461	Seed long-chain fatty acid 1-g17	Gm10	O	45310798	45310798	Wm82.a2.v1 
+462	Seed long-chain fatty acid 1-g18.1	Gm14	B2	45907223	45907223	Wm82.a2.v1 
+463	Seed long-chain fatty acid 1-g18.2	Gm14	B2	45938204	45938204	Wm82.a2.v1 
+464	Seed long-chain fatty acid 1-g18.3	Gm14	B2	46067489	46067489	Wm82.a2.v1 
+465	Seed set 1-g31	Gm03	N	12539660	12539660	Wm82.a2.v1 
+466	Seed set 1-g32.1	Gm03	N	36990764	36990764	Wm82.a2.v1 
+467	Seed set 1-g32.2	Gm03	N	37081007	37081007	Wm82.a2.v1 
+468	Seed set 1-g33	Gm05	A1	35995777	35995777	Wm82.a2.v1 
+469	Seed set 1-g34	Gm08	A2	8320138	8320138	Wm82.a2.v1 
+470	Seed set 1-g35	Gm08	A2	16990280	16990280	Wm82.a2.v1 
+471	Seed set 1-g36.1	Gm10	O	50981304	50981304	Wm82.a2.v1 
+472	Seed set 1-g36.2	Gm10	O	51354084	51354084	Wm82.a2.v1 
+473	Seed set 1-g37.1	Gm19	L	171263	171263	Wm82.a2.v1 
+474	Seed set 1-g37.2	Gm19	L	175246	175246	Wm82.a2.v1 
+475	Seed set 1-g38.1	Gm20	I	35408048	35408048	Wm82.a2.v1 
+476	Seed set 1-g38.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+477	Seed set 1-g38.3	Gm20	I	36864748	36864748	Wm82.a2.v1 
+478	Seed set 1-g39.1	Gm08	A2	23115727	23115727	Wm82.a2.v1 
+479	Seed set 1-g39.2	Gm08	A2	23132059	23132059	Wm82.a2.v1 
+480	Seed set 1-g39.3	Gm08	A2	23294168	23294168	Wm82.a2.v1 
+481	Seed set 1-g40	Gm18	G	50977030	50977030	Wm82.a2.v1 
+482	Seed set 1-g41.1	Gm07	M	5008759	5008759	Wm82.a2.v1 
+483	Seed set 1-g41.2	Gm07	M	5009560	5009560	Wm82.a2.v1 
+484	Seed set 1-g41.3	Gm07	M	5010394	5010394	Wm82.a2.v1 
+485	Seed set 1-g42	Gm13	F	23631174	23631174	Wm82.a2.v1 
+486	Seed long-chain fatty acid 1-g19.1	Gm05	A1	925502	925502	Wm82.a2.v1 
+487	Seed long-chain fatty acid 1-g19.2	Gm05	A1	1095346	1095346	Wm82.a2.v1 
+488	Seed long-chain fatty acid 1-g19.3	Gm05	A1	1476699	1476699	Wm82.a2.v1 
+489	Seed long-chain fatty acid 1-g20.1	Gm05	A1	1701656	1701656	Wm82.a2.v1 
+490	Seed long-chain fatty acid 1-g20.2	Gm05	A1	1715940	1715940	Wm82.a2.v1 
+491	Seed set 1-g43.1	Gm06	C2	50426708	50426708	Wm82.a2.v1 
+492	Seed set 1-g43.2	Gm06	C2	50457715	50457715	Wm82.a2.v1 
+493	Seed set 1-g43.3	Gm06	C2	50488039	50488039	Wm82.a2.v1 
+494	Seed set 1-g44.1	Gm13	F	23464848	23464848	Wm82.a2.v1 
+495	Seed set 1-g44.2	Gm13	F	23769636	23769636	Wm82.a2.v1 
+496	Seed set 1-g44.3	Gm13	F	24261217	24261217	Wm82.a2.v1 
+497	Seed set 1-g45.1	Gm02	D1b	3699898	3699898	Wm82.a2.v1 
+498	Seed set 1-g45.2	Gm02	D1b	3701362	3701362	Wm82.a2.v1 
+499	Seed set 1-g46.1	Gm12	H	4759044	4759044	Wm82.a2.v1 
+500	Seed set 1-g46.2	Gm12	H	4801855	4801855	Wm82.a2.v1 
+501	Seed set 1-g46.3	Gm12	H	4802088	4802088	Wm82.a2.v1 
+502	Seed set 1-g47.1	Gm13	F	29713396	29713396	Wm82.a2.v1 
+503	Seed set 1-g47.2	Gm13	F	29713397	29713397	Wm82.a2.v1 
+504	Seed set 1-g48.1	Gm13	F	40871681	40871681	Wm82.a2.v1 
+505	Seed set 1-g48.2	Gm13	F	40890538	40890538	Wm82.a2.v1 
+506	Seed set 1-g48.3	Gm13	F	40904291	40904291	Wm82.a2.v1 
+507	Seed set 1-g49.1	Gm18	G	55954117	55954117	Wm82.a2.v1 
+508	Seed set 1-g49.2	Gm18	G	55954415	55954415	Wm82.a2.v1 
+509	Seed set 1-g50.1	Gm19	L	44529859	44529859	Wm82.a2.v1 
+510	Seed set 1-g50.2	Gm19	L	45393133	45393133	Wm82.a2.v1 
+511	Seed set 1-g50.3	Gm19	L	45570270	45570270	Wm82.a2.v1 
+512	Seed set 1-g51.1	Gm06	C2	50426708	50426708	Wm82.a2.v1 
+513	Seed set 1-g51.2	Gm06	C2	50487622	50487622	Wm82.a2.v1 
+514	Seed set 1-g51.3	Gm06	C2	50488039	50488039	Wm82.a2.v1 
+515	Seed set 1-g52.1	Gm13	F	23566848	23566848	Wm82.a2.v1 
+516	Seed set 1-g52.2	Gm13	F	23769636	23769636	Wm82.a2.v1 
+517	Seed set 1-g52.3	Gm13	F	24076584	24076584	Wm82.a2.v1 
+518	Seed set 1-g53.1	Gm20	I	35589687	35589687	Wm82.a2.v1 
+519	Seed set 1-g53.2	Gm20	I	35828042	35828042	Wm82.a2.v1 
+520	Seed set 1-g53.3	Gm20	I	36429226	36429226	Wm82.a2.v1 
+521	Seed set 1-g54.1	Gm02	D1b	45301846	45301846	Wm82.a2.v1 
+522	Seed set 1-g54.2	Gm02	D1b	45360996	45360996	Wm82.a2.v1 
+523	Seed set 1-g55.1	Gm19	L	44526228	44526228	Wm82.a2.v1 
+524	Seed set 1-g55.2	Gm19	L	44568053	44568053	Wm82.a2.v1 
+525	Seed set 1-g55.3	Gm19	L	45569736	45569736	Wm82.a2.v1 
+526	Reproductive stage length 1-g1.1	Gm06	C2	49288896	49288896	Wm82.a2.v1 
+527	Reproductive stage length 1-g1.2	Gm06	C2	49301647	49301647	Wm82.a2.v1 
+528	Reproductive stage length 1-g2.1	Gm10	O	44852177	44852177	Wm82.a2.v1 
+529	Reproductive stage length 1-g2.2	Gm10	O	44985285	44985285	Wm82.a2.v1 
+530	Reproductive stage length 1-g2.3	Gm10	O	45025153	45025153	Wm82.a2.v1 
+531	Reproductive stage length 1-g3.1	Gm14	B2	2202535	2202535	Wm82.a2.v1 
+532	Reproductive stage length 1-g3.2	Gm14	B2	2228033	2228033	Wm82.a2.v1 
+533	Seed coat luster 1-g1.1	Gm15	E	8879684	8879684	Wm82.a2.v1 
+534	Seed coat luster 1-g1.2	Gm15	E	9423523	9423523	Wm82.a2.v1 
+535	Seed coat luster 1-g1.3	Gm15	E	10168658	10168658	Wm82.a2.v1 
+536	Seed coat color 1-g1.1	Gm01	D1a	3568116	3568116	Wm82.a2.v1 
+537	Seed coat color 1-g1.2	Gm01	D1a	3570619	3570619	Wm82.a2.v1 
+538	Seed coat color 1-g1.3	Gm01	D1a	3576803	3576803	Wm82.a2.v1 
+539	Seed coat color 1-g2	Gm01	D1a	53229579	53229579	Wm82.a2.v1 
+540	Seed coat color 1-g3.1	Gm08	A2	7800853	7800853	Wm82.a2.v1 
+541	Seed coat color 1-g3.2	Gm08	A2	8607374	8607374	Wm82.a2.v1 
+542	Seed coat color 1-g3.3	Gm08	A2	9079037	9079037	Wm82.a2.v1 
+543	Seed height 1-g1	Gm02	D1b	45257422	45257422	Wm82.a2.v1 
+544	Seed height 1-g2	Gm04	C1	13890053	13890053	Wm82.a2.v1 
+545	Seed height 1-g3.1	Gm16	J	29708364	29708364	Wm82.a2.v1 
+546	Seed height 1-g3.2	Gm16	J	29720337	29720337	Wm82.a2.v1 
+547	Seed height 1-g3.3	Gm16	J	29732386	29732386	Wm82.a2.v1 
+548	Seed height 1-g4.1	Gm16	J	31852019	31852019	Wm82.a2.v1 
+549	Seed height 1-g4.2	Gm16	J	31856997	31856997	Wm82.a2.v1 
+550	Seed height 1-g4.3	Gm16	J	31858061	31858061	Wm82.a2.v1 
+551	Seed width to height ratio 1-g1.1	Gm13	F	43681231	43681231	Wm82.a2.v1 
+552	Seed width to height ratio 1-g1.2	Gm13	F	43702857	43702857	Wm82.a2.v1 
+553	Seed width to height ratio 1-g2.1	Gm05	A1	1590873	1590873	Wm82.a2.v1 
+554	Seed width to height ratio 1-g2.2	Gm05	A1	1595240	1595240	Wm82.a2.v1 
+555	Seed width to height ratio 1-g2.3	Gm05	A1	1595726	1595726	Wm82.a2.v1 
+556	Seed length to thickness ratio 2-g1.1	Gm02	D1b	45442886	45442886	Wm82.a2.v1 
+557	Seed length to thickness ratio 2-g1.2	Gm02	D1b	45449455	45449455	Wm82.a2.v1 
+558	Seed length to thickness ratio 2-g1.3	Gm02	D1b	45456425	45456425	Wm82.a2.v1 
+559	Seed length to thickness ratio 2-g2.1	Gm04	C1	46154865	46154865	Wm82.a2.v1 
+560	Seed length to thickness ratio 2-g2.2	Gm04	C1	46160140	46160140	Wm82.a2.v1 
+561	Seed length to thickness ratio 2-g3	Gm13	F	43762199	43762199	Wm82.a2.v1 
+562	Seed length to thickness ratio 2-g4.1	Gm16	J	31858976	31858976	Wm82.a2.v1 
+563	Seed length to thickness ratio 2-g4.2	Gm16	J	31859883	31859883	Wm82.a2.v1 
+564	Seed length to thickness ratio 2-g4.3	Gm16	J	31862501	31862501	Wm82.a2.v1 
+565	Seed length to thickness ratio 2-g5	Gm17	D2	3547250	3547250	Wm82.a2.v1 
+566	Seed thickness 2-g1.1	Gm02	D1b	45412343	45412343	Wm82.a2.v1 
+567	Seed thickness 2-g1.2	Gm02	D1b	45442886	45442886	Wm82.a2.v1 
+568	Seed thickness 2-g1.3	Gm02	D1b	45456425	45456425	Wm82.a2.v1 
+569	Seed thickness 2-g2.1	Gm16	J	31851745	31851745	Wm82.a2.v1 
+570	Seed thickness 2-g2.2	Gm16	J	31851884	31851884	Wm82.a2.v1 
+571	Seed thickness 2-g2.3	Gm16	J	31862501	31862501	Wm82.a2.v1 
+572	Seed thickness 2-g3.1	Gm20	I	582353	582353	Wm82.a2.v1 
+573	Seed thickness 2-g3.2	Gm20	I	587636	587636	Wm82.a2.v1 
+574	Seed thickness 2-g3.3	Gm20	I	588706	588706	Wm82.a2.v1 
+575	Seed thickness 2-g4	Gm09	K	39383089	39383089	Wm82.a2.v1 
+576	Seed thickness 2-g5.1	Gm10	O	50200713	50200713	Wm82.a2.v1 
+577	Seed thickness 2-g5.2	Gm10	O	50212466	50212466	Wm82.a2.v1 
+578	Seed volume 1-g1.1	Gm04	C1	13518076	13518076	Wm82.a2.v1 
+579	Seed volume 1-g1.2	Gm04	C1	13890053	13890053	Wm82.a2.v1 
+580	Seed volume 1-g1.3	Gm04	C1	14176459	14176459	Wm82.a2.v1 
+581	Seed volume 1-g2	Gm13	F	21924051	21924051	Wm82.a2.v1 
+582	Seed long-chain fatty acid 1-g21.1	Gm05	A1	925502	925502	Wm82.a2.v1 
+583	Seed long-chain fatty acid 1-g21.2	Gm05	A1	1050109	1050109	Wm82.a2.v1 
+584	Seed long-chain fatty acid 1-g21.3	Gm05	A1	1476699	1476699	Wm82.a2.v1 
+585	Seed long-chain fatty acid 1-g22	Gm06	C2	50581961	50581961	Wm82.a2.v1 
+586	Seed long-chain fatty acid 1-g23.1	Gm07	M	2438597	2438597	Wm82.a2.v1 
+587	Seed long-chain fatty acid 1-g23.2	Gm07	M	2439024	2439024	Wm82.a2.v1 
+588	Stem termination type 1-g1.1	Gm19	L	44047586	44047586	Wm82.a2.v1 
+589	Stem termination type 1-g1.2	Gm19	L	45145714	45145714	Wm82.a2.v1 
+590	Stem termination type 1-g1.3	Gm19	L	46208015	46208015	Wm82.a2.v1 
+591	Internode length 1-g1.1	Gm13	F	20978742	20978742	Wm82.a2.v1 
+592	Internode length 1-g1.2	Gm13	F	20981056	20981056	Wm82.a2.v1 
+593	Internode length 1-g2.1	Gm19	L	44789500	44789500	Wm82.a2.v1 
+594	Internode length 1-g2.2	Gm19	L	44802143	44802143	Wm82.a2.v1 
+595	Internode length 1-g2.3	Gm19	L	45160841	45160841	Wm82.a2.v1 
+596	Internode length 1-g3	Gm03	N	45112152	45112152	Wm82.a2.v1 
+597	Internode length 1-g4.1	Gm18	G	54925329	54925329	Wm82.a2.v1 
+598	Internode length 1-g4.2	Gm18	G	54931296	54931296	Wm82.a2.v1 
+599	Node number 1-g1	Gm10	O	45310798	45310798	Wm82.a2.v1 
+600	Node number 1-g2.1	Gm19	L	43990450	43990450	Wm82.a2.v1 
+601	Node number 1-g2.2	Gm19	L	45205190	45205190	Wm82.a2.v1 
+602	Node number 1-g2.3	Gm19	L	47335622	47335622	Wm82.a2.v1 
+603	Node number 1-g3	Gm06	C2	50575400	50575400	Wm82.a2.v1 
+604	Node number 1-g4	Gm11	B1	4980454	4980454	Wm82.a2.v1 
+605	Node number 1-g5.1	Gm16	J	37079553	37079553	Wm82.a2.v1 
+606	Node number 1-g5.2	Gm16	J	37079569	37079569	Wm82.a2.v1 
+607	Node number 1-g6.1	Gm18	G	55620032	55620032	Wm82.a2.v1 
+608	Node number 1-g6.2	Gm18	G	55628880	55628880	Wm82.a2.v1 
+609	Node number 1-g6.3	Gm18	G	55808363	55808363	Wm82.a2.v1 
+610	Pod number 1-g1.1	Gm18	G	55626229	55626229	Wm82.a2.v1 
+611	Pod number 1-g1.2	Gm18	G	55628880	55628880	Wm82.a2.v1 
+612	Pod number 1-g1.3	Gm18	G	55662445	55662445	Wm82.a2.v1 
+613	Pod number 1-g2.1	Gm19	L	44467769	44467769	Wm82.a2.v1 
+614	Pod number 1-g2.2	Gm19	L	45090914	45090914	Wm82.a2.v1 
+615	Pod number 1-g2.3	Gm19	L	46204451	46204451	Wm82.a2.v1 
+616	Pod number 1-g3	Gm09	K	32401720	32401720	Wm82.a2.v1 
+617	Pod number 1-g4.1	Gm09	K	39250197	39250197	Wm82.a2.v1 
+618	Pod number 1-g4.2	Gm09	K	39280392	39280392	Wm82.a2.v1 
+619	Pod number 1-g4.3	Gm09	K	39288965	39288965	Wm82.a2.v1 
+620	Pod number 1-g5	Gm09	K	41322819	41322819	Wm82.a2.v1 
+621	Pod number 1-g6	Gm11	B1	5338661	5338661	Wm82.a2.v1 
+622	"Stem shape, main 1-g1.1"	Gm14	B2	46732925	46732925	Wm82.a2.v1 
+623	"Stem shape, main 1-g1.2"	Gm14	B2	46733015	46733015	Wm82.a2.v1 
+624	"Stem shape, main 1-g1.3"	Gm14	B2	46733138	46733138	Wm82.a2.v1 
+625	"Stem shape, main 1-g2.1"	Gm19	L	44789500	44789500	Wm82.a2.v1 
+626	"Stem shape, main 1-g2.2"	Gm19	L	45145714	45145714	Wm82.a2.v1 
+627	"Stem shape, main 1-g2.3"	Gm19	L	45292195	45292195	Wm82.a2.v1 
+628	"Stem shape, main 1-g3.1"	Gm20	I	36065864	36065864	Wm82.a2.v1 
+629	"Stem shape, main 1-g3.2"	Gm20	I	36065943	36065943	Wm82.a2.v1 
+630	"Stem shape, main 1-g3.3"	Gm20	I	36066371	36066371	Wm82.a2.v1 
+631	Seed oil to protein ratio 1-g1	Gm02	D1b	45869612	45869612	Wm82.a2.v1 
+632	Seed amino acids 1-g26.1	Gm10	O	2400625	2400625	Wm82.a2.v1 
+633	Seed amino acids 1-g26.2	Gm10	O	2415581	2415581	Wm82.a2.v1 
+634	Seed amino acids 1-g27	Gm01	D1a	989187	989187	Wm82.a2.v1 
+635	Seed amino acids 1-g28.1	Gm01	D1a	53486467	53486467	Wm82.a2.v1 
+636	Seed amino acids 1-g28.2	Gm01	D1a	53486686	53486686	Wm82.a2.v1 
+637	Seed amino acids 1-g29.1	Gm08	A2	35266140	35266140	Wm82.a2.v1 
+638	Seed amino acids 1-g29.2	Gm08	A2	35266324	35266324	Wm82.a2.v1 
+639	Seed amino acids 1-g30	Gm09	K	33309127	33309127	Wm82.a2.v1 
+640	Seed amino acids 1-g31.1	Gm13	F	2546775	2546775	Wm82.a2.v1 
+641	Seed amino acids 1-g31.2	Gm13	F	2546862	2546862	Wm82.a2.v1 
+642	Seed amino acids 1-g32.1	Gm14	B2	5055466	5055466	Wm82.a2.v1 
+643	Seed amino acids 1-g32.2	Gm14	B2	5055474	5055474	Wm82.a2.v1 
+644	Total seed number 3-g1.1	Gm19	L	45359595	45359595	Wm82.a2.v1 
+645	Total seed number 3-g1.2	Gm19	L	45408782	45408782	Wm82.a2.v1 
+646	First flower 3-g1	Gm01	D1a	54400559	54400734	Wm82.a2.v1 
+647	First flower 3-g2	Gm03	N	36674235	36674461	Wm82.a2.v1 
+648	First flower 3-g3	Gm06	C2	12336492	12336709	Wm82.a2.v1 
+649	First flower 3-g4	Gm07	M	1203910	1204081	Wm82.a2.v1 
+650	First flower 3-g5	Gm07	M	2434259	2434459	Wm82.a2.v1 
+651	First flower 3-g6	Gm09	K	18101942	18102265	Wm82.a2.v1 
+652	First flower 3-g7	Gm16	J	1293196	1293493	Wm82.a2.v1 
+653	First flower 3-g8	Gm16	J	2827903	2828132	Wm82.a2.v1 
+654	First flower 3-g9	Gm18	G	11551620	11551733	Wm82.a2.v1 
+655	First flower 3-g10	Gm18	G	43342306	43342463	Wm82.a2.v1 
+656	First flower 3-g11	Gm20	I	3903416	3903722	Wm82.a2.v1 
+657	R8 full maturity 3-g1	Gm01	D1a	54400559	54400734	Wm82.a2.v1 
+658	R8 full maturity 3-g2	Gm03	N	4363676	4364007	Wm82.a2.v1 
+659	R8 full maturity 3-g3	Gm03	N	36674235	36674461	Wm82.a2.v1 
+660	R8 full maturity 3-g4	Gm03	N	39088673	39088826	Wm82.a2.v1 
+661	R8 full maturity 3-g5	Gm04	C1	13537468	13537797	Wm82.a2.v1 
+662	R8 full maturity 3-g6	Gm18	G	11551620	11551733	Wm82.a2.v1 
+663	R8 full maturity 3-g7	Gm18	G	43342306	43342463	Wm82.a2.v1 
+664	R8 full maturity 3-g8	Gm20	I	3903416	3903722	Wm82.a2.v1 
+665	Seed weight 4-g1	Gm02	D1b	7054686	7054702	Wm82.a2.v1 
+666	Seed weight 4-g2	Gm03	N	4363676	4364007	Wm82.a2.v1 
+667	Seed weight 4-g3	Gm03	N	36674235	36674461	Wm82.a2.v1 
+668	Seed weight 4-g4	Gm05	A1	2671161	2671423	Wm82.a2.v1 
+669	Seed weight 4-g5	Gm06	C2	4256231	4256374	Wm82.a2.v1 
+670	Seed weight 4-g6	Gm06	C2	48016322	48016485	Wm82.a2.v1 
+671	Seed weight 4-g7	Gm07	M	2434259	2434459	Wm82.a2.v1 
+672	Seed weight 4-g8	Gm07	M	40919537	40919781	Wm82.a2.v1 
+673	Seed weight 4-g9	Gm10	O	2662079	2662278	Wm82.a2.v1 
+674	Seed weight 4-g10	Gm10	O	40832257	40832365	Wm82.a2.v1 
+675	Seed weight 4-g11	Gm11	B1	6906465	6906676	Wm82.a2.v1 
+676	Seed weight 4-g12	Gm12	H	9131428	9131648	Wm82.a2.v1 
+677	Seed weight 4-g13	Gm13	F	22489376	22489622	Wm82.a2.v1 
+678	Seed weight 4-g14	Gm13	F	34767428	34767721	Wm82.a2.v1 
+679	Seed weight 4-g15	Gm15	E	17021739	17021984	Wm82.a2.v1 
+680	Seed weight 4-g16	Gm16	J	2827903	2828132	Wm82.a2.v1 
+681	Seed weight 4-g17	Gm18	G	43342306	43342463	Wm82.a2.v1 
+682	Seed weight 4-g18	Gm19	L	41380304	41380452	Wm82.a2.v1 
+683	Seed weight 4-g19	Gm19	L	45576235	45576254	Wm82.a2.v1 
+684	Seed weight 4-g20	Gm19	L	48225593	48229774	Wm82.a2.v1 
+685	Pod number 3-g1	Gm01	D1a	26112323	26112350	Wm82.a2.v1 
+686	Pod number 3-g2	Gm03	N	4363676	4364007	Wm82.a2.v1 
+687	Pod number 3-g3	Gm05	A1	2671161	2671423	Wm82.a2.v1 
+688	Pod number 3-g4	Gm05	A1	35536817	35537127	Wm82.a2.v1 
+689	Pod number 3-g5	Gm06	C2	12336492	12336709	Wm82.a2.v1 
+690	Pod number 3-g6	Gm17	D2	13771477	13771699	Wm82.a2.v1 
+691	Seed yield 4-g1	Gm03	N	4363676	4364007	Wm82.a2.v1 
+692	Seed yield 4-g2	Gm03	N	36674235	36674461	Wm82.a2.v1 
+693	Seed yield 4-g3	Gm06	C2	48016322	48016485	Wm82.a2.v1 
+694	Seed yield 4-g4	Gm07	M	44364856	44365115	Wm82.a2.v1 
+695	Seed yield 4-g5	Gm19	L	41380304	41380452	Wm82.a2.v1 
+696	Seed yield 4-g6	Gm19	L	48225593	48229774	Wm82.a2.v1 
+697	First flower 4-g1	Gm01	D1a	54163222	54163222	Wm82.a2.v1 
+698	First flower 4-g2	Gm01	D1a	54583798	54583798	Wm82.a2.v1 
+699	First flower 4-g3	Gm02	D1b	10618540	10618540	Wm82.a2.v1 
+700	First flower 4-g4	Gm02	D1b	12334435	12334435	Wm82.a2.v1 
+701	First flower 4-g5	Gm02	D1b	21859307	21859307	Wm82.a2.v1 
+702	First flower 4-g6	Gm02	D1b	37285448	37285642	Wm82.a2.v1 
+703	First flower 4-g7	Gm03	N	1094327	1094327	Wm82.a2.v1 
+704	First flower 4-g8	Gm03	N	5405718	5405718	Wm82.a2.v1 
+705	First flower 4-g9	Gm03	N	34612129	34612129	Wm82.a2.v1 
+706	First flower 4-g10	Gm03	N	36506380	36506380	Wm82.a2.v1 
+707	First flower 4-g11	Gm04	C1	4546417	4546417	Wm82.a2.v1 
+708	First flower 4-g12	Gm04	C1	42002144	42002144	Wm82.a2.v1 
+709	First flower 4-g13	Gm04	C1	46095930	46095930	Wm82.a2.v1 
+710	First flower 4-g14	Gm04	C1	49518276	49518276	Wm82.a2.v1 
+711	First flower 4-g15	Gm05	A1	2357871	2357871	Wm82.a2.v1 
+712	First flower 4-g16	Gm05	A1	3428900	3428900	Wm82.a2.v1 
+713	First flower 4-g17	Gm05	A1	27082044	27082044	Wm82.a2.v1 
+714	First flower 4-g18	Gm05	A1	41712419	41712419	Wm82.a2.v1 
+715	First flower 4-g19	Gm05	A1	39990476	39990476	Wm82.a2.v1 
+716	First flower 4-g20	Gm06	C2	2104129	2104129	Wm82.a2.v1 
+717	First flower 4-g21	Gm06	C2	2280323	2280323	Wm82.a2.v1 
+718	First flower 4-g22	Gm06	C2	7233361	7233609	Wm82.a2.v1 
+719	First flower 4-g23	Gm07	M	3163093	3163093	Wm82.a2.v1 
+720	First flower 4-g24	Gm08	A2	10962094	10962094	Wm82.a2.v1 
+721	First flower 4-g25	Gm08	A2	41517241	41517241	Wm82.a2.v1 
+722	First flower 4-g26	Gm09	K	2342573	2342573	Wm82.a2.v1 
+723	First flower 4-g27	Gm09	K	26687789	26687789	Wm82.a2.v1 
+724	First flower 4-g28	Gm09	K	42499532	42499532	Wm82.a2.v1 
+725	First flower 4-g29	Gm09	K	46712862	46712862	Wm82.a2.v1 
+726	First flower 4-g30	Gm10	O	2325889	2325889	Wm82.a2.v1 
+727	First flower 4-g31	Gm11	B1	1170503	1170503	Wm82.a2.v1 
+728	First flower 4-g32	Gm11	B1	3959854	3959854	Wm82.a2.v1 
+729	First flower 4-g33	Gm11	B1	4528574	4528574	Wm82.a2.v1 
+730	First flower 4-g34	Gm11	B1	5074720	5074720	Wm82.a2.v1 
+731	First flower 4-g35	Gm11	B1	6523082	6523082	Wm82.a2.v1 
+732	First flower 4-g36	Gm11	B1	6911717	6911717	Wm82.a2.v1 
+733	First flower 4-g37	Gm11	B1	8898878	8899050	Wm82.a2.v1 
+734	First flower 4-g38	Gm11	B1	10878645	10878645	Wm82.a2.v1 
+735	First flower 4-g39	Gm11	B1	12891678	12891678	Wm82.a2.v1 
+736	First flower 4-g40	Gm11	B1	26458968	26458968	Wm82.a2.v1 
+737	First flower 4-g41	Gm11	B1	11133013	11133013	Wm82.a2.v1 
+738	First flower 4-g42	Gm11	B1	21933518	21933518	Wm82.a2.v1 
+739	First flower 4-g43	Gm11	B1	28206933	28206933	Wm82.a2.v1 
+740	First flower 4-g44	Gm11	B1	28729491	28729491	Wm82.a2.v1 
+741	First flower 4-g45	Gm11	B1	31699831	31699831	Wm82.a2.v1 
+742	First flower 4-g46	Gm12	H	5797709	5797709	Wm82.a2.v1 
+743	First flower 4-g47	Gm12	H	8468710	8468710	Wm82.a2.v1 
+744	First flower 4-g48	Gm12	H	13421597	13421597	Wm82.a2.v1 
+745	First flower 4-g49	Gm12	H	14306367	14306367	Wm82.a2.v1 
+746	First flower 4-g50	Gm13	F	10248427	10248637	Wm82.a2.v1 
+747	First flower 4-g51	Gm13	F	24996808	24996808	Wm82.a2.v1 
+748	First flower 4-g52	Gm13	F	40486199	40486199	Wm82.a2.v1 
+749	First flower 4-g53	Gm14	B2	7409636	7409636	Wm82.a2.v1 
+750	First flower 4-g54	Gm14	B2	43972963	43972963	Wm82.a2.v1 
+751	First flower 4-g55	Gm14	B2	44735794	44735794	Wm82.a2.v1 
+752	First flower 4-g56	Gm14	B2	48662141	48662141	Wm82.a2.v1 
+753	First flower 4-g57	Gm15	E	1265085	1265085	Wm82.a2.v1 
+754	First flower 4-g58	Gm15	E	13116982	13116982	Wm82.a2.v1 
+755	First flower 4-g59	Gm15	E	25503545	25503545	Wm82.a2.v1 
+756	First flower 4-g60	Gm15	E	38447399	38447399	Wm82.a2.v1 
+757	First flower 4-g61	Gm15	E	39682051	39682259	Wm82.a2.v1 
+758	First flower 4-g62	Gm15	E	45731853	45731853	Wm82.a2.v1 
+759	First flower 4-g63	Gm16	J	5799540	5799540	Wm82.a2.v1 
+760	First flower 4-g64	Gm16	J	31114264	31114264	Wm82.a2.v1 
+761	First flower 4-g65	Gm16	J	31134540	31134540	Wm82.a2.v1 
+762	First flower 4-g66	Gm16	J	36203537	36203537	Wm82.a2.v1 
+763	First flower 4-g67	Gm17	D2	37284864	37284864	Wm82.a2.v1 
+764	First flower 4-g68	Gm17	D2	40796421	40796421	Wm82.a2.v1 
+765	First flower 4-g69	Gm18	G	4344194	4344194	Wm82.a2.v1 
+766	First flower 4-g70	Gm18	G	24606879	24606879	Wm82.a2.v1 
+767	First flower 4-g71	Gm18	G	34206640	34206640	Wm82.a2.v1 
+768	First flower 4-g72	Gm18	G	43342306	43342463	Wm82.a2.v1 
+769	First flower 4-g73	Gm18	G	52856594	52856594	Wm82.a2.v1 
+770	First flower 4-g74	Gm19	L	5182596	5182596	Wm82.a2.v1 
+771	First flower 4-g75	Gm19	L	35637955	35637955	Wm82.a2.v1 
+772	First flower 4-g76	Gm19	L	39924241	39924241	Wm82.a2.v1 
+773	First flower 4-g77	Gm19	L	42311222	42311495	Wm82.a2.v1 
+774	First flower 4-g78	Gm19	L	46227880	46228107	Wm82.a2.v1 
+775	First flower 4-g79	Gm19	L	46878915	46878915	Wm82.a2.v1 
+776	First flower 4-g80	Gm19	L	47167396	47167618	Wm82.a2.v1 
+777	First flower 4-g81	Gm19	L	47636152	47636152	Wm82.a2.v1 
+778	First flower 4-g82	Gm19	L	49906750	49906750	Wm82.a2.v1 
+779	First flower 4-g83	Gm20	I	1287393	1287548	Wm82.a2.v1 
+780	First flower 4-g84	Gm20	I	3867301	3867301	Wm82.a2.v1 
+781	First flower 4-g85	Gm20	I	38957276	38957276	Wm82.a2.v1 
+782	First flower 4-g86	Gm20	I	44268681	44268681	Wm82.a2.v1 
+783	First flower 4-g87	Gm20	I	45385596	45385596	Wm82.a2.v1 
+784	Seed isoflavone 1-g1	Gm01	D1a	18427457	18427457	Wm82.a2.v1 
+785	Seed isoflavone 1-g2	Gm01	D1a	48550634	48550634	Wm82.a2.v1 
+786	Seed isoflavone 1-g3	Gm02	D1b	7644953	7644953	Wm82.a2.v1 
+787	Seed isoflavone 1-g4	Gm02	D1b	9665787	9665787	Wm82.a2.v1 
+788	Seed isoflavone 1-g5	Gm02	D1b	9763140	9763140	Wm82.a2.v1 
+789	Seed isoflavone 1-g6	Gm02	D1b	21930371	21930371	Wm82.a2.v1 
+790	Seed isoflavone 1-g7	Gm02	D1b	31375330	31375330	Wm82.a2.v1 
+791	Seed isoflavone 1-g8	Gm03	N	2289038	2289038	Wm82.a2.v1 
+792	Seed isoflavone 1-g9	Gm03	N	4827545	4827545	Wm82.a2.v1 
+793	Seed isoflavone 1-g10	Gm03	N	15708348	15708348	Wm82.a2.v1 
+794	Seed isoflavone 1-g11	Gm03	N	22671129	22671129	Wm82.a2.v1 
+795	Seed isoflavone 1-g12	Gm03	N	29166645	29166645	Wm82.a2.v1 
+796	Seed isoflavone 1-g13	Gm03	N	35773496	35773496	Wm82.a2.v1 
+797	Seed isoflavone 1-g14	Gm03	N	36152319	36152319	Wm82.a2.v1 
+798	Seed isoflavone 1-g15	Gm04	C1	3434561	3434561	Wm82.a2.v1 
+799	Seed isoflavone 1-g16	Gm04	C1	8556335	8556335	Wm82.a2.v1 
+800	Seed isoflavone 1-g17	Gm04	C1	10946510	10946510	Wm82.a2.v1 
+801	Seed isoflavone 1-g18	Gm04	C1	23610412	23610412	Wm82.a2.v1 
+802	Seed isoflavone 1-g19	Gm04	C1	50699328	50699328	Wm82.a2.v1 
+803	Seed isoflavone 1-g20	Gm05	A1	23880950	23880950	Wm82.a2.v1 
+804	Seed isoflavone 1-g21	Gm05	A1	38521436	38521436	Wm82.a2.v1 
+805	Seed isoflavone 1-g22	Gm05	A1	41371562	41371562	Wm82.a2.v1 
+806	Seed isoflavone 1-g23	Gm06	C2	30507058	30507058	Wm82.a2.v1 
+807	Seed isoflavone 1-g24	Gm08	A2	2024128	2024128	Wm82.a2.v1 
+808	Seed isoflavone 1-g25	Gm08	A2	15354741	15354741	Wm82.a2.v1 
+809	Seed isoflavone 1-g26	Gm09	K	30084398	30084398	Wm82.a2.v1 
+810	Seed isoflavone 1-g27	Gm09	K	34921967	34921967	Wm82.a2.v1 
+811	Seed isoflavone 1-g28	Gm10	O	23605189	23605189	Wm82.a2.v1 
+812	Seed isoflavone 1-g29	Gm10	O	46629832	46629832	Wm82.a2.v1 
+813	Seed isoflavone 1-g30	Gm10	O	48995252	48995252	Wm82.a2.v1 
+814	Seed isoflavone 1-g31	Gm12	H	21011320	21011320	Wm82.a2.v1 
+815	Seed isoflavone 1-g32	Gm13	F	37088743	37088743	Wm82.a2.v1 
+816	Seed isoflavone 1-g33	Gm14	B2	14530947	14530947	Wm82.a2.v1 
+817	Seed isoflavone 1-g34	Gm15	E	11618019	11618019	Wm82.a2.v1 
+818	Seed isoflavone 1-g35	Gm15	E	48071457	48071457	Wm82.a2.v1 
+819	Seed isoflavone 1-g36	Gm18	G	46393508	46393508	Wm82.a2.v1 
+820	Seed isoflavone 1-g37	Gm18	G	51866256	51866256	Wm82.a2.v1 
+821	Seed isoflavone 1-g38	Gm18	G	53080827	53080827	Wm82.a2.v1 
+822	Seed isoflavone 1-g39	Gm18	G	56722105	56722105	Wm82.a2.v1 
+823	Seed isoflavone 1-g40	Gm19	L	3215723	3215723	Wm82.a2.v1 
+824	Seed isoflavone 1-g41	Gm20	I	10105383	10105383	Wm82.a2.v1 
+825	Seed isoflavone 1-g42	Gm20	I	20382565	20382565	Wm82.a2.v1 
+826	Seed isoflavone 1-g43	Gm20	I	27260157	27260157	Wm82.a2.v1 
+827	Seed isoflavone 1-g44	Gm20	I	37053466	37053466	Wm82.a2.v1 
+828	Seed oil 3-g1	Gm04	C1	43305171	43305451	Wm82.a2.v1 
+829	Seed oil 3-g2	Gm18	G	3626442	3626636	Wm82.a2.v1 
+830	Seed oil 3-g3	Gm06	C2	4256231	4256374	Wm82.a2.v1 
+831	Seed oil 3-g4	Gm06	C2	6529270	6529452	Wm82.a2.v1 
+832	Seed oil 3-g5	Gm01	D1a	55166202	55166350	Wm82.a2.v1 
+833	Seed oil 3-g6	Gm17	D2	38763354	38763579	Wm82.a2.v1 
+834	Seed oil 3-g7	Gm18	G	4639971	4640389	Wm82.a2.v1 
+835	Seed oil 3-g8	Gm20	I	25275083	25275269	Wm82.a2.v1 
+836	Seed oil 3-g9	Gm20	I	1287393	1287548	Wm82.a2.v1 
+837	Seed oil 3-g10	Gm19	L	2059590	2059807	Wm82.a2.v1 
+838	Seed oil 3-g11	Gm19	L	49312675	49312922	Wm82.a2.v1 
+839	Seed oil 3-g12	Gm07	M	42822283	42822449	Wm82.a2.v1 
+840	Seed oil 3-g13	Gm07	M	8283245	8283465	Wm82.a2.v1 
+841	Seed oil 3-g14	Gm03	N	34016929	34017143	Wm82.a2.v1 
+842	Seed palmitic 1-g1	Gm08	A2	47217842	47218105	Wm82.a2.v1 
+843	Seed palmitic 1-g2	scaffold_28	A2	40335	40560	Wm82.a2.v1 
+844	Seed palmitic 1-g3	Gm04	C1	43305171	43305451	Wm82.a2.v1 
+845	Seed palmitic 1-g4	Gm01	D1a	55166202	55166350	Wm82.a2.v1 
+846	Seed palmitic 1-g5	Gm17	D2	40470356	40470549	Wm82.a2.v1 
+847	Seed palmitic 1-g6	Gm15	E	24834013	24834152	Wm82.a2.v1 
+848	Seed palmitic 1-g7	Gm13	F	29609521	29609720	Wm82.a2.v1 
+849	Seed palmitic 1-g8	Gm13	F	10248427	10248637	Wm82.a2.v1 
+850	Seed palmitic 1-g9	Gm18	G	21906039	21906282	Wm82.a2.v1 
+851	Seed palmitic 1-g10	Gm18	G	5927346	5927581	Wm82.a2.v1 
+852	Seed palmitic 1-g11	Gm20	I	35362576	35362794	Wm82.a2.v1 
+853	Seed palmitic 1-g12	Gm20	I	1882497	1882695	Wm82.a2.v1 
+854	Seed palmitic 1-g13	Gm20	I	1287393	1287548	Wm82.a2.v1 
+855	Seed palmitic 1-g14	Gm16	J	37330986	37331159	Wm82.a2.v1 
+856	Seed palmitic 1-g15	Gm07	M	8233953	8234168	Wm82.a2.v1 
+857	Seed palmitic 1-g16	Gm09	K	31170289	31170405	Wm82.a2.v1 
+858	Seed palmitic 1-g17	Gm09	K	46515608	46515796	Wm82.a2.v1 
+859	Seed palmitic 1-g18	Gm19	L	2059590	2059807	Wm82.a2.v1 
+860	Seed palmitic 1-g19	Gm19	L	47167396	47167618	Wm82.a2.v1 
+861	Seed palmitic 1-g20	Gm19	L	42119600	42119863	Wm82.a2.v1 
+862	Seed palmitic 1-g21	Gm07	M	5010696	5010849	Wm82.a2.v1 
+863	Seed palmitic 1-g22	Gm03	N	5669644	5669877	Wm82.a2.v1 
+864	Seed palmitic 1-g23	Gm10	O	12355353	12355600	Wm82.a2.v1 
+865	Seed palmitic 1-g24	Gm10	O	1395587	1395790	Wm82.a2.v1 
+866	Seed oleic 1-g1	Gm11	B1	31753982	31754238	Wm82.a2.v1 
+867	Seed oleic 1-g2	Gm14	B2	17406101	17406274	Wm82.a2.v1 
+868	Seed oleic 1-g3	scaffold_28	B2	40335	40560	Wm82.a2.v1 
+869	Seed oleic 1-g4	Gm14	B2	45041539	45041723	Wm82.a2.v1 
+870	Seed oleic 1-g5	Gm04	C1	43305171	43305451	Wm82.a2.v1 
+871	Seed oleic 1-g6	Gm01	D1a	55166202	55166350	Wm82.a2.v1 
+872	Seed oleic 1-g7	Gm02	D1b	4104651	4104841	Wm82.a2.v1 
+873	Seed oleic 1-g8	Gm02	D1b	45267040	45267222	Wm82.a2.v1 
+874	Seed oleic 1-g9	Gm02	D1b	29355267	29355465	Wm82.a2.v1 
+875	Seed oleic 1-g10	Gm17	D2	8817810	8817935	Wm82.a2.v1 
+876	Seed oleic 1-g11	Gm17	D2	40470356	40470549	Wm82.a2.v1 
+877	Seed oleic 1-g12	Gm17	D2	13771477	13771699	Wm82.a2.v1 
+878	Seed oleic 1-g13	Gm15	E	28489658	28489879	Wm82.a2.v1 
+879	Seed oleic 1-g14	Gm13	F	32721481	32721640	Wm82.a2.v1 
+880	Seed oleic 1-g15	Gm13	F	10248427	10248637	Wm82.a2.v1 
+881	Seed oleic 1-g16	Gm13	F	34767428	34767721	Wm82.a2.v1 
+882	Seed oleic 1-g17	Gm18	G	1344090	1344260	Wm82.a2.v1 
+883	Seed oleic 1-g18	Gm18	G	21906039	21906282	Wm82.a2.v1 
+884	Seed oleic 1-g19	Gm20	I	35362576	35362794	Wm82.a2.v1 
+885	Seed oleic 1-g20	Gm20	I	40623814	40624043	Wm82.a2.v1 
+886	Seed oleic 1-g21	Gm20	I	1882497	1882695	Wm82.a2.v1 
+887	Seed oleic 1-g22	Gm20	I	1287393	1287548	Wm82.a2.v1 
+888	Seed oleic 1-g23	Gm16	J	37330986	37331159	Wm82.a2.v1 
+889	Seed oleic 1-g24	Gm07	M	8233953	8234168	Wm82.a2.v1 
+890	Seed oleic 1-g25	Gm16	J	14155157	14155412	Wm82.a2.v1 
+891	Seed oleic 1-g26	Gm09	K	31170289	31170405	Wm82.a2.v1 
+892	Seed oleic 1-g27	Gm09	K	46515608	46515796	Wm82.a2.v1 
+893	Seed oleic 1-g28	Gm19	L	2059590	2059807	Wm82.a2.v1 
+894	Seed oleic 1-g29	Gm19	L	42119600	42119863	Wm82.a2.v1 
+895	Seed oleic 1-g30	Gm07	M	5010696	5010849	Wm82.a2.v1 
+896	Seed oleic 1-g31	Gm03	N	33418861	33419014	Wm82.a2.v1 
+897	Seed oleic 1-g32	Gm03	N	34554705	34554909	Wm82.a2.v1 
+898	Seed oleic 1-g33	Gm10	O	1395587	1395790	Wm82.a2.v1 
+899	Seed linoleic 1-g1	Gm11	B1	31753982	31754238	Wm82.a2.v1 
+900	Seed linoleic 1-g2	Gm14	B2	17406101	17406274	Wm82.a2.v1 
+901	Seed linoleic 1-g3	Gm14	B2	45041539	45041723	Wm82.a2.v1 
+902	Seed linoleic 1-g4	Gm04	C1	43305171	43305451	Wm82.a2.v1 
+903	Seed linoleic 1-g5	Gm01	D1a	55166202	55166350	Wm82.a2.v1 
+904	Seed linoleic 1-g6	Gm02	D1b	4104651	4104841	Wm82.a2.v1 
+905	Seed linoleic 1-g7	Gm02	D1b	29355267	29355465	Wm82.a2.v1 
+906	Seed linoleic 1-g8	Gm17	D2	8817810	8817935	Wm82.a2.v1 
+907	Seed linoleic 1-g9	Gm17	D2	40470356	40470549	Wm82.a2.v1 
+908	Seed linoleic 1-g10	Gm15	E	28489658	28489879	Wm82.a2.v1 
+909	Seed linoleic 1-g11	Gm13	F	32721481	32721640	Wm82.a2.v1 
+910	Seed linoleic 1-g12	Gm13	F	10248427	10248637	Wm82.a2.v1 
+911	Seed linoleic 1-g13	Gm13	F	34767428	34767721	Wm82.a2.v1 
+912	Seed linoleic 1-g14	Gm18	G	1344090	1344260	Wm82.a2.v1 
+913	Seed linoleic 1-g15	Gm18	G	21906039	21906282	Wm82.a2.v1 
+914	Seed linoleic 1-g16	Gm20	I	35362576	35362794	Wm82.a2.v1 
+915	Seed linoleic 1-g17	Gm20	I	40623814	40624043	Wm82.a2.v1 
+916	Seed linoleic 1-g18	Gm20	I	1287393	1287548	Wm82.a2.v1 
+917	Seed linoleic 1-g19	Gm16	J	37330986	37331159	Wm82.a2.v1 
+918	Seed linoleic 1-g20	Gm07	M	8233953	8234168	Wm82.a2.v1 
+919	Seed linoleic 1-g21	Gm16	J	14155157	14155412	Wm82.a2.v1 
+920	Seed linoleic 1-g22	Gm09	K	46515608	46515796	Wm82.a2.v1 
+921	Seed linoleic 1-g23	Gm19	L	42119600	42119863	Wm82.a2.v1 
+922	Seed linoleic 1-g24	Gm03	N	33418861	33419014	Wm82.a2.v1 
+923	Seed linoleic 1-g25	Gm03	N	34554705	34554909	Wm82.a2.v1 
+924	Seed linoleic 1-g26	Gm10	O	1395587	1395790	Wm82.a2.v1 
+925	Seed linolenic 1-g1	Gm11	B1	31753982	31754238	Wm82.a2.v1 
+926	Seed linolenic 1-g2	scaffold_28	B1	40335	40560	Wm82.a2.v1 
+927	Seed linolenic 1-g3	Gm04	C1	43305171	43305451	Wm82.a2.v1 
+928	Seed linolenic 1-g4	Gm04	C1	7891669	7891823	Wm82.a2.v1 
+929	Seed linolenic 1-g5	Gm17	D2	8817810	8817935	Wm82.a2.v1 
+930	Seed linolenic 1-g6	Gm17	D2	40470356	40470549	Wm82.a2.v1 
+931	Seed linolenic 1-g7	Gm13	F	10248427	10248637	Wm82.a2.v1 
+932	Seed linolenic 1-g8	Gm20	I	35362576	35362794	Wm82.a2.v1 
+933	Seed linolenic 1-g9	Gm20	I	1287393	1287548	Wm82.a2.v1 
+934	Seed linolenic 1-g10	Gm16	J	37330986	37331159	Wm82.a2.v1 
+935	Seed linolenic 1-g11	Gm07	M	8233953	8234168	Wm82.a2.v1 
+936	Seed linolenic 1-g12	Gm16	J	14155157	14155412	Wm82.a2.v1 
+937	Seed linolenic 1-g13	Gm10	O	1395587	1395790	Wm82.a2.v1 
+938	Ureide content 1-g1.1	Gm01	D1a	50879523	50879523	Wm82.a2.v1 
+939	Ureide content 1-g1.2	Gm01	D1a	50933494	50933494	Wm82.a2.v1 
+940	Ureide content 1-g1.3	Gm01	D1a	50945345	50945345	Wm82.a2.v1 
+941	Ureide content 1-g1.4	Gm01	D1a	50947984	50947984	Wm82.a2.v1 
+942	Ureide content 1-g2	Gm02	D1b	708415	708415	Wm82.a2.v1 
+943	Ureide content 1-g3.1	Gm02	D1b	11831588	11831588	Wm82.a2.v1 
+944	Ureide content 1-g3.2	Gm02	D1b	11832657	11832657	Wm82.a2.v1 
+945	Ureide content 1-g4.1	Gm02	D1b	40456364	40456364	Wm82.a2.v1 
+946	Ureide content 1-g4.2	Gm02	D1b	40700381	40700381	Wm82.a2.v1 
+947	Ureide content 1-g4.3	Gm02	D1b	40701593	40701593	Wm82.a2.v1 
+948	Ureide content 1-g4.4	Gm02	D1b	40714703	40714703	Wm82.a2.v1 
+949	Ureide content 1-g4.5	Gm02	D1b	40934117	40934117	Wm82.a2.v1 
+950	Ureide content 1-g4.6	Gm02	D1b	40974521	40974521	Wm82.a2.v1 
+951	Ureide content 1-g5.1	Gm02	D1b	44765738	44765738	Wm82.a2.v1 
+952	Ureide content 1-g5.2	Gm02	D1b	44766619	44766619	Wm82.a2.v1 
+953	Ureide content 1-g6.1	Gm03	N	1940246	1940246	Wm82.a2.v1 
+954	Ureide content 1-g6.2	Gm03	N	2162550	2162550	Wm82.a2.v1 
+955	Ureide content 1-g6.3	Gm03	N	2192269	2192269	Wm82.a2.v1 
+956	Ureide content 1-g6.4	Gm03	N	2203098	2203098	Wm82.a2.v1 
+957	Ureide content 1-g7	scaffold_75	N	56395	56395	Wm82.a2.v1 
+958	Ureide content 1-g8	Gm04	C1	11757558	11757558	Wm82.a2.v1 
+959	Ureide content 1-g9	Gm03	N	23204816	23204816	Wm82.a2.v1 
+960	Ureide content 1-g10.1	Gm03	N	24142651	24142651	Wm82.a2.v1 
+961	Ureide content 1-g10.2	Gm03	N	24765105	24765105	Wm82.a2.v1 
+962	Ureide content 1-g11.1	Gm03	N	33307179	33307179	Wm82.a2.v1 
+963	Ureide content 1-g11.2	Gm03	N	33335643	33335643	Wm82.a2.v1 
+964	Ureide content 1-g11.3	Gm03	N	33427045	33427045	Wm82.a2.v1 
+965	Ureide content 1-g12	Gm03	N	42511158	42511158	Wm82.a2.v1 
+966	Ureide content 1-g13.1	Gm03	N	44054682	44054682	Wm82.a2.v1 
+967	Ureide content 1-g13.2	Gm03	N	44057800	44057800	Wm82.a2.v1 
+968	Ureide content 1-g13.3	Gm03	N	44059945	44059945	Wm82.a2.v1 
+969	Ureide content 1-g13.4	Gm03	N	44064424	44064424	Wm82.a2.v1 
+970	Ureide content 1-g13.5	Gm03	N	44071254	44071254	Wm82.a2.v1 
+971	Ureide content 1-g14	Gm04	C1	8365264	8365264	Wm82.a2.v1 
+972	Ureide content 1-g15	Gm05	A1	2666291	2666291	Wm82.a2.v1 
+973	Ureide content 1-g16.1	Gm05	A1	34333499	34333499	Wm82.a2.v1 
+974	Ureide content 1-g16.2	Gm05	A1	34335534	34335534	Wm82.a2.v1 
+975	Ureide content 1-g17	Gm05	A1	41398449	41398449	Wm82.a2.v1 
+976	Ureide content 1-g18	Gm06	C2	19939444	19939444	Wm82.a2.v1 
+977	Ureide content 1-g19	Gm06	C2	21632969	21632969	Wm82.a2.v1 
+978	Ureide content 1-g20.1	Gm06	C2	40054221	40054221	Wm82.a2.v1 
+979	Ureide content 1-g20.2	Gm06	C2	40116656	40116656	Wm82.a2.v1 
+980	Ureide content 1-g20.3	Gm06	C2	40229396	40229396	Wm82.a2.v1 
+981	Ureide content 1-g21.1	Gm07	M	11316809	11316809	Wm82.a2.v1 
+982	Ureide content 1-g21.2	Gm07	M	11308453	11308453	Wm82.a2.v1 
+983	Ureide content 1-g21.3	Gm07	M	11305723	11305723	Wm82.a2.v1 
+984	Ureide content 1-g21.4	Gm07	M	11259155	11259155	Wm82.a2.v1 
+985	Ureide content 1-g21.5	Gm07	M	11249323	11249323	Wm82.a2.v1 
+986	Ureide content 1-g21.6	Gm07	M	11239554	11239554	Wm82.a2.v1 
+987	Ureide content 1-g21.7	Gm07	M	11238773	11238773	Wm82.a2.v1 
+988	Ureide content 1-g21.8	Gm07	M	11235432	11235432	Wm82.a2.v1 
+989	Ureide content 1-g21.9	Gm07	M	11213164	11213164	Wm82.a2.v1 
+990	Ureide content 1-g21.10	Gm07	M	11212430	11212430	Wm82.a2.v1 
+991	Ureide content 1-g21.11	Gm07	M	11190796	11190796	Wm82.a2.v1 
+992	Ureide content 1-g21.12	Gm07	M	10989338	10989338	Wm82.a2.v1 
+993	Ureide content 1-g21.13	Gm07	M	10985740	10985740	Wm82.a2.v1 
+994	Ureide content 1-g21.14	Gm07	M	10979879	10979879	Wm82.a2.v1 
+995	Ureide content 1-g21.15	Gm07	M	10943461	10943461	Wm82.a2.v1 
+996	Ureide content 1-g21.16	Gm07	M	10921274	10921274	Wm82.a2.v1 
+997	Ureide content 1-g21.17	Gm07	M	10903246	10903246	Wm82.a2.v1 
+998	Ureide content 1-g21.18	Gm07	M	10901090	10901090	Wm82.a2.v1 
+999	Ureide content 1-g21.19	Gm07	M	10899434	10899434	Wm82.a2.v1 
+1000	Ureide content 1-g21.20	Gm07	M	10859556	10859556	Wm82.a2.v1 
+1001	Ureide content 1-g21.21	Gm07	M	10834338	10834338	Wm82.a2.v1 
+1002	Ureide content 1-g21.22	Gm07	M	10827868	10827868	Wm82.a2.v1 
+1003	Ureide content 1-g21.23	Gm07	M	10824465	10824465	Wm82.a2.v1 
+1004	Ureide content 1-g21.24	Gm07	M	10814477	10814477	Wm82.a2.v1 
+1005	Ureide content 1-g21.25	Gm07	M	10806937	10806937	Wm82.a2.v1 
+1006	Ureide content 1-g21.26	Gm07	M	10781860	10781860	Wm82.a2.v1 
+1007	Ureide content 1-g22	Gm07	M	36782439	36782439	Wm82.a2.v1 
+1008	Ureide content 1-g23	Gm07	M	36790123	36790123	Wm82.a2.v1 
+1009	Ureide content 1-g24	Gm07	M	36794240	36794240	Wm82.a2.v1 
+1010	Ureide content 1-g23	Gm09	K	4711242	4711242	Wm82.a2.v1 
+1011	Ureide content 1-g24.1	Gm10	O	2230040	2230040	Wm82.a2.v1 
+1012	Ureide content 1-g24.2	Gm10	O	2238425	2238425	Wm82.a2.v1 
+1013	Ureide content 1-g24.3	Gm10	O	2239027	2239027	Wm82.a2.v1 
+1014	Ureide content 1-g25.1	Gm10	O	4545552	4545552	Wm82.a2.v1 
+1015	Ureide content 1-g25.2	Gm10	O	4546845	4546845	Wm82.a2.v1 
+1016	Ureide content 1-g25.3	Gm10	O	4547616	4547616	Wm82.a2.v1 
+1017	Ureide content 1-g25.4	Gm10	O	4625079	4625079	Wm82.a2.v1 
+1018	Ureide content 1-g25.5	Gm10	O	4643206	4643206	Wm82.a2.v1 
+1019	Ureide content 1-g26.1	Gm10	O	39380403	39380403	Wm82.a2.v1 
+1020	Ureide content 1-g26.2	Gm10	O	39525067	39525067	Wm82.a2.v1 
+1021	Ureide content 1-g26.3	Gm10	O	39546510	39546510	Wm82.a2.v1 
+1022	Ureide content 1-g27.1	Gm10	O	44667217	44667217	Wm82.a2.v1 
+1023	Ureide content 1-g27.2	Gm10	O	44671785	44671785	Wm82.a2.v1 
+1024	Ureide content 1-g27.3	Gm10	O	44990199	44990199	Wm82.a2.v1 
+1025	Ureide content 1-g27.4	Gm10	O	44998042	44998042	Wm82.a2.v1 
+1026	Ureide content 1-g27.5	Gm10	O	45009425	45009425	Wm82.a2.v1 
+1027	Ureide content 1-g27.6	Gm10	O	45015062	45015062	Wm82.a2.v1 
+1028	Ureide content 1-g27.7	Gm10	O	45022163	45022163	Wm82.a2.v1 
+1029	Ureide content 1-g27.8	Gm10	O	45226484	45226484	Wm82.a2.v1 
+1030	Ureide content 1-g28	Gm11	B1	879577	879577	Wm82.a2.v1 
+1031	Ureide content 1-g29	Gm11	B1	5199343	5199343	Wm82.a2.v1 
+1032	Ureide content 1-g30	Gm11	B1	30864415	30864415	Wm82.a2.v1 
+1033	Ureide content 1-g31.1	Gm12	H	2292478	2292478	Wm82.a2.v1 
+1034	Ureide content 1-g31.2	Gm12	H	2293283	2293283	Wm82.a2.v1 
+1035	Ureide content 1-g31.3	Gm12	H	2297984	2297984	Wm82.a2.v1 
+1036	Ureide content 1-g31.4	Gm12	H	2307989	2307989	Wm82.a2.v1 
+1037	Ureide content 1-g31.5	Gm12	H	2309770	2309770	Wm82.a2.v1 
+1038	Ureide content 1-g31.6	Gm12	H	2315489	2315489	Wm82.a2.v1 
+1039	Ureide content 1-g32.1	Gm12	H	34580948	34580948	Wm82.a2.v1 
+1040	Ureide content 1-g32.2	Gm12	H	34739995	34739995	Wm82.a2.v1 
+1041	Ureide content 1-g32.3	Gm12	H	34753977	34753977	Wm82.a2.v1 
+1042	Ureide content 1-g32.4	Gm12	H	34835208	34835208	Wm82.a2.v1 
+1043	Ureide content 1-g32.5	Gm12	H	34851942	34851942	Wm82.a2.v1 
+1044	Ureide content 1-g32.6	Gm12	H	34856705	34856705	Wm82.a2.v1 
+1045	Ureide content 1-g32.7	Gm12	H	34858016	34858016	Wm82.a2.v1 
+1046	Ureide content 1-g33.1	Gm13	F	18242340	18242340	Wm82.a2.v1 
+1047	Ureide content 1-g33.2	Gm13	F	18229150	18229150	Wm82.a2.v1 
+1048	Ureide content 1-g34	Gm13	F	25040804	25040804	Wm82.a2.v1 
+1049	Ureide content 1-g35.1	Gm13	F	40705516	40705516	Wm82.a2.v1 
+1050	Ureide content 1-g35.2	Gm13	F	40726258	40726258	Wm82.a2.v1 
+1051	Ureide content 1-g35.3	Gm13	F	40771845	40771845	Wm82.a2.v1 
+1052	Ureide content 1-g35.4	Gm13	F	40775303	40775303	Wm82.a2.v1 
+1053	Ureide content 1-g35.5	Gm13	F	40780428	40780428	Wm82.a2.v1 
+1054	Ureide content 1-g35.6	Gm13	F	40786052	40786052	Wm82.a2.v1 
+1055	Ureide content 1-g35.7	Gm13	F	40792630	40792630	Wm82.a2.v1 
+1056	Ureide content 1-g35.8	Gm13	F	40793063	40793063	Wm82.a2.v1 
+1057	Ureide content 1-g35.9	Gm13	F	40842247	40842247	Wm82.a2.v1 
+1058	Ureide content 1-g36	Gm14	B2	3659474	3659474	Wm82.a2.v1 
+1059	Ureide content 1-g37	Gm14	B2	5895058	5895058	Wm82.a2.v1 
+1060	Ureide content 1-g38	Gm14	B2	45714073	45714073	Wm82.a2.v1 
+1061	Ureide content 1-g39	Gm14	B2	47119293	47119293	Wm82.a2.v1 
+1062	Ureide content 1-g40.1	Gm15	E	14605950	14605950	Wm82.a2.v1 
+1063	Ureide content 1-g40.2	Gm15	E	14630610	14630610	Wm82.a2.v1 
+1064	Ureide content 1-g41	Gm15	E	15768186	15768186	Wm82.a2.v1 
+1065	Ureide content 1-g42	Gm15	E	36329398	36329398	Wm82.a2.v1 
+1066	Ureide content 1-g43	Gm16	J	7343508	7343508	Wm82.a2.v1 
+1067	Ureide content 1-g44	Gm18	G	458284	458284	Wm82.a2.v1 
+1068	Ureide content 1-g45	Gm18	G	3963889	3963889	Wm82.a2.v1 
+1069	Ureide content 1-g46	Gm18	G	43495284	43495284	Wm82.a2.v1 
+1070	Ureide content 1-g47	Gm18	G	46858485	46858485	Wm82.a2.v1 
+1071	Ureide content 1-g48.1	Gm18	G	53162034	53162034	Wm82.a2.v1 
+1072	Ureide content 1-g48.2	Gm18	G	53182301	53182301	Wm82.a2.v1 
+1073	Ureide content 1-g48.3	Gm18	G	53185492	53185492	Wm82.a2.v1 
+1074	Ureide content 1-g49	Gm19	L	46129236	46129236	Wm82.a2.v1 
+1075	Ureide content 1-g50.1	Gm19	L	46878915	46878915	Wm82.a2.v1 
+1076	Ureide content 1-g50.2	Gm19	L	46940649	46940649	Wm82.a2.v1 
+1077	Ureide content 1-g50.3	Gm19	L	47187424	47187424	Wm82.a2.v1 
+1078	Ureide content 1-g50.4	Gm19	L	47194478	47194478	Wm82.a2.v1 
+1079	Ureide content 1-g51	Gm20	I	1478527	1478527	Wm82.a2.v1 
+1080	Ureide content 1-g52.1	Gm20	I	36729173	36729173	Wm82.a2.v1 
+1081	Ureide content 1-g52.2	Gm20	I	36776799	36776799	Wm82.a2.v1 
+1082	Ureide content 1-g52.3	Gm20	I	37015984	37015984	Wm82.a2.v1 
+1083	Ureide content 1-g53	Gm20	I	45726525	45726525	Wm82.a2.v1 
+1084	Flower color 1-g1	Gm13	F	18211927	18211927	Wm82.a2.v1 
+1085	Pubescence color 1-g1	Gm06	C2	18844283	18844283	Wm82.a2.v1 
+1086	Hilum color 1-g1	Gm08	A2	8508938	8508938	Wm82.a2.v1 
+1087	Hilum color 1-g2	Gm09	K	45660731	45660731	Wm82.a2.v1 
+1088	R8 full maturity 4-g1	Gm19	L	47590801	47590801	Wm82.a2.v1 
+1089	Plant height 4-g1	Gm19	L	47680091	47680091	Wm82.a2.v1 
+1090	Seed weight 6-g1	Gm02	D1b	8177110	8177110	Wm82.a2.v1 
+1091	Seed weight 6-g2	Gm13	F	30195118	30195118	Wm82.a2.v1 
+1092	Seed weight 6-g3	Gm20	I	43667906	43667906	Wm82.a2.v1 
+1093	Seed oil 5-g1	Gm05	A1	31380926	31380926	Wm82.a2.v1 
+1094	Seed oil 5-g2	Gm08	A2	46415576	46415576	Wm82.a2.v1 
+1095	Seed oil 5-g3	Gm10	O	1815850	1815850	Wm82.a2.v1 
+1096	Seed oil 5-g4	Gm14	B2	65161	65161	Wm82.a2.v1 
+1097	Seed oil 5-g5	Gm16	J	4204153	4204153	Wm82.a2.v1 
+1098	Seed oil 5-g6	Gm19	L	50539611	50539611	Wm82.a2.v1 
+1099	Seed oil 5-g7	Gm20	I	18345755	18345755	Wm82.a2.v1 
+1100	Seed oil 5-g8	Gm20	I	31866045	31866045	Wm82.a2.v1 
+1101	Seed protein 4-g1	Gm05	A1	31380926	31380926	Wm82.a2.v1 
+1102	Seed protein 4-g2	Gm08	A2	46415576	46415576	Wm82.a2.v1 
+1103	Seed protein 4-g3	Gm10	O	1330775	1330775	Wm82.a2.v1 
+1104	Seed protein 4-g4	Gm14	B2	126916	126916	Wm82.a2.v1 
+1105	Seed protein 4-g5	Gm16	J	4204153	4204153	Wm82.a2.v1 
+1106	Seed protein 4-g6	Gm19	L	50539611	50539611	Wm82.a2.v1 
+1107	Seed protein 4-g7	Gm20	I	18345755	18345755	Wm82.a2.v1 
+1108	Seed protein 4-g8	Gm20	I	31756869	31756869	Wm82.a2.v1 
+1109	Canopy cover 1-g1	Gm01	D1a	51797141	51797141	Wm82.a2.v1 
+1110	Canopy cover 1-g2	Gm05	A1	37757692	37757692	Wm82.a2.v1 
+1111	Canopy cover 1-g3	Gm06	C2	14140216	14140216	Wm82.a2.v1 
+1112	Canopy cover 1-g4	Gm09	K	4077374	4077374	Wm82.a2.v1 
+1113	Canopy cover 1-g5	Gm10	O	44698392	44698392	Wm82.a2.v1 
+1114	Canopy cover 1-g6	Gm10	O	45208748	45208748	Wm82.a2.v1 
+1115	Canopy cover 1-g7	Gm19	L	1630408	1630408	Wm82.a2.v1 
+1116	Seed weight 7-g1	Gm04	C1	30724329	30724329	Wm82.a2.v1 
+1117	Seed weight 7-g2	Gm04	C1	30314753	30314753	Wm82.a2.v1 
+1118	Seed weight 7-g3	Gm04	C1	32782075	32782075	Wm82.a2.v1 
+1119	Seed weight 7-g4	Gm04	C1	36376946	36376946	Wm82.a2.v1 
+1120	Seed weight 7-g5	Gm04	C1	40151473	40151473	Wm82.a2.v1 
+1121	Seed weight 7-g6	Gm17	D2	2492277	2492277	Wm82.a2.v1 
+1122	Seed weight 7-g7	Gm17	D2	2492594	2492594	Wm82.a2.v1 
+1123	Seed weight 7-g8	Gm17	D2	8364226	8364226	Wm82.a2.v1 
+1124	"Branch number, main stem 1-g1"	Gm17	D2	10942849	10942849	Wm82.a2.v1 
+1125	"Branch number, main stem 1-g2"	Gm17	D2	687969	687969	Wm82.a2.v1 
+1126	"Branch number, main stem 1-g3"	Gm15	E	42596278	42596278	Wm82.a2.v1 
+1127	"Branch number, main stem 1-g4"	Gm17	D2	10983581	10983581	Wm82.a2.v1 
+1128	"Branch number, main stem 1-g5"	Gm15	E	27808670	27808670	Wm82.a2.v1 
+1129	"Branch number, main stem 1-g6"	Gm20	I	34074375	34074375	Wm82.a2.v1 
+1130	"Stem diameter, main 1-g1"	Gm02	D1b	2380973	2380973	Wm82.a2.v1 
+1131	Plant height 2-g1	Gm13	F	44893681	44893681	Wm82.a2.v1 
+1132	Plant height 2-g2	Gm13	F	45165212	45165212	Wm82.a2.v1 
+1133	Plant height 2-g3	Gm02	D1b	15923907	15923907	Wm82.a2.v1 
+1134	Seed weight 2-g1	Gm09	K	47598387	47598387	Wm82.a2.v1 
+1135	Seed weight 2-g2	Gm03	N	38117007	38117007	Wm82.a2.v1 
+1136	Seed weight 2-g3	Gm11	B1	15649091	15649091	Wm82.a2.v1 
+1137	Seed weight 2-g4	Gm11	B1	15649090	15649090	Wm82.a2.v1 
+1138	Seed yield 2-g1	Gm13	F	17660886	17660886	Wm82.a2.v1 
+1139	Seed yield 2-g2	Gm06	C2	3823755	3823755	Wm82.a2.v1 
+1140	Seed yield 2-g3	Gm03	N	38448188	38448188	Wm82.a2.v1 
+1141	Seed yield 2-g4	Gm03	N	38642636	38642636	Wm82.a2.v1 
+1142	Pod number 2-g1	Gm15	E	5252046	5252046	Wm82.a2.v1 
+1143	Pod number 2-g2	Gm13	F	45165212	45165212	Wm82.a2.v1 
+1144	Pod number 2-g3	Gm11	B1	33902439	33902439	Wm82.a2.v1 
+1145	Pod number 2-g4	Gm06	C2	26237442	26237442	Wm82.a2.v1 
+1146	Pod number 2-g5	Gm11	B1	15649090	15649090	Wm82.a2.v1 
+1147	Pod number 2-g6	Gm11	B1	15649091	15649091	Wm82.a2.v1 
+1148	Pod number 2-g7	Gm17	D2	10942849	10942849	Wm82.a2.v1 
+1149	Pod number 2-g8	Gm05	A1	38923016	38923016	Wm82.a2.v1 
+1150	Seeds per plant 2-g1	Gm15	E	5252046	5252046	Wm82.a2.v1 
+1151	Seeds per plant 2-g2	Gm11	B1	33902439	33902439	Wm82.a2.v1 
+1152	Seeds per plant 2-g3	Gm06	C2	18211927	26237442	Wm82.a2.v1 
+1153	Seeds per plant 2-g4	Gm02	D1b	15923907	18844283	Wm82.a2.v1 
+1154	Seeds per plant 2-g5	Gm04	C1	443360	443360	Wm82.a2.v1 
+1155	First flower 2-g1	Gm01	D1a	51104169	51104169	Wm82.a2.v1 
+1156	First flower 2-g2	Gm02	D1b	4517364	4517364	Wm82.a2.v1 
+1157	First flower 2-g3	Gm06	C2	6079473	6079473	Wm82.a2.v1 
+1158	First flower 2-g4	Gm06	C2	16768958	16768958	Wm82.a2.v1 
+1159	First flower 2-g5	Gm06	C2	26102718	26102718	Wm82.a2.v1 
+1160	First flower 2-g6	Gm07	M	5995694	5995694	Wm82.a2.v1 
+1161	First flower 2-g7	Gm07	M	7433625	7433625	Wm82.a2.v1 
+1162	First flower 2-g8	Gm07	M	14243305	14243305	Wm82.a2.v1 
+1163	First flower 2-g9	Gm07	M	38950138	38950138	Wm82.a2.v1 
+1164	First flower 2-g10	Gm08	A2	17753910	17753910	Wm82.a2.v1 
+1165	First flower 2-g11	Gm08	A2	45505357	45505357	Wm82.a2.v1 
+1166	First flower 2-g12	Gm08	A2	45169252	45169252	Wm82.a2.v1 
+1167	First flower 2-g13	Gm08	A2	45665786	45665786	Wm82.a2.v1 
+1168	First flower 2-g14	Gm09	K	4431321	4431321	Wm82.a2.v1 
+1169	First flower 2-g15	Gm09	K	6155519	6155519	Wm82.a2.v1 
+1170	First flower 2-g16	Gm09	K	6936587	6936587	Wm82.a2.v1 
+1171	First flower 2-g17	Gm11	B1	1403993	1403993	Wm82.a2.v1 
+1172	First flower 2-g18	Gm11	B1	11169779	11169779	Wm82.a2.v1 
+1173	First flower 2-g19	Gm13	F	40878186	40878186	Wm82.a2.v1 
+1174	First flower 2-g20	Gm14	B2	2919862	2919862	Wm82.a2.v1 
+1175	First flower 2-g21	Gm14	B2	44753289	44753289	Wm82.a2.v1 
+1176	First flower 2-g22	Gm18	G	43901336	43901336	Wm82.a2.v1 
+1177	First flower 2-g23	Gm18	G	56570437	56570437	Wm82.a2.v1 
+1178	First flower 2-g24	Gm19	L	40854939	40854939	Wm82.a2.v1 
+1179	First flower 2-g25	Gm20	I	276646	276646	Wm82.a2.v1 
+1180	First flower 2-g26.1	Gm20	I	24888164	24888164	Wm82.a2.v1 
+1181	First flower 2-g26.2	Gm20	I	28156541	28156541	Wm82.a2.v1 
+1182	First flower 2-g26.3	Gm20	I	29014086	29014086	Wm82.a2.v1 
+1183	First flower 2-g26.4	Gm20	I	30358415	30358415	Wm82.a2.v1 
+1184	First flower 2-g26.5	Gm20	I	31127936	31127936	Wm82.a2.v1 
+1185	First flower 2-g27	Gm20	I	47859128	47859128	Wm82.a2.v1 
+1186	R8 full maturity 2-g1	Gm11	B1	10183893	10183893	Wm82.a2.v1 
+1187	R8 full maturity 2-g2	Gm16	J	2434861	2434861	Wm82.a2.v1 
+1188	R8 full maturity 2-g3	Gm16	J	2849579	2849579	Wm82.a2.v1 
+1189	R8 full maturity 2-g4	Gm16	J	3031911	3031911	Wm82.a2.v1 
+1190	R8 full maturity 2-g5	Gm19	L	45204029	45204029	Wm82.a2.v1 
+1191	R8 full maturity 2-g6	Gm19	L	48030545	48030545	Wm82.a2.v1 
+1192	Reproductive period 2-g1	Gm02	D1b	46908679	46908679	Wm82.a2.v1 
+1193	Reproductive period 2-g2	Gm03	N	1619330	1619330	Wm82.a2.v1 
+1194	Reproductive period 2-g3	Gm03	N	5219074	5219074	Wm82.a2.v1 
+1195	Reproductive period 2-g4	Gm03	N	10760346	10760346	Wm82.a2.v1 
+1196	Reproductive period 2-g5	Gm03	N	34307749	34307749	Wm82.a2.v1 
+1197	Reproductive period 2-g6	Gm04	C1	38274140	38274140	Wm82.a2.v1 
+1198	Reproductive period 2-g7	Gm06	C2	10283306	10283306	Wm82.a2.v1 
+1199	Reproductive period 2-g8	Gm06	C2	16216201	16216201	Wm82.a2.v1 
+1200	Reproductive period 2-g9	Gm08	A2	1969495	1969495	Wm82.a2.v1 
+1201	Reproductive period 2-g10	Gm08	A2	2639051	2639051	Wm82.a2.v1 
+1202	Reproductive period 2-g11	Gm09	K	6930651	6930651	Wm82.a2.v1 
+1203	Reproductive period 2-g12	Gm09	K	43869308	43869308	Wm82.a2.v1 
+1204	Reproductive period 2-g13	Gm11	B1	9361151	9361151	Wm82.a2.v1 
+1205	Reproductive period 2-g14	Gm12	H	4364475	4364475	Wm82.a2.v1 
+1206	Reproductive period 2-g15	Gm15	E	1609755	1609755	Wm82.a2.v1 
+1207	Reproductive period 2-g16	Gm16	J	2434861	2434861	Wm82.a2.v1 
+1208	Reproductive period 2-g17	Gm16	J	3022299	3022299	Wm82.a2.v1 
+1209	Reproductive period 2-g18	Gm19	L	45370182	45370182	Wm82.a2.v1 
+1210	Plant height 1-g1	Gm04	C1	5241170	5241170	Wm82.a2.v1 
+1211	Plant height 1-g2	Gm06	C2	14931917	14931917	Wm82.a2.v1 
+1212	Plant height 1-g3	Gm08	A2	43004161	43004161	Wm82.a2.v1 
+1213	Plant height 1-g4	Gm09	K	9575803	9575803	Wm82.a2.v1 
+1214	Plant height 1-g5	Gm09	K	43672912	43672912	Wm82.a2.v1 
+1215	Plant height 1-g6	Gm09	K	43862074	43862074	Wm82.a2.v1 
+1216	Plant height 1-g7	Gm10	O	7972370	7972370	Wm82.a2.v1 
+1217	Plant height 1-g8	Gm11	B1	6088565	6088565	Wm82.a2.v1 
+1218	Plant height 1-g9	Gm12	H	133176	133176	Wm82.a2.v1 
+1219	Plant height 1-g10	Gm12	H	8945837	8945837	Wm82.a2.v1 
+1220	Plant height 1-g11	Gm13	F	37183652	37183652	Wm82.a2.v1 
+1221	Plant height 1-g12	Gm13	F	37965132	37965132	Wm82.a2.v1 
+1222	Plant height 1-g13	Gm13	F	44357080	44357080	Wm82.a2.v1 
+1223	Plant height 1-g14	Gm14	B2	48022636	48022636	Wm82.a2.v1 
+1224	Plant height 1-g15	Gm15	E	3134912	3134912	Wm82.a2.v1 
+1225	Plant height 1-g16	Gm15	E	25814374	25814374	Wm82.a2.v1 
+1226	Plant height 1-g17	Gm16	J	5799540	5799540	Wm82.a2.v1 
+1227	Plant height 1-g18	Gm16	J	29940504	29940504	Wm82.a2.v1 
+1228	Plant height 1-g19	Gm17	D2	40051846	40051846	Wm82.a2.v1 
+1229	Plant height 1-g20	Gm17	D2	40271844	40271844	Wm82.a2.v1 
+1230	Plant height 1-g21	Gm18	G	54191166	54191166	Wm82.a2.v1 
+1231	Plant height 1-g22	Gm18	G	56236088	56236088	Wm82.a2.v1 
+1232	Plant height 1-g23	Gm19	L	8602885	8602885	Wm82.a2.v1 
+1233	Plant height 1-g24	Gm19	L	44592957	44592957	Wm82.a2.v1 
+1234	Plant height 1-g25	Gm19	L	45204029	45204029	Wm82.a2.v1 
+1235	Plant height 1-g26	Gm20	I	376574	376574	Wm82.a2.v1 
+1236	Plant height 1-g27	Gm20	I	37045242	37045242	Wm82.a2.v1 
+1237	Seed weight 5-g1	Gm04	C1	12162899	12162899	Wm82.a2.v1 
+1238	Seed weight 5-g2	Gm04	C1	15233684	15233684	Wm82.a2.v1 
+1239	Seed weight 5-g3	Gm04	C1	46801536	46801536	Wm82.a2.v1 
+1240	Seed weight 5-g4	Gm04	C1	50545592	50545592	Wm82.a2.v1 
+1241	Seed weight 5-g5	Gm06	C2	13177947	13177947	Wm82.a2.v1 
+1242	Seed weight 5-g6	Gm06	C2	15157653	15157653	Wm82.a2.v1 
+1243	Seed weight 5-g7	Gm06	C2	15196810	15196810	Wm82.a2.v1 
+1244	Seed weight 5-g8	Gm07	M	15748998	15748998	Wm82.a2.v1 
+1245	Seed weight 5-g9	Gm08	A2	13379353	13379353	Wm82.a2.v1 
+1246	Seed weight 5-g10	Gm09	K	42841667	42841667	Wm82.a2.v1 
+1247	Seed weight 5-g11	Gm10	O	37615468	37615468	Wm82.a2.v1 
+1248	Seed weight 5-g12	Gm12	H	4671136	4671136	Wm82.a2.v1 
+1249	Seed weight 5-g13	Gm14	B2	5463172	5463172	Wm82.a2.v1 
+1250	Seed weight 5-g14	Gm14	B2	6183917	6183917	Wm82.a2.v1 
+1251	Seed weight 5-g15	Gm14	B2	6430577	6430577	Wm82.a2.v1 
+1252	Seed weight 5-g16	Gm15	E	13331794	13331794	Wm82.a2.v1 
+1253	Seed weight 5-g17	Gm18	G	55218902	55218902	Wm82.a2.v1 
+1254	Seed weight 5-g18	Gm18	G	57242776	57242776	Wm82.a2.v1 
+1255	Seed weight 5-g19	Gm19	L	41205684	41205684	Wm82.a2.v1 
+1256	Seed weight 5-g20	Gm19	L	41336561	41336561	Wm82.a2.v1 
+1257	Seed weight 5-g21	Gm19	L	43124463	43124463	Wm82.a2.v1 
+1258	Seed weight 5-g22	Gm20	I	477570	477570	Wm82.a2.v1 

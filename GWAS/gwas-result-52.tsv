@@ -1,0 +1,83 @@
+#identifier	phenotype	marker	pvalue
+First flower 7-g1	First flower	ss715580093	4.50E-05
+First flower 7-g2	First flower	ss715582789	1.90E-04
+First flower 7-g4	First flower	ss715593623	3.20E-05
+First flower 7-g5	First flower	ss715594028	4.40E-05
+First flower 7-g3	First flower	ss715595388	1.50E-07
+First flower 7-g8	First flower	ss715595840	4.30E-05
+First flower 7-g9	First flower	ss715597834	2.10E-04
+First flower 7-g6	First flower	ss715598422	7.10E-05
+First flower 7-g7	First flower	ss715598611	1.70E-04
+First flower 7-g10	First flower	ss715599973	3.60E-05
+First flower 7-g11	First flower	ss715602265	4.80E-05
+First flower 7-g12	First flower	ss715602298	5.60E-06
+First flower 7-g13	First flower	ss715602313	5.20E-05
+First flower 7-g14	First flower	ss715604771	5.40E-05
+First flower 7-g15	First flower	ss715605256	1.90E-04
+First flower 7-g16	First flower	ss715605368	2.10E-05
+First flower 7-g17	First flower	ss715609022	2.00E-04
+First flower 7-g18	First flower	ss715609443	2.10E-06
+First flower 7-g19	First flower	ss715616244	8.50E-05
+First flower 7-g20	First flower	ss715618221	9.20E-05
+First flower 7-g21	First flower	ss715619036	2.80E-05
+First flower 7-g22	First flower	ss715630848	1.3E-05
+First flower 7-g23	First flower	ss715632359	1.40E-06
+First flower 7-g24	First flower	ss715635043	6.90E-05
+First flower 7-g26	First flower	ss715637021	1.60E-06
+First flower 7-g27	First flower	ss715637130	5.50E-08
+First flower 7-g25	First flower	ss715637153	3.70E-05
+First flower 7-g28	First flower	ss715637162	5.50E-08
+First flower 7-g29	First flower	ss715637211	9.10E-08
+First flower 7-g30	First flower	ss715637240	9.70E-08
+First flower 7-g31	First flower	ss715638945	5.6E-05
+Plant height 6-g1	Plant height	ss715589059	1.0E-07
+Plant height 6-g2	Plant height	ss715593309	4.4E-05
+Plant height 6-g3	Plant height	ss715602043	1.3E-05
+Plant height 6-g5	Plant height	ss715604430	1.6E-04
+Plant height 6-g6	Plant height	ss715604457	1.3E-05
+Plant height 6-g4	Plant height	ss715605468	8.8E-05
+Plant height 6-g7	Plant height	ss715608556	7.2E-07
+Plant height 6-g8	Plant height	ss715610958	8.6E-06
+Plant height 6-g9	Plant height	ss715611459	8.7E-05
+Plant height 6-g10	Plant height	ss715613644	9.6E-05
+Plant height 6-g11	Plant height	ss715615869	6.3E-06
+Plant height 6-g12	Plant height	ss715616002	1.9E-05
+Plant height 6-g13	Plant height	ss715616535	8.2E-06
+Plant height 6-g14	Plant height	ss715619471	1.4E-05
+Plant height 6-g16	Plant height	ss715621404	1.6E-05
+Plant height 6-g15	Plant height	ss715621573	5.0E-06
+Plant height 6-g18	Plant height	ss715624199	1.0E-08
+Plant height 6-g17	Plant height	ss715625240	4.5E-05
+Plant height 6-g19	Plant height	ss715627698	2.7E-05
+Plant height 6-g20	Plant height	ss715627726	5.8E-06
+Plant height 6-g21	Plant height	ss715632003	6.2E-05
+Plant height 6-g22	Plant height	ss715632307	4.0E-05
+Plant height 6-g24	Plant height	ss715635353	3.7E-11
+Plant height 6-g25	Plant height	ss715635425	3.0E-15
+Plant height 6-g23	Plant height	ss715636462	1.5E-06
+Plant height 6-g27	Plant height	ss715637802	7.5E-05
+Plant height 6-g26	Plant height	ss715637977	4.7E-05
+R8 full maturity 9-g1	R8 full maturity	ss715608733	5.2E-06
+R8 full maturity 9-g2	R8 full maturity	ss715623784	2.5E-06
+R8 full maturity 9-g3	R8 full maturity	ss715623939	4.3E-06
+R8 full maturity 9-g4	R8 full maturity	ss715624268	3.8E-06
+R8 full maturity 9-g5	R8 full maturity	ss715635425	7.6E-06
+R8 full maturity 9-g6	R8 full maturity	ss715635754	1.1E-05
+Reproductive period 4-g1	Reproductive period	ss715583348	1.8E-05
+Reproductive period 4-g4	Reproductive period	ss715584375	1.5E-04
+Reproductive period 4-g2	Reproductive period	ss715584534	8.6E-05
+Reproductive period 4-g5	Reproductive period	ss715585434	7.3E-06
+Reproductive period 4-g3	Reproductive period	ss715586799	9.7E-05
+Reproductive period 4-g6	Reproductive period	ss715587783	4.2E-07
+Reproductive period 4-g7	Reproductive period	ss715592690	1.9E-05
+Reproductive period 4-g8	Reproductive period	ss715593498	2.3E-05
+Reproductive period 4-g9	Reproductive period	ss715600310	5.1E-05
+Reproductive period 4-g10	Reproductive period	ss715601228	8.3E-05
+Reproductive period 4-g12	Reproductive period	ss715604461	3.5E-06
+Reproductive period 4-g11	Reproductive period	ss715605364	2.7E-05
+Reproductive period 4-g13	Reproductive period	ss715611295	1.8E-05
+Reproductive period 4-g14	Reproductive period	ss715613088	5.7E-06
+Reproductive period 4-g15	Reproductive period	ss715621062	4.0E-05
+Reproductive period 4-g16	Reproductive period	ss715623784	4.2E-05
+Reproductive period 4-g17	Reproductive period	ss715624239	6.7E-06
+Reproductive period 4-g18	Reproductive period	ss715635477	6.5E-05

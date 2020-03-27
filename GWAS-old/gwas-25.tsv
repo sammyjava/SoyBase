@@ -1,0 +1,26 @@
+TaxonID	3847
+Strain	Williams82
+Name
+LBC20180515.1
+PlatformName
+GBS
+PlatformDetails
+Genotyping-by-sequencing with three ApeKI libraries
+NumberLociTested
+7864
+NumberGermplasmTested
+130
+Assembly
+Wm82.a1.v1.1
+DOI|10.3835/plantgenome2013.10.0030
+phenotype	ontology_identifier	marker	p_value	chromosome	start	end
+Sclero	SOY:0001479	ScleroSNP0077		Gm01	27657519	27657520
+Sclero	SOY:0001479	ScleroSNP0078		Gm01	27657529	27657530
+Sclero	SOY:0001479	ScleroSNP0079		Gm01	28609940	28609941
+Sclero	SOY:0001479	ScleroSNP0080		Gm01	32318724	32318725
+Sclero	SOY:0001479	ScleroSNP0081		Gm01	32461874	32461875
+Sclero	SOY:0001479	ScleroSNP5308		Gm15	13356592	13356593
+Sclero	SOY:0001479	ScleroSNP5309		Gm15	13356604	13356605
+Sclero	SOY:0001479	ScleroSNP5314		Gm15	13666875	13666876
+Sclero	SOY:0001479	ScleroSNP7498		Gm19	50677474	50677475
+Sclero	SOY:0001479	ScleroSNP7711		Gm20	40820870	40820871

@@ -1,0 +1,6762 @@
+#Marker	QTL
+138GA26	First flower 8-2
+214H10	Plant height 6-10
+214H10	Plant height 6-3
+21E22.sp2	BSR 5-1
+A006_1	SCN 2-1
+A006_1	SCN 23-1
+A006_1	SCN 24-1
+A006_1	SCN 26-1
+A018_1	Seed palmitic 1-2
+A018_3	SCN 10-2
+A023_1	Seed linolenic 1-2
+A023_1	Seed oil 2-7
+A023_1	Seed oil 5-3
+A023_1	Seed protein 1-7
+A023_1	Seed sucrose 1-6
+A023_1	Seed weight 4-3
+A036_1	Phytoph 9-1
+A053_2	Seed height 1-3
+A053_2	Seed height 1-3
+A059_1	SCN 21-1
+A059_1	Seed weight 2-1
+A060_1	Corn earworm 7-4
+A060_1	Lodging 3-4
+A060_1	Plant height 2-2
+A060_1	Plant height 3-4
+A060_1	Plant height 6-13
+A060_1	Plant height 6-6
+A060_1	Seed yield to Plant height ratio 1-3
+A060_2	Plant height 2-4
+A060_2	Pod maturity 18-4
+A060_2	Pod maturity 3-2
+A060_2	Seed oil 25-2
+A060_2	Seed yield 19-4
+A060_2	Seed yield 2-1
+A063_1	cqSeed oil-001
+A063_1	Plant height 5-4
+A063_1	Pod maturity 6-3
+A063_1	SDS 9-3
+A063_1	Seed abortion 1-9
+A063_1	Seed height 1-14
+A063_1	Seed height 1-14
+A063_1	Seed oil 6-1
+A063_1	Seed protein 3-3
+A063_1	Seed set 1-9
+A063_1	Seed width 1-11
+A063_1	Seed width 1-11
+A063_1	WUE 2-2
+A063_1	WUE 2-3
+A064_4	Corn earworm 6-2
+A065_3	Seed linolenic 1-6
+A065_3	Seed protein 5-3
+A069_1	Seed oil 4-10
+A069_1	Seed protein 3-11
+A069_2	Seed oil 5-1
+A069_2	Seed weight 11-2
+A071_2	Seed protein 4-8
+A073_1	First flower 10-2
+A073_1	mqSeed Oil-016
+A073_1	Photoperiod insensitivity 2-2
+A073_1	Seed oil 24-26
+A077_2	Plant height 11-4
+A077_2	Plant height 7-3
+A078_1	Phytoph 14-6
+A082_1	Seed linoleic 1-1
+A082_1	Seed oleic 1-1
+A083_3	Corn earworm 5-2
+A085_1	Leaflet area 3-1
+A085_1	SCN 1-1
+A089_1	WUE 1-2
+A089_2	Seed coat color 1-2
+A089_2	Seed coat color 1-2
+A089_2	Seed weight 11-1
+A089_2	Sprout yield 1-1
+A096_2	Leaflet area 1-5
+A096_3	SCN 17-4
+A096_3	SCN 18-5
+A104_1	Seed linoleic 1-2
+A104_1	Seed oil 4-3
+A104_1	Seed oleic 1-2
+A104_2	Seed protein 30-6
+A106_1	Chlorimuron sensitivity 1-7
+A109_1	Seed oil 4-5
+A109_1	Seed protein 3-2
+A109_2	First flower 3-1
+A109_2	Lodging 3-2
+A109_2	Seed number 1-2
+A109_2	Seed yield 1-1
+A111_1	Leaflet width 1-1
+A111_1	mqSeed Oil-004
+A111_1	Seed coat hardness 1-6
+A111_1	Seed fill 1-1
+A111_1	Seed oil 1-1
+A111_1	Seed oil 34-1
+A111_2	Peanut root-knot nematode 2-2
+A112_1	First flower 9-2
+A112_1	Leaflet ash 1-1
+A112_1	SCN 15-1
+A112_1	SCN 2-4
+A117_1	Lodging 5-1
+A117_1	Seed palmitic 6-1
+A118_1	Fe effic 9-1
+A118_1	Plant height 20-1
+A118_1	Pod maturity 17-2
+A118_1	Pod maturity 17-3
+A118_1	Pod maturity 18-1
+A118_1	SCN 26-1
+A118_1	Seed linoleic 1-5
+A118_1	Seed palmitic 6-2
+A118_1	Seed protein 25-1
+A118_1	Seed protein 25-2
+A118_1	Seed weight 4-1
+A121_1	Carbon isotope discrimination 1-1
+A121_1	SCN 22-1
+A122_1	Leaflet weight, specific 1-2
+A122_1	SDS 13-14
+A131_2	Corn earworm 1-2
+A131_2	Corn earworm 2-2
+A131_2	Corn earworm 3-2
+A132_2	Fe effic 9-4
+A132_4	Chlorimuron sensitivity 1-5
+A132_4	Chlorimuron sensitivity 2-2
+A132_4	cqSeed protein-002
+A132_4	Seed protein 5-6
+A132_6	Corn earworm 3-1
+A135_2	Plant height 5-5
+A135_3	SCN 25-1
+A136_1	SCN 9-1
+A136_1	Seed sucrose 1-2
+A144_1	Seed oil 11-1
+A144_1	Seed oil 12-1
+A144_1	Seed protein 1-3
+A144_1	Seed protein 11-1
+A144_1	Seed protein 3-12
+A144_1	Seed sucrose 1-4
+A144_1	Seed weight 8-1
+A148_2	Fe effic 10-3
+A148_2	Node number 1-2
+A169_1	Lodging 5-10
+A170_1	mqSeed Oil-001
+A170_1	Seed linoleic 1-3
+A170_1	Seed oleic 1-3
+A186_1	Jav root-knot nematode 1-4
+A186_1	Peanut root-knot nematode 1-2
+A186_1	Plant height 5-6
+A186_1	Seed abortion 1-3
+A186_1	Seed abortion 1-5
+A186_1	Seed sucrose 1-5
+A199_1	Seed linolenic 6-5
+A199_1	Seed weight 21-3
+A199_1	Seed weight 3-4
+A199_3	Seed protein 4-12
+A203_1	Seed linolenic 1-3
+A203_1	Seed oil 2-9
+A226_1	Corn earworm 2-3
+A226_1	Corn earworm 4-1
+A226_1	Corn earworm 6-3
+A226_1	Sclero 1-2
+A233_1	Seed stearic 1-1
+A233_1	WUE 1-6
+A235_1	Seed protein 3-10
+A235_1	Seed weight 11-4
+A235_1	Seed weight 3-3
+A235_4	Seed oil 6-3
+A242_1	Seed oil 2-6
+A242_1	Seed protein 1-6
+A242_2	Seed linoleic 1-4
+A242_2	Seed linolenic 1-4
+A242_2	Seed oleic 1-4
+A245_2	SCN 22-2
+A245_2	Seed protein 1-8
+A256_2	Fe effic 5-1
+A257_1	Seed weight 3-1
+A262_1	SCN 18-1
+A262_4	Seed weight 1-2
+A264_1	Chlorimuron sensitivity 1-8
+A264_1	Chlorimuron sensitivity 2-3
+A280_1	SCN 4-3
+A280_4	Pod maturity 6-8
+A295_1	Plant height 6-1
+A295_1	Plant height 6-8
+A315_1	Seed oil 1-2
+A329_1	SCN 17-2
+A329_1	SCN 19-2
+A329_2	mqSeed Oil-002
+A329_2	Seed oil 24-16
+A329_2	Seed oil 3-3
+A329_2	Seed protein 2-3
+A338_2	Pod maturity 6-6
+A338_2	Seed protein 4-3
+A343_1	Corn earworm 5-1
+A343_1	Seed palmitic 1-1
+A343_2	Plant height 6-12
+A343_2	Plant height 6-5
+A351_2	mqSeed Oil-006
+A351_2	Seed oil 24-18
+A352_1	Seed protein 4-11
+A352_2	mqSeed Oil-019
+A352_2	Seed oil 24-29
+A363_1	Plant height 6-2
+A363_1	Plant height 6-9
+A374_1	First flower 12-3
+A378_1	First flower 9-2
+A378_1	Leaflet width 5-1
+A378_1	Lodging 5-8
+A378_1	SCN 4-2
+A378_1	Seed protein 30-10
+A381_1	Leaflet weight, specific 1-3
+A381_1	WUE 1-3
+A385_1	First flower 2-3
+A385_1	Lodging 1-1
+A385_1	Plant height 1-1
+A385_1	Seed, beginning 1-2
+A397_1	Bean pyralid 1-4
+A397_1	First flower 11-3
+A397_1	First flower 12-1
+A397_1	First flower 2-1
+A397_1	Leaflet area 8-1
+A397_1	Lodging 18-1
+A397_1	Lodging 2-1
+A397_1	Node number 1-3
+A397_1	Node number 1-4
+A397_1	Node number 2-1
+A397_1	Plant height 11-1
+A397_1	Plant height 2-3
+A397_1	Plant height 20-3
+A397_1	Plant height 20-4
+A397_1	Plant height 21-1
+A397_1	Plant height 6-10
+A397_1	Plant height 6-3
+A397_1	Pod maturity 17-4
+A397_1	Pod maturity 3-3
+A397_1	Pods per node 1-2
+A397_1	Pods per node 1-3
+A397_1	Pods per node 2-3
+A397_1	Seed fill 2-1
+A397_1	Seed yield 1-1
+A397_1	Seed yield 18-1
+A397_1	Seed yield 18-2
+A397_1	Seed yield 2-2
+A397_1	Seed, beginning 1-1
+A398_1	SCN 19-3
+A398_1	SCN 20-3
+A398_1	SCN 21-2
+A398_1	Seed protein 3-4
+A401_2	Seed width 1-6
+A401_2	Seed width 1-6
+A404_1	Fe effic 11-3
+A404_1	Fe effic 4-3
+A404_1	Fe effic 8-3
+A407_1	Seed oil 2-2
+A407_1	Seed protein 1-2
+A426_1	Seed abortion 1-8
+A426_1	Seed height 1-6
+A426_1	Seed height 1-6
+A426_1	Seed width 1-4
+A426_1	Seed width 1-4
+A454_1	Chlorimuron sensitivity 1-3
+A454_1	cqSeed protein-001
+A454_1	Seed linolenic 1-5
+A454_1	Seed oil 2-4
+A454_1	Seed protein 5-1
+A458_2	Leaflet ash 1-2
+A458_3	Seed sucrose 1-12
+A459_3	Leaflet shape 4-2
+A461_1	Fe effic 9-4
+A463_1	Plant height 5-3
+A463_1	SCN 18-3
+A463_1	SCN 21-1
+A463_1	Seed length 1-12
+A463_1	Seed length 1-12
+A463_1	Seed protein 4-4
+A486_1	Seed sucrose 1-13
+A487_1	SCN 2-3
+A487_1	Seed sucrose 1-1
+A489_1	First flower 5-2
+A489_1	Flood tolerance 4-3
+A489_1	Flood tolerance 4-3
+A489_1	Leaflet area 1-1
+A489_1	Leaflet length 4-2
+A489_1	Leaflet shape 1-1
+A489_1	Leaflet shape 4-1
+A489_1	Leaflet weight, specific 1-5
+A489_1	Leaflet width 4-2
+A489_1	mqSeed Oil-023
+A489_1	Plant height 9-1
+A489_1	Pod dehiscence 1-10
+A489_1	Pod maturity 9-2
+A489_1	Reproductive stage length 3-2
+A489_1	Seed oil 24-33
+A489_1	Seed oil 9-3
+A489_1	Seed yield to Plant height ratio 3-1
+A489_1	WUE 2-1
+A505_1	Seed oil 4-4
+A505_1	Seed protein 3-1
+A515_1	Fe effic 10-1
+A515_1	Fe effic 11-2
+A515_1	Fe effic 12-1
+A515_1	Fe effic 4-2
+A515_1	Fe effic 6-1
+A515_1	Phytoph 8-2
+A515_1	Phytoph 8-2
+A515_1	Seed weight 9-1
+A516_3	Plant height 4-3
+A517_1	Seed protein 4-5
+A519_1	Fe effic 10-3
+A519_1	Fe effic 3-2
+A519_1	Fe effic 9-2
+A519_1	Seed oil 34-2
+A520_1	First flower 11-2
+A520_1	Flood tolerance 4-4
+A520_1	Flood tolerance 4-4
+A520_1	Node number 1-1
+A520_1	Plant height 20-2
+A520_1	Pod maturity 17-3
+A520_1	Pod maturity 18-2
+A520_1	Seed palmitic 6-2
+A520_1	Seed protein 25-2
+A538_1	Flood tolerance 4-1
+A538_1	Flood tolerance 4-1
+A566_2	cqSeed oil-002
+A566_2	Seed oil 6-5
+A566_2	Seed protein 5-2
+A567_1	SCN 2-2
+A584_1	Seed oil 4-7
+A584_3	Canopy height 2-1
+A584_3	Corn earworm 1-1
+A584_3	Corn earworm 2-3
+A584_3	Corn earworm 4-1
+A584_3	Corn earworm 6-3
+A584_3	Corn earworm 9-4
+A584_3	First flower 2-2
+A584_3	Leaflet area 8-2
+A584_3	Pod maturity 2-1
+A584_3	Seed fill 2-2
+A584_3	Seed yield 1-2
+A588_1	SDS 13-8
+A593_1	Fe effic 3-1
+A593_1	Fe effic 8-1
+A593_1	SCN 10-1
+A597_1	Lodging 5-13
+A619_1	Seed oleic 1-5
+A635_1	Leaflet area 3-4
+A635_1	Row spacing response 2-1
+A635_1	SCN 9-6
+A635_1	Seed weight 2-2
+A638_2	Leaflet ash 1-8
+A656_1	SCN 18-4
+A656_1	SCN 21-3
+A668_1	Sprout yield 1-3
+A670_3	Corn earworm 3-1
+A681_1	Phytoph 13-5
+A685_1	Flood tolerance 4-5
+A685_1	Flood tolerance 4-5
+A688_1	Pod maturity 12-1
+A688_1	Seed protein 1-4
+A688_1	Seed yield 10-1
+A690_2	Leaflet length 2-2
+A691_1	Seed protein 3-5
+A6b	Seed yield 3-3
+A702_1	Fe effic 9-1
+A708_1	Phomopsis seed decay 1-1
+A708_1	Phomopsis seed decay 2-1
+A715_1	Flood tolerance 4-6
+A715_1	Flood tolerance 4-6
+A725_1	Seed oil 26-1
+A725_1	Seed protein 25-3
+A725_2	Jav root-knot nematode 1-1
+A725_5	Pod dehiscence 1-11
+A748_1	Bean pyralid 1-4
+A748_1	Node number 1-3
+A748_1	Plant height 20-3
+A748_1	Pods per node 1-2
+A748_1	Seed yield 18-1
+A748_2	mqSeed Oil-018
+A748_2	Seed oil 24-28
+A757_1	Corn earworm 2-1
+A757_1	Jav root-knot nematode 1-5
+A757_1	Peanut root-knot nematode 1-3
+A757_3	Hypocotyl length 1-3
+A806_1	Jav root-knot nematode 1-2
+A808_1	mqSeed Oil-024
+A808_2	Corn earworm 1-3
+A808_3	Pod dehiscence 1-12
+A816_1	Seed oil 4-8
+A816_1	Seed protein 3-8
+A816_1	Seed weight 4-2
+A847_1	Al tolerance 1-3
+A882_1	Southern root-knot nematode 1-1
+A882_1	Southern root-knot nematode 2-1
+A890_1	Seed oil 4-9
+A890_1	Seed protein 3-9
+A890_1	Southern root-knot nematode 1-3
+A946_2	Corn earworm 1-1
+A963_1	SCN 12-2
+A963_1	Seed sucrose 1-10
+A975_1	Seed height 1-4
+A975_1	Seed height 1-4
+A975_1	Seed oil 4-2
+A975_1	Seed volume 1-4
+A975_1	Seed volume 1-4
+AB002807	Bean pyralid 1-8
+AB002807	First flower 16-3
+AB002807	First flower 16-3
+AB002807	Seed protein 34-11
+AG36	First flower 8-1
+AI794821	mqSeed Oil-007
+AI794821	Seed weight 50-2
+AI856415	mqCanopy wilt-014
+AW132402	Chlorophyll flourescence ABS/RC 1-1
+AW132402	Chlorophyll flourescence ETo/TRo 1-1
+AW132402	Chlorophyll flourescence PIabs 1-1
+AW132402	Chlorophyll flourescence TRo/ABS 1-1
+AW132402	Flood tolerance 7-2
+AW132402	SCN 39-1
+AW132402	SDS 16-3
+AW132402	Seed daidzein 8-1
+AW132402	Seed genistein 8-7
+AW132402	Seed isoflavone 7-10
+AW186493	Sclero 9-5
+AW277661	Root diameter change 1-3
+AW734043	Seed oil 36-2
+AW781285	SCN 39-6
+AW781285	Seed daidzein 6-2
+AW781285	Seed length to width ratio 1-1
+AX-90317546	Chlorosis, leaflet UV-B induced 2-1
+AX-90317546	Leaflet shape, UV-B induced 2-1
+AX-90317546	Plant damage, UV-B induced 2-1
+AX-90437826	Chlorosis, leaflet UV-B induced 2-1
+AX-90437826	Leaflet shape, UV-B induced 2-1
+AX-90437826	Plant damage, UV-B induced 2-1
+B030_2	Pods per node 1-1
+B030_2	Pods per node 2-1
+B031_2	Leaflet ash 1-10
+B031_2	Seed weight 2-5
+B031_2	WUE 1-1
+B032_1	SCN 1-2
+B032_1	SCN 5-2
+B032_2	Pod maturity 5-1
+B032_2	Pod maturity 5-3
+B039_1	Canopy width 1-3
+B046_1	Sprout yield 1-4
+B053_1	SCN 15-1
+B053_1	SCN 23-3
+B053_1	SCN 24-2
+B053_1	SCN 25-2
+B053_1	SCN 26-3
+B069_1	Fe effic 11-3
+B069_1	Fe effic 4-3
+B069_1	Fe effic 8-3
+B072_1	SCN 10-4
+B072_1	SCN 11-1
+B072_1	Seed oil 7-1
+B072_1	Seed protein 6-1
+B074_1	Pod dehiscence 1-5
+B122_1	Al tolerance 1-5
+B122_1	BSR 1-2
+B122_1	Pod dehiscence 1-7
+B122_1	Seed oil 5-2
+B124_1	Pod maturity 27-3
+B124_1	Pod maturity 29-3
+B124_2	Chlorimuron sensitivity 1-10
+B124_3	Pod dehiscence 1-3
+B131_1	First flower 11-3
+B131_1	First flower 12-1
+B131_1	Lodging 18-1
+B131_1	Node number 1-4
+B131_1	Node number 2-1
+B131_1	Plant height 20-4
+B131_1	Plant height 21-1
+B131_1	Pod maturity 17-4
+B131_1	Pods per node 1-3
+B131_1	Pods per node 2-3
+B131_1	Pods per node 2-4
+B131_1	Seed stearic 5-2
+B131_1	Seed yield 18-2
+B132_4	SCN 23-2
+B142_1	Seed protein 4-10
+B146_1	Seed weight 21-2
+B146_1	Seed weight 22-3
+B146_1	Seed weight 22-4
+B148_1	Seed protein 6-2
+B162_2	SDS 13-3
+B162_2	Seed sucrose 1-8
+B164_1	Chlorimuron sensitivity 1-9
+B164_1	Plant height 5-12
+B164_1	Seed sucrose 1-7
+B166_1	Plant height 5-9
+B166_1	Pod dehiscence 1-6
+B166_1	Seed protein 4-7
+B166_1	Seed weight 2-6
+B170_1	Seed oil 13-1
+B170_1	Seed protein 12-1
+B172_2	Seed yield 7-1
+B174_1	Seed protein 3-6
+B174_3	Jav root-knot nematode 1-8
+B174_3	Node number 1-7
+B1MK11	mqCanopy wilt-024
+B2	Seed width 1-1
+B2	Seed width 1-1
+B212_1	Corn earworm 2-1
+B212_1	Jav root-knot nematode 1-6
+B212_1	Jav root-knot nematode 2-1
+B212_1	Peanut root-knot nematode 1-4
+B212_1	Peanut root-knot nematode 2-1
+B212_2	Peanut root-knot nematode 2-2
+B214_2	mqSeed Oil-019
+B214_2	Seed oil 24-29
+B221_1	Seed oil 25-1
+BARC-007569-00135	Phytoph 13-2
+BARC-010097-00518	cqSeed protein-016
+BARC-010097-00518	Seed weight 52-5
+BARC-010777-00746	Plant height 38-1
+BARC-011057-00831	Nodule size 1-4
+BARC-011591-00299	Canopy wilt 4-2
+BARC-012289-01799	SCN 43-1
+BARC-012289-01799	SCN 43-3
+BARC-012289-01799	SCN 43-5
+BARC-012289-01799	SCN 43-7
+BARC-012289-01799	SCN 44-11
+BARC-012289-01799	SCN 44-16
+BARC-012295-01800	SCN 44-11
+BARC-012295-01800	SCN 44-16
+BARC-012295-01800	SCN 44-7
+BARC-012991-00416	First flower 26-8
+BARC-013273-00464	Seed linolenic 12-3
+BARC-013561-01160	Soybean mosaic virus 1-2
+BARC-013583-01166	Seed Cys 5-2
+BARC-013583-01166	Seed glycitein 10-3
+BARC-013583-01166	Seed Met plus Cys 3-2
+BARC-013587-01169	Seed weight 38-1
+BARC-013599-01171	Soybean mosaic virus 1-4
+BARC-013969-01290	Root nodule weight, dry 2-1
+BARC-013995-01298	mqCanopy wilt-016
+BARC-014361-01331	Leaflet weight, specific 2-1
+BARC-014395-01348	SCN 44-3
+BARC-014447-01366	Seed genistein 10-5
+BARC-014491-01561	First flower 26-7
+BARC-014509-01564	Soybean mosaic virus 1-17
+BARC-014611-01591	Leaflet area 9-6
+BARC-014611-01591	Leaflet shape 10-4
+BARC-014611-01591	Plant height 38-5
+BARC-014705-01623	cqSeed protein-006
+BARC-014705-01623	cqSeed protein-009
+BARC-014813-01678	Seed glycitein 10-2
+BARC-014813-01678	Seed oil 39-13
+BARC-014837-01682	Soybean mosaic virus 1-6
+BARC-014847-01910	Soybean mosaic virus 1-7
+BARC-014885-01914	cqSeed weight-009
+BARC-014885-01914	cqSeed weight-012
+BARC-014885-01914	Lodging 28-2
+BARC-014947-01929	First flower 26-9
+BARC-015121-02570	Soybean mosaic virus 1-5
+BARC-015493-01985	Fusarium lesion length 1-5
+BARC-015945-02020	Foxglove aphid, primary damage, choice 1-4
+BARC-015945-02020	Foxglove aphid, total damage, choice 1-2
+BARC-015945-02020	Foxglove aphid, total damage, no choice 1-2
+BARC-016145-02292	Crude protein, R6 1-1
+BARC-016145-02292	Seed genistein 10-6
+BARC-016181-02303	Neutral detergent fiber, R6 1-3
+BARC-016199-02307	cqSeed protein-004
+BARC-016199-02307	SCN 44-4
+BARC-016279-02316	mqCanopy wilt-020
+BARC-016475-02622	Seed weight 52-1
+BARC-016539-02087	Seed oil 39-2
+BARC-016563-02128	Soybean mosaic virus 1-8
+BARC-016573-02144	SDS 13-4
+BARC-016777-02328	First flower 26-3
+BARC-016867-02359	Foxglove aphid, primary damage, choice 1-6
+BARC-016957-02165	cqSeed weight-013
+BARC-017023-02178	SDS 13-15
+BARC-017525-03061	Leaf Damage, ozone, 2nd trifoliate leaf 1-1
+BARC-017525-03061	Leaf Damage, ozone, 3rd trifoliate leaf 1-1
+BARC-017935-02459	Seed Cys 3-1
+BARC-017935-02459	Seed Met 3-1
+BARC-017957-02480	Soybean mosaic virus 1-3
+BARC-017957-02482	SCN 44-4
+BARC-018187-02537	SDS 13-4
+BARC-018211-03157	Seed Thr 3-1
+BARC-018353-03589	Seed protein 39-1
+BARC-018461-02916	Seed Met 5-1
+BARC-018713-03241	Nodule size 1-8
+BARC-018741-02997	Seed weight 52-6
+BARC-018889-03033	Soybean mosaic virus 1-13
+BARC-018895-03034	Neutral detergent fiber, R6 1-4
+BARC-018895-03034	Seed linolenic 12-12
+BARC-018901-03270	cqSeed oil-013
+BARC-018923-03037	cqSeed protein-008
+BARC-018959-03045	Soybean mosaic virus 1-12
+BARC-019229-03401	SCN 44-1
+BARC-019229-03401	SCN 44-13
+BARC-019229-03401	SCN 44-9
+BARC-019415-03923	Canopy wilt 3-1
+BARC-019415-03923	SCN 43-4
+BARC-019475-03618	SCN 43-2
+BARC-020031-04407	First flower 26-1
+BARC-020103-04462	Canopy wilt 3-4
+BARC-020103-04462	Canopy wilt 3-8
+BARC-020713-04700	Seed Met 4-4
+BARC-020713-04700	Seed Met plus Cys 2-2
+BARC-020713-04700	Seed Thr 3-4
+BARC-021149-03992	Soybean mosaic virus 1-10
+BARC-021321-04035	Phytoph 13-2
+BARC-021477-04128	Seed yield 31-2
+BARC-021483-04130	Soybean mosaic virus 1-15
+BARC-021573-04148	Canopy wilt 3-5
+BARC-021573-04148	SCN 43-4
+BARC-021625-04157	Soybean mosaic virus 1-1
+BARC-021735-04194	First flower 26-2
+BARC-021845-04222	Acid detergent fiber, R6 1-2
+BARC-021887-04232	Seed oil 39-11
+BARC-021887-04232	Seed protein 37-9
+BARC-021991-04246	Plant height 33-7
+BARC-021991-04246	Plant height 34-7
+BARC-021991-04246	Pod maturity 27-4
+BARC-021991-04246	Pod maturity 29-4
+BARC-022175-04293	Leaflet area 9-5
+BARC-022387-04319	Seed isoflavone 3-3
+BARC-023593-05477	Seed yield 31-11
+BARC-024045-04714	Neutral detergent fiber, R6 1-5
+BARC-024251-04812	Pod maturity 27-8
+BARC-024251-04812	Pod maturity 29-8
+BARC-024345-04854	Canopy wilt 4-3
+BARC-024345-04854	Canopy wilt 5-3
+BARC-024345-04854	Seed daidzein 10-4
+BARC-024449- 04894	mqCanopy wilt-006
+BARC-024449-04894	Canopy wilt 3-3
+BARC-024449-04894	Canopy wilt 4-6
+BARC-024569-04982	Leaflet weight, specific 2-6
+BARC-025493-06513	cqSeed protein-008
+BARC-025705-05001	First flower 26-5
+BARC-025777-05064	Leaflet weight, specific 2-8
+BARC-025815-05092	Soybean mosaic virus 1-18
+BARC-025825-05102	SCN 44-5
+BARC-025927-05161	Seed protein 39-3
+BARC-026069- 05243	mqCanopy wilt-025
+BARC-026069-05243	Leaflet area 9-9
+BARC-027478-06590	Seed weight 52-2
+BARC-027542-06604	Soybean mosaic virus 1-19
+BARC-027786-06670	Seed protein 39-2
+BARC-027846-06691	SDS 13-14
+BARC-028289-05814	mqCanopy wilt-020
+BARC-028321-05831	Seed yield 27-1
+BARC-028321-05831	Seed yield 30-1
+BARC-028373-05856	cqSeed oil-014
+BARC-028539-05944	Seed linolenic 12-10
+BARC-028567-05954	Nodule size 1-6
+BARC-028607-05972	Crude protein, R6 1-5
+BARC-028607-05972	SCN 44-6
+BARC-028645-05979	cqSeed protein-010
+BARC-028907-06042	Leaflet weight, specific 2-7
+BARC-028907-06042	Seed linolenic 12-4
+BARC-029051-06057	Canopy wilt 5-4
+BARC-029055-06058	Seed linolenic 12-12
+BARC-029301-06148	Nodule number 2-10
+BARC-029369-06162	SCN 43-1
+BARC-029369-06162	SCN 43-3
+BARC-029369-06162	SCN 43-5
+BARC-029369-06162	SCN 43-7
+BARC-029431-06192	Seed weight 52-2
+BARC-029787-06340	Seed oil 39-1
+BARC-029825-06442	cqSeed protein-006
+BARC-029825-06442	cqSeed protein-009
+BARC-029827-06444	Leaf Damage, ozone, 3rd-5th trifoliate leaves 1-2
+BARC-029827-06444	Leaf Damage, ozone, 5th trifoliate leaf 1-1
+BARC-029859-06448	mqCanopy wilt-015
+BARC-029943-06758	Leaf Damage, ozone, 5th trifoliate leaf 1-2
+BARC-029943-06758	Leaf Damage, ozone, 6th trifoliate leaf 1-2
+BARC-029975-06765	Acid detergent fiber, R6 1-1
+BARC-029975-06765	Crude fat, R6 1-1
+BARC-029975-06765	Crude fat, R6 1-3
+BARC-029975-06765	Crude protein, R6 1-1
+BARC-029975-06765	Crude protein, R6 1-6
+BARC-029975-06765	Neutral detergent fiber, R6 1-8
+BARC-030101-06809	Crude protein, R6 1-7
+BARC-030145-06814	Leaflet area 9-8
+BARC-030433-06867	SCN 44-1
+BARC-030433-06867	SCN 44-13
+BARC-030433-06867	SCN 44-9
+BARC-030493-06880	Foxglove aphid, primary damage, choice 1-7
+BARC-030493-06880	Foxglove aphid, total damage, choice 1-3
+BARC-030765-06943	Plant height 33-4
+BARC-030765-06943	Plant height 34-4
+BARC-030765-06943	Seed yield 27-2
+BARC-030765-06943	Seed yield 30-2
+BARC-030863-06956	Seed linolenic 12-8
+BARC-031099-06997	First flower 26-16
+BARC-031281-07037	Canopy wilt 3-7
+BARC-031337-07051	Foxglove aphid, primary damage, choice 1-2
+BARC-031375-07086	Seed glycitein 9-3
+BARC-031701-07215	SDS 13-13
+BARC-031917-07226	Leaflet shape 10-5
+BARC-031967-07233	Seed Met 4-2
+BARC-031967-07233	Seed Thr 3-2
+BARC-032333-08951	Seed linolenic 12-8
+BARC-032333-08951	Seed protein 37-1
+BARC-032411-08968	Nodule number 2-3
+BARC-032525-08992	Canopy wilt 3-11
+BARC-032525-08992	mqCanopy wilt-001
+BARC-032525-08992	mqCanopy wilt-017
+BARC-032817-09052	Canopy wilt 4-4
+BARC-032817-09052	mqCanopy wilt-010
+BARC-035219-07139	Seed Thr 3-1
+BARC-035379-07181	Crude protein, R6 1-4
+BARC-035383-07190	Canopy wilt 3-13
+BARC-035383-07190	Canopy wilt 3-3
+BARC-035383-07190	mqCanopy wilt-026
+BARC-037195-06738	Foxglove aphid, primary damage, choice 1-5
+BARC-037223-06748	Leaflet shape 10-1
+BARC-038355-10050	Acid detergent fiber, R6 1-2
+BARC-038355-10050	Neutral detergent fiber, R6 1-2
+BARC-038355-10050	Plant height 38-2
+BARC-038359-10052	Lodging 28-1
+BARC-038377-10061	SCN 44-10
+BARC-038869-07364	Seed Cys 5-1
+BARC-038869-07364	Seed Met plus Cys 3-1
+BARC-038869-07364	Seed nickel 1-2
+BARC-038883-07384	cqSeed weight-010
+BARC-038909-07393	Soybean mosaic virus 1-9
+BARC-038977-07417	cqSeed oil-013
+BARC-039151-07458	Canopy wilt 4-2
+BARC-039151-07458	Canopy wilt 5-2
+BARC-039151-07458	Seed Thr 3-3
+BARC-039237-07479	Canopy wilt 4-5
+BARC-039383-07310	Foxglove aphid, primary damage, choice 1-3
+BARC-039383-07310	Foxglove aphid, primary damage, no choice 1-1
+BARC-039383-07310	Foxglove aphid, primary damage, no choice 1-2
+BARC-039383-07310	Foxglove aphid, total damage, choice 1-1
+BARC-039383-07310	Foxglove aphid, total damage, no choice 1-1
+BARC-039397-07314	Phytoph 15-5
+BARC-039403-07492	Neutral detergent fiber, R6 1-4
+BARC-039403-07492	Seed linolenic 12-9
+BARC-039687-07541	cqSeed oil-007
+BARC-039687-07541	cqSeed oil-010
+BARC-039753-07565	Seed Cys 5-1
+BARC-039753-07565	Seed Met plus Cys 3-1
+BARC-039753-07565	Seed nickel 1-2
+BARC-039805-07589	Leaf Damage, ozone, 6th trifoliate leaf 1-1
+BARC-039915-07604	Lodging 28-1
+BARC-039977-07624	Crude protein, R6 1-7
+BARC-039977-07624	Phytoph 15-2
+BARC-039977-07624	Soybean mosaic virus 1-16
+BARC-040185-07678	SCN 44-14
+BARC-040201-07680	SDS 13-1
+BARC-040213-07685	First flower 26-12
+BARC-040339-07715	cqSeed protein-013
+BARC-040429-07735	Foxglove aphid, primary damage, choice 1-6
+BARC-040475-07751	First flower 26-14
+BARC-040475-07751	Leaflet area 9-3
+BARC-040475-07751	Seed daidzein 5-2
+BARC-04077-07848	Seed weight 38-2
+BARC-040777-07848	Seed Cys 3-3
+BARC-040777-07848	Seed Met 3-3
+BARC-040777-07848	Seed oil 39-4
+BARC-041129-07912	Seed yield 31-8
+BARC-041155-07919	SCN 44-12
+BARC-041155-07919	SCN 44-8
+BARC-041167- 07925	mqCanopy wilt-009
+BARC-041257-07953	cqSeed oil-008
+BARC-041257-07953	cqSeed oil-012
+BARC-041257-07953	cqSeed oil-015
+BARC-041257-07953	cqSeed protein-011
+BARC-041257-07953	cqSeed protein-014
+BARC-041267-07957	Soybean mosaic virus 1-14
+BARC-041421-07980	Plant height 33-5
+BARC-041421-07980	Plant height 34-5
+BARC-041421-07980	Pod maturity 27-2
+BARC-041421-07980	Pod maturity 29-2
+BARC-041563-08036	Plant height 38-6
+BARC-041643-08051	Lodging 28-5
+BARC-041667-08063	Crude protein, R6 1-2
+BARC-041671-08065	Soybean mosaic virus 1-11
+BARC-042003-08158	Seed genistein 10-7
+BARC-042131-08181	SCN 44-1
+BARC-042131-08181	SCN 44-13
+BARC-042131-08181	SCN 44-9
+BARC-042161-08193	Leaflet shape 10-3
+BARC-042201-08212	SCN 43-1
+BARC-042201-08212	SCN 43-3
+BARC-042201-08212	SCN 43-5
+BARC-042201-08212	SCN 43-7
+BARC-042299-08241	Crude protein, R6 1-4
+BARC-042349-08247	cqSeed oil-007
+BARC-042349-08247	cqSeed oil-010
+BARC-042449-08268	Seed Met 4-2
+BARC-042449-08268	Seed Thr 3-2
+BARC-042473-08271	Canopy wilt 5-1
+BARC-042473-08271	Pod maturity 35-1
+BARC-042629-08331	Fusarium lesion length 1-3
+BARC-042665-08342	Neutral detergent fiber, R6 1-3
+BARC-042665-08342	Neutral detergent fiber, R6 1-7
+BARC-042685-08348	SCN 44-17
+BARC-042685-08348	SCN 44-2
+BARC-042815-08424	Foxglove aphid, primary damage, choice 1-3
+BARC-042815-08424	Foxglove aphid, primary damage, choice 1-4
+BARC-042815-08424	Foxglove aphid, primary damage, no choice 1-1
+BARC-042815-08424	Foxglove aphid, primary damage, no choice 1-2
+BARC-042815-08424	Foxglove aphid, total damage, choice 1-1
+BARC-042815-08424	Foxglove aphid, total damage, choice 1-2
+BARC-042815-08424	Foxglove aphid, total damage, no choice 1-1
+BARC-042815-08424	Foxglove aphid, total damage, no choice 1-2
+BARC-042815-08424	Seed nickel 1-1
+BARC-042837-08435	Seed linolenic 12-2
+BARC-042897-08454	Seed Cys 5-2
+BARC-042897-08454	Seed Met plus Cys 3-2
+BARC-043247-08565	Seed Cys 4-1
+BARC-043247-08565	Seed Met 4-3
+BARC-043247-08565	Seed Met plus Cys 2-1
+BARC-044133-08626	Leaf Damage, ozone, 5th trifoliate leaf 1-3
+BARC-044147-08639	mqCanopy wilt-019
+BARC-044361-08677	Leaflet area 9-10
+BARC-044361-08677	SCN 43-6
+BARC-044361-08677	SCN 43-8
+BARC-044361-08677	SCN 44-17
+BARC-044373-08692	Plant height 38-3
+BARC-044415-08701	Lodging 28-2
+BARC-044521-08714	Canopy wilt 3-9
+BARC-044521-08714	Seed protein 37-3
+BARC-044549-08718	Seed weight 52-7
+BARC-044639-08743	cqSeed oil-006
+BARC-044639-08743	cqSeed oil-009
+BARC-044639-08743	cqSeed protein-005
+BARC-044643-08744	Foxglove aphid, primary damage, choice 1-1
+BARC-044691-08761	Lodging 28-3
+BARC-044691-08761	SCN 44-5
+BARC-044747-08795	cqSeed oil-011
+BARC-044913-08839	Acid detergent fiber, R6 1-1
+BARC-044913-08839	Crude fat, R6 1-1
+BARC-044913-08839	Crude fat, R6 1-3
+BARC-044913-08839	Crude protein, R6 1-6
+BARC-044913-08839	Neutral detergent fiber, R6 1-8
+BARC-045029-08866	SCN 44-17
+BARC-045029-08866	SCN 44-2
+BARC-045199-08906	Canopy wilt 3-2
+BARC-045235-08913	Plant height 38-2
+BARC-045297-08928	cqSeed weight-006
+BARC-046124-10284	Seed weight 52-3
+BARC-046144-10286	Seed weight 52-6
+BARC-046420-12581	Seed weight 52-9
+BARC-047496-12943	cqSeed weight-005
+BARC-047496-12943	cqSeed weight-007
+BARC-047496-12943	Phytoph 15-1
+BARC-047665-10370	SCN 44-3
+BARC-047715-10388	Nodule number 2-4
+BARC-047715-10388	Nodule number 2-9
+BARC-047813-10397	Pod maturity 35-3
+BARC-047893-10417	Neutral detergent fiber, R6 1-5
+BARC-048095-10484	Foxglove aphid, primary damage, choice 1-5
+BARC-048217-10509	Seed Met 4-1
+BARC-048271-10520	SCN 44-7
+BARC-048277-10538	SCN 44-3
+BARC-048517-10647	Seed nickel 1-1
+BARC-048543-10663	Nodule number 2-1
+BARC-048801-10723	SCN 44-11
+BARC-048801-10723	SCN 44-16
+BARC-048801-10723	SCN 44-7
+BARC-048855-10738	mqCanopy wilt-027
+BARC-048955-10759	SCN 44-12
+BARC-048955-10759	SCN 44-8
+BARC-049091-10809	Seed linolenic 12-11
+BARC-049209-10821	Canopy wilt 4-5
+BARC-049601-09082	cqSeed protein-012
+BARC-049989-09280	Foxglove aphid, primary damage, choice 1-7
+BARC-049989-09280	Foxglove aphid, primary damage, no choice 1-3
+BARC-049989-09280	Foxglove aphid, total damage, choice 1-3
+BARC-050003-09283	Neutral detergent fiber, R6 1-1
+BARC-050003-09283	Seed linolenic 12-9
+BARC-050013-09288	Seed oil 39-16
+BARC-050013-09288	Seed yield 31-12
+BARC-050069-09363	Leaflet area 9-7
+BARC-050069-09363	Pod maturity 35-1
+BARC-050091-09377	Seed linolenic 12-2
+BARC-050455-09643	Leaflet weight, specific 2-9
+BARC-050619-09775	SCN 43-4
+BARC-050661-09809	Canopy wilt 3-4
+BARC-050677-09819	Leaflet area 9-1
+BARC-050677-09819	Leaflet shape 10-2
+BARC-050815-09887	Canopy wilt 4-1
+BARC-050849-09931	Root nodule weight, dry 2-8
+BARC-051035-10955	Nodule number 2-2
+BARC-051153-11022	Seed weight 53-1
+BARC-051885-11289	Leaflet shape 10-6
+BARC-052043-11321	Leaflet area 9-2
+BARC-052957-11678	Foxglove aphid, primary damage, no choice 1-3
+BARC-053261-11776	SCN 43-2
+BARC-053261-11776	Seed Cys 3-1
+BARC-053261-11776	Seed Met 3-1
+BARC-053313-11792	cqSeed protein-004
+BARC-053313-11792	SCN 44-15
+BARC-053443-11853	Seed linolenic 12-11
+BARC-053497-11882	SCN 43-2
+BARC-054023-12243	SCN 44-10
+BARC-054071-12319	Phytoph 15-3
+BARC-054149-12354	cqSeed oil-011
+BARC-054257-12408	Seed linolenic 12-7
+BARC-054331-12480	Root nodule weight, dry 2-9
+BARC-054347-12492	Crude protein, R6 1-2
+BARC-054349-12493	Canopy wilt 3-6
+BARC-054393-12560	Seed Cys 3-4
+BARC-054393-12560	Seed Met 3-4
+BARC-054393-12560	Seed oil 39-5
+BARC-054471-12090	Seed weight 52-4
+BARC-055131-13049	Seed weight 52-1
+BARC-055149-13089	cqSeed protein-010
+BARC-055229-13122	Neutral detergent fiber, R6 1-6
+BARC-055265-13154	Seed Lys 3-1
+BARC-055315-13197	Leaflet shape 10-7
+BARC-055315-13197	Neutral detergent fiber, R6 1-7
+BARC-055345-13222	Leaflet weight, specific 2-3
+BARC-055345-13222	Seed weight 52-4
+BARC-055349-13226	Pod maturity 35-2
+BARC-055557-13432	Seed cadmium 2-1
+BARC-055637-13558	cqSeed oil-005
+BARC-055731-13669	Pod maturity 35-2
+BARC-055801-13734	Neutral detergent fiber, R6 1-2
+BARC-055801-13734	Neutral detergent fiber, R6 1-6
+BARC-055839-13759	mqCanopy wilt-018
+BARC-055857-13795	Seed weight 52-9
+BARC-055889-13824	Seed Met 4-1
+BARC-055939-13876	Plant height 38-4
+BARC-055945-13878	Leaflet weight, specific 2-4
+BARC-055975-13947	Canopy wilt 3-7
+BARC-055975-13947	Seed weight 52-7
+BARC-056107-14093	Seed linolenic 12-5
+BARC-056215-14153	Seed yield 31-3
+BARC-056271-14211	cqSeed weight-004
+BARC-056323-14257	Canopy wilt 4-1
+BARC-056481-14397	Seed weight 52-8
+BARC-056587-14511	Seed protein 39-1
+BARC-056635-14538	Leaf Damage, ozone, 3rd-5th trifoliate leaves 1-1
+BARC-056635-14538	Leaf Damage, ozone, 4th trifoliate leaf 1-1
+BARC-057049-14550	Seed oil 39-11
+BARC-057049-14550	Seed protein 37-9
+BARC-057129-14594	SCN 44-15
+BARC-057469-14770	cqSeed weight-004
+BARC-057823-14942	cqSeed oil-005
+BARC-057845-14952	Phytoph 15-5
+BARC-057955-15024	Leaflet area 9-4
+BARC-057969-15031	SCN 44-14
+BARC-058481-15299	Nodule number 2-5
+BARC-058493-15308	SCN 44-14
+BARC-058671-17458	SCN 44-6
+BARC-058675-17461	Crude protein, R6 1-5
+BARC-058675-17461	SCN 44-10
+BARC-058675-17461	SCN 44-6
+BARC-058841-15463	Canopy wilt 4-6
+BARC-059265-15700	Seed yield 31-1
+BARC-059287-15715	Crude fat, R6 1-2
+BARC-059485-15839	Seed cadmium 2-1
+BARC-059657-15973	Root nodule weight, dry 2-5
+BARC-059773-16088	Canopy wilt 5-1
+BARC-059851-16137	Canopy wilt 4-4
+BARC-059851-16137	Canopy wilt 4-7
+BARC-059863-16170	Leaflet weight, specific 2-5
+BARC-059867-16171	Crude fat, R6 1-2
+BARC-059937-16229	SCN 43-6
+BARC-059937-16229	SCN 43-8
+BARC-059985-16274	cqSeed oil-006
+BARC-059985-16274	cqSeed oil-009
+BARC-059985-16274	cqSeed protein-005
+BARC-059985-16274	cqSeed protein-015
+BARC-059997-16280	cqSeed oil-016
+BARC-059997-16280	cqSeed protein-007
+BARC-059997-16280	cqSeed weight-008
+BARC-059997-16280	cqSeed weight-011
+BARC-060031-16308	SCN 44-15
+BARC-060037-16311	Phytoph 15-3
+BARC-060051-16321	cqSeed oil-008
+BARC-060051-16321	cqSeed oil-012
+BARC-060051-16321	cqSeed oil-015
+BARC-060051-16321	cqSeed protein-014
+BARC-060295-16596	Leaf Damage, ozone, 5th trifoliate leaf 1-4
+BARC-060361-16629	SCN 43-6
+BARC-060361-16629	SCN 43-8
+BARC-060361-16629	SCN 44-12
+BARC-060361-16629	SCN 44-2
+BARC-060361-16629	SCN 44-8
+BARC-060587-16731	Nodule size 1-7
+BARC-060587-16731	Root nodule weight, dry 2-6
+BARC-061333-17169	SCN 44-4
+BARC-062429-17772	Canopy wilt 3-1
+BARC-062429-17772	Leaflet weight, specific 2-2
+BARC-062515-17881	Lodging 28-4
+BARC-062515-17881	Plant height 38-1
+BARC-062675-18002	Plant height 38-7
+BARC-062759-18042	Foxglove aphid, primary damage, choice 1-1
+BARC-062771-18047	Nodule number 2-6
+BARC-062899-18147	Nodule number 2-8
+BARC-062955-18179	Seed weight 52-8
+BARC-063195-18266	Seed linolenic 12-4
+BARC-063283-18296	Nodule number 2-7
+BARC-064115-18558	Foxglove aphid, primary damage, choice 1-2
+BARC-064293-18611	Root nodule weight, dry 2-7
+BARC-064441-18673	Phytoph 15-3
+BARC-064609-18739	Canopy wilt 4-3
+BARC-064695-18779	mqCanopy wilt-021
+BARC-064861-18829	SCN 44-5
+BARC-064861-18829	Seed protein 37-3
+BARC-064941-19017	Seed weight 53-1
+BARC-065571-19573	Seed weight 52-5
+BARC-065591-19578	Canopy wilt 3-2
+BARC-065687-19660	Seed linolenic 12-10
+BARC-065695-19663	Neutral detergent fiber, R6 1-1
+BARC-065705-19668	Seed linolenic 12-5
+BARC-065769-19741	Canopy wilt 5-3
+BARC-065769-19741	Canopy wilt 5-4
+BARC-065787-19749	Canopy wilt 3-8
+BARC-065787-19749	Seed weight 52-3
+BARC-066103-17539	Seed Met 5-1
+BARC-900461-00929	Root nodule weight, dry 2-4
+BARCSOYSSR_04_0343	Seed Cys 3-3
+BARCSOYSSR_04_0343	Seed Met 3-3
+BARCSOYSSR_04_0343	Seed oil 39-4
+BARCSOYSSR_04_0366	Seed Cys 3-2
+BARCSOYSSR_04_0366	Seed Met 3-2
+BARCSOYSSR_04_0366	Seed oil 39-3
+BARCSOYSSR_04_1400	Seed protein 37-2
+BARCSOYSSR_09_1123	Seed protein 37-10
+BARCSOYSSR_09_1171	Seed oil 39-13
+BARCSOYSSR_09_1171	Seed protein 37-10
+BARCSOYSSR_09_1171	Seed yield 31-10
+BARCSOYSSR_10_1394	Seed oil 39-16
+BARCSOYSSR_10_1395	Seed yield 31-12
+BARCSOYSSR_11_0545	Seed oil 39-2
+BARCSOYSSR_13_0105	Seed yield 31-5
+BARCSOYSSR_13_0119	Seed yield 31-5
+BARCSOYSSR_14_1375	Seed yield 31-1
+BARCSOYSSR_15_1453	Seed yield 31-4
+BARCSOYSSR_17_0118	Seed yield 31-2
+BARCSOYSSR_17_0621	Seed protein 37-6
+BARCSOYSSR_17_0646	Seed protein 37-6
+BARCSOYSSR_17_0690	Seed oil 39-7
+BARCSOYSSR_17_0844	Seed Cys 3-5
+BARCSOYSSR_17_0844	Seed Met 3-5
+BARCSOYSSR_17_0844	Seed yield 31-3
+BARCSOYSSR_17_0900	Seed protein 37-5
+BARCSOYSSR_18_0306	Seed yield 31-6
+BARCSOYSSR_18_1699	Seed oil 39-9
+BARCSOYSSR_18_1707	Phytoph 15-4
+BARCSOYSSR_18_1710	Phytoph 15-4
+BARCSOYSSR_18_1777	Phytoph 15-5
+BARCSOYSSR_18_1949	Phytoph 15-5
+BARCSOYSSR_19_1243	Phytoph 15-1
+BARCSOYSSR_19_1452	Phytoph 15-2
+BARCSOYSSR_19_1473	Phytoph 15-2
+BARCSOYSSR_20_0049	Seed protein 37-7
+BARCSOYSSR_20_0049	Seed yield 31-7
+BARCSOYSSR_20_0079	Seed yield 31-7
+BARCSOYSSR_20_0782	Seed yield 31-8
+BARCSOYSSR_20_0819	Seed Cys 3-7
+BARCSOYSSR_20_0819	Seed Met 3-7
+BCl	Seed oil 1-2
+BE021153	SDS 13-5
+BE475343	Bean pyralid 1-6
+BE475343	Flower number 1-1
+BE475343	Pod number 1-1
+BE801128	Al tolerance 3-6
+BE801128	Bean pyralid 1-7
+BE801128	Seed height to width ratio 1-3
+BE801128	Seed length to width ratio 2-1
+BE820148	Pubescence density 2-1
+BE820148	Pubescence density 2-9
+BE820148	Seed length 5-1
+BLT002_1	Seed oil 13-4
+BLT004_1	Leaflet length 2-3
+BLT004_1	Plant height 6-11
+BLT004_1	Plant height 6-4
+BLT007_1	Lodging 3-3
+BLT007_1	Plant height 3-5
+BLT007_1	Plant height 6-14
+BLT007_1	Plant height 6-7
+BLT007_1	Seed yield to Plant height ratio 1-2
+BLT010_2	Leaflet length 5-2
+BLT015_1	Fe effic 10-2
+BLT015_1	Fe effic 12-2
+BLT015_1	Fe effic 5-2
+BLT015_1	Fe effic 6-2
+BLT015_2	Chlorimuron sensitivity 1-6
+BLT015_2	Chlorimuron sensitivity 2-2
+BLT025_1	Seed weight 2-4
+BLT029_1	First flower 2-1
+BLT029_1	Leaflet area 8-1
+BLT029_1	Seed fill 2-1
+BLT029_1	Seed, beginning 1-1
+BLT030_1	Pod maturity 13-5
+BLT043_1	Leaflet weight, specific 1-1
+BLT043_1	Plant height 5-2
+BLT043_1	Pod maturity 6-1
+BLT049_5	Leaflet area 3-2
+BLT049_5	Leaflet width 2-3
+BLT049_5	Lodging 5-14
+BLT049_5	Pod dehiscence 1-1
+BLT049_5	Seed weight 2-3
+BLT053_3	Leaflet area 7-2
+BLT053_3	Leaflet width 2-2
+BLT057_2	Seed weight 10-4
+BLT065_1	Root weight, fresh 1-1
+BLT065_1	SCN 13-2
+BLT065_1	SCN 41-4
+BLT065_1	SCN 41-5
+BLT065_1	SCN 8-5
+BLT065_1	SDS 5-2
+BLT531_1	Plant height 6-2
+BLT531_1	Plant height 6-9
+Bng012_1	Seed coat cracking 2-2
+Bng047_1	Corn earworm 1-3
+Bng063_1	Seed linolenic 6-4
+Bng077_1	mqSeed Oil-003
+Bng077_1	Seed oil 24-15
+Bng119_2	Seedling, abnormal 1-1
+Bng122	SCN 28-1
+Bng122	SCN 28-3
+Bng122_1	SCN 14-1
+Bng122_1	SCN 4-4
+Bng122_1	SCN 5-3
+Bng122_1	SCN 6-2
+Bng122_1	SCN 7-1
+Bng122_1	SCN 8-2
+Bng122_1	SDS 4-3
+Bng122_1	SDS 6-1
+BSR3.sp1	BSR 2-1
+C006_1	SCN 4-1
+C006_1	SCN 4-4
+C006_1	SCN 5-1
+C006_1	SCN 5-3
+C006_1	SCN 6-1
+C006_1	SCN 6-2
+C006_1	SCN 7-1
+C009_2	First flower 3-4
+C063_1	Fe effic 1-2
+CCW1_1	Common cutworm 2-1
+CCW1_15	Common cutworm 2-1
+Cda1	Seed cadmium 1-1
+CpTI	Pod maturity 5-3
+cr021_2	Lodging 5-15
+cr107_1	Leaflet ash 1-6
+cr122_1	Pod maturity 6-2
+cr142_1	Seed oil 5-4
+cr167_1	Seed protein 4-6
+cr168_1	Chlorimuron sensitivity 1-1
+cr168_1	Chlorimuron sensitivity 2-1
+cr168_1	Lodging 5-12
+cr207_1	Al tolerance 1-2
+cr207_2	Corn earworm 5-2
+cr235_1	Seed weight 3-9
+cr274_1	Chlorimuron sensitivity 1-2
+cr274_1	Chlorimuron sensitivity 2-1
+cr274_1	Pod dehiscence 1-4
+cr274_1	Seed protein 4-13
+cr321_2	Seed weight 11-3
+cr324_1	Pod dehiscence 1-2
+cr326_1	Seed oil 5-6
+cr392_1	Pod dehiscence 1-9
+cr395_1	Seed weight 3-8
+cr406_1	Plant height 11-2
+cr409_1	Lodging 5-5
+cr415_1	Plant height 5-1
+cr497_1	WUE 1-4
+cr509_1	Leaflet ash 1-7
+cr517_1	Lodging 4-1
+cr529_1	Seed weight 3-7
+cs008_1	Southern root-knot nematode 2-2
+D1BMK26	mqCanopy wilt-022
+D1BMK29	mqCanopy wilt-023
+Dt1	Carbon isotope discrimination 1-5
+Dt1	Flower number 1-10
+Dt1	Leaflet area 6-3
+Dt1	Lodging 4-2
+Dt1	Lodging 4-3
+Dt1	Lodging 8-4
+Dt1	Lodging 9-5
+Dt1	Plant height 13-8
+Dt1	Plant height 4-2
+Dt1	Plant height 4-4
+Dt1	Plant weight, dry 1-2
+Dt1	Pod maturity 13-6
+Dt1	Reproductive stage length 4-6
+Dt1	Seed oil 23-4
+Dt1	Seed weight 15-7
+Dt1	Seed weight 3-5
+Dt1	Seed width 1-7
+Dt1	Seed width 1-7
+Dt1	Seed yield 11-6
+Dt1	Shoot weight, dry 4-3
+DUBC015	mqSeed Oil-023
+DUBC015	Seed oil 24-33
+E(ATG)M(CGA)87	SCN 27-1
+E(CCG)M(AAC)405	SCN 27-2
+E014_1	SDS 13-3
+E01c	SCN 9-4
+EV1_2	Leaflet ash 1-11
+EV2_1	Al tolerance 1-6
+EV2_1	Leaflet ash 1-4
+EV2_1	Leaflet weight, specific 1-4
+EV2_1	Lodging 5-11
+EV2_1	Seed weight 3-6
+EV3_1	Lodging 5-4
+EV3_1	Pod maturity 6-4
+EV3_1	Seed protein 4-2
+EV6_1	Chlorimuron sensitivity 1-4
+FT1	Branching 3-1
+G15d	SCN 9-5
+G173_1	First flower 2-3
+G173_1	First flower 6-3
+G173_1	Leaflet length 5-3
+G173_1	Lodging 1-1
+G173_1	Plant height 1-1
+G173_1	Plant height 10-4
+G173_1	Plant height 6-1
+G173_1	Plant height 6-8
+G173_1	Pod maturity 10-4
+G173_1	Reproductive stage length 1-1
+G173_1	Seed coat hardness 1-3
+G173_1	Seed length 1-11
+G173_1	Seed length 1-11
+G173_1	Seed set 1-4
+G173_1	Seed width 1-7
+G173_1	Seed width 1-7
+G173_1	Seed yield to Plant height ratio 4-3
+G173_1	Seed, beginning 1-2
+G173_1	Stem diameter, main 1-1
+G173_3	Plant height 6-14
+G173_3	Plant height 6-7
+G214_10	Seed abortion 1-1
+G214_10	Seed length 1-1
+G214_10	Seed length 1-1
+G214_10	Seed volume 1-1
+G214_10	Seed volume 1-1
+G214_19	Row spacing response 2-2
+G214_19	Seed set 1-6
+G214_24	Reproductive stage length 2-2
+G214_24	Seed width 1-10
+G214_24	Seed width 1-10
+G214_26	Seed weight 6-1
+G248_1	Southern root-knot nematode 1-2
+G248_1	Southern root-knot nematode 2-1
+G815_1	Seed yield 11-5
+gc056_1	Lodging 5-9
+gc197_1	Lodging 5-3
+gc197_1	Pod maturity 6-5
+gc197_1	Seed protein 4-1
+gc34_2	Seed protein 4-9
+gc409_2	Leaflet weight, specific 1-6
+GM001a	Leaflet area 1-4
+GM004	Leaflet area 1-6
+GM018	Leaflet shape 1-4
+GM021	First flower 8-4
+GM115	First flower 7-2
+GM120a	First flower 7-3
+GM133	Leaflet shape 1-2
+GM195	Seed protein 30-8
+GM214b	Seed oil 34-6
+GM254	Leaflet shape 1-3
+GMABAB	Pod wall to Pod weight ratio 1-4
+GMABAB	Pod wall to Pod weight ratio 1-5
+GMABAB	Pod wall width 1-8
+GMAC7L	Seed protein 34-2
+Gmenod2B	SCN 48-1
+GMENOD2B	SDS 15-3
+GMENOD2B	Seed protein 34-4
+GMENOD2B	Seed protein 34-5
+GMGLPSI2	Seed genistein 6-2
+GMHSP179	Seed oil 42-30
+gmrubp	Node number 1-5
+GMRUBP	Root weight, dry 2-2
+GMRUBP	Seed weight 37-2
+GMRUBP-SSR	Leaflet P 1-2
+GMSC514	Seed sucrose 1-9
+GSM0012	Seed Lys 3-2
+GSM0012	Seed Met 4-4
+GSM0012	Seed Met plus Cys 2-2
+GSM0012	Seed protein 39-4
+GSM0012	Seed Thr 3-4
+HSP_2	Jav root-knot nematode 1-3
+HSP_2	Peanut root-knot nematode 1-1
+I	Fe effic 1-1
+I	Pubescence density 2-10
+I	Pubescence density 2-2
+I	Root density, lateral 3-1
+I	Root length, primary 4-1
+I	SCN 3-1
+I	SCN 9-2
+I	Seed coat hardness 1-1
+I	Seed genistein 8-1
+I	Seed glycitein 8-1
+I	Seed isoflavone 7-7
+I	Seed protein 30-4
+I	Shoot length 1-1
+I	Shoot weight, dry 3-1
+Idh1	Row spacing response 2-4
+K001_1	Seed length 1-12
+K001_1	Seed length 1-12
+K001_1	Seed protein 12-2
+K001_1	Seed set 1-5
+K001_1	Seed weight 6-7
+K002_1	Seed protein 3-7
+K002_1	Seed weight 3-2
+K003_1	Seed weight 2-7
+K007_1	Plant height 4-1
+K011_1	SCN 12-1
+K011_1	Seed oil 2-1
+K011_1	Seed protein 1-1
+K011_2	Hypocotyl length 1-1
+K011_2	SDS 13-8
+K011_3	Pods per node 1-4
+K011_3	Seed yield 19-1
+K011_3	Seed yield 19-2
+K014_1	SCN 10-5
+K014_1	SCN 11-2
+K014_2	Lodging 5-6
+K018_1	Stem length, main 1-1
+K069_1	Fe effic 1-5
+K069_1	SCN 1-3
+K069_1	SDS 13-12
+K069_1	SDS 13-9
+K102_1	Plant height 5-14
+K227_3	Fe effic 3-3
+K227_4	Seed sucrose 1-14
+K229_1	mqSeed Oil-012
+K229_1	mqSeed Oil-013
+K229_1	Seed linolenic 1-7
+K229_1	Seed oil 2-8
+K229_1	Seed oil 24-23
+K229_1	Seed oil 24-24
+K258_1	Fe effic 5-1
+K258_2	Leaflet ash 1-5
+K258_2	Seed oil 5-5
+K262_1	Leaflet area 1-2
+K265_1	Seed weight 10-7
+K365_1	First flower 1-1
+K365_1	Pod maturity 1-3
+K375.sp1	BSR 2-1
+K375_1	BSR 1-1
+K375_1	Leaflet ash 1-3
+K375_1	Leaflet length 4-1
+K375_1	Plant height 5-13
+K375_1	Pod dehiscence 1-8
+K375_1	Seed palmitic 1-3
+K375_1	WUE 1-5
+K384_1	Seed oil 34-4
+K384_1	Seed weight 4-4
+K385_1	Leaflet length 5-4
+K385_1	Leaflet shape 2-1
+K385_1	Lodging 4-3
+K385_1	Plant height 4-4
+K385_1	Plant height 5-10
+K385_1	Seed weight 4-6
+K385_1	Stem diameter, main 1-2
+K387_1	Seed oil 4-11
+K390_1	Canopy height 1-2
+K390_1	Leaflet width 1-2
+K390_1	Photoperiod insensitivity 5-3
+K400_1	Seed oil 4-1
+K400_2	SCN 19-1
+K401_4	Corn earworm 6-2
+K411_1	Leaflet width 1-3
+K411_1	Seed coat hardness 1-4
+K411_2	Corn earworm 5-1
+K417_2	Fe effic 1-3
+K418_1	Fe effic 3-4
+K418_1	Fe effic 7-2
+K418_1	Fe effic 8-4
+K418_1	Fe effic 9-5
+K418_1	Seed coat hardness 1-5
+K418_1	Seedling, abnormal 1-3
+K418_4	Canopy width 1-1
+K418_4	Plant height 11-1
+K418_4	Plant height 7-1
+K443_1	First flower 10-2
+K443_1	Leaflet ash 1-9
+K443_1	Photoperiod insensitivity 2-2
+K443_2	Seed weight 1-1
+K455_1	SDS 1-3
+K455_1	SDS 2-6
+K455_1	SDS 4-2
+K455_1	Seedling, abnormal 1-2
+K472_1	Pod maturity 1-1
+K472_1	SDS 13-11
+K472_3	Lodging 5-2
+K474_1	First flower 1-2
+K474_1	Pod maturity 1-4
+K474_2	First flower 1-3
+K474_2	Pod maturity 1-5
+K478_1	Leaflet length 1-2
+K478_1	SCN 19-3
+K478_1	SCN 20-3
+K478_1	SCN 21-2
+K493_1	Southern root-knot nematode 1-4
+K493_1	Southern root-knot nematode 2-2
+K636_2	Seed height 1-4
+K636_2	Seed height 1-4
+K636_2	Seed volume 1-4
+K636_2	Seed volume 1-4
+K644_1	Al tolerance 1-4
+K644_1	Leaflet area 3-3
+K644_1	Phytoph 8-4
+K644_1	Phytoph 8-4
+K644_1	Plant height 5-8
+K644_1	Plant height to Lodging ratio 1-3
+K644_1	Plant height to Lodging ratio 2-3
+K644_1	Reproductive stage length 4-4
+K644_1	Tobacco ring spot virus 1-1
+K644_2	Fe effic 10-1
+K644_2	Fe effic 11-2
+K644_2	Fe effic 12-1
+K644_2	Fe effic 4-2
+K644_2	Fe effic 6-1
+K647_1	Fe effic 1-4
+L002_2	Corn earworm 6-1
+L002_2	Seed oil 6-4
+L026_2	Seed oil 13-5
+L050_10	Photoperiod insensitivity 5-4
+L050_14	Seed height 1-9
+L050_14	Seed height 1-9
+L050_14	Seed weight 6-6
+L050_14	Seed yield to weight ratio 2-3
+L050_7	Lodging 9-4
+L050_7	Plant height 6-11
+L050_7	Plant height 6-4
+L050_7	Plant height to Lodging ratio 1-2
+L050_8	Seed set 1-8
+L050_8	Seed weight 17-1
+L072_1	Seed width 1-6
+L072_1	Seed width 1-6
+L148_1	Seed oil 4-6
+L154_1	Seed oil 6-2
+L154_1	Sprout yield 1-2
+L183_1	Corn earworm 6-1
+L183_1	Lodging 5-7
+L191_1	Plant height 33-6
+L191_1	Plant height 34-6
+L192_1	Seed height 1-13
+L192_1	Seed height 1-13
+L192_1	Seed length 1-14
+L192_1	Seed length 1-14
+L192_1	Seed volume 1-10
+L192_1	Seed volume 1-10
+L192_1	Seed weight 5-2
+L199_2	Reproductive stage length 4-1
+L199_2	SDS 13-14
+L199_2	Seed height 1-5
+L199_2	Seed height 1-5
+L199_2	Seed volume 1-5
+L199_2	Seed volume 1-5
+L199_2	Seed weight 10-5
+L199_2	Seed weight 7-5
+L199_2	Seed width 1-3
+L199_2	Seed width 1-3
+L2	Leaflet length 5-1
+L2	Plant height 13-6
+L204_2	Corn earworm 7-3
+L50dr13	Plant height 6-13
+L50dr13	Plant height 6-6
+L92_1	Seed protein 19-1
+Lap1	Row spacing response 3-5
+LGH_2	Common cutworm 2-2
+M7E8mr3	mqSeed Oil-021
+M7E8mr3	Seed oil 24-31
+M8E6mr1	mqSeed Oil-014
+M8E6mr1	Seed oil 24-25
+Mng456_1	Fe effic 7-2
+Mng456_1	Fe effic 8-4
+Mng456_1	Fe effic 9-5
+mO008_1	SDS 13-6
+mO103_1	Al tolerance 1-1
+N	Seed abortion 1-9
+N	Seed height 1-14
+N	Seed height 1-14
+N	Seed set 1-9
+N	Seed volume 1-11
+N	Seed volume 1-11
+N	Seed width 1-11
+N	Seed width 1-11
+N100_1	Pod maturity 5-4
+nbs37	Seed sucrose 1-15
+Ngm 93	First flower 7-1
+Ngm 93	Flood tolerance 4-14
+Ngm 93	Flood tolerance 4-14
+O109_1	Chlorimuron sensitivity 1-11
+O109_1	Chlorimuron sensitivity 2-3
+O109_1	Plant height 5-11
+O109_1	Pod maturity 6-7
+O109_1	Row spacing response 1-5
+O109_1	Row spacing response 2-5
+OAA09_600	Sclero 1-4
+OAA15_750	Sclero 1-5
+OB41600	Seed sucrose 1-17
+OC01_650	SDS 1-2
+OC01_650	SDS 2-7
+OC01_650	Seed yield 4-1
+OE02_1000	Internode length 1-15
+OE02_1000	Internode length 1-15
+OE02_1000	Necrosis, root Mn induced 1-4
+OE02_1000	Necrosis, root Mn induced 1-4
+OE02_1000	SDS 2-4
+OE02_1000	SDS 3-3
+OE02_1000	SDS 7-4
+OE04_450	SDS 2-3
+OE04_450	SDS 3-4
+OF04_1600	SDS 1-4
+OF04_1600	SDS 2-8
+OG01	SDS 8-4
+OG13_490	SCN 8-1
+OG13_490	SDS 2-1
+OG13_490	SDS 3-1
+OI03_450	Internode length 1-16
+OI03_450	Internode length 1-16
+OI03_450	SCN 8-3
+OI03_450	SDS 2-2
+OI03_450	SDS 3-2
+OI03_512	SDS 4-1
+OI03_512	SDS 4-3
+OO05_250	SDS 1-1
+OO05_250	SDS 2-5
+OO20850	Seed sucrose 1-16
+OPAD08	Phytoph 14-3
+OPAD08	Plant height 33-2
+OPAD08	Plant height 34-2
+OP_M12b	mqSeed Oil-012
+OP_M12b	Sclero 2-11
+OP_M12b	Sclero 3-8
+OP_M12b	Sclero 4-3
+OP_M12b	Sclero 5-5
+OP_M12b	Seed oil 24-23
+OP_U09b	SDS 13-10
+OQ18_550	Sclero 1-8
+OW13_900	Sclero 1-1
+OW13_900	Sclero 1-6
+OW15_400	SCN 8-4
+OX03_510	Sclero 1-7
+P029_1	First flower 10-1
+P029_1	First flower 9-1
+P029_1	Photoperiod insensitivity 1-1
+P029_1	Pod maturity, beginning 1-1
+P029_1	Pod, beginning 1-1
+P157_1	Plant height 5-7
+Pb	Seed linoleic 1-6
+Pb	Seed oil 2-3
+Pb	Seed oleic 1-6
+PHP02275a	SCN 3-3
+PHP02301a	SCN 3-3
+PHP05219a	SCN 3-2
+PHP05354a	SCN 3-2
+Ps	Lodging 9-2
+Ps	Plant height 13-4
+Q026	Seed protein 30-9
+Q043_1	Seed protein 5-5
+R	mqSeed Oil-021
+R	Seed oil 24-31
+R013_2	Canopy height 1-1
+R013_2	Corn earworm 7-5
+R013_2	Leaflet length 1-1
+R013_2	Pod maturity 1-2
+R022_1	Seed coat hardness 1-7
+R029_1	Corn earworm 1-2
+R042_1	Seed weight 38-3
+R045_1	Jav root-knot nematode 1-7
+R045_1	Peanut root-knot nematode 1-5
+R045_1	Peanut root-knot nematode 2-1
+R045_1	Plant height to Lodging ratio 4-2
+R045_1	Seed set 1-3
+R051_2	Pod maturity 5-2
+R051_2	Pod maturity 5-4
+R051_2	Seed protein 5-4
+R079_1	Canopy height 2-1
+R079_1	First flower 2-2
+R079_1	First flower 3-2
+R079_1	Leaflet area 6-1
+R079_1	Leaflet area 7-1
+R079_1	Leaflet area 8-2
+R079_1	Leaflet width 2-1
+R079_1	Leaflet width 5-4
+R079_1	Plant height 2-1
+R079_1	Plant height 3-3
+R079_1	Plant height 6-12
+R079_1	Plant height 6-5
+R079_1	Plant height to Lodging ratio 1-1
+R079_1	Plant height to Lodging ratio 4-1
+R079_1	Pod maturity 2-1
+R079_1	Pod maturity 3-1
+R079_1	Pod maturity 4-2
+R079_1	Pod maturity 7-1
+R079_1	Reproductive stage length 1-2
+R079_1	Seed abortion 1-4
+R079_1	Seed fill 2-2
+R079_1	Seed number 1-1
+R079_1	Seed oil to protein ratio 1-1
+R079_1	Seed oil to protein ratio 1-2
+R079_1	Seed protein 7-1
+R079_1	Seed yield 1-2
+R079_1	Seed yield 3-1
+R183	Pod maturity 7-2
+R183	Seed oil to protein ratio 1-1
+R183	Seed oil to protein ratio 1-2
+R183_1	Pod maturity 7-2
+R183_1	Seed height 1-3
+R183_1	Seed height 1-3
+R183_1	Seed oil to protein ratio 1-1
+R183_1	Seed oil to protein ratio 1-2
+R201_1	Stem diameter, main 1-3
+R249_2	Corn earworm 2-2
+R249_2	Corn earworm 3-2
+R249_2	Leaflet width 5-2
+RGA2a	First flower 9-3
+RGA3	BSR 1-2
+Rhg1	cqSCN-001
+Rhg1	SCN 39-3
+Rhg1	SCN 39-7
+Rhg4	cqSCN-002
+Rhg4	SCN 40-1
+S07a	SCN 9-3
+S506	Plant P 3-4
+S506	Plant weight, dry 1-4
+S506	Root weight, dry 3-2
+S506	Shoot weight, dry 4-1
+Saatt231	Seed glycitein 13-5
+SAC7_1	Seed linolenic 1-1
+SAC7_1	Seed oil 2-5
+SAC7_1	Seed protein 1-5
+Sastt250	Seed weight 42-5
+Sat-062	SDS 13-6
+Sat052	Root area development 1-1
+Sat052	Root area development 1-2
+Sat052	Root length 1-3
+Sat052	Root length development 1-1
+Sat052	Root length development 1-2
+Sat252	Seed Ile 1-4
+Sat305	Seed oil 24-21
+Sat458	Root P 1-1
+Sat567	Seed Ser 1-6
+Satg001	Seed coat hardness 3-3
+Satg001	Seed weight 50-12
+Satg001	Seed winter hardiness 2-3
+Satt001	Seed oil 37-10
+Satt001	Seed protein 33-3
+Satt001	Seed yield 29-1
+Satt002	Canopy wilt 1-3
+Satt002	Seed height 1-8
+Satt002	Seed height 1-8
+Satt002	Seed Leu 1-3
+Satt002	Seed linoleic 6-6
+Satt002	Seed Met plus Cys 1-1
+Satt002	Seed weight 18-2
+Satt002	Seed weight 49-10
+Satt002	Seed yield 21-6
+Satt002	Seed yield 5-2
+Satt005	Lodging 27-5
+Satt005	Phytoph 6-2
+Satt005	Plant height 35-5
+Satt005	Pod maturity 28-1
+Satt005	Seed oil 38-3
+Satt005	Seed yield 28-10
+Satt006	First flower 3-3
+Satt006	Leaflet length 2-1
+Satt006	Lodging 3-1
+Satt006	Photoperiod insensitivity 3-2
+Satt006	Plant height 3-1
+Satt006	Plant height to Lodging ratio 3-2
+Satt006	Pod maturity 24-10
+Satt006	Pod maturity 4-3
+Satt006	SDS 9-2
+Satt006	Seed height 1-11
+Satt006	Seed height 1-11
+Satt006	Seed oil 3-1
+Satt006	Seed protein 2-2
+Satt006	Seed volume 1-8
+Satt006	Seed volume 1-8
+Satt006	Seed weight 13-9
+Satt006	Seed width 1-8
+Satt006	Seed width 1-8
+Satt006	Seed yield to Plant height ratio 1-1
+Satt009	Fe effic 3-4
+Satt009	Flower number 1-2
+Satt009	Japanese beetle resistance 1-8
+Satt009	Phytoph 14-5
+Satt009	Sclero 2-21
+Satt009	Sclero 3-15
+Satt009	Sclero 4-9
+Satt009	Sclero 5-13
+Satt009	Sclero 6-10
+Satt009	Seed isoflavone 4-2
+Satt009	Seed linolenic 14-6
+Satt009	Seed oil 24-5
+Satt009	Seed oil 39-14
+Satt009	Seed stearic 8-5
+Satt012	Fe effic 7-1
+Satt012	Fe effic 8-2
+Satt012	Fe effic 9-3
+Satt012	Plant P 3-3
+Satt012	Plant weight, dry 1-3
+Satt012	SCN 19-4
+Satt012	SCN 20-4
+Satt012	Seed protein 28-2
+Satt012	Seed tocopherol, gamma 2-4
+Satt012	Shoot weight, dry 4-4
+Satt012	Southern root-knot nematode 3-2
+Satt012	Southern root-knot nematode 4-1
+Satt014	Seed weight 14-1
+Satt020	Fe effic 11-1
+Satt020	Fe effic 4-1
+Satt020	Fe effic 8-1
+Satt020	Seed oil 14-1
+Satt020	Seed oil 43-4
+Satt020	Seed oligosaccharide 2-1
+Satt020	Seed oligosaccharide 2-1
+Satt020	Seed sucrose 3-1
+Satt020	Seed sucrose 3-1
+Satt022	Leaflet chlorophyll 1-3
+Satt022	Leaflet shape, UV-B induced 1-1
+Satt022	Leaflet width 8-15
+Satt022	Leaflet width 9-7
+Satt022	mqSeed Oil-025
+Satt022	Petiole color, UV-B induced 1-1
+Satt022	Plant damage, UV-B induced 1-1
+Satt022	Plant height 26-17
+Satt022	Plant height 26-17
+Satt022	Pod wall to Pod weight ratio 1-4
+Satt022	Seed length 1-4
+Satt022	Seed length 1-4
+Satt022	Seed linoleic 6-1
+Satt022	Seed number 6-2
+Satt022	Seed oil 24-34
+Satt022	Seed oil 28-3
+Satt022	Seed oil 36-9
+Satt022	Seed oil 43-30
+Satt022	Seed oleic 6-1
+Satt022	Seed protein 36-34
+Satt022	Seed protein 36-35
+Satt022	Seed stearic 6-5
+Satt022	Seed thickness 1-2
+Satt022	Seed weight 46-2
+Satt022	Seed weight per plant 5-3
+Satt022	Whitefly resistance 1-3
+Satt030	Phytoph 10-1
+Satt030	Seed stearic 8-3
+Satt030	Seed tocopherol, delta 2-2
+Satt031	Canopy wilt 5-2
+Satt031	Seed oil 30-6
+Satt038	SCN 13-1
+Satt038	SCN 32-1
+Satt038	SCN 32-1
+Satt038	SCN 40-2
+Satt038	SCN 42-2
+Satt038	SDS 11-3
+Satt038	SDS 5-1
+Satt038	Seed linoleic 3-1
+Satt038	Seed protein 28-5
+Satt041	mqCanopy wilt-005
+Satt041	mqCanopy wilt-018
+Satt041	Node number 4-1
+Satt041	Plant P 3-7
+Satt041	Whitefly resistance 1-2
+Satt042	Plant height 26-1
+Satt042	Plant height 26-1
+Satt042	Plant height 26-2
+Satt042	Plant height 26-2
+Satt042	Seed weight 37-12
+Satt045	Plant height 26-10
+Satt045	Plant height 26-10
+Satt045	Seed Cys 3-6
+Satt045	Seed Met 3-6
+Satt045	Seed N at R7 1-5
+Satt045	Seed oil 36-3
+Satt045	Seed oil 39-8
+Satt045	Seed palmitic 7-3
+Satt045	Seed width 3-2
+Satt045	Seed width to thickness ratio 1-5
+Satt046	Sclero 1-3
+Satt046	Sclero 1-6
+Satt046	Seed weight 35-6
+Satt046	Seed weight 36-6
+Satt046	Seed yield 23-1
+Satt049	First flower 25-3
+Satt049	Seed oil 27-8
+Satt050	Leaflet width 8-1
+Satt050	Leaflet width 9-1
+Satt050	Pod dehiscence 3-1
+Satt050	Seed abortion 1-6
+Satt050	Seed oleic 6-5
+Satt055	First flower 24-2
+Satt055	Photoperiod insensitivity 5-2
+Satt063	Fe effic 3-2
+Satt063	Fe effic 9-2
+Satt063	Leaflet shape 7-2
+Satt063	Leaflet width 7-1
+Satt063	Seed daidzein 4-1
+Satt063	Seed genistein 4-1
+Satt063	Seed linoleic 3-3
+Satt063	Seed linolenic 11-2
+Satt063	Seed linolenic 3-3
+Satt063	Seed oil 30-4
+Satt063	Seed oil 43-2
+Satt063	Seed protein 26-10
+Satt063	Seed protein 28-4
+Satt066	Canopy wilt 2-5
+Satt066	Nodule number 3-1
+Satt066	Nodule weight per plant, dry 1-1
+Satt066	Pod maturity 24-1
+Satt066	Pod maturity 24-11
+Satt066	Seed isoflavone 7-6
+Satt066	Seed linolenic 7-6
+Satt066	Seed oil 37-4
+Satt066	Seed weight 29-4
+Satt066	Seed yield to Plant height ratio 3-4
+Satt070	Canopy wilt 2-5
+Satt070	Fe effic 11-1
+Satt070	Fe effic 3-1
+Satt070	Fe effic 4-1
+Satt070	Phytoph 9-4
+Satt070	Sclero 2-4
+Satt070	Sclero 5-2
+Satt070	Seed oil 30-4
+Satt070	Seed oil 43-3
+Satt070	Seed palmitic 4-6
+Satt070	Seed protein 28-4
+Satt070	Seed protein 36-3
+Satt070	Seed protein 36-4
+Satt070	Seed stearic 4-1
+Satt070	Seed stearic 4-1
+Satt070	Seed weight 13-3
+Satt070	Seed weight 36-14
+Satt070	Seed width 4-7
+Satt071	Lodging 20-4
+Satt071	Pubescence density 3-1
+Satt071	Seed weight 15-2
+Satt071	Whitefly resistance 1-1
+Satt072	Canopy wilt 1-4
+Satt072	First flower 27-1
+Satt072	Pod maturity 36-1
+Satt072	Root to Shoot weight ratio 2-2
+Satt072	Seed length 1-9
+Satt072	Seed length 1-9
+Satt073	Seed agglutinin 2-1
+Satt076	Canopy wilt 2-7
+Satt076	First flower 24-3
+Satt076	First flower 25-4
+Satt076	Leaflet area 4-4
+Satt076	Pod number 9-3
+Satt076	Seed acidic fraction 1-4
+Satt076	Seed Glu 1-5
+Satt076	Seed Leu 1-5
+Satt076	Seed sucrose 2-11
+Satt076	Seed yield 24-1
+Satt076	Seed yield 24-1
+Satt077	Leaflet chlorophyll 1-6
+Satt077	Seed length to width ratio 1-1
+Satt077	Seed protein 13-1
+Satt077	Seed protein 31-3
+Satt077	Seed weight 45-2
+Satt079	Leaflet trigonelline, dry 1-2
+Satt079	Leaflet trigonelline, fresh 1-2
+Satt079	Plant height 3-2
+Satt079	Pod maturity 4-1
+Satt079	Pod number 11-3
+Satt079	SDS 11-1
+Satt079	Seed linolenic 14-2
+Satt079	Seed yield 21-2
+Satt079	Seed yield 3-2
+Satt079	Seed yield to Plant height ratio 4-2
+Satt079	Stem strength, main 1-6
+Satt080	Flower number 1-2
+Satt080	Root length, primary 2-3
+Satt080	Root weight, dry 1-2
+Satt080	SDS 8-3
+Satt080	Seed daidzein 4-4
+Satt080	Seed isoflavone 1-4
+Satt080	shoot weight, dry 1-3
+Satt080	shoot weight, fresh 1-4
+Satt082	SCN 16-1
+Satt082	SCN 38-6
+Satt082	Seed yield 26-1
+Satt083:B2:51.49	Seed tocopherol, gamma 3-5
+Satt089	Seed Lys 3-1
+Satt094	Seed length 4-2
+Satt095	Flower number 1-1
+Satt095	Plant height 13-1
+Satt095	Pod number 1-1
+Satt095	Seed width 1-9
+Satt095	Seed width 1-9
+Satt095	Seed yield to Plant height ratio 3-3
+Satt100	First flower 18-1
+Satt100	First flower 20-1
+Satt100	First flower 22-2
+Satt100	First flower 22-2
+Satt100	First flower 26-18
+Satt100	Flood tolerance 4-1
+Satt100	Flood tolerance 4-1
+satt100	Hypocotyl weight 1-3
+Satt100	Leaflet shape 8-5
+Satt100	Leaflet shape 9-4
+Satt100	Leaflet shape, UV-B induced 10-2
+Satt100	Lodging 27-3
+Satt100	Node number 4-2
+Satt100	Phomopsis seed decay 3-1
+Satt100	Phomopsis seed decay 4-1
+Satt100	Phytoph 6-6
+Satt100	Plant height 29-1
+Satt100	Plant height 30-1
+Satt100	Plant height 35-2
+Satt100	Pod maturity 25-1
+Satt100	Pod maturity 28-4
+Satt100	Pod maturity 32-2
+Satt100	Pod maturity 33-2
+Satt100	Pod maturity 34-2
+Satt100	Pod number 5-1
+Satt100	Pod number 7-1
+Satt100	Pods per node 3-1
+Satt100	Rag 4-1
+Satt100	Seed coat color 1-3
+Satt100	Seed coat color 1-3
+Satt100	Seed oil 31-2
+Satt100	Seed oil 33-1
+Satt100	Seed oil 38-2
+Satt100	Seed oligosaccharide 2-2
+Satt100	Seed oligosaccharide 2-2
+Satt100	Seed protein 28-1
+Satt100	Seed protein 29-1
+Satt100	Seed protein 35-2
+Satt100	Seed set 4-1
+Satt100	Seed weight 31-1
+Satt100	Seed weight 34-2
+Satt100	Seed weight 35-2
+Satt100	Seed weight 40-3
+Satt100	Seed yield 28-4
+Satt100	Seed, beginning 3-1
+Satt102	Seed glycinin 2-7
+Satt102	Seed glycinin plus beta-conglycinin 1-11
+Satt102	Seed glycinin plus beta-conglycinin 1-12
+Satt102	Seed glycinin to beta-conglycinin ratio 1-6
+Satt102	Seed oil 42-26
+Satt102	Seed oil 43-22
+Satt102	Seed Phe 1-5
+Satt102	Seed protein 24-3
+Satt102	Seed protein 36-28
+Satt102	Seed Ser 1-3
+Satt102	Seed Tyr 1-4
+Satt102	Seed weight 10-10
+Satt114	Chlorosis, leaflet UV-B induced 1-3
+Satt114	Leaflet shape, UV-B induced 10-6
+Satt114	Lodging 18-3
+Satt114	Petiole color, UV-B induced 1-4
+Satt114	Rag 4-3
+Satt114	Sclero 2-12
+Satt114	Sclero 3-9
+Satt114	Sclero 4-4
+Satt114	Sclero 5-6
+Satt114	Sclero 6-5
+Satt114	Seed daidzein 8-8
+Satt114	Seed tocopherol, gamma 3-7
+Satt114	Seed weight 13-6
+Satt114	Seed weight 15-3
+Satt114	Seed weight 44-2
+Satt114	Seed weight 45-6
+Satt114	Seed weight 50-7
+Satt115	SDS 11-5
+Satt117	Lodging 25-1
+Satt117	Lodging 26-1
+Satt117	Seed oil plus protein 1-5
+Satt117	Seed protein 27-3
+Satt119	Seed fucose 1-1
+Satt122	Flower color 1-1
+Satt123	Sclero 2-23
+Satt123	Sclero 3-18
+Satt123	Sclero 4-10
+Satt124	Seed daidzein 11-6
+Satt124	Seed daidzein 13-3
+Satt124	Seed daidzein 3-3
+Satt125	Seed coat color 1-4
+Satt125	Seed coat color 1-4
+Satt125	Seed oil 39-15
+Satt126	Lodging 21-4
+Satt126	Pod dehiscence 3-2
+Satt126	Root diameter 1-1
+Satt126	Root diameter 1-2
+Satt126	Root diameter 1-4
+Satt126	Root diameter change 1-2
+Satt126	Root length 1-1
+Satt126	Sclero 8-2
+Satt126	Seed oil 42-28
+Satt127	Plant height 12-1
+Satt127	Pod maturity 11-1
+Satt127	SDS 16-4
+Satt127	Seed oil 34-3
+Satt127	Seed protein 10-1
+Satt127	Seed yield 9-1
+Satt129	Plant height 42-1
+Satt129	Pubescence density 3-1
+Satt129	Sclero 2-5
+Satt129	Sclero 3-4
+Satt129	Sclero 4-1
+Satt129	Sclero 5-3
+Satt129	SCN 39-11
+Satt129	Seed glycitein 2-2
+Satt129	Seed glycitein 4-1
+Satt129	Seed oil 37-2
+Satt129	Seed oil 43-8
+Satt129	Seed protein 36-9
+Satt129	Seed tocopherol, alpha 3-1
+Satt129	Seed tocopherol, delta 3-1
+Satt129	Seed tocopherol, gamma 3-2
+Satt130	SCN 17-4
+Satt130	SCN 18-5
+Satt130	SCN 19-4
+Satt130	SDS 11-4
+Satt131	Seed isoflavone 4-5
+Satt131	Seed N at R7 1-7
+Satt132	First flower 13-7
+Satt132	Leaflet shape 7-8
+Satt132	Seed height to width ratio 1-1
+Satt132	Seed oil 37-9
+Satt132	Seed yield 29-2
+Satt133	Seed linolenic 14-5
+Satt133	Seed N at R5 1-2
+Satt133	Seed palmitic 5-1
+Satt133	Seed palmitic 5-1
+Satt133	Seed stearic 8-2
+Satt133	Seed Tyr 1-1
+Satt134	Drought index 1-2
+satt134	Hypocotyl weight 1-3
+Satt134	Plant height 18-4
+Satt134	Plant height 19-3
+Satt134	Plant height 31-1
+Satt134	Pod maturity 14-3
+Satt134	Pod maturity 15-3
+Satt134	Pod maturity 21-1
+Satt134	Pod maturity 32-2
+Satt134	Pod maturity 33-2
+Satt134	Seed agglutinin 2-5
+Satt134	Seed oil plus protein 1-2
+Satt134	Seed weight 49-6
+Satt134	Seed yield 16-3
+Satt134	Seed yield 17-2
+Satt134	Seed yield 22-13
+Satt134	Seed yield 22-14
+Satt135	Canopy wilt 2-6
+Satt135	Seed conglycinin, beta 2-4
+Satt135	Seed glycinin plus beta-conglycinin 1-10
+Satt135:D2:26.04	Seed tocopherol, gamma 3-6
+Satt136	Seed height 1-13
+Satt136	Seed height 1-13
+Satt136	Seed length 1-14
+Satt136	Seed length 1-14
+Satt136	Seed tocopherol, gamma 3-1
+Satt136	Seed tocopherol, total 3-1
+Satt136	Seed volume 1-10
+Satt136	Seed volume 1-10
+Satt137	Leaflet shape 6-12
+Satt137	Leaflet shape 7-9
+Satt137	Leaflet width 6-7
+Satt137	Leaflet width 7-6
+Satt137	Lodging 11-1
+Satt137	Lodging 17-1
+Satt137	mqPlant height-008
+Satt137	Petiole color, UV-B induced 1-3
+Satt137	Photoperiod insensitivity 5-2
+Satt137	Plant height 18-3
+Satt137	Seed coat cracking 3-5
+Satt137	Seed yield 16-1
+Satt137	Seed yield 16-2
+Satt137	Seed yield 17-1
+Satt138	Flower number 1-9
+Satt138	Pod number 1-8
+Satt139	cqSeed agglutinin-001
+Satt139	Lodging 27-1
+Satt139	Pod maturity 28-2
+Satt139	Pod number 4-1
+Satt139	Seed agglutinin 1-2
+Satt139	Seed agglutinin 3-1
+Satt139	Seed glycinin 2-3
+Satt139	Seed glycinin plus beta-conglycinin 1-3
+Satt139	Seed Ser 1-2
+Satt139	Seed Trp 1-2
+Satt139	Seed yield 25-1
+Satt139	Seed yield 28-2
+Satt141	Corn earworm 9-1
+Satt141	First flower 13-3
+Satt141	Internode length 2-9
+Satt141	Leaflet shape 6-5
+Satt141	Pod wall to Pod weight ratio 1-3
+Satt142	Drought index 1-3
+Satt142	mqSeed Oil-018
+Satt142	Plant height 17-12
+Satt142	Seed linoleic 10-5
+Satt142	Seed oil 24-28
+Satt142	Seed protein 21-10
+Satt142	Seed stearic 8-10
+Satt142	Seed yield 15-8
+Satt142	Seed yield 22-4
+Satt142	Shoot weight, dry 3-2
+Satt143	Sclero 2-19
+Satt143	Sclero 3-13
+Satt143	Sclero 4-8
+Satt143	Sclero 5-11
+Satt143	Sclero 6-8
+Satt143	Seed Ala 1-6
+Satt143	Seed Gly 1-5
+Satt143	Seed Pro 1-4
+Satt143	Seed protein 34-10
+Satt143	Seed Ser 1-5
+Satt143	Seed Thr 1-2
+Satt143	Seed Val 1-4
+Satt143	Seed weight 13-10
+Satt144	Rag 2-2
+Satt144	Seed daidzein 11-4
+Satt144	Seed daidzein 13-5
+Satt144	Seed daidzein 3-1
+Satt144	Seed genistein 11-8
+Satt144	Seed genistein 13-6
+Satt144	Seed genistein 3-3
+Satt144	Seed isoflavone 11-9
+Satt144	Seed isoflavone 2-2
+Satt144	Seed protein 24-2
+Satt144	Seed tocopherol, delta 3-2
+Satt144	Seed total isoflavone 9-11
+Satt144	Seed yield 5-3
+Satt144	Seed yield to Plant height ratio 2-3
+Satt145	Hypocotyl length 2-2
+Satt145	Hypocotyl length 2-2
+Satt145	Internode length 1-13
+Satt145	Internode length 1-13
+Satt145	Internode length 2-12
+Satt145	Plant height 27-2
+Satt145	Plant height 27-2
+Satt146	Leaflet shape 6-7
+Satt146	Leaflet shape 7-5
+Satt146	Leaflet width 7-5
+Satt146	Plant height 26-11
+Satt146	Plant height 26-11
+Satt146	Seed stearic 6-3
+Satt147	Leaflet chlorophyll 1-4
+Satt147	Pubescence density 1-1
+Satt147	Pubescence density 1-1
+Satt147	Sclero 2-5
+Satt147	Sclero 3-4
+Satt147	Sclero 4-1
+Satt147	Sclero 5-3
+Satt147	Seed tocopherol, alpha 3-1
+Satt147	Seed tocopherol, delta 3-1
+Satt147	Seed tocopherol, gamma 3-2
+Satt147	Seed weight 18-1.1
+Satt147	Seed weight 29-3
+Satt147	Seed weight 30-1
+Satt147	Whitefly resistance 1-1
+Satt148	SCN 34-4
+Satt148	SCN 34-4
+Satt148	Seed weight 15-5
+Satt149	Phytoph 2-1
+Satt149	Phytoph 4-1
+Satt149	Phytoph 9-2
+Satt149	Sclero 9-5
+Satt149	Seed genistein 11-4
+Satt149	Seed genistein 13-7
+Satt149	Seed protein 36-21
+Satt150	First flower 4-2
+Satt150	Leaflet area 4-3
+Satt150	Leaflet chlorophyll 1-13
+Satt150	Leaflet length 3-2
+Satt150	Leaflet width 3-2
+Satt150	Plant height 10-2
+Satt150	Plant height 21-3
+Satt150	Plant height 37-4
+Satt150	Plant height 8-2
+Satt150	Plant height to Lodging ratio 2-1
+Satt150	Pod maturity 13-7
+Satt150	Pod maturity 18-4
+Satt150	Pod maturity 8-2
+Satt150	Reproductive stage length 2-1
+Satt150	Seed abortion 1-2
+Satt150	Seed height 1-7
+Satt150	Seed height 1-7
+Satt150	Seed length 1-6
+Satt150	Seed length 1-6
+Satt150	Seed protein 36-33
+Satt150	Seed set 1-7
+Satt150	Seed thickness 1-5
+Satt150	Seed volume 1-6
+Satt150	Seed volume 1-6
+Satt150	Seed weight 35-11
+Satt150	Seed weight 47-1
+Satt150	Seed weight 49-15
+Satt150	Seed weight 7-6
+Satt150	Seed width 1-5
+Satt150	Seed width 1-5
+Satt150	Seed yield 11-7
+Satt150	Seed yield 19-4
+Satt150	Seed yield 6-1
+Satt150	Seed yield to Plant height ratio 2-2
+Satt150	Seed yield to weight ratio 3-3
+Satt151	Branching 1-5
+Satt151	Leaflet shape 6-6
+Satt151	Leaflet width 6-4
+Satt151	Leaflet width 7-4
+Satt151	Plant height 24-8
+Satt151	Seed oil plus protein 1-4
+Satt151	Seed protein 27-2
+Satt151	Seed protein 27-3
+Satt152	Leaflet width 6-10
+Satt152	Leaflet width 7-10
+satt152	Root length, primary 3-2
+satt152	Root weight, dry 2-1
+Satt152	Seed isoflavone 4-2
+Satt152	Seed isoflavone 4-3
+Satt152	Seed oil 43-31
+satt152	Shoot weight 4-3
+Satt153	Flood tolerance 4-11
+Satt153	Flood tolerance 4-11
+Satt153	Plant height 29-3
+Satt153	SCN 38-5
+Satt153	Seed genistein 13-5
+Satt153	Seed glucose 1-1
+Satt153	Seed linoleic 5-3
+Satt153	Seed oleic 6-10
+Satt153	Seed tocopherol, total 2-4
+Satt153	Seed weight 34-8
+Satt153	Seed weight 35-8
+Satt153	Seed weight 36-8
+Satt154	Canopy wilt 1-3
+Satt154	Canopy wilt 3-10
+Satt154	Canopy wilt 3-13
+Satt154	Drought index 1-9
+Satt154	mqCanopy wilt-011
+Satt154	Node number 7-1
+Satt154	Sclero 3-6
+Satt154	Seed oil 23-3
+Satt154	Seed oil 43-12
+Satt154	Seed palmitic plus stearic 1-1
+Satt154	Seed weight 13-5
+Satt154	Seed weight 42-2
+Satt155	Plant height 26-3
+Satt155	Plant height 26-3
+Satt155	Seed agglutinin 2-4
+Satt155	Seed genistein 2-4
+Satt156	Leaflet shape 5-1
+Satt156	Photoperiod insensitivity 3-2
+Satt156	Seed basic fraction 1-2
+Satt156	Seed protein 30-7
+Satt156	Seed weight 15-7
+Satt157	Bean pyralid 1-2
+Satt157	Leaflet length 6-2
+Satt157	Leaflet length 7-4
+Satt157	Leaflet shape 7-3
+Satt157	Plant height 23-1
+Satt157	Pod maturity 22-4
+Satt157	Seed agglutinin 1-3
+Satt157	Seed coat cracking 3-1
+Satt157	Seed oil 20-2
+Satt157	Seed oil 43-10
+Satt157	Seed palmitic 4-2
+Satt157	Seed protein 21-4
+Satt157	Seed protein 36-12
+Satt157	Seed protein 36-13
+Satt157	Seed weight 49-8
+Satt157	Seed width 4-1
+Satt159	Seed coat cracking 3-8
+Satt159	Seed oil 43-31
+Satt159	Seed protein 41-10
+Satt160	Al tolerance 2-1
+Satt160	Hypocotyl length 2-1
+Satt160	Hypocotyl length 2-1
+Satt160	Japanese beetle resistance 1-2
+Satt160	Leaflet chlorophyll 1-1
+Satt160	Phytoph 11-19
+Satt160	Phytoph 9-2
+Satt160	Seed coat cracking 3-10
+Satt160	Shoot fresh to dry weight ratio 1-3
+Satt162	Internode length 2-7
+Satt162	Lodging 23-1
+Satt162	Lodging 24-1
+Satt162	Plant height 28-1
+Satt162	Pod maturity 23-1
+Satt162	Pods per node 3-3
+Satt162	SCN 34-2
+Satt162	SCN 34-2
+Satt162	Seed oil 27-9
+Satt162	Seed oil 33-3
+Satt162	Seed protein 26-9
+Satt162	Seed protein 35-3
+Satt162	Seed set 2-1
+Satt162	Seed weight 31-3
+Satt162	Seed yield 25-5
+Satt162	Seed yield 28-6
+Satt162	Seed, beginning 2-1
+Satt163	SCN 29-1
+Satt163	SCN 29-3
+Satt163	SCN 29-4
+Satt163	SCN 29-5
+Satt163	SCN 29-8
+Satt163	SCN 33-3
+Satt163	SCN 33-3
+Satt163	SCN 33-5
+Satt163	SCN 33-5
+Satt163	SCN 41-2
+Satt163	SCN 48-2
+Satt163	SDS 8-1
+Satt163	Seed oleic 3-2
+Satt163	Seed protein 47-7
+Satt163	Seed weight 10-8
+Satt163	Seed weight 7-2
+Satt163:G:0	SCN 45-1
+Satt164	Flood tolerance 4-8
+Satt164	Flood tolerance 4-8
+Satt164	Flood tolerance 7-3
+Satt164	Seed weight 49-3
+Satt164:B2:132.46	Seed tocopherol, gamma 3-5
+Satt166	First flower 4-4
+Satt166	Flower number 1-10
+Satt166	Leaflet shape 6-16
+Satt166	Leaflet shape 7-11
+Satt166	Photoperiod insensitivity 3-2
+Satt166	Plant height 8-4
+Satt166	Plant weight, dry 1-2
+Satt166	Pod dehiscence 3-5
+Satt166	Pod maturity 8-4
+Satt166	Seed coat cracking 3-7
+Satt166	Seed height 1-10
+Satt166	Seed height 1-10
+Satt166	Seed height 1-11
+Satt166	Seed height 1-11
+Satt166	Seed length 1-10
+Satt166	Seed length 1-10
+Satt166	Seed length 4-8
+Satt166	Seed oil 23-4
+Satt166	Seed oligosaccharide 2-7
+Satt166	Seed oligosaccharide 2-7
+Satt166	Seed protein 8-1
+Satt166	Seed volume 1-7
+Satt166	Seed volume 1-7
+Satt166	Seed volume 1-8
+Satt166	Seed volume 1-8
+Satt166	Seed width 1-8
+Satt166	Seed width 1-8
+Satt166	Seed yield to Plant height ratio 2-6
+Satt166	Shoot weight, dry 4-3
+Satt167	Leaflet length 7-10
+Satt167	Leaflet width 6-8
+Satt167	Leaflet width 7-7
+satt167	Root volume 1-1
+Satt167	SDS 16-1
+Satt167	Seed coat cracking 3-5
+Satt167	Seed yield 12-1
+Satt168	Leaflet length 10-4
+Satt168	Phytoph 9-4
+Satt168	SCN 17-2
+Satt168	SCN 19-2
+Satt168	Seed Ala 1-3
+Satt168	Seed Ile 1-2
+Satt168	Seed N at R7 1-1
+Satt168	Seed Phe 1-1
+Satt168	Seed Pro 1-2
+Satt168	Seed protein 21-8
+Satt168	Seed stearic 4-1
+Satt168	Seed stearic 4-1
+Satt168	Seed Val 1-1
+Satt168	Seed yield 15-6
+Satt168	Somatic emb per explant 3-1
+Satt172	Canopy wilt 6-3
+Satt172	Sclero 2-6
+Satt172	Seed coat cracking 3-3
+Satt172	Seed tocopherol, total 1-3
+Satt172	Seed tocopherol, total 2-3
+Satt172	Somatic emb per explant 4-1
+Satt173	Pod dehiscence 3-8
+Satt173	Pod number 2-2
+Satt173	SCN 34-5
+Satt173	SCN 34-5
+Satt173	Seed length 4-2
+Satt173	Seed linolenic 8-2
+Satt173	Seed oil 43-34
+Satt173	Seed protein 27-5
+Satt173	Seed protein 36-39
+satt173	Seed protein 40-1
+Satt173	Seed weight 25-4
+Satt173	Seed weight 37-6
+Satt174	Cellwall polysacch composition 1-1
+Satt174	Seed arabinose plus galactose 1-1
+Satt174	Seed daidzein 13-12
+Satt174	Seed genistein 13-10
+Satt174	Seed oil 8-1
+Satt174	Seed pectin 1-1
+Satt174	Seed weight 7-3
+Satt175	Common cutworm 1-1
+Satt175	Plant height 25-3
+Satt175	Pubescence length 1-1
+Satt175	Reproductive stage length 5-3
+satt175	Root volume 1-3
+Satt175	Seed palmitic 2-2
+Satt177	Canopy wilt 1-1
+Satt177	Leaflet shape 8-1
+Satt177	Leaflet shape 9-1
+Satt177	Rhizoc root and hypocot rot 1-2a
+Satt177	Rhizoc root and hypocot rot 1-2b
+Satt177	Root weight, dry 1-1
+Satt177	Root weight, fresh 1-2
+Satt177	Seed Asp 1-1
+Satt177	Seed coat cracking 3-9
+Satt177	Seed conglycinin, alpha-prime 1-1
+Satt177	Seed Glu 1-1
+Satt177	Seed Ile 1-1
+Satt177	Seed linolenic 8-1
+Satt177	Seed N at R5 1-1
+Satt177	Seed tocopherol, gamma 2-1
+Satt177	Seed weight 35-1
+Satt177	Seed weight 36-10
+Satt177	shoot weight, dry 1-1
+Satt177	shoot weight, fresh 1-1
+Satt178	Lodging 17-1
+Satt178	mqPlant height-008
+Satt178	mqPlant height-009
+Satt178	Photoperiod insensitivity 5-2
+Satt178	Plant height 18-1
+Satt178	Plant height 19-1
+Satt178	Seed cadmium 1-1
+Satt178	Seed protein 12-3
+Satt178	Seed yield 17-1
+Satt179	Lodging 25-3
+Satt179	Lodging 26-3
+Satt179	Seed oil 23-2
+Satt179	Seed tocopherol, delta 1-2
+Satt179	Seed tocopherol, delta 2-1
+Satt179	Seed weight 15-2
+Satt180	First flower 22-1
+Satt180	First flower 22-1
+Satt180	Flood tolerance 7-3
+Satt180	Leaflet shape 8-3
+Satt180	Leaflet width 8-2
+Satt180	Pod number 11-4
+Satt180	Seed number 7-2
+Satt180	Seed weight 47-3
+satt181	Hypocotyl weight 1-2
+Satt181	Pubescence density 1-2
+Satt181	Pubescence density 1-2
+Satt181	Pubescence density 3-2
+Satt181	Pubescence length 1-2
+Satt181	Seed daidzein 2-2
+Satt181	Seed genistein 2-6
+Satt181	Seed glycitein 2-8
+Satt181	Seed isoflavone 1-3
+Satt181	Seed tocopherol, alpha 3-3
+Satt181	Seed tocopherol, total 3-5
+Satt181	Seed weight 34-4
+Satt182	Leaflet area 6-2
+Satt182	Lodging 20-5
+Satt182	Lodging 8-3
+Satt182	Plant height 10-3
+Satt182	Plant height 13-7
+Satt182	Pod, beginning 2-3
+satt182	Root length, primary 3-3
+Satt182	Sclero 8-4
+Satt182	Seed oil 27-5
+Satt182	Seed oil 37-6
+Satt182	Seed protein 33-4
+Satt183	Net photosyn rate 2-1
+Satt183	Pod dehiscence 3-4
+Satt183	Seed linoleic 7-4
+Satt183	Seed oleic 7-4
+Satt183	Seed weight 34-18
+Satt184	cqSeed weight-006
+Satt184	cqSeed weight-010
+Satt184	Flood tolerance 6-1
+Satt184	Seed hardness 1-2
+Satt184	Seed Lys 1-1
+Satt184	Seed oil 23-2
+Satt184	Seed weight 18-1.2
+Satt185	Nodule number 1-2
+Satt185	Petiole color, UV-B induced 1-5
+Satt185	Sclero 9-4
+Satt185	Seed linoleic 4-1
+Satt185	Seed linoleic 4-1
+Satt185	Seed linolenic 3-1
+Satt185	Seed Lys 1-2
+Satt185	Seed N at R5 1-5
+Satt185	Seed Tyr 1-3
+Satt185	Seed yield 21-10
+Satt185	Shoot weight, dry 2-1
+Satt186	P use efficiency 1-1
+Satt186	Pod maturity 19-2
+Satt186	Seed genistein 11-2
+Satt186	Seed genistein 13-8
+Satt186	Seed glycitein 7-6
+Satt186	Seed oil 30-6
+Satt186	Seed oil 43-13
+Satt186	Seed yield 15-7
+Satt186	Stem weight, dry 2-1
+Satt187	First flower 13-1
+Satt187	Flood tolerance 7-2
+Satt187	Leaflet shape 6-1
+Satt187	Leaflet shape, UV-B induced 10-5
+Satt187	Leaflet width 6-1
+Satt187	Pod maturity 22-1
+Satt187	SCN 39-1
+Satt187	SCN 39-8
+Satt187	SCN 48-1
+Satt187	Seed daidzein 7-2
+Satt187	Seed isoflavone 6-7
+Satt187	Seed oil 30-3
+Satt187	Seed protein 26-1
+Satt187	Seed weight 13-1
+Satt187	Seed weight 30-4
+Satt187	Seed weight 6-2
+Satt188	Seed daidzein 13-4
+Satt188	Seed genistein 13-5
+Satt189	cqSeed agglutinin-003
+Satt189	First flower 13-4
+Satt189	Leaflet shape 6-4
+Satt189	Seed agglutinin 1-3
+Satt189	Seed agglutinin 2-2
+Satt189	Seed number 7-1
+Satt190	Seed genistein 8-4
+Satt190	Seed glycitein 8-10
+Satt190	Seed isoflavone 7-2
+Satt190	Seed weight 36-15
+Satt191	Corn earworm 9-2
+Satt191	Lodging 21-1
+Satt191	mqSeed Oil-017
+Satt191	Phytoph 13-4
+Satt191	Plant height 17-3
+Satt191	Plant height 25-1
+Satt191	Plant height 25-5
+Satt191	Pod maturity 19-8
+Satt191	Reproductive stage length 5-2
+Satt191	Sclero 2-14
+Satt191	Sclero 3-10
+Satt191	Sclero 4-6
+Satt191	Sclero 5-9
+Satt191	Sclero 6-7
+Satt191	SCN 37-2
+Satt191	Seed daidzein 13-7
+Satt191	Seed genistein 13-12
+Satt191	Seed oil 24-27
+Satt191	Seed oil 36-6
+Satt191	Seed palmitic 7-6
+Satt191	Seed set, 1 per pod 1-1
+Satt191	Seed yield 15-11
+Satt192	Nodule number 3-2
+Satt192	Nodule weight per plant, dry 1-2
+Satt192	Seed glycitein 9-7
+satt193	Root weight, dry 2-2
+Satt193	Seed protein 36-20
+Satt193	Shoot weight 3-4
+Satt194	Pods per node 2-2
+Satt194	SCN 36-8
+Satt194	Seed yield 25-2
+Satt195	Seed coat cracking 2-1
+Satt195	Seed weight 36-15
+Satt195	Seed weight per plant 1-3
+Satt196	SCN 34-3
+Satt196	SCN 34-3
+Satt196	Seed acidic fraction 1-3
+Satt196	Seed arabinose plus galactose 1-2
+Satt196	Seed Asp 1-4
+Satt196	Seed glycitein 2-4
+Satt196	Seed oil 14-2
+Satt196	Seed protein 13-4
+Satt197	Branching 1-3
+Satt197	Canopy wilt 4-7
+Satt197	Chlorosis, leaflet UV-B induced 1-2
+Satt197	First flower 11-1
+Satt197	Flower number 1-5
+Satt197	Leaflet length 6-1
+Satt197	Leaflet length 7-2
+Satt197	Node number 3-5
+Satt197	Node number 3-6
+Satt197	Nodule weight per plant, dry 1-3
+Satt197	Plant height 20-1
+Satt197	Plant height 24-5
+Satt197	Plant height 24-6
+Satt197	Plant height 26-7
+Satt197	Plant height 26-7
+Satt197	Plant height 26-8
+Satt197	Plant height 26-8
+Satt197	Pod maturity 17-1
+Satt197	Pod maturity 17-2
+Satt197	Pod number 1-5
+Satt197	Pod wall width 1-6
+Satt197	Sclero 3-3
+Satt197	Seed coat cracking 3-6
+Satt197	Seed glycitein 4-2
+Satt197	Seed glycitein 8-7
+Satt197	Seed linoleic 7-2
+Satt197	Seed oil 24-11
+Satt197	Seed oleic 7-2
+Satt197	Seed protein 25-1
+Satt197	Seed protein 36-2
+Satt197	Seed sucrose 2-1
+Satt197	Seed weight 25-2
+Satt197	Seed yield 22-1
+Satt197	Shoot weight, dry 5-1
+Satt198	mqSeed Oil-010
+Satt198	Pod wall to Pod weight ratio 1-1
+Satt198	Pod wall weight 1-2
+Satt198	Seed agglutinin 2-3
+Satt198	Seed oil 24-20
+Satt198	Seed protein 40-4
+Satt198	Seed weight 36-17
+Satt199	Plant height 26-13
+Satt199	Plant height 26-13
+Satt199	Pod borer 1-3
+Satt199	Pod maturity 34-5
+Satt199	SCN 20-4
+Satt199	Seed protein 28-2
+Satt199	Seed tocopherol, gamma 1-4
+Satt199	Seed tocopherol, gamma 2-4
+Satt199	Seed weight 37-4
+Satt199	Seed weight per plant 6-7
+Satt200	Leaflet length 10-1
+Satt200	Leaflet length 10-2
+Satt200	Leaflet width 10-2
+Satt200	Leaflet width 10-3
+Satt200	Plant height 26-1
+Satt200	Plant height 26-1
+Satt200	Seed daidzein 2-1
+Satt200	Seed genistein 2-5
+Satt200	Seed genistein 8-6
+Satt200	Seed isoflavone 1-1
+Satt200	Seed oil 35-1
+Satt200	Seed set, 3 per pod 1-1
+Satt200	Seed weight 10-1
+Satt200	Seed weight 37-12
+Satt201	Pubescence density 2-4
+Satt201	Seed coat cracking 1-2
+Satt201	Seed daidzein 2-3
+Satt201	Seed genistein 2-2
+Satt201	Seed glycitein 2-6
+Satt201	Seed isoflavone 1-5
+Satt201	Seed linolenic 14-3
+Satt201	Seed N at R6 1-3
+Satt201	Seed oil 43-29
+Satt201	Seed protein 36-33
+Satt201	Seed stearic 8-6
+Satt201	Seed weight 35-11
+Satt201	Seed weight 47-1
+Satt202	Al tolerance 2-2
+Satt202	Al tolerance 2-3
+Satt202	Canopy wilt 3-12
+Satt202	Photoperiod insensitivity 5-1
+Satt202	Plant height 29-2
+Satt202	Pod maturity 21-1
+Satt202	Pod wall width 1-2
+Satt202	Pod wall width 1-3
+Satt202	Root length, primary 2-1
+Satt202	SCN 17-3
+Satt202	SCN 20-2
+Satt202	SCN 42-3
+Satt202	SDS 16-5
+Satt202	Seed oil 43-3
+Satt202	Seed oil 43-6
+Satt202	Seed oil plus protein 1-2
+Satt202	Seed protein 24-1
+Satt202	Seed protein 36-4
+Satt202	Seed protein 36-7
+Satt202	Seed protein 36-8
+Satt202	Seed weight 36-2
+Satt202	Seed weight 49-4
+Satt202	Seed weight 49-5
+Satt203	mqSeed Oil-009
+Satt203	Pod wall to Pod weight ratio 1-1
+Satt203	Seed Asp 1-2
+Satt203	Seed Glu 1-2
+Satt203	Seed Ile 1-3
+Satt203	Seed Leu 1-1
+Satt203	Seed oil 24-19
+Satt203	Seed protein 40-4
+Satt203	Seed Trp 1-3
+Satt203	Seed weight 37-5
+Satt204	SCN 29-9
+Satt204:E:43.13	SCN 45-6
+Satt205	First flower 10-1
+Satt205	First flower 9-1
+Satt205	Photoperiod insensitivity 1-1
+Satt205	Photoperiod insensitivity 2-1
+Satt205	Pod maturity, beginning 1-1
+Satt205	Pod maturity, beginning 2-1
+Satt205	Pod, beginning 1-1
+Satt205	Pod, beginning 2-1
+Satt205	Seed yield 11-2
+Satt206	Photoperiod insensitivity 5-3
+Satt206	Seed linoleic 6-3
+Satt206	Seed oleic 6-3
+Satt207	Seed length 1-3
+Satt207	Seed length 1-3
+Satt207	Seed oil 43-1
+Satt207	Stem strength, main 1-1
+Satt208	Internode length 1-1
+Satt208	Internode length 1-1
+Satt208	Seed isoflavone 11-11
+Satt208	Seed isoflavone 2-1
+Satt208	Seed total isoflavone 9-8
+Satt209	Sclero 9-2
+Satt210	Chlorophyll flourescence TRo/ABS 1-3
+Satt210	Drought index 1-6
+Satt210	Seed weight 12-1
+Satt210	Seed weight 42-5
+Satt211	Cellwall polysacch composition 1-1
+Satt211	Fe effic 13-1
+Satt211	Fe effic 13-1
+Satt211	Seed arabinose plus galactose 1-1
+Satt211	Seed galactose 1-1
+Satt211	Seed pectin 1-1
+Satt211	Seed protein 34-1
+Satt211	Seed weight 34-9
+Satt212	Leaflet shape 7-4
+Satt212	Leaflet shape 8-8
+Satt212	Plant height 29-4
+Satt212	Sclero 9-3
+Satt212	Seed oil 27-2
+Satt212	Seed oil 43-21
+Satt212	Seed weight 29-2
+Satt213	Seed isoflavone 7-8
+Satt214	SDS 7-1
+Satt215	BSR 3-1
+Satt215	Leaflet shape 6-10
+Satt215	Net photosyn rate 2-1
+Satt215	Pod dehiscence 3-4
+Satt215	SCN 40-3
+Satt215	Seed glycinin to beta-conglycinin ratio 1-4
+Satt215	Seed oil 37-9
+Satt215	Seed yield 23-2
+Satt216	Leaflet length 7-3
+Satt216	Leaflet shape 8-6
+Satt216	Leaflet width 6-3
+Satt216	Leaflet width 7-3
+Satt216	Pod number 9-1
+Satt216	Seed weight 42-1
+Satt217	mqPlant height-007
+Satt217	Seed protein 47-6
+Satt218	mqPlant height-006
+Satt218	Seed set, 4 per pod 1-3
+Satt219	Seed weight 12-2
+Satt220	Common cutworm 1-1
+Satt220	Corn earworm 9-5
+Satt220	Root nodule weight, dry 2-3
+satt220	Root volume 1-2
+Satt220	Seed oil 42-24
+Satt220	Seed oil 42-7
+Satt220	Seed oleic 6-7
+Satt220	Seed weight 49-15
+Satt220	Seed width 4-5
+Satt221	Seed agglutinin 1-4
+Satt223	Seed fucose 1-1
+Satt225	Lodging 22-1
+Satt225	Lodging 22-1
+Satt225	Seed linoleic 6-5
+Satt225	Seed oil 30-1
+Satt225	Seed yield 15-3
+Satt226	cqSDS-001
+Satt226	Seed genistein 11-2
+Satt226	Seed genistein 13-8
+Satt226	Seed length 4-6
+Satt226	Seed length to width ratio 1-11
+Satt226	Seed oil 43-14
+Satt226	Seed protein 36-14
+Satt226	Seed protein 36-15
+Satt227	Pod maturity 26-1
+Satt227	Seed glycinin 2-4
+Satt227	Seed glycinin plus beta-conglycinin 1-5
+Satt227	Seed linolenic 14-2
+Satt228	Pod maturity, beginning 1-3
+Satt228	Pod, beginning 1-3
+Satt228	Root morphology 1-4
+Satt228	Seed calcium 1-1
+Satt229	First flower 13-9
+Satt229	First flower 16-4
+Satt229	First flower 16-4
+Satt229	First flower 20-2
+Satt229	Flower form 1-4
+Satt229	Flower form 1-4
+Satt229	Leaflet shape 6-17
+Satt229	Leaflet shape 7-12
+Satt229	Leaflet width 6-9
+Satt229	Leaflet width 7-8
+Satt229	mqCanopy wilt-013
+Satt229	Pod number 10-1
+Satt229	SCN 29-7
+Satt229	Seed hardness 1-1
+Satt229	Seed isoflavone 6-5
+Satt229	Seed number 2-2
+Satt229	Seed oil 23-5
+Satt229	Seed weight 12-3
+Satt229	Seed weight 16-2
+Satt229:L:93.88	SCN 45-5
+Satt230	Pod maturity 27-7
+Satt230	Pod maturity 29-7
+satt230	Root length, primary 3-4
+Satt231	Leaflet length 7-6
+Satt231	Plant height 13-3
+Satt231	Plant height 26-10
+Satt231	Plant height 26-10
+Satt231	Pod number 1-6
+Satt231	SCN 25-1
+Satt232	Lodging 9-3
+satt232	Root density, lateral 2-4
+Satt232	Shoot weight, dry 2-2
+Satt232	Shoot weight, dry 5-3
+Satt233	Nodule number 3-4
+Satt233	Phytoph 6-4
+Satt233	Sclero 2-3
+Satt233	Sclero 9-1
+Satt233	SCN 37-4
+Satt233	Seed genistein 11-10
+Satt233	Seed genistein 13-3
+Satt233	Seed glycitein 11-1
+Satt233	Seed linoleic 6-2
+Satt233	Seed weight 34-1
+Satt233	Seed weight 35-1
+Satt233	Seed weight 36-1
+Satt234	Leaflet chlorophyll 1-3
+Satt234	Pod number 1-2
+Satt234	Seed length 1-4
+Satt234	Seed length 1-4
+Satt234	Seed number 6-2
+Satt234	Seed weight per plant 5-3
+Satt235	SCN 39-7
+Satt235	Seed Cys 1-2
+Satt235	Seed Cys 2-1
+Satt235	Seed linolenic 4-2
+Satt235	Seed linolenic 4-2
+Satt235	Seed N at R5 1-7
+Satt235	Seed yield 31-6
+Satt236	cqSeed protein-011
+Satt236	Leaflet length 7-1
+Satt236	Leaflet shape 7-1
+Satt236	Leaflet width 9-2
+Satt236	Seed daidzein 7-1
+Satt236	Seed genistein 7-1
+Satt236	Seed glycitein 6-1
+Satt236	Seed isoflavone 6-1
+Satt236	Seed protein 36-1
+Satt236	Seed Trp 1-1
+Satt236	Whitefly resistance 1-5
+Satt237	cqSeed phytate-001
+Satt237	Leaflet chlorophyll 1-14
+Satt237	Salt tolerance 5-1
+Satt237	Seed glycitein 4-5
+Satt237	Seed phytate 2-1
+Satt237	Seed thickness 1-1
+Satt237	Seed width 4-2
+Satt238	Chlorosis, leaflet UV-B induced 1-5
+Satt238	Chlorosis, leaflet UV-B induced 1-7
+Satt238	Leaflet length 8-7
+Satt238	Leaflet length 9-8
+Satt238	Leaflet shape 6-14
+Satt238	Leaflet shape, UV-B induced 1-11
+Satt238	Leaflet shape, UV-B induced 10-7
+Satt238	Leaflet width 8-8
+Satt238	Petiole color, UV-B induced 1-6
+Satt238	Petiole color, UV-B induced 1-9
+Satt238	Plant damage, UV-B induced 1-5
+Satt238	Plant damage, UV-B induced 1-9
+Satt238	Pod dehiscence 3-7
+Satt238	Seed linolenic 8-3
+Satt239	First flower 25-3
+Satt239	Internode length 2-3
+Satt239	Internode length 2-5
+Satt239	Leaflet area 1-3
+Satt239	Necrosis, root Mn induced 1-1
+Satt239	Necrosis, root Mn induced 1-1
+Satt239	Plant height 16-1
+satt239	Root density, lateral 2-3
+Satt239	Seed coat hardness 2-4
+Satt239	Seed daidzein 11-3
+Satt239	Seed daidzein 13-9
+Satt239	Seed glycitein 11-6
+Satt239	Seed glycitein 13-6
+Satt239	Seed oil 15-1
+Satt239	Seed protein 15-1
+Satt239	Seed protein 30-1
+Satt239	Seed yield 14-1
+satt24	Root length, primary 3-4
+Satt241	Leaflet area 2-3
+Satt241	Net photosyn rate 1-1
+Satt241	Plant weight 2-1
+Satt241	Root weight 3-1
+Satt241	Seed genistein 11-7
+Satt241	Seed isoflavone 11-6
+Satt241	Seed isoflavone 2-4
+Satt241	Seed oil 43-34
+Satt241	Seed protein 36-38
+Satt241	Seed protein 36-39
+Satt241	Seed total isoflavone 9-10
+Satt241	Seed weight 27-2
+Satt241	Seeds per plant 1-1
+Satt241	Shoot weight 3-1
+Satt242	Seed glycitein 13-2
+Satt242	Seed glycitein 6-4
+Satt242	Seed protein 36-27
+Satt242	Seed protein 36-29
+Satt242	Seed protein 40-3
+Satt242	Seed protein 41-7
+Satt243	First flower 24-4
+Satt243	Leaflet length 7-12
+Satt243	Leaflet shape 6-21
+Satt243	Leaflet shape 7-16
+Satt243	Lodging 20-6
+Satt243	Phomopsis seed decay 3-2
+Satt243	Phomopsis seed decay 4-2
+Satt243	Plant height 23-4
+Satt243	Pod dehiscence 3-8
+Satt243	Pod maturity 32-3
+Satt243	Pod maturity 33-3
+Satt243	Pod number 8-3
+Satt243	Reproductive stage length 8-2
+Satt243	Sclero 3-19
+Satt243	Sclero 5-16
+Satt243	Sclero 6-13
+Satt243	Stem weight, dry 1-3
+Satt244	BSR 4-1
+Satt244	BSR 6-1
+Satt244	BSR 6-10
+Satt244	BSR 6-2
+Satt244	BSR 6-3
+Satt244	BSR 6-4
+Satt244	BSR 6-5
+Satt244	BSR 6-6
+Satt244	BSR 6-7
+Satt244	BSR 6-8
+Satt244	BSR 6-9
+Satt244	cqSCN-003
+Satt244	Photoperiod insensitivity 5-4
+Satt244	Plant height 26-16
+Satt244	Plant height 26-16
+Satt244	SCN 28-2
+Satt244	SCN 28-4
+Satt244	SCN 38-3
+Satt244	SCN 38-7
+Satt244	Seed genistein 11-9
+Satt244	Seed genistein 13-2
+Satt244	Seed linolenic 7-7
+Satt244	Seed set 1-10
+Satt245	Pubescence density 2-16
+Satt245	Rhizoc root and hypocot rot 1-3a
+Satt245	Rhizoc root and hypocot rot 1-3b
+Satt245	Seed daidzein 2-4
+Satt245	Seed isoflavone 1-6
+satt245	Seed length 5-3
+Satt245	Seed oil 42-23
+Satt245	Seed yield 22-15
+Satt249	Drought index 1-5
+Satt249	Seed daidzein 2-7
+Satt249	Seed Glu 1-4
+Satt249	Seed glycinin to beta-conglycinin ratio 1-4
+Satt249	Seed isoflavone 1-4
+Satt249	Seed isoflavone 4-1
+Satt249	Seed Phe 1-3
+Satt249	Seed stearic 4-2
+Satt249	Seed stearic 4-2
+Satt250	Pod number 8-2
+Satt250	SCN 40-4
+Satt250	Seed oil 34-7
+Satt250	Stem weight, dry 1-2
+Satt251	Branching 3-3
+Satt251	Flower number 1-5
+Satt251	Lodging 10-1
+Satt251	Node number 3-6
+Satt251	Nodule number 1-1
+Satt251	Nodule weight per plant, dry 1-4
+Satt251	Plant height 24-6
+Satt251	Plant height 26-6
+Satt251	Plant height 26-6
+Satt251	Plant height 26-7
+Satt251	Plant height 26-7
+Satt251	Pod number 1-5
+Satt251	Pod number 3-2
+Satt251	Pod number 3-2
+Satt251	Pod wall width 1-5
+Satt251	Pod wall width 1-6
+Satt251	Pod wall width 1-7
+Satt251	Seed oil 24-11
+Satt251	Seed protein 16-1
+Satt251	Seed protein 37-1
+Satt251	Seed yield 22-1
+Satt252	Al tolerance 2-1
+Satt252	Flood tolerance 3-2
+Satt252	Leaflet P 1-1
+Satt252	mqSeed Oil-015
+Satt252	Node number 2-3
+Satt252	Phytoph 1-1
+Satt252	Phytoph 2-1
+Satt252	Phytoph 3-1
+Satt252	Phytoph 4-1
+Satt252	Pod wall to Pod weight ratio 1-2
+Satt252	Seed Ala 1-4
+Satt252	Seed Cys 1-1
+Satt252	Seed Cys 2-3
+Satt252	Seed Met 1-1
+Satt252	Seed Met 2-1
+Satt252	Seed Met plus Cys 1-2
+Satt252	Seed oil 24-4
+Satt252	Seed set, 4 per pod 1-5
+Satt252	Seed stearic 6-3
+Satt252	Seed Val 1-3
+Satt252	Seed weight 37-2
+Satt252	Seed weight 46-1
+Satt252	Shoot fresh to dry weight ratio 1-3
+Satt253	Pod borer 1-1
+Satt253	Pod borer 1-2
+Satt253	Seed genistein 11-5
+Satt253	Seed glycitein 13-9
+Satt253	Seed isoflavone 11-8
+Satt253	Seed total isoflavone 9-4
+Satt253	Seed total isoflavone 9-5
+Satt253	Seed weight 35-4
+Satt253	Shoot weight, dry 3-2
+Satt254	mqSeed Oil-009
+Satt254	Seed hardness 2-1
+Satt254	Seed oil 24-19
+Satt255	Leaflet chlorophyll 1-14
+Satt255	Salt tolerance 5-1
+Satt255	Seed conglycinin, beta 1-1
+Satt255	Seed Leu 1-7
+Satt255	Seed linolenic 14-1
+Satt255	Seed thickness 1-1
+Satt255	Seed width 4-2
+Satt256	Pod number 11-1
+Satt256	Sclero 2-10
+Satt256	Sclero 3-7
+Satt256	Sclero 6-4
+Satt256	Seed daidzein 13-6
+Satt256	Seed isoflavone 11-12
+Satt256	Seed isoflavone 4-4
+Satt256	Seed length to width ratio 1-13
+Satt256	Seed protein 39-3
+Satt256	Seed Thr 3-3
+Satt256	Seed weight 47-2
+Satt256	Somatic emb per explant 3-3
+Satt257	Lodging 21-5
+Satt257	mqSeed Oil-025
+Satt257	Plant height 33-1
+Satt257	Plant height 34-1
+Satt257	Pod maturity 27-6
+Satt257	Pod maturity 29-6
+Satt257	Seed oil 24-34
+Satt257	Seed oil 28-2
+Satt257	Seed protein 27-4
+Satt257	Seed yield 27-4
+Satt257	Seed yield 30-4
+Satt258	Seed oil 35-2
+Satt259	Plant height 35-4
+Satt259	Pod maturity 28-6
+Satt259	Reproductive stage length 5-5
+Satt259	SCN 38-4
+Satt259	Seed oil 43-35
+Satt259	Seed protein 36-40
+Satt259	Seed yield 25-3
+Satt259	Seed yield 25-4
+Satt259	Seed yield 28-9
+Satt260	Chlorophyll flourescence ETo/TRo 1-2
+Satt260	Chlorophyll flourescence PIabs 1-2
+Satt260	Internode length 1-6
+Satt260	Internode length 1-6
+Satt260	Sclero 2-17
+Satt260	Sclero 3-12
+Satt260	SCN 34-3
+Satt260	SCN 34-3
+Satt260	Seed daidzein 4-3
+Satt260	Seed length to thickness ratio 1-5
+Satt260	Seed stearic 5-5
+Satt260	Seed tocopherol, delta 3-6
+Satt260	Seed tocopherol, gamma 3-8
+Satt262	First flower 13-10
+Satt263	Branching 1-5
+Satt263	cqSeed weight-002
+Satt263	Plant height 24-8
+Satt263	Pod maturity 31-2
+Satt263	Pod maturity 37-2
+Satt263	Sclero 9-4
+Satt263	Seed linolenic 4-1
+Satt263	Seed linolenic 4-1
+Satt263	Seed N at R5 1-6
+Satt263	Seed N at R7 1-4
+Satt263	Seed oil plus protein 1-4
+Satt263	Seed oleic 4-1
+Satt263	Seed oleic 4-1
+Satt263	Seed protein 27-2
+Satt263	Seed weight 34-12
+Satt263	Seed weight 36-12
+Satt263	Seed weight 50-6
+Satt263	Seed weight 50-8
+Satt263	Seed width to thickness ratio 1-5
+Satt263	Seed yield 28-5
+Satt264	Seed agglutinin 1-6
+Satt264	Seed protein 36-30
+Satt266	Canopy wilt 2-1
+Satt266	Phytoph 1-2
+Satt266	Phytoph 3-2
+Satt266	Plant height 33-3
+Satt266	Plant height 34-3
+Satt266	Reproductive stage length 7-1
+Satt266	Seed length to width ratio 1-2
+Satt266	Seed tocopherol, alpha 1-3
+Satt266	Seed tocopherol, alpha 2-3
+Satt266	Seed tocopherol, gamma 1-5
+Satt266	Seed tocopherol, gamma 2-5
+Satt267	Pubescence density 2-4
+satt267	Root density, lateral 2-1
+satt267	Shoot weight 4-1
+Satt268	SCN 38-1
+Satt268	Seed N at R7 1-3
+Satt268	Seed protein 41-2
+Satt268	Seed weight 36-12
+Satt269	Leaflet P 1-1
+Satt269	Node number 1-5
+Satt269	Node number 2-3
+Satt269	Pod wall to Pod weight ratio 1-2
+Satt269	Pod wall weight 1-6
+Satt269	Seed length to thickness ratio 1-3
+Satt269	Seed length to width ratio 1-8
+Satt269	Seed oil 24-4
+Satt269	Seed set, 4 per pod 1-5
+Satt269	Seed weight 46-1
+Satt269	Seed width to thickness ratio 1-4
+Satt270	First flower 21-2
+Satt270	SDS 15-9
+Satt270	Seed oil 24-6
+Satt270	Seed oil 27-4
+Satt270	Seed palmitic 10-2
+Satt270	Seed protein 26-5
+Satt270	Seed protein 34-11
+Satt270	Seed set, 4 per pod 1-2
+Satt270	Seed stearic 8-11
+Satt270	Seed tocopherol, alpha 3-4
+Satt270	Seed tocopherol, delta 3-4
+Satt270	Seed tocopherol, gamma 3-4
+Satt270	Seed tocopherol, total 3-3
+satt271	Root density, lateral 2-2
+Satt271	Seed isoflavone 11-1
+Satt271	Seed oil 24-3
+Satt271	Seed weight 37-10
+Satt271	Seed weight 49-9
+Satt272	Leaflet length 10-4
+Satt272	Seed oil 43-4
+Satt272	Seed stearic 5-1
+Satt273	Chlorophyll flourescence ETo/TRo 1-2
+Satt273	Chlorophyll flourescence PIabs 1-2
+Satt273	Flower number 1-4
+Satt273	Sclero 2-16
+Satt273	Sclero 3-11
+Satt273	Sclero 4-7
+Satt273	Sclero 5-10
+Satt273	Sclero 8-3
+Satt273	Seed oil 37-10
+Satt273	Seed protein 33-3
+Satt273	Seed protein 35-4
+Satt273	Seed protein 36-30
+Satt273	Seed weight 15-6
+Satt273	Seed weight 40-4
+Satt273	Seed yield 28-7
+Satt273	Seed yield 29-1
+Satt273	Seed yield 31-10
+Satt274	P use efficiency 1-2
+Satt274	Phytoph 10-3
+Satt274	Plant P 3-5
+Satt274	Plant weight, dry 1-5
+satt274	Root density, lateral 2-2
+Satt274	Root weight, dry 3-4
+Satt274	Seed Arg 1-1
+Satt274	Seed coat cracking 3-3
+Satt274	Seed coat hardness 2-2
+Satt274	Seed Glu 1-3
+Satt274	Seed Gly 1-3
+Satt274	Seed Leu 1-2
+Satt274	Seed N at R5 1-4
+Satt274	Seed oil 19-1
+Satt274	Seed oil 24-3
+Satt274	Seed oil 39-6
+Satt274	Seed oil 43-9
+Satt274	Seed Phe 1-2
+Satt274	Seed protein 36-11
+Satt274	Seed protein 37-4
+Satt274	Seed Thr 1-3
+Satt274	Seed tocopherol, alpha 2-3
+Satt274	Seed tocopherol, gamma 2-5
+Satt274	Seed Tyr 1-2
+Satt274	Seed weight 37-10
+Satt274	Seed weight 49-9
+Satt274	Seed winter hardiness 1-3
+Satt274	Shoot weight, dry 4-2
+Satt275	Internode length 2-8
+Satt275	Reproductive period photo-thermal sensitivity 1-1
+Satt275	SCN 36-3
+Satt275	SCN 36-4
+Satt275	SCN 36-5
+Satt275	SCN 38-2
+Satt275	SCN 40-2
+Satt275	SCN 41-1
+Satt275	Seed protein 28-5
+Satt275	Seed yield 21-4
+Satt276	Canopy wilt 2-3
+Satt276	mqCanopy wilt-008
+Satt276	Plant height 24-3
+Satt276	Plant height 26-4
+Satt276	Plant height 26-4
+Satt276	Plant height 26-5
+Satt276	Plant height 26-5
+Satt276	Pod maturity, beginning 2-2
+Satt276	Pod number 1-3
+Satt276	Pod wall width 1-4
+Satt276	Pod, beginning 2-2
+Satt276	Seed daidzein 4-2
+Satt276	Seed glycitein 8-13
+Satt276	Seed isoflavone 11-15
+Satt276	Seed weight 25-1
+Satt276	Seed weight per plant 1-2
+Satt277	First flower 18-2
+Satt277	First flower 26-6
+Satt277	Flood tolerance 4-1
+Satt277	Flood tolerance 4-1
+Satt277	Internode length 2-2
+Satt277	Internode length 2-5
+Satt277	Leaflet chlorophyll 1-9
+Satt277	Lodging 27-2
+Satt277	Lodging 6-1
+Satt277	Phytoph 6-7
+Satt277	Plant height 17-6
+Satt277	Plant height 17-9
+Satt277	Plant height 30-2
+Satt277	Plant height 35-1
+Satt277	Plant height 8-1
+Satt277	Pod maturity 25-2
+Satt277	Pod maturity 28-3
+Satt277	Pod maturity 34-1
+Satt277	Pod number 3-3
+Satt277	Pod number 3-3
+Satt277	Pod number 3-4
+Satt277	Pod number 3-4
+Satt277	Pod number 7-2
+Satt277	Pod wall width 1-3
+Satt277	Pods per node 3-2
+Satt277	Reproductive period 1-1
+Satt277	SDS 11-1
+Satt277	Seed coat hardness 2-1
+Satt277	Seed glycitein 10-1
+Satt277	Seed length 1-5
+Satt277	Seed length 1-5
+Satt277	Seed number 2-1
+Satt277	Seed oil 23-1
+Satt277	Seed oil 27-1
+Satt277	Seed oil 30-5
+Satt277	Seed oil 33-2
+Satt277	Seed oil plus protein 1-3
+Satt277	Seed protein 24-1
+Satt277	Seed protein 26-7
+Satt277	Seed protein 35-1
+Satt277	Seed set 4-2
+Satt277	Seed stearic 5-2
+Satt277	Seed tocopherol, alpha 2-2
+Satt277	Seed weight 15-1
+Satt277	Seed weight 31-2
+Satt277	Seed weight 34-16
+Satt277	Seed weight 36-16
+Satt277	Seed weight 40-2
+Satt277	Seed weight 43-1
+Satt277	Seed weight 49-7
+Satt277	Seed weight 6-5
+Satt277	Seed weight per plant 5-1
+Satt277	Seed winter hardiness 1-2
+Satt277	Seed yield 19-2
+Satt277	Seed yield 21-1
+Satt277	Seed yield 25-6
+Satt277	Seed yield 28-3
+Satt277	Seed yield 5-1
+Satt277	Seed yield 7-1
+Satt277	Seed yield to Plant height ratio 2-1
+Satt277	Seed, beginning 3-2
+Satt277	Somatic emb per explant 4-2
+Satt278	Leaflet length 8-9
+Satt278	Leaflet length 9-10
+Satt278	Leaflet width 8-10
+Satt278	Leaflet width 9-5
+Satt278	Seed conglycinin, beta 2-5
+Satt278	Seed oil 24-9
+Satt278	Seed oil 43-23
+Satt278	Seed oligosaccharide 1-3
+Satt278	Seed sucrose 2-4
+Satt279	Seed daidzein 13-13
+Satt279	Seed tocopherol, alpha 3-3
+Satt279	Seed tocopherol, total 3-5
+Satt280	SDS 15-7
+Satt280	Seed daidzein 6-3
+Satt280	Seed isoflavone 5-3
+Satt280	Seed tocopherol, gamma 1-8
+Satt280	Seed tocopherol, gamma 2-7
+Satt281	cqSeed protein-007
+Satt281	cqSeed weight-013
+Satt281	Plant weight 2-2
+Satt281	Rhizoc root and hypocot rot 1-1a
+Satt281	Rhizoc root and hypocot rot 1-1b
+Satt281	Seed glycitein 7-1
+Satt281	Seed protein 30-5
+Satt281	Seed weight 45-1
+Satt281	Seed yield 11-1
+Satt281	Shoot weight 3-2
+Satt281	Stem strength, main 1-7
+Satt282	Flood tolerance 4-2
+Satt282	Flood tolerance 4-2
+Satt282	Leaflet chlorophyll 1-5
+Satt282	Plant height 40-1
+Satt282	Seed isoflavone 7-3
+Satt282	Seed length to width ratio 1-2
+Satt282	Seed oil 41-1
+Satt282	Seed weight 35-3
+Satt282	Seed weight 36-3
+Satt284	Lodging 19-2
+Satt284	Plant height 22-1
+Satt284	Seed length to width ratio 1-15
+Satt284	Seed length to width ratio 1-16
+Satt285	Leaflet trigonelline, dry 1-1
+Satt285	Leaflet trigonelline, fresh 1-1
+Satt285	Seed isoflavone 4-1
+Satt285	Seed oil 20-3
+Satt285	Seed viability 1-4
+Satt285	Stem weight, dry 2-3
+Satt286	First flower 26-4
+Satt286	Internode length 2-2
+Satt286	Internode length 2-4
+Satt286	Node number 7-2
+Satt286	Node number 7-3
+Satt286	Photoperiod insensitivity 2-1
+Satt286	Pod maturity, beginning 2-1
+Satt286	Pod, beginning 2-1
+Satt286	R/V photo-thermal sensitivity 1-1
+Satt286	Seed glycinin 2-5
+Satt286	Seed glycinin plus beta-conglycinin 1-6
+Satt286	Seed protein 36-7
+Satt286	Seed tocopherol, gamma 1-3
+Satt286	Seed tocopherol, gamma 2-3
+Satt286	Seed tocopherol, total 1-2
+Satt286	Seed tocopherol, total 2-2
+Satt286	Seed yield 22-12
+Satt286	Somatic embryogenesis 1-2
+Satt286	Somatic embryogenesis 1-2
+Satt287	Drought index 1-5
+Satt287	Leaflet area 5-1
+Satt287	Leaflet width 4-1
+Satt287	Pod maturity 9-1
+Satt287	Reproductive stage length 3-1
+Satt287	Seed oligosaccharide 2-5
+Satt287	Seed oligosaccharide 2-5
+Satt287	Seed sucrose 3-5
+Satt287	Seed sucrose 3-5
+Satt288	Plant height 26-12
+Satt288	Plant height 26-12
+Satt288	Pod borer 1-3
+Satt288	Pod wall weight 1-3
+Satt288	Seed daidzein 13-7
+Satt288	Seed genistein 13-12
+Satt288	Seed isoflavone 2-3
+Satt288	Seed linoleic 6-10
+Satt288	Seed oil 42-35
+Satt288	Seed oleic 3-3
+Satt288	Seed oleic 6-8
+Satt288	Seed palmitic 4-4
+Satt288	Seed stearic 3-2
+Satt288	Seed weight 37-4
+Satt288	Seed yield 22-17
+Satt288	Seed yield 22-18
+Satt289	First flower 22-2
+Satt289	First flower 22-2
+Satt289	First flower 23-1
+Satt289	First flower 26-17
+Satt289	Seed genistein 2-1
+Satt289	Seed isoflavone 1-2
+Satt289	Seed oil plus protein 1-3
+Satt289	Seed weight 49-6
+Satt290	Corn earworm 9-1
+Satt290	First flower 24-1
+Satt290	Flood tolerance 4-2
+Satt290	Flood tolerance 4-2
+Satt291	cqSeed protein-015
+Satt291	Necrosis, root Mn induced 1-2
+Satt291	Necrosis, root Mn induced 1-2
+Satt291	Pod maturity 13-3
+Satt291	Seed abortion 1-8
+Satt291	Seed glycitein 7-1
+Satt291	Seed height 1-6
+Satt291	Seed height 1-6
+Satt291	Seed length 3-1
+Satt291	Seed weight 33-1
+Satt291	Seed width 1-4
+Satt291	Seed width 1-4
+Satt291	Seed width 3-1
+Satt291	Seed yield to weight ratio 2-2
+Satt292	Japanese beetle resistance 1-5
+Satt292	Pod maturity 31-4
+Satt292	Pod maturity 37-4
+Satt292	Pod number 11-2
+satt292	Root density, lateral 2-3
+Satt292	Seed Asp 1-3
+Satt292	Seed basic fraction 1-1
+Satt292	Seed hardness 2-12
+Satt292	Seed Trp 1-6
+Satt292	Seed weight 15-5
+Satt293	Pod maturity 31-3
+Satt293	Pod maturity 37-3
+Satt293	Pod wall to Pod weight ratio 1-6
+Satt293	Seed weight 36-4
+Satt294	Pod maturity 32-1
+Satt294	Pod maturity 33-1
+Satt294	Reproductive stage length 5-1
+Satt294	SCN 36-7
+Satt294	Seed glycinin plus beta-conglycinin 1-4
+Satt294	Seed yield 12-2
+Satt294	Stem length, main 2-1
+Satt294	Total growth duration 1-2
+Satt296	Canopy wilt 2-1
+Satt296	First flower 16-2
+Satt296	First flower 16-2
+Satt296	Flood tolerance 4-9
+Satt296	Flood tolerance 4-9
+Satt296	mqCanopy wilt-003
+Satt296	mqCanopy wilt-014
+Satt296	Nodule number 3-3
+Satt296	Nodule weight per plant, dry 1-6
+Satt296	Pod dehiscence 3-6
+Satt296	Seed oil 43-10
+Satt296	Seed protein 36-12
+Satt296	Seed protein 36-13
+Satt296	Shoot weight, dry 5-2
+Satt298	mqPlant height-002
+Satt298	Root width, primary 2-1
+Satt298	Seed coat cracking 3-6
+Satt298	Seed weight 32-1
+Satt300	cqSeed agglutinin-002
+Satt300	Drought tolerance 6-2
+Satt300	Plant height 26-2
+Satt300	Plant height 26-2
+Satt300	Pod wall width 1-4
+Satt300	SCN 18-1
+Satt300	Seed agglutinin 1-1
+Satt300	Seed agglutinin 2-1
+Satt300	Seed daidzein 13-12
+Satt300	Seed genistein 13-10
+Satt300	Seed oil 42-4
+Satt300	Seed weight per plant 1-1
+Satt300	Seed yield 23-9
+Satt300	Seed yield 32-1
+Satt301	Phytoph 9-5
+Satt301	Sclero 4-2
+Satt301	Seed oleic 6-9
+Satt301	Seed protein 36-14
+Satt301	Seed weight 34-17
+Satt301:D2:93.7	Seed tocopherol, gamma 3-6
+Satt302	Canopy wilt 2-4
+Satt302	Corn earworm 7-2
+Satt302	Drought index 1-3
+Satt302	Plant height 36-1
+Satt302	Pod maturity 30-1
+Satt302	Pubescence density 2-14
+Satt302	Pubescence density 2-8
+Satt302	Pubescence density 3-2
+Satt302	Pubescence length 1-2
+Satt302	Root area development 1-1
+Satt302	Root area development 1-2
+Satt302	Root diameter 1-3
+Satt302	Root length 1-3
+Satt302	Root length development 1-1
+Satt302	Root length development 1-2
+Satt302	Seed agglutinin 3-2
+Satt302	Seed daidzein 13-13
+Satt302	Seed genistein 4-2
+Satt302	Seed glycitein 4-4
+Satt302	Seed oil 37-5
+Satt302	Seed protein 33-1
+Satt302	Seed weight 13-8
+Satt302	Seed weight 34-4
+Satt302	Seed weight 35-4
+Satt302	Seed weight 36-4
+Satt302	Seed weight 41-1
+Satt302	Seed weight 50-15
+Satt303	cqSeed weight-001
+Satt303	Flower number 1-8
+Satt303	Leaflet area 2-2
+Satt303	Nodule weight per plant, dry 1-10
+Satt303	Nodule weight, dry 1-2
+Satt303	Seed length 3-2
+Satt303	Seed oil 42-34
+Satt303	Seed weight 27-1
+Satt303	Seed width 3-3
+Satt303	shoot weight, dry 1-2
+Satt303	Somatic emb per explant 2-3
+Satt304	Phytoph 11-22
+Satt304	Phytoph 9-4
+Satt304	Seed weight 13-2
+Satt304	Seed weight 23-1
+Satt305	Necrosis, root Mn induced 1-3
+Satt305	Necrosis, root Mn induced 1-3
+Satt306	Plant height 37-5
+Satt306	Seed weight 12-4
+Satt306	Seed weight per plant 6-9
+Satt307	Canopy wilt 3-12
+Satt307	Internode length 1-10
+Satt307	Internode length 1-10
+Satt307	Internode length 1-3
+Satt307	Internode length 1-3
+Satt307	Nodule number 3-5
+Satt307	Phytoph 6-8
+Satt307	Pod maturity 22-3
+Satt307	Pod maturity 34-3
+Satt307	SDS 16-5
+Satt307	SDS 16-6
+Satt307	SDS 8-2
+Satt307	Seed genistein 11-1
+Satt307	Seed weight 24-1
+Satt307	Seed weight 34-16
+Satt307	Somatic embryogenesis 1-1
+Satt307	Somatic embryogenesis 1-1
+Satt308	Plant height 37-6
+Satt308	Pod maturity 34-6
+Satt308	Seed oil 34-5
+Satt308	Seed protein 21-11
+Satt308	Seed protein 34-3
+Satt308	Seed yield 15-9
+Satt309	First flower 21-4
+Satt309	Leaflet chlorophyll 1-2
+Satt309	Lodging 20-7
+Satt309	Plant height 23-3
+Satt309	Pod maturity 22-6
+Satt309	Root nodule weight, dry 2-2
+Satt309	SCN 14-2
+Satt309	SCN 23-3
+Satt309	SCN 24-2
+Satt309	SCN 25-2
+Satt309	SCN 26-3
+Satt309	SCN 28-1
+Satt309	SCN 28-3
+Satt309	SCN 30-1
+Satt309	SCN 30-2
+Satt309	SCN 32-1
+Satt309	SCN 32-1
+Satt309	SCN 33-1
+Satt309	SCN 33-1
+Satt309	SCN 33-3
+Satt309	SCN 33-3
+Satt309	SCN 33-5
+Satt309	SCN 33-5
+Satt309	SCN 36-3
+Satt309	SCN 36-4
+Satt309	SCN 36-5
+Satt309	SCN 38-2
+Satt309	SCN 39-3
+Satt309	SCN 41-1
+Satt309	SCN 41-2
+Satt309	SCN 41-3
+Satt309	SCN 47-1
+Satt309	SCN 48-3
+Satt309	SDS 6-2
+Satt309	SDS 7-2
+Satt309	Seed length 4-7
+Satt309	Seed length to width ratio 1-14
+Satt309	Seed oil 42-31
+Satt309	Seed protein 26-12
+Satt309	Seed protein 36-25
+Satt309	Seed thickness 1-7
+Satt309	Seed width 4-8
+Satt310	Seed protein 30-2
+Satt311	Al tolerance 3-3
+Satt311	Al tolerance 3-8
+Satt311	Lodging 20-1
+satt311	Seed length to height ratio 1-1
+Satt311	Seed oil 43-14
+Satt311	Seed protein 36-15
+Satt313	Al tolerance 3-9
+Satt313	cqSeed oil-003
+Satt313	Leaflet length 8-14
+Satt313	Leaflet length 9-14
+Satt313	Leaflet shape 9-8
+Satt313	Seed Ile 1-5
+Satt313	Seed oligosaccharide 1-8
+Satt313	Seed sucrose 2-9
+Satt313	Seed Tyr 1-5
+Satt313	Seed weight 12-5
+Satt313	Seed yield 23-7
+Satt314	Pod borer 1-2
+Satt314	Seed yield 11-4
+Satt315	Root density, lateral 3-1
+Satt315	Root length, primary 4-1
+Satt315	Row spacing response 1-4
+Satt315	Seed daidzein 9-2
+Satt315	Seed genistein 9-2
+Satt315	Seed glycitein 9-2
+Satt315	Seed length 1-3
+Satt315	Seed length 1-3
+Satt315	Seed winter hardiness 1-1
+Satt315	Seed winter hardiness 2-1
+Satt315	Shoot length 1-1
+Satt315	Shoot weight, dry 3-1
+Satt316	Photoperiod insensitivity 5-1
+Satt316	SCN 42-3
+Satt316	Seed coat hardness 2-1
+Satt316	Seed coat hardness 3-2
+Satt316	Seed protein 36-8
+Satt316	Seed winter hardiness 1-2
+Satt316	Seed yield 21-3
+Satt317	Drought tolerance 6-4
+Satt317	Plant height 36-1
+Satt317	Pod maturity 30-1
+Satt317	Pubescence density 2-7
+Satt317	Seed oil 19-2
+Satt317	Seed oil 37-5
+Satt317	Seed protein 33-1
+Satt317	Seed weight 41-1
+Satt317	Seed yield 22-4
+Satt318	Chlorosis, leaflet Mn induced 1-1
+Satt318	Chlorosis, leaflet Mn induced 1-1
+Satt318	Shoot fresh to dry weight ratio 1-1
+Satt319	First flower 12-2
+Satt319	Lodging 18-2
+Satt319	Node number 2-2
+Satt319	Plant height 21-2
+Satt319	Seed glycitein 6-2
+Satt319	Seed yield 19-1
+Satt319	Seed yield 22-11
+Satt322	Node number 5-1
+Satt322	Seed coat cracking 3-4
+Satt322	Seed glycitein 13-8
+Satt323	Plant height 25-6
+satt323	Root volume 1-2
+satt323	Root volume 1-3
+Satt323	Seed glycitein 11-5
+Satt323	Seed linolenic 14-4
+Satt323	Seed oil 37-11
+Satt323	Seed oil 42-25
+Satt323	Seed protein 33-5
+Satt323	Seed width 4-5
+Satt324	Leaflet length 6-3
+Satt324	Leaflet length 7-8
+Satt324	Leaflet width 6-5
+Satt324	Lodging 20-2
+Satt324	Plant height 23-6
+Satt324	Plant height 37-3
+Satt324	Plant height to Lodging ratio 3-1
+Satt324	Seed weight per plant 6-4
+Satt324	Seed weight per plant 6-5
+Satt324	Seed yield 21-8
+Satt325	Phytoph 6-1
+Satt325	Plant P 2-1
+Satt325	Root to Shoot weight ratio 2-2
+Satt325	Shoot weight 3-4
+Satt326	Asian Soybean Rust 2-2
+Satt326	Chlorophyll flourescence TRo/ABS 1-2
+Satt326	Internode length 2-1
+Satt326	Seed linoleic 10-2
+Satt326	Seed stearic 8-8
+Satt326	Seed yield 13-1
+Satt327	Sclero 9-1
+Satt327	Seed oil plus protein 1-1
+Satt327	Seed weight 37-8
+satt327	Shoot weight 4-2
+satt327	Shoot weight 4-5
+Satt329	Sclero 9-1
+Satt329	Seed set 1-1
+satt329	Shoot weight 4-4
+Satt330	Flower number 1-12
+Satt330	Lodging 19-1
+Satt330	SCN 34-2
+Satt330	SCN 34-2
+Satt330	Seed daidzein 11-3
+Satt330	Seed daidzein 13-9
+Satt330	Seed glycitein 11-6
+Satt330	Seed glycitein 13-6
+Satt330	Seed glycitein 3-1
+Satt330	Seed weight 37-11
+Satt331	Bean pyralid 1-7
+Satt331	Branching 2-1
+Satt331	Chlorophyll flourescence ABS/RC 1-2
+Satt331	Chlorophyll flourescence ETo/TRo 1-3
+Satt331	Chlorophyll flourescence PIabs 1-3
+Satt331	Chlorophyll flourescence REo/Eto 1-2
+Satt331	Reproductive stage length 7-5
+Satt331	Seed length 4-3
+Satt331	Seed length to thickness ratio 1-1
+Satt331	Seed length to width ratio 1-6
+Satt331	Seed linoleic 10-3
+Satt331	Seed oleic 9-2
+Satt331	Seed protein 40-1
+Satt331	Seed weight 25-4
+Satt331	Total growth duration 1-5
+Satt332	Nodule weight per plant, dry 1-8
+Satt333	Pubescence density 2-3
+Satt333	Root weight, dry 3-1
+Satt333	Seed coat color 1-1
+Satt333	Seed coat color 1-1
+Satt333	Seed linoleic 6-2
+Satt333	Seed oleic 6-2
+satt333	Shoot weight 4-2
+satt333	Shoot weight 4-4
+satt333	Shoot weight 4-5
+Satt334	Internode length 2-6
+Satt334	SDS 15-1
+Satt334	SDS 16-8
+Satt334	Seed protein 36-24
+Satt334	Seed tocopherol, total 3-4
+Satt334	Seed total isoflavone 9-5
+Satt335	Lodging 6-2
+Satt335	Node number 1-8
+Satt335	Plant height 20-6
+Satt335	Plant height 40-2
+Satt335	Pod maturity 20-1
+Satt335	Sclero 5-7
+Satt335	Seed fill 3-1
+Satt335	Seed length 1-9
+Satt335	Seed length 1-9
+Satt335	Seed oil 37-7
+Satt335	Seed oil 37-8
+Satt335	Seed protein 24-2
+Satt335	Seed protein 33-2
+Satt335	Seed tocopherol, delta 3-3
+Satt335	Seed tocopherol, gamma 3-7
+Satt335	Seed weight 15-3
+Satt335	Seed weight 41-2
+Satt335	Seed weight 49-12
+Satt335	Seed weight 49-13
+Satt336	Drought index 1-6
+Satt336	SDS 16-2
+Satt336	Seed glycinin plus beta-conglycinin 1-7
+Satt336	Seed linolenic 14-7
+Satt336	Seed protein 34-3
+Satt336	Seed stearic 8-7
+Satt336	Seed weight 13-11
+Satt337	Plant height 15-1
+satt337	Root volume 1-1
+Satt337	Seed tocopherol, delta 3-6
+Satt337	Seed tocopherol, gamma 3-8
+Satt337	Seed tocopherol, total 3-6
+Satt337	Seed yield 12-1
+Satt337	Seed yield 13-1
+Satt338	First flower 22-1
+Satt338	First flower 22-1
+Satt338	Flood tolerance 7-3
+Satt338	mqSeed Oil-007
+Satt338	Seed length 1-15
+Satt338	Seed length 1-15
+Satt338	Seed oil 20-1
+Satt338	Seed protein 21-2
+Satt338	Seed protein 37-2
+Satt338	Seed volume 1-11
+Satt338	Seed volume 1-11
+Satt339	Drought tolerance 6-1
+Satt339	Plant height 17-7
+Satt339	Root morphology 1-2
+Satt339	Salt tolerance 4-1
+Satt339	Salt tolerance 4-2
+Satt339	Seed phytate 2-1
+Satt339	Seed protein 21-9
+Satt339	Seed thickness 1-2
+Satt339	Seed yield 15-13
+Satt339	Shoot weight, dry 5-4
+Satt340	Seed oil 43-16
+Satt340	Seed weight 15-4
+Satt340	Somatic emb per explant 2-2
+Satt341	mqSeed Oil-004
+Satt341	Seed coat hardness 3-1
+Satt342	mqPlant height-005
+Satt342	Node number 3-7
+Satt342	Plant height 24-7
+Satt342	SCN 26-2
+Satt343	First flower 25-1
+satt343	Hypocotyl weight 1-2
+Satt343	Leaflet chlorophyll 1-1
+Satt343	mqSeed Oil-014
+Satt343	Phytoph 10-2
+Satt343	Phytoph 6-1
+Satt343	Seed oil 24-25
+Satt343	Seed protein 36-19
+Satt343	Seed protein 36-22
+Satt343	Seed protein 36-23
+Satt343	Seed weight 10-6
+Satt345	Leaflet area 2-3
+Satt345	Leaflet chlorophyll 1-8
+Satt345	Net photosyn rate 1-1
+Satt345	Plant weight 2-1
+satt345	Root length, primary 3-5
+Satt345	Root weight 3-1
+Satt345	SCN 38-4
+satt345	Seed height to width ratio 1-3
+satt345	Seed length to width ratio 2-1
+Satt345	Seed oil 43-33
+Satt345	Seed protein 42-1
+Satt345	Seed tocopherol, gamma 2-6
+Satt345	Seed weight 27-2
+Satt345	Seed weight 50-10
+Satt345	Seeds per plant 1-1
+Satt345	Shoot weight 3-1
+Satt347	Reproductive stage length 5-5
+Satt348	Leaflet chlorophyll 1-7
+Satt348	Rag 3-2
+Satt349	First flower 21-3
+Satt349	Plant height 19-1
+Satt349	Seed linoleic 3-2
+Satt349	Seed linolenic 3-2
+Satt349	Seed oil 36-7
+Satt349	Seed palmitic 7-7
+Satt349	Seed set, 3 per pod 1-2
+Satt349	Seed weight 34-6
+Satt350	First flower 13-5
+Satt350	Leaflet area, specific 2-1
+Satt350	Pod dehiscence 3-3
+Satt350	Pod weight 1-2
+Satt350	Seed linolenic 6-3
+Satt350	Seed number 7-1
+Satt350	Seed tocopherol, alpha 3-2
+Satt351	Phytoph 14-4
+Satt352	Flower number 1-8
+Satt352	SDS 11-5
+Satt352	Seed glycinin to beta-conglycinin ratio 1-5
+Satt353	Hypocotyl length 3-1
+Satt353	Hypocotyl weight 1-1
+Satt353	Seed glycitein 8-6
+Satt353	Seed oil 44-2
+Satt353	Seed weight 43-3
+Satt353	Somatic emb per explant 1-1
+Satt353	Somatic emb per explant 1-1
+Satt354	Internode length 2-3
+Satt354	Leaflet chlorophyll 1-15
+Satt354	Nodule number 1-3
+Satt354	Pod number 11-2
+Satt354	Root nodule weight, dry 1-1
+Satt354	Sclero 7-3
+Satt354	SDS 7-6
+Satt354	Seed calcium 1-2
+Satt354	Seed length to thickness ratio 1-4
+Satt354	Seed linoleic 6-8
+Satt354	Seed Lys 3-2
+Satt354	Seed oleic 6-11
+Satt354	Seed protein 37-8
+Satt354	Seed protein 39-4
+Satt354	Seed tocopherol, alpha 3-4
+Satt354	Seed tocopherol, delta 1-4
+Satt354	Seed tocopherol, delta 2-3
+Satt354	Seed tocopherol, delta 3-4
+Satt354	Seed tocopherol, gamma 3-4
+Satt354	Seed tocopherol, total 3-3
+Satt354	Seed weight 24-3
+Satt354	Seed weight 29-5
+Satt354	Seed weight 34-5
+Satt354	Seed weight 35-5
+Satt354	Seed weight 36-5
+Satt354	Seed width to thickness ratio 1-6
+Satt354	Seed yield 21-7
+Satt355	Seed tocopherol, gamma 1-7
+Satt355	Seed weight 32-2
+Satt355	Seed weight 49-11
+Satt355	Seed width 4-7
+Satt356	Internode length 1-11
+Satt356	Internode length 1-11
+Satt356	Internode length 1-8
+Satt356	Internode length 1-8
+Satt356	Pod maturity 22-9
+satt356	Root weight, dry 2-3
+Satt357	Plant height 27-1
+Satt357	Plant height 27-1
+Satt357	Root length, primary 2-1
+Satt357	Seed oil 43-7
+Satt358	Pod maturity 22-7
+Satt358	Seed oil 24-2
+Satt358	Seed protein 21-5
+Satt358	Seed protein 40-2
+Satt358	Seed weight 12-6
+Satt358	Seed yield 15-2
+Satt358	Southern root-knot nematode 3-1
+Satt359	SCN 29-10
+Satt359	SCN 29-3
+Satt359	Seed glycitein 8-3
+Satt359:B1:102.55	SCN 45-3
+Satt360	Pod maturity 13-2
+Satt362	Canopy wilt 1-4
+Satt362	Root area 2-1
+Satt362	Root length 1-2
+Satt362	Seed daidzein 10-3
+Satt362	Seed genistein 10-3
+Satt363	Sclero 7-2
+Satt363	Seed coat cracking 3-4
+Satt363	Seed oil 30-5
+Satt363	Seed protein 21-3
+Satt363	Seed weight 43-1
+Satt363	Seed weight per plant 5-1
+Satt363	Seed winter hardiness 2-2
+Satt363	Seed yield 15-1
+Satt363	Shoot fresh to dry weight ratio 1-2
+satt364	Root density, lateral 2-1
+Satt364	Seed oil 38-1
+Satt364	Seed yield 28-1
+satt364	Shoot weight 4-1
+Satt365	Carbon isotope discrimination 1-2
+Satt365	Corn earworm 8-3
+Satt365	First flower 26-10
+Satt365	First flower 4-1
+Satt365	Leaflet area 4-1
+Satt365	Leaflet width 3-1
+Satt365	Lodging 9-1
+Satt365	mqPlant height-004
+Satt365	Phytoph 6-7
+Satt365	Pod maturity 8-1
+Satt365	R/V photo-thermal sensitivity 1-1
+Satt365	Reproductive period 1-4
+Satt365	Reproductive to vegetative period ratio 1-1
+Satt365	Seed glycinin 2-5
+Satt365	Seed glycinin plus beta-conglycinin 1-6
+Satt365	Seed stearic 8-1
+Satt365	Seed yield 22-12
+Satt365	Total growth duration 1-1
+Satt365	Vegetative period 1-3
+Satt367	Seed oil 27-7
+Satt367	Seed oil 43-17
+Satt367	Seed protein 36-26
+Satt367	Seed weight 24-2
+Satt367	shoot weight, fresh 1-2
+Satt367	shoot weight, fresh 1-3
+Satt368	SCN 26-2
+Satt369	Asian Soybean Rust 2-4
+Satt369	Leaflet shape 8-10
+Satt369	Leaflet shape 9-6
+Satt369	Seed volume 1-2
+Satt369	Seed volume 1-2
+Satt369	Seed width 1-2
+Satt369	Seed width 1-2
+Satt370	Pod wall weight 1-1
+Satt370	Pod wall weight 1-2
+Satt370	Seed weight 37-5
+Satt371	Al tolerance 2-2
+Satt371	Al tolerance 2-3
+Satt371	Photoperiod insensitivity 5-1
+Satt371	Plant damage, UV-B induced 1-2
+Satt371	Plant height 27-1
+Satt371	Plant height 27-1
+Satt371	Root length, primary 2-1
+Satt371	SCN 17-3
+Satt371	SCN 20-2
+Satt371	SDS 7-5
+Satt371	Seed oil 43-7
+Satt372	Canopy wilt 1-3
+Satt372	Canopy wilt 3-10
+Satt372	Canopy wilt 6-4
+Satt372	Leaflet length 7-5
+Satt372	SCN 23-2
+Satt372	Seed weight 30-7
+Satt372	Seed weight 50-1
+Satt372	Seed weight 50-11
+Satt372	Seed weight 50-3
+Satt373	First flower 5-3
+Satt373	First flower 8-3
+Satt373	Leaflet length 4-3
+Satt373	Leaflet shape 6-19
+Satt373	Leaflet shape 7-14
+Satt373	Leaflet width 7-9
+Satt373	Nodule weight per plant, dry 1-11
+Satt373	Plant height 9-2
+Satt373	Pod maturity 9-3
+Satt373	Pod number 1-9
+Satt373	Reproductive stage length 3-3
+Satt373	Reproductive stage length 7-4
+Satt373	Seed coat hardness 2-5
+Satt373	Seed conglycinin, beta 2-6
+Satt373	Seed daidzein 8-2
+Satt373	Seed oil 23-5
+Satt373	Seed protein 16-2
+Satt373	Seed yield 22-9
+Satt373	Seed yield to Plant height ratio 3-2
+Satt375	Seed agglutinin 1-6
+Satt376	Node number 7-2
+Satt376	Node number 7-3
+Satt376	SDS 16-6
+Satt376	Seed tocopherol, alpha 1-2
+Satt376	Seed tocopherol, alpha 2-2
+Satt376	Seed tocopherol, total 1-1
+Satt376	Seed tocopherol, total 2-1
+Satt376	Seed weight 36-16
+Satt376	Shoot fresh to dry weight ratio 1-2
+Satt377	Flood tolerance 6-5
+Satt377	Reproductive period 1-5
+Satt378	Pod maturity, beginning 1-3
+Satt378	Pod, beginning 1-3
+Satt380	First flower 9-3
+Satt380	Pod maturity, beginning 1-2
+Satt380	Pod, beginning 1-2
+Satt380	Seed His 1-1
+Satt380	Seed Phe 1-4
+Satt380	Seed weight 34-18
+Satt381	Seed oil 36-7
+Satt381	Seed palmitic 7-7
+Satt382	Plant height 17-2
+Satt382	Pod maturity 16-1
+Satt382	Seed agglutinin 1-5
+Satt382	Seed agglutinin 2-4
+Satt382	Seed length to thickness ratio 1-5
+Satt382	Seed weight 34-9
+Satt382	Seed weight 36-9
+Satt382	Seed yield 15-10
+Satt383	Pod wall weight 1-5
+Satt383	Root length, primary 5-1
+Satt383	Root morphology 1-1
+Satt383	Seed N at R7 1-2
+Satt383	Seed weight 34-11
+Satt383	Seed weight 35-10
+Satt383	shoot weight, fresh 1-3
+Satt384	Nodule size 1-5
+Satt384	Phytoph 14-9
+Satt384	Seed abortion 1-1
+Satt384	Seed daidzein 8-7
+Satt384	Seed linolenic 9-2
+Satt384	Seed oil 32-1
+Satt384	Seed protein 30-3
+Satt385	Drought index 1-7
+Satt385	Flood tolerance 3-1
+Satt385	Japanese beetle resistance 1-4
+Satt385	Pod dehiscence 3-1
+Satt385	Seed protein 41-1
+Satt385	Seed yield 22-10
+Satt386	mqCanopy wilt-012
+Satt386	Seed isoflavone 4-4
+Satt387	Plant height 17-5
+Satt387	Pod maturity 16-4
+Satt387	Sclero 3-16
+Satt387	Seed linolenic 14-1
+Satt387	Seed yield 15-12
+Satt387	shoot weight, dry 1-3
+Satt387	shoot weight, fresh 1-4
+satt388	Root length, primary 3-3
+Satt388	Seed set 3-3
+Satt389	Seed glycitein 8-4
+Satt389	Seed linoleic 8-2
+Satt389	Seed oleic 8-4
+Satt389	Seed palmitic 8-1
+Satt389	Seed protein 26-2
+Satt389	Seed weight 43-2
+Satt390	Pod number 5-2
+Satt390	SDS 13-7
+Satt390	Seed set, 4 per pod 1-2
+Satt390	Seed set, 4 per pod 1-3
+Satt390	Seed weight 34-10
+Satt390	Seed weight per plant 3-1
+Satt394	Lodging 25-2
+Satt394	Lodging 26-2
+Satt394	Pod maturity 16-2
+Satt394	Sclero 2-13
+Satt394	Sclero 4-5
+Satt394	Sclero 5-8
+Satt394	Seed oil 27-10
+Satt394	Seed palmitic 10-1
+Satt394	Seed protein 26-14
+Satt394	Seed protein 26-8
+Satt394	Seed stearic 3-4
+Satt394	Seed weight 15-3
+Satt394	Seed weight 15-4
+Satt394	Seed weight 50-4
+Satt394	Seed yield 15-4
+Satt394	Seed yield 21-8
+Satt394	Somatic emb per explant 2-4
+Satt396	SCN 18-3
+Satt396	SCN 36-8
+Satt396	Seed daidzein 6-1
+Satt397	Pod number 9-2
+Satt397	Stem length, main 3-1
+Satt398	cqSeed oil-003
+Satt398	Leaflet length 8-11
+Satt398	Leaflet length 9-12
+Satt398	Leaflet width 8-12
+Satt398	Leaflet width 9-6
+Satt398	Seed oil 24-9
+Satt398	Seed oligosaccharide 1-5
+Satt398	Seed sucrose 2-6
+Satt399	Pod maturity 18-3
+Satt399	Root diameter change 1-3
+Satt399	Seed width 1-10
+Satt399	Seed width 1-10
+Satt399	Seed yield 23-4
+Satt402	Pod wall weight 1-5
+Satt402	Seed agglutinin 1-4
+Satt402	Seed agglutinin 2-3
+Satt405	Plant height 13-5
+Satt405	Pod maturity 19-6
+Satt405	Seed protein 41-5
+Satt405	Seed yield 23-6
+Satt405	Seed yield to Plant height ratio 4-1
+Satt406	Leaflet width 8-4
+Satt406	Seed hardness 2-7
+Satt409	Asian Soybean Rust 2-1
+Satt409	Pod dehiscence 4-1
+Satt409	Seed linolenic 7-2
+Satt409	Seed protein 21-1
+Satt409	Seed weight 34-13
+Satt411	Pod maturity 34-4
+Satt412	First flower 13-6
+Satt413	Seed length to width ratio 1-12
+Satt413	Seed length to width ratio 1-13
+Satt413	Seed weight 49-10
+Satt414	Nodule number 3-6
+Satt414	Nodule weight, dry 1-3
+Satt414	Phytoph 7-1
+Satt414	Phytoph 8-1
+Satt414	Phytoph 8-1
+Satt414	Reproductive stage length 9-1
+Satt414	Seed hardness 2-6
+Satt414	Seed oil 43-19
+Satt414	Seed yield 23-13
+Satt414	Seed yield 32-4
+Satt414	Stem weight, dry 2-3
+Satt415	Internode length 1-7
+Satt415	Internode length 1-7
+Satt415	Japanese beetle resistance 1-7
+Satt417	Leaflet chlorophyll 1-12
+Satt417	Leaflet length 8-5
+Satt417	Leaflet length 9-6
+Satt417	Leaflet width 8-6
+Satt417	Photoperiod insensitivity 5-2
+Satt417	Seed total isoflavone 9-6
+Satt417	Seed weight 30-5
+Satt418	Leaflet length 8-10
+Satt418	Leaflet length 9-11
+Satt418	Leaflet width 8-11
+Satt418	Seed oil 31-3
+Satt418	Seed oil 43-25
+Satt418	Seed oligosaccharide 1-4
+Satt418	Seed sucrose 2-5
+Satt418	Shoot weight, dry 2-2
+Satt419	Leaflet chlorophyll 1-15
+Satt419	Seed length to thickness ratio 1-4
+Satt419	Seed oil 42-17
+Satt419	Seed protein 26-4
+Satt419	Seed weight 35-5
+Satt419	Seed width to thickness ratio 1-6
+Satt420	Phytoph 5-3
+Satt420	Pod maturity 24-9
+Satt420	Seed Glu 1-7
+Satt420	Seed oil 19-3
+Satt420	Seed oil 43-35
+Satt421	Seed height 1-1
+Satt421	Seed height 1-1
+Satt421	Seed length 1-2
+Satt421	Seed length 1-2
+Satt421	Seed volume 1-3
+Satt421	Seed volume 1-3
+Satt422	Plant weight 2-2
+Satt422	Pod maturity 26-1
+Satt422	Seed length 4-1
+Satt422	Seed length to width ratio 1-5
+Satt422	Seed thickness 1-4
+Satt422	Seed width 4-4
+Satt422	Seed width to thickness ratio 1-3
+Satt422	Shoot weight 3-2
+Satt423	mqSeed Oil-015
+Satt423	Phytoph 1-1
+Satt423	Phytoph 3-1
+Satt423	Seed length 1-8
+Satt423	Seed length 1-8
+Satt423	Seed total isoflavone 9-3
+Satt423	Shoot P 1-3
+Satt424	Flood tolerance 7-2
+Satt424	Internode length 1-4
+Satt424	Internode length 1-4
+Satt424	Root weight, dry 1-1
+Satt424	Root weight, fresh 1-2
+Satt424	Sclero 2-2
+Satt424	Sclero 3-2
+Satt424	Sclero 5-1
+Satt424	Sclero 6-2
+Satt424	SCN 29-5
+Satt424	SCN 30-3
+Satt424	Seed coat hardness 3-1
+Satt424	Seed oil 43-1
+Satt424	Seed weight 34-10
+Satt424	Seed weight 36-10
+Satt424	Seed winter hardiness 1-1
+Satt424	Seed winter hardiness 2-1
+Satt424	shoot weight, dry 1-1
+Satt424	shoot weight, fresh 1-1
+Satt424:A2:60.59	SCN 45-4
+Satt426	Branching 1-1
+Satt426	Branching 1-2
+Satt426	mqPlant height-001
+Satt426	Node number 3-3
+Satt426	Node number 3-4
+Satt426	Plant height 24-4
+Satt426	Pod number 3-1
+Satt426	Pod number 3-1
+Satt426	Seed weight 49-2
+Satt427	SDS 11-5
+Satt427	Seed Cys 2-4
+Satt427	Seed Lys 1-3
+Satt427	Seed oil 42-32
+Satt427	Somatic emb per explant 1-2
+Satt427	Somatic emb per explant 1-2
+Satt427	Somatic embryogen effic 1-1
+Satt427	Somatic embryogen effic 1-1
+Satt428	Plant height 26-9
+Satt428	Plant height 26-9
+Satt428	Pod wall to Pod weight ratio 1-3
+Satt428	Seed oil 41-1
+Satt428	Seed tocopherol, alpha 3-2
+Satt428	Seed weight 34-3
+Satt428	Seed weight 35-3
+Satt428	Seed weight 36-3
+Satt429	Asian Soybean Rust 2-1
+Satt429	Pod maturity 13-1
+Satt429	Root morphology 1-4
+Satt429	Seed linolenic 14-5
+Satt429	Seed stearic 8-2
+Satt431	BSR 3-1
+Satt431	BSR 4-1
+Satt431	cqSCN-003
+Satt431	First flower 13-8
+Satt431	Leaflet length 8-4
+Satt431	Leaflet length 9-5
+Satt431	Photoperiod insensitivity 5-4
+Satt431	Pod wall width 1-9
+Satt431	SCN 28-4
+Satt431	Seed oil 39-12
+Satt431	Seed protein 41-6
+Satt431	Seed yield 21-5
+Satt432	SDS 13-6
+Satt432	Seed oil 9-2
+Satt433	cqSeed protein-012
+Satt433	Photoperiod insensitivity 5-1
+Satt434	Bean pyralid 1-5
+Satt434	Reproductive to vegetative period ratio 1-3
+Satt434	Seed viability 1-3
+Satt435	Rag 3-1
+Satt435	Reproductive stage length 5-4
+satt436	Root length, primary 3-5
+Satt436	Seed conglycinin, beta 2-2
+Satt436	Seed Cys 2-2
+Satt436	Seed oil 42-21
+Satt437	Fusarium lesion length 1-1
+Satt437	Phytoph 6-4
+Satt437	Seed Ala 1-2
+Satt437	Seed genistein 13-4
+Satt437	Seed N at R6 1-1
+Satt437	Seed Pro 1-1
+Satt437	Seed Ser 1-1
+Satt439	mqSeed Oil-010
+Satt439	Phytoph 14-1
+Satt439	Seed oil 24-20
+Satt439	Seed set 3-2
+Satt440	Japanese beetle resistance 1-5
+Satt440	Leaflet shape 6-9
+Satt440	Plant height 14-1
+Satt440	Seed glycinin plus beta-conglycinin 1-12
+Satt440	Seed tocopherol, alpha 1-4
+Satt440	Seed tocopherol, alpha 2-4
+Satt440	Seed weight 36-5
+Satt440	Seed yield 12-3
+Satt440	Seed yield 15-15
+Satt441	Leaflet chlorophyll 1-12
+Satt441	mqPlant height-010
+Satt441	Seed linoleic 10-2
+Satt441	Seed stearic 8-8
+Satt442	First flower 25-2
+Satt442	Leaflet width 5-3
+Satt442	Pod maturity 26-2
+Satt442	Reproductive stage length 7-3
+Satt442	Seed fill 5-1
+Satt442	Seed genistein 2-7
+Satt442	Seed oil 32-2
+Satt442	Seed oligosaccharide 2-4
+Satt442	Seed oligosaccharide 2-4
+Satt442	Seed protein 28-3
+Satt442	Seed sucrose 3-4
+Satt442	Seed sucrose 3-4
+Satt445	Root to Shoot weight ratio 2-1
+Satt445	Seed set 1-6
+Satt445	Seed yield 23-15
+Satt445	Seed yield 32-2
+satt446	Root density, lateral 2-4
+Satt447	pH sensitivity 1-1
+Satt447	pH sensitivity 1-4
+Satt447	Pod number 9-2
+Satt447	Seed oil 42-12
+Satt447	Seed weight 43-2
+Satt447	Stem length, main 3-1
+Satt448	Phytoph 9-6
+Satt449	Leaflet area 2-1
+Satt449	Leaflet N, specific 1-1
+Satt449	Pod weight 1-1
+Satt449	Seed length to width ratio 1-3
+Satt449	Seed length to width ratio 1-4
+Satt449	Seed protein 36-1
+Satt449	Seed thickness 1-3
+Satt449	Seed weight 36-13
+Satt449	Seed weight 6-4
+Satt449	Seed width 4-3
+Satt451	Sclero 2-15
+Satt451	Seed oil 42-16
+Satt451	Seed oil 42-37
+Satt452	SCN 18-4
+Satt452	SCN 21-3
+Satt452	Seed Cys 3-6
+Satt452	Seed Met 3-6
+Satt452	Seed oil 36-3
+Satt452	Seed oil 39-8
+Satt452	Seed oil plus protein 1-5
+Satt452	Seed palmitic 7-3
+Satt452	Seed weight 49-11
+Satt452	Seed yield 28-5
+Satt453	Leaflet shape 8-2
+Satt453	Leaflet shape 9-2
+Satt453	Phytoph 6-5
+Satt453	SCN 29-10
+Satt453	SCN 29-3
+Satt453	SCN 32-3
+Satt453	SCN 32-3
+Satt453	SCN 33-4
+Satt453	SCN 33-4
+Satt453	SCN 33-6
+Satt453	SCN 33-6
+Satt453	Seed weight 32-1
+Satt453	Seed weight 34-14
+Satt453:B1:123.95	SCN 45-3
+Satt454	Drought tolerance 6-2
+Satt454	mqSeed Oil-002
+Satt454	Seed oil 24-16
+Satt454	Seed oil 42-3
+Satt454	Seed weight 36-13
+Satt454	Seed weight 36-9
+Satt457	Seed isoflavone 11-3
+Satt458	Drought index 1-9
+Satt458	Node number 7-1
+Satt458	Pod number 11-1
+Satt458	Root weight 1-2
+Satt458	Sclero 2-8
+Satt458	Seed glycitein 7-5
+Satt458	Seed oil 23-3
+Satt458	Seed weight 22-4
+Satt458	Seed weight 47-2
+Satt458	Shoot P 1-1
+Satt458	Shoot weight 1-1
+Satt459	Sclero 2-7
+Satt459	Sclero 3-5
+Satt459	Sclero 5-4
+Satt459	Sclero 6-3
+Satt459	Seed coat hardness 3-3
+Satt459	Seed N at R6 1-2
+Satt459	Seed winter hardiness 2-3
+Satt460	Branching 1-4
+Satt460	Leaflet shape 8-4
+Satt460	Leaflet shape 9-3
+Satt460	Phomopsis seed decay 3-1
+Satt460	Phomopsis seed decay 4-1
+Satt460	Phytoph 6-8
+Satt460	Plant height 31-1
+Satt460	Pod number 11-3
+Satt460	Pod number 2-1
+Satt460	Pod wall width 1-2
+Satt460	Seed coat hardness 3-2
+Satt460	Seed genistein 3-2
+Satt460	Seed oil 23-1
+Satt460	Seed weight 15-1
+Satt460	Seed weight 34-2
+Satt460	Seed weight 35-2
+Satt460	Seed weight 36-2
+Satt460	Seed weight 49-5
+Satt460	Seed winter hardiness 2-2
+Satt461	mqSeed Oil-011
+Satt461	pH sensitivity 1-2
+Satt461	pH sensitivity 1-3
+Satt461	Seed acidic fraction 1-1
+Satt461	Seed conglycinin 1-1
+Satt461	Seed glycinin 1-1
+Satt461	Seed oil 24-22
+Satt462	Canopy wilt 2-7
+Satt462	Leaflet length 8-12
+Satt462	Leaflet shape, UV-B induced 10-8
+Satt462	Leaflet width 8-13
+Satt462	Petiole color, UV-B induced 1-7
+Satt462	Plant damage, UV-B induced 1-6
+Satt462	SDS 13-3
+Satt462	Seed oligosaccharide 1-6
+Satt462	Seed sucrose 2-7
+Satt462	Shoot weight 3-3
+Satt463	Common cutworm 1-2
+Satt463	Corn earworm 9-4
+Satt463	Internode length 2-10
+Satt463	Leaflet chlorophyll 1-16
+Satt463	Phytoph 14-8
+Satt463	Plant height 19-5
+Satt463	Pod maturity 15-1
+Satt463	Pods per node 1-5
+Satt463	Row spacing response 3-2
+Satt463	Seed oil 23-6
+Satt463	Seed oil 37-11
+Satt463	Seed oil 42-6
+Satt463	Seed protein 24-4
+Satt463	Seed protein 33-5
+Satt463	Seed thickness 1-6
+Satt463	Seed yield 17-4
+Satt463	Seed yield 17-5
+Satt464	Al tolerance 3-8
+Satt464	Japanese beetle resistance 1-3
+Satt464	Seed conglycinin, beta 2-3
+Satt464	Seed oil 42-14
+satt466	Root length, primary 3-5
+Satt466	SCN 34-5
+Satt466	SCN 34-5
+Satt466	SDS 16-7
+Satt467	Root diameter 1-4
+Satt467	Seed oil 42-10
+Satt467	Seed oil 42-11
+Satt468	Flower form 1-2
+Satt468	Flower form 1-2
+Satt468	Root length, primary 5-1
+Satt468	Seed conglycinin, beta 2-1
+Satt468	Seed glycinin 2-2
+Satt468	Seed glycinin plus beta-conglycinin 1-1
+Satt468	Seed oil 13-2
+Satt468	Seed oil 24-10
+Satt468	Seed protein 36-10
+Satt468	Seed weight 34-11
+Satt469	Root diameter 1-3
+Satt469	Seed protein 34-8
+Satt470	Rag 2-1
+Satt470	Seed isoflavone 11-5
+Satt470	Seed total isoflavone 9-1
+Satt470	Seed weight 10-2
+Satt471	Drought tolerance 6-2
+Satt472	Corn earworm 9-2
+Satt472	cqSCN-007
+Satt472	Leaflet shape 6-8
+Satt472	Leaflet shape 7-6
+Satt472	Phytoph 13-4
+Satt472	Pod maturity 17-13
+Satt472	Pod maturity 17-6
+Satt472	Sclero 5-9
+Satt472	SCN 37-2
+Satt472	Seed linoleic 5-1
+Satt472	Seed linoleic 6-10
+Satt472	Seed oil 36-6
+Satt472	Seed oil 39-9
+Satt472	Seed oleic 5-2
+Satt472	Seed oleic 6-8
+Satt472	Seed palmitic 7-6
+Satt474	Seed stearic 4-1
+Satt474	Seed stearic 4-1
+Satt474	Seed yield 23-10
+Satt474	Seed yield 32-3
+Satt475	Pod number 4-2
+Satt475	Seed protein 34-6
+Satt475	Seed weight 27-3
+Satt475	Seed weight per plant 2-1
+Satt475	Seeds per plant 1-2
+Satt475	Seeds per plant 2-1
+Satt476	Pod number 4-1
+Satt476	Seed weight 45-3
+Satt476	Total growth duration 1-2
+Satt477	Flood tolerance 4-7
+Satt477	Flood tolerance 4-7
+Satt477	Pod maturity 19-7
+Satt477	Sclero 2-23
+Satt477	Sclero 3-18
+Satt477	Sclero 4-10
+Satt477	Sclero 5-15
+Satt477	Sclero 6-12
+Satt477	Seed weight 12-7
+Satt477	Seed yield 23-8
+Satt478	Drought tolerance 6-3
+Satt478	Plant height 17-8
+Satt478	Pod maturity 24-9
+Satt478	Sclero 2-22
+Satt478	Sclero 3-17
+Satt478	Sclero 5-14
+Satt478	Sclero 6-11
+Satt478	Seed protein 12-5
+Satt478	Total growth duration 1-5
+Satt479	Seed oil 19-3
+Satt479	Seed weight 34-8
+Satt480	Seed coat cracking 3-9
+Satt481	Fe effic 13-2
+Satt481	Fe effic 13-2
+Satt481	Pod maturity 14-1
+Satt481	Pod maturity 15-4
+Satt481	Sclero 2-20
+Satt481	Sclero 3-14
+Satt481	Sclero 5-12
+Satt481	Sclero 6-9
+Satt481	Seed oil 43-26
+Satt481	Seed protein 36-31
+Satt481	Seed protein 36-32
+Satt482	Bean pyralid 1-1
+Satt482	Reproductive to vegetative period ratio 1-2
+Satt482	SDS 13-1
+Satt483	Leaflet shape 8-9
+Satt483	Seed oligosaccharide 2-3
+Satt483	Seed oligosaccharide 2-3
+Satt483	Seed sucrose 3-3
+Satt483	Seed sucrose 3-3
+Satt484	Phytoph 6-5
+Satt484	SCN 39-9
+Satt485	Lodging 21-3
+Satt485	Root length, primary 2-3
+Satt485	Root weight, dry 1-2
+Satt485	shoot weight, dry 1-3
+Satt485	shoot weight, fresh 1-4
+Satt486	Seed weight 42-2
+Satt487	Leaflet chlorophyll 2-1
+Satt487	Root to Shoot weight ratio 2-1
+Satt488	Japanese beetle resistance 1-3
+Satt488	Reproductive period 1-7
+Satt488	SDS 11-2
+Satt488	Seed yield 26-1
+satt489	First flower 26-15
+Satt489	First flower 5-1
+Satt489	Lodging 8-2
+Satt489	P use efficiency 1-5
+Satt489	Phytoph 6-6
+Satt489	Plant height 10-1
+Satt489	Plant height 13-2
+Satt489	Plant height 23-2
+Satt489	Pod maturity 10-1
+Satt489	Reproductive stage length 4-2
+Satt489	Root weight, dry 3-3
+Satt489	Seed length 1-5
+Satt489	Seed length 1-5
+Satt489	Seed oil 27-6
+Satt489	Seed oleic 3-1
+Satt489	Seed palmitic 4-1
+Satt489	Seed weight 34-15
+Satt489	Seed yield to weight ratio 3-2
+Satt490	Asian Soybean Rust 2-3
+Satt490	Plant height 17-1
+Satt490	Seed daidzein 2-6
+Satt490	Seed genistein 7-5
+Satt490	Seed oil 37-8
+Satt491	Sclero 9-4
+Satt491	Seed weight 34-12
+Satt492	Southern root-knot nematode 3-1
+Satt494	Seed length 1-7
+Satt494	Seed length 1-7
+Satt494	Seed protein 47-1
+Satt495	Chlorosis, leaflet UV-B induced 1-6
+Satt495	Chlorosis, leaflet UV-B induced 1-7
+Satt495	Leaflet length 8-6
+Satt495	Leaflet length 9-7
+Satt495	Leaflet shape 6-13
+Satt495	Leaflet shape, UV-B induced 1-11
+Satt495	Leaflet shape, UV-B induced 10-9
+Satt495	Leaflet width 8-7
+Satt495	Leaflet width 9-4
+Satt495	Petiole color, UV-B induced 1-8
+Satt495	Petiole color, UV-B induced 1-9
+Satt495	Plant damage, UV-B induced 1-7
+Satt495	Plant damage, UV-B induced 1-9
+Satt495	Pod maturity 24-3
+Satt495	Pod number 1-9
+Satt495	Seed Ala 1-5
+Satt495	Seed Gly 1-4
+Satt495	Seed linolenic 7-1
+Satt495	Seed oil 43-27
+Satt495	Seed Phe 1-6
+Satt495	Seed Ser 1-4
+Satt495	Seed Thr 1-5
+Satt496	cqR8 Full maturity-001
+Satt496	cqSeed oil-004
+Satt496	cqSeed protein-003
+Satt496	cqSeed weight-003
+Satt496	cqSeed yield-001
+Satt496	First flower 20-3
+Satt496	Pod maturity 24-5
+Satt496	Seed coat cracking 3-2
+Satt496	Seed oil 15-1
+Satt496	Seed oil 32-3
+Satt496	Seed protein 15-1
+Satt496	Seed protein 31-1
+Satt496	Seed yield 14-1
+Satt497	Leaflet length 8-13
+Satt497	Leaflet length 9-13
+Satt497	Leaflet width 8-14
+Satt497	mqSeed Oil-022
+Satt497	Seed oil 24-32
+Satt497	Seed oligosaccharide 1-7
+Satt497	Seed sucrose 2-8
+Satt499	Flood tolerance 6-4
+Satt499	Seed daidzein 10-2
+Satt499	Seed genistein 10-2
+Satt499	Seed glycitein 7-3
+Satt499	Seed isoflavone 8-2
+Satt499	Seed isoflavone 8-3
+Satt499	Seed oil 44-1
+Satt499	Seed weight 45-5
+Satt499	Seed weight 50-5
+Satt500	SDS 13-2
+Satt501	Leaflet length 8-1
+Satt501	Leaflet length 9-2
+Satt501	Leaflet width 8-3
+Satt501	Seed isoflavone 4-5
+Satt502	Node number 3-7
+Satt502	Plant height 24-7
+Satt502	Seed weight 35-10
+Satt503	Reproductive stage length 5-2
+Satt504	Seed width 3-3
+Satt505	Plant height 26-14
+Satt505	Plant height 26-14
+Satt505	Plant height 37-7
+Satt505	Pod maturity 34-7
+Satt505	Pod wall weight 1-3
+Satt505	Seed oil 24-12
+Satt505	Somatic emb per explant 1-3
+Satt505	Somatic emb per explant 1-3
+Satt505	Southern root-knot nematode 3-2
+Satt505	Southern root-knot nematode 4-1
+Satt506	Leaflet area, specific 2-1
+Satt506	Pod weight 1-2
+Satt507	Seed yield 8-2
+Satt508	Seed height 1-1
+Satt508	Seed height 1-1
+Satt508	Seed length 1-2
+Satt508	Seed length 1-2
+Satt508	Seed set 1-1
+Satt508	Seed volume 1-3
+Satt508	Seed volume 1-3
+Satt508	Seed weight 7-1
+Satt508	Seed yield to weight ratio 3-1
+Satt509	Branching 1-2
+Satt509	Branching 1-3
+Satt509	Node number 3-4
+Satt509	Node number 3-5
+Satt509	Nodule number 1-1
+Satt509	Nodule weight per plant, dry 1-5
+Satt509	Plant height 24-4
+Satt509	Plant height 24-5
+Satt509	Plant height 26-6
+Satt509	Plant height 26-6
+Satt509	Pod maturity 17-1
+Satt509	Pod maturity 24-6
+Satt509	Pod number 3-1
+Satt509	Pod number 3-1
+Satt509	Pod number 3-2
+Satt509	Pod number 3-2
+Satt509	Pod wall width 1-5
+Satt509	Seed glycitein 8-2
+Satt509	Seed height 1-2
+Satt509	Seed height 1-2
+Satt509	Seed weight 21-1
+Satt509	Seed weight 22-2
+Satt509	Seed weight 25-2
+Satt509	Seed weight 37-9
+Satt509	Seed weight 49-2
+Satt510	Leaflet length 7-7
+Satt510	Phytoph 9-3
+Satt510	Sclero 5-7
+Satt510	Sclero 6-6
+Satt510	Seed oil 13-3
+Satt510	Seed oil 37-7
+Satt510	Seed protein 21-6
+Satt510	Seed protein 33-2
+Satt510	Seed weight 41-2
+Satt510	Tobacco ring spot virus 1-1
+Satt511	mqSeed Oil-001
+Satt511	Seed isoflavone 11-15
+Satt511	Seed oil 24-15
+Satt511	Seed oil 42-5
+Satt511	Seed yield 20-1
+Satt513	Canopy wilt 6-2
+Satt513	Leaflet shape 6-18
+Satt513	Leaflet shape 7-13
+Satt514	Leaflet chlorophyll 1-11
+Satt514	Phytoph 9-5
+Satt514	Plant P 3-2
+Satt514	SCN 38-6
+Satt514	Seed length to height ratio 1-1
+Satt514	Seed yield 26-1
+Satt516	First flower 25-1
+Satt516	Reproductive stage length 7-2
+Satt516	Seed coat cracking 3-10
+Satt516	Seed glycitein 2-3
+Satt516	Seed weight 42-3
+Satt517	SCN 34-1
+Satt517	SCN 34-1
+Satt517	Seed weight 10-9
+Satt518	Seed acidic fraction 1-2
+Satt518	Seed Gly 1-2
+Satt518	Seed Thr 1-4
+Satt518	Seed weight 15-6
+Satt519	Flooding yield index 1-2
+Satt519	Flooding yield index 1-3
+Satt519	Plant P 1-2
+Satt519	Plant weight 1-2
+Satt519	Reproductive stage length 8-1
+Satt519	Root area 1-1
+Satt519	Root area 1-3
+Satt519	Root length, primary 1-1
+Satt519	Root length, primary 1-2
+satt519	Root length, primary 3-1
+Satt519	Root P 1-2
+Satt519	Root to Shoot weight ratio 1-1
+Satt519	Root weight 1-1
+Satt519	Root weight 1-3
+Satt519	Seed number 3-1
+Satt519	Seed number 3-3
+Satt519	Seed weight 20-1
+Satt519	Seed weight 20-3
+Satt519	Seed weight 20-4
+Satt519	Shoot P 1-2
+Satt519	Shoot weight 1-2
+Satt519	Shoot weight 1-3
+Satt520	Phytoph 5-1
+Satt520	Seed agglutinin 2-5
+Satt520	Seed protein 31-4
+Satt520	Seed stearic 8-1
+Satt520	shoot weight, fresh 1-2
+Satt520	shoot weight, fresh 1-3
+satt521	Root length, primary 3-2
+satt521	Root weight, dry 2-1
+Satt521	Seed coat cracking 3-8
+Satt521	Seed glycitein 2-9
+Satt521	Seed glycitein 9-9
+Satt521	Seed isoflavone 4-3
+Satt521	Seed set, 4 per pod 1-4
+Satt521	Seed weight 30-3
+satt521	Shoot weight 4-3
+Satt522	Seed tocopherol, delta 3-2
+Satt523	Leaflet length 8-8
+Satt523	Leaflet length 9-9
+Satt523	Leaflet shape 9-7
+Satt523	Leaflet shape, UV-B induced 1-10
+Satt523	Leaflet width 8-9
+Satt523	Plant damage, UV-B induced 1-8
+Satt523	Pod dehiscence 3-7
+Satt523	Seed oil 37-6
+Satt523	Seed oil 43-24
+Satt523	Seed oligosaccharide 1-2
+Satt523	Seed palmitic plus stearic 1-2
+Satt523	Seed protein 33-4
+Satt523	Seed sucrose 2-3
+Satt523	Shoot weight 3-3
+Satt524	Seed daidzein 13-11
+Satt524	Seed isoflavone 11-2
+Satt524	Seed number 7-2
+Satt525	Seed palmitic 6-1
+Satt525	Seed weight 22-1
+Satt526	Japanese beetle resistance 1-4
+Satt526	Leaflet area 2-1
+Satt526	Leaflet N, specific 1-1
+Satt526	Pod weight 1-1
+Satt526	Seed oil 42-2
+Satt527	cqSeed weight-005
+Satt527	cqSeed weight-007
+Satt527	cqSeed weight-009
+Satt527	cqSeed weight-012
+Satt527	Leaflet width 3-3
+Satt527	Phytoph 13-1
+Satt527	Phytoph 15-1
+Satt527	Phytoph 9-6
+Satt527	Plant height 8-3
+Satt527	Pod maturity 8-3
+Satt527	Seed height 1-10
+Satt527	Seed height 1-10
+Satt527	Seed length 1-10
+Satt527	Seed length 1-10
+Satt527	Seed length 4-8
+Satt527	Seed oil 43-28
+Satt527	Seed phytate 2-2
+Satt527	Seed volume 1-7
+Satt527	Seed volume 1-7
+Satt527	Seed weight 34-7
+Satt527	Seed weight 35-7
+Satt527	Seed weight 36-7
+Satt527	Seed weight 5-1
+Satt527	Seed yield to Plant height ratio 2-5
+Satt527	Total growth duration 1-3
+Satt528	Seed isoflavone 11-12
+Satt528	Seed yield 26-1
+Satt529	Seed yield 20-2
+Satt530	Japanese beetle resistance 1-8
+Satt530	Leaflet length 8-15
+Satt530	Leaflet length 9-15
+Satt530	Root length, primary 2-3
+Satt530	Seed glycitein 11-4
+Satt530	Seed linoleic 10-1
+Satt530	Seed oil 24-13
+Satt530	Seed oil 24-5
+Satt530	Seed oil 43-32
+Satt530	Seed oleic 9-1
+Satt530	Seed protein 36-36
+Satt530	Seed weight 30-2
+Satt530	Seed weight 32-3
+Satt531	First flower 16-1
+Satt531	First flower 16-1
+Satt531	Plant height 42-1
+Satt531	Seed hardness 1-2
+Satt531	Seed oil 42-20
+Satt533	SCN 34-1
+Satt533	SCN 34-1
+Satt534	First flower 21-1
+Satt534	Lodging 21-2
+Satt534	Plant P 3-4
+Satt534	Plant weight, dry 1-4
+Satt534	Reproductive period 1-6
+Satt534	Root weight, dry 3-2
+Satt534	Seed linolenic 10-1
+Satt534	Seed oil 43-5
+Satt534	Shoot weight, dry 4-1
+Satt536	Corn earworm 9-5
+Satt536	Reproductive stage length 5-3
+Satt536	Seed oil 43-29
+Satt537	cqSeed agglutinin-003
+Satt537	Plant height 26-9
+Satt537	Plant height 26-9
+Satt537	Seed agglutinin 2-2
+Satt537	Seed linoleic 7-1
+Satt537	Seed linolenic 6-3
+Satt537	Seed palmitic 5-2
+Satt537	Seed palmitic 5-2
+Satt537	Seed protein 27-1
+Satt537	Seed set, 2 per pod 1-1
+Satt537	Seed sucrose 3-2
+Satt537	Seed sucrose 3-2
+Satt537	Seed tocopherol, alpha 3-6
+Satt537	Seed Trp 1-4
+Satt537	Seed Val 1-2
+Satt538	Seed daidzein 2-5
+Satt538	Seed viability 1-1
+Satt538	Seed weight 34-1
+Satt538	Seed weight 36-1
+Satt538	Seed weight 49-1
+Satt539	Nodule weight per plant, dry 1-7
+Satt539	Seed protein 24-3
+Satt539	Seed yield 13-2
+Satt540	mqPlant height-012
+Satt540	Reproductive stage length 5-4
+Satt540	Seed genistein 11-9
+Satt540	Seed genistein 13-2
+Satt540	Seed genistein 2-3
+Satt540	Seed genistein 3-4
+Satt540	Seed glycitein 11-7
+Satt540	Seed glycitein 13-1
+Satt540	Seed glycitein 2-7
+Satt540	Seed glycitein 3-2
+Satt540	Seed isoflavone 1-7
+Satt540	Seed isoflavone 11-4
+Satt540	Seed isoflavone 2-5
+Satt540	Seed oil 23-6
+Satt540	Seed oil 42-22
+Satt540	Seed protein 24-4
+Satt540	Seed total isoflavone 9-9
+Satt540	Seed weight 45-4
+Satt540	Seed yield 31-11
+Satt540	Seed yield to weight ratio 1-1
+Satt541	Corn earworm 9-3
+Satt541	Pod borer 1-1
+Satt541	Pod maturity 26-2
+Satt541	Reproductive stage length 7-3
+Satt541	SCN 39-4
+Satt541	Seed agglutinin 3-2
+Satt541	Seed daidzein 7-4
+Satt541	Seed fill 5-1
+Satt541	Seed genistein 6-1
+Satt541	Seed isoflavone 6-4
+Satt541	Seed linoleic 10-5
+Satt541	Seed protein 34-8
+Satt541	Seed stearic 8-10
+Satt541	Seed weight 23-2
+Satt541	Seed weight 44-1
+Satt542	Lodging 16-1
+Satt542	Plant height 17-11
+Satt542	Row spacing response 2-3
+Satt542	Seed tocopherol, total 2-3
+Satt543	cqSCN-005
+Satt543	Phytoph 12-2
+Satt543	Reproductive period 1-7
+Satt543	Sclero 2-9
+Satt543	Sclero 4-2
+Satt543	SDS 11-2
+Satt543	Seed protein 36-16
+Satt543	Seed protein 47-5
+Satt543	Seed yield 26-1
+Satt544	Photoperiod insensitivity 5-2
+Satt544	Plant height 17-4
+Satt544	Pod maturity 16-3
+Satt544	Seed glycitein 9-8
+Satt544	Seed oil 36-7
+Satt544	Seed oleic 8-3
+Satt544	Seed palmitic 7-7
+Satt544	Seed yield 15-5
+Satt544	Vegetative period 1-4
+Satt545	cqSeed agglutinin-002
+Satt545	Leaflet width 10-1
+Satt545	Node number 3-1
+Satt545	Node number 3-2
+Satt545	Plant height 24-1
+Satt545	Plant height 24-2
+Satt545	Sclero 2-1
+Satt545	Sclero 3-1
+Satt545	Sclero 6-1
+Satt545	Seed agglutinin 1-1
+Satt545	Seed set, 4 per pod 1-1
+Satt545	Seed tocopherol, alpha 3-5
+Satt545	Whitefly resistance 1-4
+Satt546	First flower 15-1
+Satt546	First flower 15-1
+Satt546	First flower 24-1
+Satt546	Internode length 1-12
+Satt546	Internode length 1-12
+Satt546	Pod dehiscence 3-3
+Satt546	Seed glycitein 11-2
+Satt546	Seed isoflavone 7-9
+Satt546	Seed oil 31-1
+Satt546	Seed oligosaccharide 1-1
+Satt546	Seed sucrose 2-2
+Satt546	Seed yield 22-3
+Satt547	BSR 5-2
+Satt547	Leaflet shape 6-11
+Satt547	Leaflet width 6-6
+Satt547	Photoperiod insensitivity 5-4
+Satt547	Plant height 17-10
+Satt547	Plant height 25-2
+Satt547	Plant height 26-16
+Satt547	Plant height 26-16
+Satt547	SCN 28-2
+Satt547	SCN 29-2
+Satt547	SCN 29-6
+Satt547	Seed glycitein 2-1
+Satt547	Seed hardness 2-8
+Satt547	Seed yield 15-14
+Satt547	Seed yield 23-3
+Satt547	Seed yield 31-9
+Satt547:J:67.79	SCN 45-2
+Satt548	Reproductive to vegetative period ratio 1-2
+Satt549	Lodging 19-3
+Satt549	Pod weight 1-3
+Satt549	SCN 33-7
+Satt549	SCN 33-7
+Satt549	Seed protein 36-37
+Satt550	SCN 38-5
+Satt550	Seed linoleic 10-3
+Satt550	Seed oleic 9-2
+Satt550	Seed protein 42-1
+Satt551	Pod number 8-2
+Satt551	SCN 40-4
+Satt551	Seed daidzein 7-5
+Satt551	Seed genistein 7-6
+Satt551	Seed isoflavone 6-6
+Satt551	Seed protein 41-9
+Satt551	Seed weight 46-2
+Satt551	Stem weight, dry 1-2
+Satt552	mqPlant height-010
+Satt552	SCN 39-5
+Satt552	Seed glycitein 7-3
+Satt552	Seed tocopherol, total 3-6
+Satt553	Internode length 2-11
+Satt553	Seed volume 1-2
+Satt553	Seed volume 1-2
+Satt553	Seed width 1-2
+Satt553	Seed width 1-2
+Satt554	Asian Soybean Rust 2-3
+Satt554	Nodule number 3-7
+Satt554	Nodule weight per plant, dry 1-12
+Satt554	Plant height 39-1
+Satt554	Stem length, main 2-2
+Satt555	mqPlant height-009
+Satt555	Seed set, 3 per pod 1-2
+Satt555	Seed weight 34-6
+Satt555	Seed weight 35-6
+Satt555	Seed weight 36-6
+Satt556	Leaflet length 10-3
+Satt556	Leaflet shape 6-2
+Satt556	Pod maturity 19-4
+Satt556	Reproductive period 1-6
+Satt556	Seed isoflavone 11-17
+Satt556	Seed linoleic 7-3
+Satt556	Seed N at R5 1-3
+Satt556	Seed oil 28-1
+Satt556	Seed oil 42-27
+Satt556	Seed oil 43-6
+Satt556	Seed oleic 7-3
+Satt556	Seed stearic 4-1
+Satt556	Seed stearic 4-1
+Satt556	Seed yield 23-11
+Satt557	First flower 22-2
+Satt557	First flower 22-2
+Satt557	First flower 26-11
+Satt557	Photoperiod insensitivity 3-1
+Satt557	Photoperiod insensitivity 4-1
+Satt557	Phytoph 5-1
+Satt557	Plant height 25-4
+Satt557	Pod maturity 13-4
+Satt557	Pod maturity 19-5
+Satt557	Reproductive period 1-4
+Satt557	Reproductive to vegetative period ratio 1-1
+Satt557	Seed protein 28-1
+Satt557	Seed weight 34-15
+Satt557	Seed yield 19-3
+Satt557	Seed yield 23-5
+Satt557	Total growth duration 1-1
+Satt557	Total growth duration 1-4
+Satt557	Vegetative period 1-1
+Satt557	Vegetative period 1-3
+Satt558	Bean pyralid 1-2
+Satt558	Pubescence density 2-5
+Satt558	Seed stearic 5-3
+Satt559	First flower 24-2
+Satt559	Seed weight 50-5
+Satt560	Seed isoflavone 11-17
+Satt560	Seed linolenic 10-2
+Satt560	Seed protein 25-1
+Satt561	cqSeed phytate-002
+Satt561	First flower 25-4
+Satt561	Pod maturity 24-4
+Satt561	Pod number 9-3
+Satt561	Reproductive stage length 5-6
+Satt561	Seed number 6-1
+Satt561	Seed phytate 2-2
+Satt561	Seed weight 34-7
+Satt561	Seed weight 36-7
+Satt561	Seed weight 43-4
+Satt561	Seed weight per plant 5-2
+Satt561	Seed yield 8-1
+Satt561	Stem length, main 3-2
+Satt561	Stem weight, dry 2-2
+Satt562	SDS 16-4
+Satt562	Seed oil 14-3
+Satt562	Seed oil 39-10
+Satt562	Seed oil 42-18
+Satt562	Seed oil 42-38
+Satt562	Seed protein 37-7
+Satt562	Seed weight 12-8
+Satt564	Flower number 1-9
+Satt564	Pod number 1-8
+Satt564	Seed Met 1-2
+Satt564	Seed Met 2-2
+Satt564	Seed protein 34-9
+Satt564	Seed protein 41-3
+Satt565	Canopy wilt 3-9
+Satt565	Pod number 11-4
+Satt565	Seed protein 36-5
+Satt565	Seed protein 36-6
+Satt565	Seed tocopherol, gamma 1-2
+Satt565	Seed tocopherol, gamma 2-2
+Satt565	Seed weight 13-4
+Satt565	Seed weight 47-3
+Satt566	SDS 11-5
+Satt566	Somatic emb per explant 2-2
+Satt567	Common cutworm 1-2
+Satt567	Corn earworm 8-2
+Satt567	First flower 6-1
+Satt567	Leaflet shape, UV-B induced 10-3
+Satt567	mqPlant height-011
+Satt567	Plant damage, UV-B induced 1-3
+Satt567	Plant height 13-9
+Satt567	Plant height 18-6
+Satt567	Plant height 19-5
+Satt567	Pod maturity 10-2
+Satt567	Pod maturity 14-4
+Satt567	Pod maturity 15-1
+Satt567	Reproductive stage length 4-3
+Satt567	Seed abortion 1-2
+Satt567	Seed abortion 1-4
+Satt567	Seed Glu 1-6
+Satt567	Seed height 1-7
+Satt567	Seed height 1-7
+Satt567	Seed length 1-6
+Satt567	Seed length 1-6
+Satt567	Seed Leu 1-6
+Satt567	Seed protein 12-4
+Satt567	Seed protein 13-3
+Satt567	Seed set 1-7
+Satt567	Seed volume 1-6
+Satt567	Seed volume 1-6
+Satt567	Seed width 1-5
+Satt567	Seed width 1-5
+Satt567	Seed yield 16-5
+Satt567	Seed yield 17-4
+Satt567	Seed yield 17-5
+Satt568	First flower 25-2
+satt568	Hypocotyl length 3-1
+satt568	Hypocotyl weight 1-1
+Satt568	Seed protein 28-3
+Satt568	Seed weight 43-3
+Satt569	Pod maturity 22-5
+Satt569	Pod maturity 22-8
+Satt569	Seed daidzein 11-4
+Satt569	Seed daidzein 13-5
+Satt569	Seed genistein 11-8
+Satt569	Seed genistein 13-6
+Satt569	Seed protein 26-13
+Satt569	Seed total isoflavone 9-11
+Satt569	Seed total isoflavone 9-3
+Satt570	Branching 4-4
+Satt570	Internode length 1-11
+Satt570	Internode length 1-11
+Satt570	Internode length 1-8
+Satt570	Internode length 1-8
+Satt570	Root density, lateral 1-1
+satt570	Root weight, dry 2-3
+Satt570	Root width, primary 1-1
+Satt570	SCN 48-2
+Satt570	SDS 7-3
+Satt570	Seed Leu 1-4
+Satt570	Seed N at R7 1-6
+Satt570	Seed Pro 1-3
+Satt570	Seed protein 20-1
+Satt570	Seed Trp 1-5
+Satt570	Seed weight per plant 6-3
+Satt570	Seed weight per plant 6-4
+Satt571	Leaflet length 7-9
+Satt571	Leaflet shape 7-7
+Satt571	Node number 6-1
+Satt571	Pod maturity 24-5
+Satt571	Seed coat cracking 3-2
+Satt571	Seed coat hardness 2-4
+Satt571	Seed oil 27-3
+Satt571	Seed oil 42-36
+Satt571	Seed palmitic 10-2
+Satt571	Seed protein 26-3
+Satt571	Seed protein 41-4
+Satt571	Seed stearic 8-11
+Satt571	Seed weight 34-5
+Satt572	Canopy wilt 2-3
+Satt572	Drought tolerance 6-2
+Satt573	cqSCN-006
+Satt573	mqSeed Oil-013
+Satt573	Nodule number 1-2
+Satt573	SCN 29-6
+Satt573	SCN 29-9
+Satt573	SCN 38-1
+Satt573	Seed oil 24-24
+Satt573	Seed tocopherol, gamma 3-3
+Satt573	Seed tocopherol, total 3-2
+Satt573	Seed weight 33-2
+Satt573	Seed width 1-1
+Satt573	Seed width 1-1
+Satt573	Shoot weight, dry 2-1
+Satt573:E:35.79	SCN 45-6
+Satt574	Phytoph 11-20
+Satt574	Phytoph 9-5
+Satt574	SDS 11-2
+Satt574	Seed oil 42-13
+Satt574	Seed yield 26-1
+Satt575	Corn earworm 8-1
+Satt575	Plant height 18-5
+Satt575	Plant height 19-4
+Satt575	Seed protein 31-2
+Satt575	Seed yield 16-4
+Satt575	Seed yield 17-3
+Satt576	Seed tocopherol, gamma 1-6
+Satt576	Seed tocopherol, gamma 2-6
+Satt576	Seed yield 25-3
+Satt577	Canopy wilt 1-2
+Satt577	Chlorosis, leaflet UV-B induced 1-4
+Satt577	Pod dehiscence 3-2
+Satt577	Seed protein 47-4
+Satt577	Seed weight 29-1
+Satt578	Phytoph 14-7
+Satt578	Pod maturity 8-5
+Satt578	Seed agglutinin 3-1
+Satt578	Seed height 1-12
+Satt578	Seed height 1-12
+Satt578	Seed length 1-13
+Satt578	Seed length 1-13
+Satt578	Seed linolenic 6-2
+Satt578	Seed oil 29-1
+Satt578	Seed protein 19-1
+Satt578	Seed protein 7-2
+Satt578	Seed set 1-5
+Satt578	Seed volume 1-9
+Satt578	Seed volume 1-9
+Satt578	Stem length, main 2-1
+Satt578	Stem strength, main 1-4
+Satt579	Phytoph 1-2
+Satt579	Phytoph 2-2
+Satt579	Phytoph 3-2
+Satt579	Phytoph 4-2
+Satt579	Phytoph 6-3
+Satt579	Plant height 40-1
+Satt579	Seed oil 43-11
+Satt579	Seed weight 34-3
+Satt580	Leaflet chlorophyll 1-6
+Satt580	Leaflet shape 6-3
+Satt580	Leaflet shape 9-5
+Satt580	Leaflet width 6-2
+Satt580	Leaflet width 7-2
+Satt580	Root morphology 1-1
+Satt580	Seed Cys 3-4
+Satt580	Seed Met 3-4
+Satt580	Seed oil 39-5
+Satt581	Branching 2-1
+Satt581	Drought tolerance 6-3
+Satt581	First flower 24-4
+Satt581	Flood tolerance 4-11
+Satt581	Flood tolerance 4-11
+Satt581	Plant height 19-2
+Satt581	Plant height 31-2
+Satt581	Pod maturity 15-2
+Satt581	Pod maturity 26-3
+Satt581	Pod number 2-2
+Satt581	Pod number 8-3
+Satt581	Reproductive stage length 7-5
+Satt581	Seed protein 27-5
+Satt581	Seed weight 37-6
+Satt581	Stem weight, dry 1-3
+Satt582	Seed height 1-8
+Satt582	Seed height 1-8
+Satt582	Seed yield to Plant height ratio 2-4
+Satt583	Japanese beetle resistance 1-7
+Satt583	Reproductive stage length 8-1
+Satt583	SCN 17-1
+Satt583	SCN 18-2
+Satt583	SCN 20-1
+Satt583	SCN 23-1
+Satt583	SCN 24-1
+Satt583	SCN 32-2
+Satt583	SCN 32-2
+Satt583	Seed isoflavone 11-16
+Satt583	Seed tocopherol, delta 3-5
+Satt583	Seed weight 35-9
+Satt583	Seed weight 36-11
+Satt584	Pod maturity 20-2
+Satt584	Seed Cys 3-8
+Satt584	Seed linolenic 14-6
+Satt584	Seed Met 3-8
+Satt584	Seed oil 39-15
+Satt584	Seed protein 37-11
+Satt584	Seed stearic 8-5
+Satt585	Row spacing response 1-2
+Satt585	Seed linoleic 10-4
+Satt585	Seed oleic 9-3
+Satt585	Seed stearic 8-9
+Satt586	First flower 11-4
+Satt586	Leaflet P 1-2
+Satt586	Node number 1-6
+Satt586	Plant height 20-5
+Satt586	Pod maturity 17-5
+Satt586	Rag 4-2
+Satt586	Seed yield 18-3
+Satt587	Node number 6-1
+Satt587	Nodule number 1-3
+Satt587	Root nodule weight, dry 1-1
+Satt587	Seed Cys 3-7
+Satt587	Seed daidzein 11-5
+Satt587	Seed daidzein 13-8
+Satt587	Seed daidzein 3-2
+Satt587	Seed Met 3-7
+Satt587	Seed protein 37-8
+Satt588	Sclero 2-18
+Satt588	Seed arabinose plus galactose 1-2
+Satt589	Seed genistein 13-4
+Satt590	Chlorosis, leaflet UV-B induced 1-1
+Satt590	Leaflet shape, UV-B induced 10-4
+Satt590	mqPlant height-011
+Satt590	Petiole color, UV-B induced 1-2
+Satt590	Plant damage, UV-B induced 1-4
+Satt590	Seed length 5-3
+Satt590	Seed Met 1-3
+Satt590	Seed Met 2-3
+Satt590	Seed Met plus Cys 1-3
+Satt590	Seed oleic 7-1
+Satt590	Seed stearic 3-3
+Satt590	Seed weight 10-11
+Satt590	Seed yield 19-5
+Satt591	Pod maturity 31-1
+Satt591	Pod maturity 37-1
+Satt591	Seed agglutinin 1-5
+Satt591	Seed yield 28-1
+Satt592	Leaflet shape 6-20
+Satt592	Leaflet shape 7-15
+Satt592	Leaflet width 7-11
+Satt592	Plant height 18-2
+Satt592	Plant height 19-2
+Satt592	Pod maturity 14-2
+Satt592	Pod maturity 15-2
+Satt592	Reproductive stage length 8-2
+Satt592	Reproductive stage length 9-2
+Satt592	SCN 37-1
+Satt592	Seed Cys 4-1
+Satt592	Seed glycitein 13-3
+Satt592	Seed glycitein 3-3
+Satt592	Seed isoflavone 11-7
+Satt592	Seed length 4-3
+Satt592	Seed length 4-4
+Satt592	Seed length to thickness ratio 1-1
+Satt592	Seed length to thickness ratio 1-2
+Satt592	Seed length to width ratio 1-6
+Satt592	Seed length to width ratio 1-7
+Satt592	Seed Met 4-3
+Satt592	Seed Met plus Cys 2-1
+Satt592	Seed tocopherol, total 1-5
+Satt592	Seed tocopherol, total 2-4
+Satt592	Seed width 4-6
+Satt593	Branching 4-1
+Satt593	Lodging 22-2
+Satt593	Lodging 22-2
+Satt593	Seed Ala 1-1
+Satt593	Seed Gly 1-1
+Satt593	Seed Thr 1-1
+Satt594	Internode length 1-5
+Satt594	Internode length 1-5
+Satt594	Internode length 1-9
+Satt594	Internode length 1-9
+Satt594	Internode length 2-9
+Satt594	Leaflet area 2-2
+Satt594	Pod maturity 34-5
+Satt594	Reproductive period 1-3
+Satt594	Seed hardness 2-10
+Satt594	Seed oil 42-33
+Satt594	Seed weight 27-1
+Satt594	Seed weight per plant 6-6
+Satt594	Seed weight per plant 6-7
+Satt594	Somatic emb per explant 2-1
+Satt595	Photoperiod insensitivity 5-3
+Satt595	Plant height 37-8
+Satt595	Plant height 37-9
+Satt596	Leaflet length 8-2
+Satt596	Leaflet length 9-3
+Satt596	Phytoph 7-1
+Satt596	Pod number 1-7
+Satt596	Seed oil 43-20
+Satt596	Seed weight 36-14
+Satt597	Pod maturity 18-1
+satt597	Root length, primary 3-1
+Satt597	Seed hardness 2-4
+Satt598	Flower number 1-7
+Satt598	Phytoph 5-2
+Satt598	SCN 22-3
+Satt598	Seed oil 42-29
+Satt598	Seed tocopherol, gamma 3-3
+Satt598	Seed tocopherol, total 3-2
+Satt599	Branching 4-1
+Satt599	mqSeed Oil-003
+Satt599	Seed oil 30-1
+Satt599	Seed tocopherol, alpha 3-5
+Satt600	Phytoph 2-2
+Satt600	Phytoph 4-2
+Satt600	Phytoph 6-2
+Satt600	Plant height 33-3
+Satt600	Plant height 34-3
+Satt600	Pod maturity 28-1
+Satt600	Seed oil 43-11
+Satt600	Seed viability 1-2
+Satt600	Seed yield 28-10
+Satt604	Whitefly resistance 1-2
+Satt607	Bean pyralid 1-3
+Satt610	Root width, primary 1-1
+Satt610	SCN 42-4
+Satt610	Seed palmitic 10-1
+Satt611	Seed length 5-2
+Satt611	Seed yield 22-3
+Satt612	SCN 37-2
+Satt612	Seed glycitein 7-4
+Satt613	mqSeed Oil-022
+Satt613	Seed oil 24-32
+Satt614	Bean pyralid 1-8
+Satt614	Sclero 7-3
+Satt614	Seed oil 39-10
+Satt614	Seed oil 42-19
+Satt614	Seed protein 47-8
+Satt615	Seed length to width ratio 1-10
+Satt615	Seed protein 36-16
+Satt615	Seed weight 34-17
+Satt617	SDS 16-1
+Satt619	Seed oleic 6-5
+Satt619	Whitefly resistance 1-4
+Satt621	Seed oil 43-19
+Satt622	Pod number 1-7
+Satt622	Seed yield 23-14
+Satt623	Seed conglycinin, beta 2-7
+Satt623	Seed daidzein 11-5
+Satt623	Seed daidzein 13-8
+Satt623	Seed weight 50-16
+Satt629	Seed glycitein 13-9
+Satt629	Seed oil 44-2
+Satt629	Seed total isoflavone 9-4
+Satt631	Seed width to thickness ratio 1-1
+Satt632	cqSeed protein-013
+Satt632	cqSeed protein-016
+Satt632	Japanese beetle resistance 1-1
+Satt632	Japanese beetle resistance 1-6
+Satt632	Phytoph 11-2
+Satt632	SCN 33-2
+Satt632	SCN 33-2
+Satt632	Seed coat color 3-1
+Satt633	Leaflet chlorophyll 1-8
+Satt633	Seed daidzein 13-4
+Satt633	Seed glycitein 13-3
+Satt633	Seed isoflavone 11-7
+Satt633	Seed linolenic 6-6
+Satt634	Pod maturity 19-1
+Satt634	Pubescence density 2-12
+Satt634	Pubescence density 2-17
+Satt634	Seed isoflavone 11-1
+Satt634	Seed linolenic 7-3
+Satt635	Seed weight 16-3
+Satt636	Plant height 37-4
+Satt640	Flower form 1-1
+Satt640	Flower form 1-1
+Satt640	Plant height 37-2
+Satt640	Seed glycinin plus beta-conglycinin 1-5
+Satt640	Seed length 4-1
+Satt640	Seed length to width ratio 1-5
+Satt640	Seed thickness 1-4
+Satt640	Seed weight per plant 6-1
+Satt640	Seed width 4-4
+Satt640	Seed width to thickness ratio 1-3
+Satt640	Seed yield 23-12
+Satt641	Seed oil 39-14
+satt642	Root length, primary 3-5
+Satt643	Seed tocopherol, gamma 2-3
+Satt643	Seed tocopherol, total 2-2
+Satt643	Stem strength, main 1-5
+Satt644	Plant height 33-3
+Satt644	Plant height 34-3
+Satt646	Canopy wilt 2-2
+Satt646	Seed glycinin 2-3
+Satt646	Seed glycinin plus beta-conglycinin 1-3
+Satt646	Seed tocopherol, gamma 3-1
+Satt646	Seed tocopherol, total 3-1
+Satt646	Seed weight 50-9
+Satt648	Drought index 1-8
+Satt648	Seed daidzein 10-5
+Satt648	Seed genistein 10-4
+Satt649	Leaflet chlorophyll 1-7
+Satt649	Rag 3-2
+Satt649	Rag 4-2
+Satt649	Seed length to thickness ratio 1-3
+Satt649	Seed length to width ratio 1-8
+Satt649	Seed width to thickness ratio 1-4
+Satt650	Drought index 1-4
+Satt650	SDS 15-5
+Satt650	SDS 15-9
+Satt650	Seed glycinin to beta-conglycinin ratio 1-7
+Satt650	Seed stearic 8-4
+Satt651	Phytoph 5-2
+Satt651	Plant weight, dry 1-6
+Satt651	Seed coat hardness 2-3
+Satt651	Seed oleic 6-6
+Satt651	Seed palmitic 6-3
+Satt651	Shoot weight, dry 4-5
+Satt652	Plant height 22-1
+Satt652	Seed length to width ratio 1-15
+Satt652	Seed length to width ratio 1-16
+Satt652	Seed oil 43-27
+Satt653	Seed protein 41-11
+Satt653	Seed weight 50-10
+Satt654	Whitefly resistance 1-6
+Satt655	Chlorophyll flourescence TRo/ABS 1-3
+Satt655	Seed oil 42-8
+Satt655	Vegetative period 1-2
+Satt656	Seed hardness 2-5
+Satt656	Seed isoflavone 11-9
+Satt658	First flower 26-13
+Satt658	Flood tolerance 4-10
+Satt658	Flood tolerance 4-10
+Satt658	Flood tolerance 4-14
+Satt658	Flood tolerance 4-14
+Satt658	Sclero 7-2
+Satt658	Seed glycitein 13-8
+Satt658	Seed yield 22-11
+Satt659	Leaflet chlorophyll 1-10
+Satt659	Seed stearic 8-3
+Satt662	Seed oil 43-13
+Satt663	Plant P 3-1
+Satt663	Root area 2-1
+Satt663	Root length 1-2
+Satt663	Seed weight 50-14
+Satt663	Seed weight 50-7
+Satt664	Pod number 8-1
+Satt664	Seed coat hardness 2-5
+Satt664	Seed number 5-1
+Satt664	Seed weight 42-4
+Satt664	Seed weight per plant 4-1
+Satt664	Stem length, main 2-3
+Satt664	Stem weight, dry 1-1
+Satt665	mqPlant height-003
+Satt665	mqPlant height-004
+Satt665	Reproductive period 1-2
+Satt665	SCN 39-2
+Satt669	Branching 3-4
+Satt669	Drought index 1-10
+Satt669	Seed conglycinin, beta 2-4
+Satt669	Seed daidzein 8-6
+Satt669	Seed genistein 8-3
+Satt669	Seed glycinin plus beta-conglycinin 1-10
+Satt669	Seed isoflavone 7-4
+Satt669	Seed linoleic 6-6
+Satt669	Seed oil 43-12
+Satt669	Seed protein 36-17
+Satt670	Seed daidzein 13-11
+Satt670	Seed isoflavone 11-2
+Satt672	mqCanopy wilt-015
+Satt672	Seed length to width ratio 1-12
+Satt675	Pod maturity 19-3
+Satt675	Seed linoleic 10-1
+Satt675	Seed linoleic 5-2
+Satt675	Seed oleic 9-1
+Satt676	P use efficiency 1-4
+Satt676	Plant P 3-6
+Satt676	Plant weight, dry 1-1
+Satt677	Seed calcium 1-3
+Satt677	Seed calcium 1-4
+Satt677	Seed hardness 2-2
+Satt680	Seed linolenic 14-3
+Satt680	Seed oil 42-9
+Satt680	Seed stearic 8-6
+Satt681	Canopy wilt 3-6
+Satt681	Seed glycinin 2-4
+Satt683	Seed oil 43-32
+Satt683	Seed protein 36-36
+Satt683	Seed weight 32-3
+Satt683	Seed width to thickness ratio 1-1
+Satt683	Seed width to thickness ratio 1-2
+Satt684	Canopy wilt 2-3
+Satt684	mqCanopy wilt-007
+Satt684	Seed linolenic 7-5
+Satt684	Seed oil 42-1
+Satt684	Seed palmitic 2-1
+Satt685	Seed oil 29-2
+Satt685	Seed yield 31-4
+satt686	Seed height to width ratio 1-1
+Satt687	Seed genistein 7-2
+Satt687	Seed linolenic 7-4
+Satt688	Leaflet chlorophyll 1-2
+Satt688	Phytoph 8-3
+Satt688	Phytoph 8-3
+Satt688	SCN 29-1
+Satt688	SCN 29-4
+Satt688	SCN 29-8
+Satt688	SCN 33-1
+Satt688	SCN 33-1
+Satt688	Seed length 4-7
+Satt688	Seed length to width ratio 1-14
+Satt688	Seed thickness 1-7
+Satt688	Seed width 4-8
+Satt688:G:12.54	SCN 45-1
+Satt690	Branching 4-3
+Satt690	mqSeed Oil-006
+Satt690	SCN 36-8
+Satt690	Seed oil 24-18
+Satt690	Seed weight per plant 6-2
+Satt691	Pod maturity 34-4
+Satt691	Seed genistein 7-4
+Satt691	Seed glycitein 7-2
+Satt691	Seed isoflavone 6-3
+Satt693	Fusarium lesion length 1-4
+Satt693	Seed glycitein 9-5
+Satt697	Seed daidzein 7-5
+Satt697	Seed genistein 7-6
+Satt697	Seed genistein 9-3
+Satt697	Seed isoflavone 6-6
+Satt698	Al tolerance 3-2
+Satt699	Seed oil 43-15
+Satt699	Seed weight 33-2
+Satt699	Seed width 3-2
+Satt700	Sclero 7-3
+Satt701	Seed linolenic 11-5
+Satt701	Seed stearic 7-1
+Satt703	P use efficiency 1-2
+Satt703	Plant P 3-5
+Satt703	Plant P 3-7
+Satt703	Plant weight, dry 1-5
+Satt703	Root weight, dry 3-4
+Satt703	Shoot weight, dry 4-2
+Satt706	Seed oil 43-15
+Satt707	Chlorophyll flourescence REo/Eto 1-1
+Satt708	Sclero 7-1
+Satt710	Flower number 1-4
+Satt710	Seed glycitein 13-2
+Satt710	Seed protein 47-2
+Satt713	Nodule size 1-1
+Satt713	Root morphology 1-3
+Satt716	Seed genistein 13-11
+Satt717	Canopy wilt 3-5
+Satt720	Sclero 9-3
+Satt723	Seed protein 41-8
+Satt725	Seed daidzein 11-6
+Satt725	Seed daidzein 13-3
+Satt726	Seed linoleic 8-4
+Satt726	Seed linolenic 11-1
+Satt726	Somatic emb per explant 3-2
+Satt727	Seed palmitic 8-4
+Satt_238	Pod maturity 34-3
+Sat_001	SDS 11-2
+Sat_001	Seed oil 24-8
+sat_001	Seed protein 40-2
+Sat_001	Stem weight, dry 2-1
+Sat_003	First flower 6-2
+Sat_003	Leaflet area 4-2
+Sat_003	Leaflet length 3-3
+Sat_003	Pod maturity 10-3
+Sat_003	Seed length 1-7
+Sat_003	Seed length 1-7
+Sat_003	Seed linolenic 14-4
+Sat_003	Seed linolenic 14-7
+Sat_003	Seed stearic 8-7
+Sat_009	mqSeed Oil-005
+Sat_009	Seed oil 24-17
+Sat_020	Seed oil 37-3
+Sat_022	Leaflet length 9-1
+Sat_022	Leaflet shape 8-7
+Sat_022	Seed isoflavone 11-11
+Sat_022	Seed total isoflavone 9-8
+Sat_033	Fe effic 10-2
+Sat_033	Fe effic 12-2
+Sat_033	Fe effic 14-1
+Sat_033	Fe effic 5-2
+Sat_033	Fe effic 6-2
+Sat_033	Seed daidzein 13-1
+Sat_033	Seed glycitein 13-7
+Sat_033	Seed glycitein 9-1
+Sat_033	Seed isoflavone 11-14
+Sat_036	Lodging 8-1
+Sat_036	Phytoph 13-3
+Sat_036	Seed weight 7-4
+Sat_038	Phomopsis seed decay 3-2
+Sat_038	Phomopsis seed decay 4-2
+Sat_038	Plant height 31-2
+Sat_038	Pod maturity 26-3
+Sat_038	Pod maturity 32-3
+Sat_038	Pod maturity 33-3
+Sat_038	Reproductive stage length 8-2
+Sat_038	Reproductive stage length 9-2
+Sat_038	SCN 37-1
+Sat_039	Japanese beetle resistance 1-2
+Sat_039	Seed abortion 1-7
+Sat_039	Seed set 1-2
+Sat_039	Seed weight 50-14
+Sat_040	SCN 37-4
+Sat_040	Seed genistein 11-10
+Sat_040	Seed genistein 13-3
+Sat_040	Seed genistein 3-1
+Sat_040	Seed glycitein 11-1
+Sat_042	cqSeed agglutinin-001
+Sat_042	Row spacing response 1-3
+Sat_042	Seed agglutinin 1-2
+Sat_042	Seed daidzein 8-5
+Sat_042	Seed isoflavone 7-11
+Sat_042	Seed weight per plant 1-3
+Sat_042	Seed yield 25-1
+Sat_043	Al tolerance 3-4
+Sat_043	Seed palmitic 6-6
+Sat_043	Seed yield 22-6
+Sat_043	Seed yield 22-7
+Sat_044	Seed oil 44-1
+Sat_044	Seed total isoflavone 9-6
+Sat_044	Seed yield 22-6
+Sat_044	Seed yield 22-7
+Sat_062	Seed daidzein 11-1
+Sat_062	Seed daidzein 13-2
+Sat_062	Seed height 1-5
+Sat_062	Seed height 1-5
+Sat_062	Seed volume 1-5
+Sat_062	Seed volume 1-5
+Sat_062	Seed width 1-3
+Sat_062	Seed width 1-3
+Sat_064	Flood tolerance 1-1
+Sat_064	Flood tolerance 2-1
+Sat_064	Seed stearic 6-4
+Sat_064	Seed weight per plant 6-8
+Sat_069	First flower 27-1
+Sat_069	Pod maturity 36-1
+Sat_069	SDS 15-4
+Sat_069	Seed coat hardness 2-2
+Sat_069	Seed oil 43-9
+Sat_069	Seed protein 36-11
+Sat_069	Seed protein 40-5
+Sat_069	Seed winter hardiness 1-3
+Sat_074	Carbon isotope discrimination 1-4
+Sat_074	Seed protein 36-18
+Sat_074	Seed protein 36-21
+Sat_074	Seed yield 11-3
+Sat_076	Seed weight 49-7
+Sat_076	Seed weight 49-8
+Sat_077	Reproductive stage length 3-4
+Sat_077	Seed genistein 8-2
+Sat_077	Seed length 1-15
+Sat_077	Seed length 1-15
+Sat_083	mqSeed Oil-005
+Sat_083	Seed oil 24-17
+Sat_083	Shoot fresh to dry weight ratio 1-1
+Sat_083	Stem strength, main 1-3
+Sat_084	Seed Cys 3-8
+Sat_084	Seed Met 3-8
+Sat_084	Seed protein 37-11
+Sat_085	Reproductive stage length 5-1
+Sat_086	Seed glycitein 7-6
+Sat_087	Seed oil 43-21
+Sat_087	Seed protein 36-27
+Sat_087	Seed set, 3 per pod 1-1
+Sat_087	Seed set, 4 per pod 1-1
+Sat_088	Seed glycitein 2-5
+Sat_088	Seed oil 24-12
+Sat_089	Canopy wilt 6-3
+Sat_089	Phytoph 6-3
+Sat_090	Plant height 23-5
+Sat_090	Plant P 2-1
+Sat_090	Seed protein 26-11
+Sat_090	Seed stearic 3-1
+Sat_090	Seed tocopherol, delta 3-3
+Sat_090	Seed tocopherol, total 3-4
+Sat_091	Drought tolerance 6-1
+Sat_091	Plant weight 3-1
+Sat_091	Pod wall to Pod weight ratio 1-5
+Sat_091	Pod weight 1-3
+Sat_091	Root morphology 1-2
+Sat_091	Salt tolerance 1-1
+Sat_091	Salt tolerance 3-1
+Sat_091	Salt tolerance 3-2
+Sat_091	Salt tolerance 3-3
+Sat_091	Salt tolerance 3-4
+Sat_091	Seed phytate 2-1
+Sat_091	Seed protein 36-37
+Sat_091	Seed weight 25-3
+Sat_091	Seed weight per plant 1-4
+Sat_092	Canopy wilt 6-4
+Sat_092	Chlorosis, leaflet Mn induced 1-2
+Sat_092	Chlorosis, leaflet Mn induced 1-2
+Sat_092	Seed glycitein 8-8
+Sat_092	Seed palmitic 4-3
+Sat_093	Pod dehiscence 2-1
+Sat_094	Plant height 26-14
+Sat_094	Plant height 26-14
+Sat_094	Seed protein 34-9
+Sat_095	mqPlant height-003
+Sat_095	Seed oil 24-14
+Sat_095	Seed weight 10-3
+Sat_096	Canopy wilt 6-1
+Sat_096	Lodging 7-1
+Sat_096	mqCanopy wilt-002
+Sat_096	Plant height 9-3
+Sat_096	Seed daidzein 13-10
+Sat_096	Seed width 1-9
+Sat_096	Seed width 1-9
+Sat_097	Row spacing response 3-4
+Sat_099	Canopy wilt 6-2
+Sat_099	First flower 22-3
+Sat_099	First flower 22-3
+Sat_099	Photoperiod insensitivity 3-2
+Sat_099	Phytoph 13-1
+Sat_099	Pod number 10-1
+Sat_099	Reproductive stage length 4-5
+Sat_099	SDS 9-1
+Sat_099	Seed length 1-11
+Sat_099	Seed length 1-11
+Sat_099	Seed phytate 2-2
+Sat_099	Seed set 1-4
+Sat_099	Seed set, 2 or 3 per pod 1-1
+Sat_099	Seed weight 7-7
+Sat_103	Plant height to Lodging ratio 2-2
+Sat_103	Seed daidzein 11-2
+Sat_103	Seed weight 49-14
+Sat_104	Fe effic 13-3
+Sat_104	Fe effic 13-3
+Sat_104	Internode length 2-7
+Sat_104	SDS 15-6
+Sat_105	mqSeed Oil-020
+Sat_105	Seed isoflavone 11-18
+Sat_105	Seed oil 24-30
+Sat_105	Seed weight 50-13
+Sat_106	Seed daidzein 6-2
+Sat_107	Pubescence density 2-13
+Sat_107	Pubescence density 2-6
+Sat_108	Leaflet chlorophyll 2-1
+Sat_108	Pod maturity 13-8
+Sat_108	Sclero 6-13
+Sat_108	Seed linoleic 6-7
+Sat_108	Seed oleic 6-10
+Sat_108	Seed set 3-1
+Sat_108	Seed weight per plant 3-2
+Sat_109	Sclero 2-24
+Sat_109	Sclero 3-19
+Sat_109	Sclero 4-11
+Sat_109	Sclero 5-16
+Sat_109	Sclero 6-13
+Sat_109	Seed oil 29-3
+Sat_109	Seed weight 36-8
+Sat_112	Corn earworm 7-1
+Sat_112	Leaflet length 3-1
+Sat_112	Seed genistein 7-4
+Sat_112	Seed glycitein 7-2
+Sat_112	Seed isoflavone 6-3
+Sat_112	Seed length 1-1
+Sat_112	Seed length 1-1
+Sat_112	Seed volume 1-1
+Sat_112	Seed volume 1-1
+Sat_113	First flower 4-3
+Sat_113	Internode length 2-6
+Sat_113	Plant height to Lodging ratio 2-4
+Sat_113	Pod maturity 24-10
+Sat_113	Seed daidzein 7-6
+Sat_113	Seed genistein 11-6
+Sat_113	Seed genistein 13-9
+Sat_113	Seed genistein 7-7
+Sat_113	Seed isoflavone 11-13
+Sat_113	Seed oil 24-7
+Sat_113	Seed set 1-8
+Sat_113	Seed set, 2 or 3 per pod 1-1
+Sat_113	Seed set, 4 per pod 1-4
+Sat_113	Seed total isoflavone 9-7
+Sat_113	Seed weight 17-1
+Sat_114	Seed oil 24-8
+Sat_115	Seed protein 34-4
+Sat_117	Plant height 33-8
+Sat_117	Plant height 34-8
+Sat_117	Pod maturity 27-5
+Sat_117	Pod maturity 29-5
+Sat_117	Seed glycitein 7-4
+Sat_117	Seed set, 1 per pod 1-1
+Sat_117	Seed yield 27-3
+Sat_117	Seed yield 30-3
+Sat_118	P use efficiency 1-4
+Sat_118	Plant P 3-6
+Sat_118	Plant weight, dry 1-1
+Sat_119	Seed cadmium 1-1
+Sat_119	Seed genistein 8-8
+Sat_119	Seed protein 40-3
+Sat_120	Lodging 27-6
+Sat_120	Seed oil 38-4
+Sat_120	Seed weight 40-1
+Sat_120	Seed weight 49-13
+Sat_120	Seed weight 49-14
+Sat_120	Seed yield 28-11
+Sat_121	Plant height 37-5
+Sat_121	Plant height 37-6
+Sat_121	Pod maturity 34-6
+Sat_121	SDS 16-2
+Sat_121	Seed weight per plant 6-9
+Sat_122	Corn earworm 9-3
+Sat_122	Seed protein 47-3
+Sat_123	Lodging 20-3
+Sat_123	Nodule weight per plant, dry 1-9
+Sat_123	Nodule weight, dry 1-1
+Sat_123	Pod maturity 22-2
+Sat_123	Reproductive period 1-2
+Sat_123	SCN 17-1
+Sat_123	SCN 18-2
+Sat_123	SCN 20-1
+Sat_123	Seed protein 26-6
+Sat_123	Seed tocopherol, delta 3-5
+Sat_123	Seed weight 34-14
+Sat_123	Seed weight 35-9
+Sat_124	Asian Soybean Rust 2-4
+Sat_124	Flower number 1-7
+Sat_124	Seed genistein 11-3
+Sat_124	Seed glycitein 11-3
+Sat_124	Seed glycitein 13-4
+Sat_124	Seed isoflavone 11-10
+Sat_124	Seed total isoflavone 9-2
+Sat_125	Seed genistein 13-1
+Sat_125	Seed tocopherol, total 1-4
+Sat_126	Lodging 24-2
+Sat_126	Lodging 27-4
+Sat_126	Plant height 30-3
+Sat_126	Plant height 35-3
+Sat_126	Pod maturity 28-5
+Sat_126	Pod number 7-3
+Sat_126	Pods per node 3-4
+Sat_126	Seed yield 25-7
+Sat_126	Seed yield 28-8
+Sat_127	Seed linolenic 9-3
+Sat_128	Al tolerance 3-1
+Sat_128	Al tolerance 3-5
+Sat_128	Al tolerance 3-7
+Sat_128	Pod maturity 18-2
+Sat_128	Root area 1-1
+Sat_128	Root length, primary 1-1
+Sat_128	Seed isoflavone 11-16
+Sat_128	Seed weight 20-1
+Sat_128	Seed weight 20-4
+Sat_128	Shoot weight 1-2
+Sat_129	Reproductive period 1-5
+Sat_129	Seed oil 30-3
+Sat_131	Branching 3-5
+Sat_132	Seed linoleic 10-4
+Sat_132	Seed oleic 9-3
+Sat_132	Seed palmitic 4-5
+Sat_132	Seed stearic 8-9
+Sat_132	Seed yield 22-19
+Sat_133	Phytoph 14-2
+Sat_133	Plant height 40-2
+Sat_133	Pod maturity 24-2
+Sat_133	Seed abortion 1-5
+Sat_133	Seed abortion 1-7
+Sat_133	Seed linoleic 6-9
+Sat_133	Seed oleic 6-12
+Sat_133	Seed set 1-2
+Sat_134	Flood tolerance 6-2
+Sat_134	Sclero 5-11
+Sat_134	Seed oil 43-23
+Sat_135	First flower 13-2
+sat_135	Seed length 5-2
+Sat_135	Seed protein 27-1
+Sat_135	Seed protein 40-5
+Sat_135	Seed set, 2 per pod 1-1
+Sat_135	Seed tocopherol, alpha 3-6
+Sat_136	Seed genistein 13-11
+Sat_136	Seed glycitein 13-5
+Sat_136	Seed weight 32-2
+Sat_137	Seed fragrance 1-1
+Sat_137	Seed oil 36-1
+Sat_137	Seed palmitic 7-1
+Sat_137	Seed stearic 6-1
+Sat_138	Sclero 8-1
+Sat_139	SDS 15-4
+Sat_139	Seed genistein 6-4
+Sat_139	Seed isoflavone 5-2
+Sat_140	Branching 4-3
+Sat_140	Branching 4-4
+Sat_140	SCN 36-6
+Sat_140	SCN 39-10
+Sat_140	Seed Cys 3-2
+Sat_140	Seed genistein 6-3
+Sat_140	Seed glycitein 9-4
+Sat_140	Seed isoflavone 5-1
+Sat_140	Seed Met 3-2
+Sat_140	Seed oil 39-3
+Sat_140	Seed weight per plant 6-2
+Sat_140	Seed weight per plant 6-3
+Sat_141	SCN 32-1
+Sat_141	SCN 32-1
+Sat_141	SCN 42-4
+Sat_142	Total growth duration 1-4
+Sat_142	Vegetative period 1-1
+Sat_143	mqSeed Oil-016
+Sat_143	Seed glycitein 8-5
+Sat_143	Seed oil 24-26
+Sat_143	Seed weight per plant 6-8
+Sat_147	Seed daidzein 6-4
+Sat_148	Seed yield 22-15
+Sat_148	Seed yield 22-16
+Sat_149	mqPlant height-002
+Sat_150	Reproductive stage length 5-6
+Sat_153	Node number 5-1
+Sat_153	Seed length 3-1
+Sat_153	Seed weight 33-1
+Sat_153	Seed width 3-1
+Sat_154	Flooding yield index 1-1
+Sat_155	Flower number 1-11
+Sat_155	Pod number 1-10
+Sat_156	Branching 3-3
+Sat_156	mqPlant height-001
+Sat_156	Seed protein 34-7
+Sat_157	SCN 36-1
+Sat_157	SCN 36-2
+Sat_157	SCN 40-1
+Sat_157	SCN 42-1
+Sat_159	mqPlant height-005
+Sat_160	Leaflet chlorophyll 1-4
+Sat_160	Seed conglycinin, beta 2-1
+Sat_160	Seed glycinin 2-2
+Sat_160	Seed glycinin plus beta-conglycinin 1-1
+Sat_162	Chlorophyll flourescence ABS/RC 1-1
+Sat_162	Chlorophyll flourescence ETo/TRo 1-1
+Sat_162	Chlorophyll flourescence PIabs 1-1
+Sat_162	Chlorophyll flourescence TRo/ABS 1-1
+Sat_162	Internode length 1-14
+Sat_162	Internode length 1-14
+Sat_162	SCN 42-1
+Sat_162	SDS 15-2
+Sat_162	SDS 15-3
+Sat_162	Seed coat color 3-1
+sat_162	Seed length 5-1
+Sat_162	Seed oil 30-2
+Sat_163	SCN 42-2
+Sat_164	Reproductive period 1-3
+Sat_164	Seed linoleic 8-1
+Sat_164	Seed linolenic 11-6
+Sat_164	Seed oleic 8-2
+Sat_164	Seed palmitic 8-3
+Sat_164	Seed yield 22-18
+Sat_165	Seed height to width ratio 1-2
+Sat_168	mqPlant height-007
+Sat_168	SCN 36-3
+Sat_168	SCN 36-4
+Sat_168	SCN 36-5
+Sat_168	SCN 47-1
+Sat_168	SCN 48-3
+Sat_170	Seed hardness 2-11
+Sat_170	Seed stearic 8-4
+Sat_170	Seed tocopherol, delta 2-3
+Sat_171	Drought index 1-7
+Sat_171	Plant height 37-1
+Sat_171	SDS 15-8
+Sat_174	Seed calcium 1-2
+Sat_175	Drought tolerance 6-4
+Sat_175	Flood tolerance 7-1
+Sat_175	Reproductive to vegetative period ratio 1-3
+Sat_177	Flower number 1-6
+Sat_177	Root area 2-2
+Sat_177	Root diameter change 1-2
+Sat_177	Root length 1-4
+Sat_177	Seed tocopherol, alpha 1-1
+Sat_177	Seed tocopherol, alpha 2-1
+Sat_181	Seed weight 34-13
+Sat_181	Stem strength, main 1-2
+Sat_183	Seed weight 50-12
+Sat_185	P use efficiency 1-3
+Sat_185	Plant P 3-3
+Sat_185	Plant weight, dry 1-3
+Sat_185	Shoot weight, dry 4-4
+Sat_187	Seed conglycinin, beta 2-5
+Sat_189	Canopy wilt 2-5
+Sat_189	Seed oil 43-2
+Sat_189	Seed protein 36-3
+Sat_189	Seed stearic 5-1
+Sat_194	Plant P 3-1
+Sat_195	Seed protein 34-10
+Sat_196	Chlorophyll flourescence ABS/RC 1-2
+Sat_196	Chlorophyll flourescence ETo/TRo 1-3
+Sat_196	Chlorophyll flourescence PIabs 1-3
+Sat_196	Seed glycinin plus beta-conglycinin 1-9
+Sat_196	Seed yield 22-19
+Sat_197	mqPlant height-006
+Sat_197	Seed genistein 7-5
+Sat_197	Stem strength, main 1-8
+Sat_198	cqSeed oil-014
+Sat_199	Root weight, dry 3-1
+Sat_201	Seed tocopherol, delta 2-1
+Sat_203	P use efficiency 1-3
+Sat_206	Seed weight 50-15
+Sat_207	Flower number 1-3
+Sat_207	SCN 36-7
+Sat_210	Reproductive period photo-thermal sensitivity 1-1
+Sat_210	SCN 37-3
+Sat_213	Seed protein 34-2
+Sat_215	Pod number 1-4
+Sat_215	Seed coat color 2-1
+Sat_215	Seed daidzein 8-4
+Sat_215	Seed glycitein 8-9
+Sat_215	Seed isoflavone 7-1
+Sat_215	Seed protein 34-5
+Sat_217	Plant height 37-1
+Sat_217	Seed genistein 9-1
+Sat_217	Seed linoleic 6-5
+Sat_217	Seed oil 35-1
+Sat_217	Seed oil 35-2
+Sat_218	Bean pyralid 1-5
+Sat_218	Common cutworm 2-2
+Sat_218	Flood tolerance 7-1
+Sat_219	Flower form 1-3
+Sat_219	Flower form 1-3
+Sat_219	mqSeed Oil-020
+Sat_219	Seed oil 24-30
+Sat_221	SDS 16-7
+Sat_221	Seed genistein 11-7
+Sat_221	Seed isoflavone 11-6
+Sat_221	Seed total isoflavone 9-10
+Sat_222	cqSDS-001
+Sat_222	Seed conglycinin, beta 2-3
+Sat_222	Seed oil 39-7
+Sat_223	Seed glycinin to beta-conglycinin ratio 1-5
+Sat_223	Seed yield 22-17
+Sat_224	Photoperiod insensitivity 5-4
+Sat_224	SCN 29-2
+Sat_224	SCN 29-6
+Sat_224	Seed hardness 2-9
+Sat_224	Seed length 4-5
+Sat_224	Seed length to width ratio 1-9
+Sat_224:J:75.12	SCN 45-2
+Sat_226	Pod maturity 24-7
+Sat_226	Seed oleic 6-7
+Sat_228	Seed palmitic 6-5
+Sat_229	Seed weight 42-3
+Sat_231	Seed linolenic 6-7
+Sat_231	Seed oil 29-3
+Sat_232	Chlorophyll flourescence REo/Eto 1-1
+Sat_232	Fusarium lesion length 1-1
+Sat_234	Seed genistein 11-4
+Sat_234	Seed genistein 13-7
+Sat_235	Seed weight 50-2
+Sat_238	Pod maturity 34-2
+Sat_238	Sclero 7-1
+Sat_238	Seed glycitein 8-11
+Sat_239	Pod number 1-2
+Sat_239	Seed daidzein 13-1
+Sat_239	Seed genistein 13-1
+Sat_239	Seed glycitein 13-7
+Sat_239	Seed isoflavone 11-14
+Sat_240	Seed oil 36-4
+Sat_240	Seed palmitic 7-2
+Sat_240	Seed palmitic 7-4
+Sat_244	mqPlant height-012
+Sat_244	Rag 3-1
+Sat_244	Seed glycitein 11-7
+Sat_244	Seed glycitein 13-1
+Sat_244	Seed isoflavone 11-4
+Sat_244	Seed total isoflavone 9-9
+Sat_245	Reproductive stage length 7-4
+Sat_245	Seed conglycinin, beta 2-6
+Sat_245	Seed yield 22-9
+Sat_246	Pod maturity 34-1
+Sat_246	Seed weight per plant 6-1
+Sat_247	Seed daidzein 5-3
+Sat_247	Seed genistein 5-4
+Sat_247	Seed glycitein 5-3
+Sat_247	Seed isoflavone 3-4
+Sat_251	P use efficiency 1-5
+Sat_251	Root weight, dry 3-3
+Sat_251	Seed glycinin to beta-conglycinin ratio 1-1
+Sat_252	Photoperiod insensitivity 5-1
+Sat_252	Seed daidzein 11-1
+Sat_252	Seed daidzein 13-2
+Sat_254	Canopy wilt 2-1
+Sat_254	Leaflet chlorophyll 1-5
+Sat_254	Seed width 4-1
+Sat_256	Pod maturity 24-7
+Sat_258	Leaflet chlorophyll 1-16
+Sat_258	Seed thickness 1-5
+Sat_258	Seed thickness 1-6
+Sat_258	Seed yield 22-16
+Sat_258	Vegetative period 1-2
+Sat_260	Seed protein 34-9
+Sat_262	Seed daidzein 11-2
+Sat_262	Seed protein 36-19
+Sat_262	Seed protein 36-22
+Sat_262	Seed tocopherol, delta 1-3
+Sat_262	Seed tocopherol, delta 2-2
+Sat_264	Canopy wilt 1-2
+Sat_264	Flower number 1-6
+Sat_267	Nodule size 1-2
+Sat_267	Nodule size 1-3
+Sat_267	SDS 15-8
+Sat_267	Seed yield 22-10
+Sat_268	Phytoph 14-10
+Sat_268	Pod maturity 24-8
+Sat_268	SDS 15-6
+Sat_268	Seed oil 43-18
+Sat_270	Pod maturity 24-6
+Sat_271	Indo soy dwarf virus 1-1
+Sat_271	Seed daidzein 7-1
+Sat_271	Seed daidzein 8-3
+Sat_271	Seed daidzein 9-1
+Sat_271	Seed genistein 7-1
+Sat_271	Seed glycitein 6-1
+Sat_271	Seed isoflavone 6-1
+Sat_271	Seed isoflavone 7-5
+Sat_271	Whitefly resistance 1-5
+Sat_273	Plant weight, dry 1-6
+Sat_273	Seed coat hardness 2-3
+Sat_273	Seed oleic 6-6
+Sat_273	Seed protein 39-2
+Sat_273	Shoot weight, dry 4-5
+Sat_274	Chlorophyll flourescence REo/Eto 1-2
+Sat_274	Phytoph 5-3
+Sat_274	SCN 37-1
+Sat_274	Seed length 4-4
+Sat_274	Seed length to thickness ratio 1-2
+Sat_274	Seed length to width ratio 1-7
+Sat_274	Seed linolenic 9-4
+Sat_274	Seed width 4-6
+Sat_275	SDS 13-10
+Sat_275	Seed oil 43-30
+Sat_275	Seed protein 36-34
+Sat_279	Flood tolerance 7-4
+Sat_279	mqCanopy wilt-016
+Sat_279	Pod number 9-1
+Sat_279	Seed coat cracking 1-1
+Sat_279	Seed daidzein 7-3
+Sat_279	Seed genistein 7-3
+Sat_279	Seed glycitein 6-3
+Sat_279	Seed isoflavone 6-2
+Sat_279	Seed weight 42-1
+Sat_280	SCN 33-7
+Sat_280	SCN 33-7
+Sat_280	Seed width to thickness ratio 1-2
+Sat_282	Seed oil 43-33
+Sat_282	Seed protein 36-40
+Sat_284	Seed glycitein 7-5
+Sat_284	Seed oil 37-1
+Sat_286	Branching 3-2
+Sat_286	First flower 24-3
+Sat_286	Pod number 8-1
+Sat_286	SCN 29-7
+Sat_286	Seed daidzein 7-6
+Sat_286	Seed genistein 7-7
+Sat_286	Seed isoflavone 6-5
+Sat_286	Seed number 5-1
+Sat_286	Seed number 6-1
+Sat_286	Seed oil 43-26
+Sat_286	Seed oil 43-28
+Sat_286	Seed protein 36-31
+Sat_286	Seed protein 36-32
+Sat_286	Seed weight 42-4
+Sat_286	Seed weight 43-4
+Sat_286	Seed weight per plant 4-1
+Sat_286	Seed weight per plant 5-2
+Sat_286	Stem length, main 2-3
+Sat_286	Stem length, main 3-2
+Sat_286	Stem weight, dry 1-1
+Sat_286	Stem weight, dry 2-2
+Sat_286:L:87.41	SCN 45-5
+Sat_287	Branching 4-2
+Sat_287	Canopy wilt 1-2
+Sat_287	Seed coat color 2-2
+Sat_288	Seed hardness 2-3
+Sat_289	Seed genistein 6-4
+Sat_289	Seed isoflavone 5-2
+Sat_289	Seed protein 37-4
+Sat_290	SDS 13-9
+Sat_291	Seed linolenic 6-6
+Sat_292	Drought index 1-10
+Sat_292	mqSeed Oil-011
+Sat_292	Seed length to width ratio 1-10
+Sat_292	Seed oil 24-22
+Sat_293	Seed glycinin to beta-conglycinin ratio 1-2
+Sat_293	Seed oil 36-8
+Sat_293	Seed oil 43-22
+Sat_293	Seed palmitic 7-8
+Sat_293	Seed protein 36-28
+Sat_293	Seed protein 36-29
+Sat_294	Row spacing response 1-1
+Sat_294	Seed linolenic 7-2
+Sat_294	Seed oleic 6-2
+Sat_295	Seed protein 36-35
+Sat_296	Plant P 1-1
+Sat_296	Plant weight 1-1
+Sat_297	Seed oil 36-5
+Sat_297	Seed palmitic 7-5
+Sat_297	Seed weight 19-2
+Sat_298	Plant height 37-8
+Sat_298	Plant height 37-9
+Sat_298	Seed oil 36-4
+Sat_298	Seed palmitic 7-2
+Sat_298	Seed palmitic 7-4
+Sat_299	Root morphology 1-5
+Sat_299	SCN 39-12
+Sat_299	Seed linoleic 6-4
+Sat_299	Seed oil 43-18
+Sat_299	Seed oleic 6-4
+Sat_300	Seed Cys 3-5
+Sat_300	Seed Met 3-5
+Sat_300	Seed oleic 6-9
+Sat_300	Seed protein 37-5
+Sat_301	Pod maturity 24-3
+Sat_301	Seed linolenic 7-1
+Sat_301	Seed oil 43-24
+Sat_303	Seed glycinin 2-6
+Sat_303	Seed glycinin plus beta-conglycinin 1-8
+Sat_303	Seed glycinin plus beta-conglycinin 1-9
+Sat_303	Seed glycinin to beta-conglycinin ratio 1-3
+Sat_304	mqSeed Oil-024
+Sat_304	Seed glycitein 11-4
+Sat_304	Seed linoleic 6-1
+Sat_304	Seed oleic 6-1
+Sat_304	Whitefly resistance 1-3
+Sat_305	SCN 39-6
+Sat_308	Plant height 37-3
+Sat_308	Seed palmitic 6-4
+Sat_308	Seed weight per plant 6-5
+Sat_308	Seed weight per plant 6-6
+Sat_308	Somatic emb per explant 2-4
+Sat_309	Flood tolerance 6-3
+Sat_309	Pod maturity 24-2
+Sat_309	Seed linoleic 6-3
+Sat_309	Seed linoleic 6-9
+Sat_309	Seed oleic 6-12
+Sat_309	Seed oleic 6-3
+Sat_310	Pubescence density 2-11
+Sat_312	Drought index 1-2
+Sat_312	Sclero 7-1
+Sat_312	Seed daidzein 10-1
+Sat_312	Seed genistein 10-1
+Sat_312	Seed glycinin to beta-conglycinin ratio 1-1
+Sat_312	Seed isoflavone 8-1
+Sat_312	Seed yield 22-13
+Sat_312	Seed yield 22-14
+Sat_312	Seed yield 22-2
+Sat_315	Branching 3-5
+Sat_315	SDS 13-12
+Sat_315	SDS 13-9
+Sat_315	Seed length 3-2
+Sat_315	Seed weight 50-4
+Sat_317	SDS 15-1
+Sat_318	Seed glycinin 2-6
+Sat_318	Seed glycinin plus beta-conglycinin 1-8
+Sat_318	Seed glycinin to beta-conglycinin ratio 1-3
+Sat_319	Canopy wilt 1-1
+Sat_319	SDS 13-13
+Sat_320	Seed genistein 11-6
+Sat_320	Seed genistein 13-9
+Sat_320	Seed isoflavone 11-13
+Sat_320	Seed oil 43-25
+Sat_320	Seed total isoflavone 9-7
+Sat_322	Seed glycinin plus beta-conglycinin 1-4
+Sat_324	Seed linoleic 6-4
+Sat_324	Seed oil 43-17
+Sat_324	Seed oleic 6-4
+Sat_324	Seed protein 36-26
+Sat_326	Seed daidzein 13-6
+Sat_326	Seed oil 42-15
+Sat_326	Whitefly resistance 1-7
+Sat_326	Whitefly resistance 1-8
+Sat_330	Seed daidzein 6-4
+Sat_330	Seed glycinin plus beta-conglycinin 1-7
+Sat_330	Seed yield 22-8
+Sat_331	SCN 32-3
+Sat_331	SCN 32-3
+Sat_331	Seed linolenic 6-1
+Sat_331	Seed oleic 5-1
+Sat_334	Seed genistein 11-5
+Sat_334	Seed isoflavone 11-8
+Sat_336	cqSeed oil-016
+Sat_336	cqSeed weight-008
+Sat_336	cqSeed weight-011
+Sat_336	Seed genistein 11-1
+Sat_336	Seed isoflavone 11-3
+Sat_337	SCN 36-6
+Sat_337	Seed daidzein 6-1
+Sat_337	Seed genistein 6-3
+Sat_337	Seed isoflavone 5-1
+Sat_337	Seed protein 36-5
+Sat_339	Reproductive stage length 9-1
+Sat_339	SDS 15-7
+Sat_339	Seed daidzein 6-3
+Sat_339	Seed isoflavone 5-3
+Sat_341	Seed protein 36-38
+Sat_341	Seed yield 28-12
+Sat_342	Branching 4-2
+Sat_342	Root area 2-2
+Sat_342	Root diameter 1-1
+Sat_342	Root diameter 1-2
+Sat_342	Root length 1-1
+Sat_342	Root length 1-4
+Sat_343	Drought index 1-1
+Sat_343	Root area 1-2
+Sat_343	Root length, primary 1-3
+Sat_343	Seed glycinin plus beta-conglycinin 1-2
+Sat_344	Seed length to width ratio 1-3
+Sat_344	Seed weight 50-17
+Sat_345	Drought index 1-1
+Sat_345	Seed conglycinin, beta 2-2
+Sat_345	Seed glycinin plus beta-conglycinin 1-2
+Sat_348	Root width, primary 2-1
+Sat_349	Vegetative period 1-4
+Sat_350	Pod dehiscence 4-2
+Sat_350	SCN 38-3
+Sat_350	SCN 38-7
+Sat_350	Seed oil 39-12
+Sat_351	Bean pyralid 1-6
+Sat_351	Canopy wilt 3-11
+Sat_351	Canopy wilt 6-1
+Sat_351	Flood tolerance 7-4
+Sat_351	SDS 13-4
+Sat_351	Seed daidzein 13-10
+Sat_351	Seed height 2-1
+Sat_351	Seed weight 51-1
+Sat_352	Seed glycinin to beta-conglycinin ratio 1-2
+Sat_352	Seed oil 36-8
+Sat_353	SDS 13-1
+Sat_354	P use efficiency 1-1
+Sat_354	Seed length 4-6
+Sat_354	Seed length to width ratio 1-11
+Sat_355	Pod maturity 24-11
+Sat_355	Seed linolenic 7-6
+Sat_356	Drought index 1-8
+Sat_356	Seed length to width ratio 1-4
+Sat_356	Seed thickness 1-3
+Sat_356	Seed width 4-3
+Sat_357	Internode length 1-2
+Sat_357	Internode length 1-2
+Sat_362	Plant P 3-2
+Sat_363	Asian Soybean Rust 2-2
+Sat_363	Chlorophyll flourescence TRo/ABS 1-2
+Sat_363	Pubescence density 2-15
+Sat_364	Root diameter change 1-1
+Sat_364	SCN 32-2
+Sat_364	SCN 32-2
+Sat_365	Leaflet chlorophyll 1-11
+Sat_365	Seed protein 36-17
+Sat_366	Pod dehiscence 2-1
+Sat_366	SCN 40-3
+Sat_367	SCN 36-6
+Sat_368	Canopy wilt 2-3
+Sat_368	Plant height 37-2
+Sat_368	Pod number 1-3
+Sat_368	Seed linolenic 7-5
+Sat_368	Seed weight 50-17
+Sat_370	Seed yield 31-9
+Sat_372	Seed genistein 8-5
+Sat_372	Seed glycitein 8-12
+Sat_372	Seed protein 36-25
+Sat_373	SDS 13-5
+Sat_374	Seed oil 39-1
+Sat_374	Seed stearic 6-2
+Sat_375	Seed glycitein 9-6
+Sat_377	Seed calcium 1-1
+Sat_380	Seed genistein 11-3
+Sat_380	Seed glycitein 11-3
+Sat_380	Seed glycitein 13-4
+Sat_380	Seed isoflavone 11-10
+Sat_380	Seed total isoflavone 9-2
+Sat_380	Seed weight 50-6
+Sat_380	Seed weight 50-8
+Sat_381	Pod number 1-6
+Sat_383	Seed tocopherol, delta 1-1
+Sat_383	Seed tocopherol, gamma 1-1
+Sat_383	Seed tocopherol, gamma 2-1
+Sat_391	Leaflet chlorophyll 1-13
+Sat_391	Seed calcium 1-3
+Sat_391	Seed calcium 1-4
+Sat_394	Seed length 4-5
+Sat_394	Seed length to width ratio 1-9
+Sat_395	Seed linolenic 7-7
+Sat_400	SCN 29-5
+Sat_400:A2:49.38	SCN 45-4
+Sat_401	SCN 39-4
+Sat_402	Leaflet chlorophyll 1-9
+Sat_402	Reproductive period 1-1
+Sat_403	SCN 37-3
+Sat_404	Seed number 3-2
+Sat_404	Seed number 3-4
+Sat_404	Seed protein 36-6
+Sat_404	Seed weight 20-2
+Sat_406	SCN 33-2
+Sat_406	SCN 33-2
+Sat_409	Pod number 1-4
+Sat_414	Phytoph 13-3
+Sat_414	Seed oil 24-21
+Sat_414	Seed oil 43-8
+Sat_414	Seed protein 36-10
+Sat_414	Seed protein 36-9
+Sat_417	Seed protein 36-20
+Sat_418	Drought index 1-4
+Sat_418	Seed glycinin to beta-conglycinin ratio 1-7
+Sat_418	Seed isoflavone 11-18
+Sat_418	Seed oil 42-39
+Sat_418	Seed thickness 1-8
+Sat_418	Seed width 4-9
+Sat_419	Seed conglycinin, beta 2-7
+Sat_419	Seed glycinin 2-7
+Sat_419	Seed glycinin plus beta-conglycinin 1-11
+Sat_419	Seed glycinin to beta-conglycinin ratio 1-6
+Sat_419	Seed oleic 5-3
+Sat_419	Seed thickness 1-8
+Sat_419	Seed width 4-9
+Sat_419	Seed yield 22-5
+Sat_420	Flower number 1-11
+Sat_420	Pod number 1-10
+Sat_420	Root morphology 1-5
+Sat_421	Flower number 1-12
+Sat_423	Reproductive stage length 7-1
+Sat_423	Seed linolenic 7-3
+Sat_424	Seed genistein 7-2
+Sat_424	Seed oil 43-5
+Sat_459	Seed glycitein 11-2
+Scaa001	Seed glucose 1-1
+Sct147	Pubescence length 1-1
+Sctt008	Carbon isotope discrimination 1-3
+Sctt009	SCN 39-4
+Sctt009	Seed daidzein 7-4
+Sctt009	Seed genistein 6-1
+Sctt009	Seed isoflavone 6-4
+Sctt009	Seed weight 13-7
+Sct_001	Leaflet length 8-3
+Sct_001	Leaflet length 9-4
+Sct_001	Leaflet width 8-5
+Sct_001	Leaflet width 9-3
+sct_001	Seed height to width ratio 1-2
+Sct_001	Seed set 1-10
+Sct_001	Seed weight 30-6
+Sct_010	First flower 15-2
+Sct_010	First flower 15-2
+Sct_010	Leaflet length 6-4
+Sct_010	Leaflet length 7-11
+Sct_010	Leaflet shape 6-15
+Sct_010	Leaflet shape 7-10
+Sct_010	Pod dehiscence 3-5
+Sct_010	Pod maturity 15-4
+Sct_010	Seed coat cracking 3-7
+Sct_010	Seed linoleic 7-5
+Sct_010	Seed oleic 7-5
+Sct_010	Seed sucrose 2-10
+Sct_010	Seed weight 35-7
+Sct_010	Total growth duration 1-3
+Sct_026	Root diameter change 1-1
+Sct_026	Seed glycitein 4-3
+Sct_028	Seed protein 13-2
+Sct_033	Flooding yield index 1-4
+Sct_033	Phytoph 11-21
+Sct_033	Phytoph 12-1
+Sct_033	Phytoph 9-3
+Sct_033	Reproductive stage length 7-2
+Sct_033	SDS 16-8
+Sct_033	Seed height 1-9
+Sct_033	Seed height 1-9
+Sct_033	Seed protein 36-18
+Sct_033	Seed protein 36-23
+Sct_033	Seed protein 36-24
+Sct_033	Seed set 1-3
+Sct_034	Somatic emb per explant 3-1
+Sct_064	Canopy wilt 2-5
+Sct_065	Seed oil 43-20
+Sct_065	Seed oligosaccharide 2-6
+Sct_065	Seed oligosaccharide 2-6
+Sct_065	Seed sucrose 3-6
+Sct_065	Seed sucrose 3-6
+Sct_065	Whitefly resistance 1-6
+Sct_067	SDS 13-13
+Sct_067	SDS 15-2
+Sct_067	SDS 16-3
+Sct_067	Seed isoflavone 11-5
+Sct_067	Seed oil 24-1
+Sct_067	Seed total isoflavone 9-1
+Sct_067	Seed weight 49-1
+Sct_147	Seed glycitein 11-5
+Sct_186	Lodging 25-4
+Sct_186	Lodging 26-4
+Sct_186	Pod maturity 27-1
+Sct_186	Pod maturity 29-1
+Sct_187	Phytoph 13-5
+Sct_188	Seed weight 49-12
+Sct_188	Stem length, main 2-2
+Sct_189	Plant height 26-15
+Sct_189	Plant height 26-15
+Sct_189	SCN 39-12
+Sct_189	SDS 15-5
+Sct_189	Seed genistein 6-2
+Sct_189	Seed tocopherol, alpha 2-4
+Sct_189	Seed weight 50-16
+Sct_191	Pod maturity 32-1
+Sct_191	Pod maturity 33-1
+Sct_191	Root morphology 1-3
+Sct_192	Canopy wilt 2-6
+Sct_199	mqSeed Oil-017
+Sct_199	Plant height 37-7
+Sct_199	Pod maturity 34-7
+Sct_199	SCN 37-2
+Sct_199	Seed oil 24-27
+Sct_199	Seed stearic 6-4
+SOYGPATR	Seed height 1-12
+SOYGPATR	Seed height 1-12
+SOYGPATR	Seed length 1-13
+SOYGPATR	Seed length 1-13
+SOYGPATR	Seed oil 8-2
+SOYGPATR	Seed oil 9-1
+SOYGPATR	Seed protein 9-2
+SOYGPATR	Seed volume 1-9
+SOYGPATR	Seed volume 1-9
+SOYHSP176	Canopy width 1-2
+SOYHSP176	Plant height 11-3
+SOYHSP176	Plant height 7-2
+SOYHSP176	Seed abortion 1-3
+ss107912529	SCN 46-2
+ss107913369	SCN 46-7
+ss107913532	SCN 46-3
+ss107915281	SCN 46-7
+ss107918678	SCN 46-1
+ss107919498	SCN 46-5
+ss107919814	SCN 46-4
+ss107920383	SCN 46-6
+ss107920816	SCN 46-2
+ss107921684	SCN 46-4
+ss107922154	SCN 46-6
+ss107925701	SCN 46-1
+ss107927037	SCN 46-8
+ss107930668	SCN 46-5
+ss107930810	SCN 46-8
+ss107930960	SCN 46-3
+ss244554797	SDS 14-1
+ss244562583	SDS 14-1
+ss244929361	Seed oil 45-1
+ss244932961	Seed oil 45-1
+ss244942610	Seed linoleic 9-1
+ss244942610	Seed palmitic 9-1
+ss244947608	Seed oil 45-11
+ss244947608	Seed oleic 10-3
+ss244980861	Seed oil 45-2
+ss245025977	SDS 14-2
+ss245025977	SDS 14-3
+ss245026227	SDS 14-3
+ss245026358	SDS 14-2
+ss245114421	Seed oil 45-2
+ss245668753	Seed sucrose 4-1
+ss245747167	SDS 14-4
+ss245763185	Seed oil 45-3
+ss245763524	Seed oil 45-3
+ss245786667	SDS 14-4
+ss246087580	SDS 14-6
+ss246091245	SDS 14-5
+ss246092064	SDS 14-5
+ss246092064	SDS 14-6
+ss246796276	Seed sucrose 4-2
+ss246860974	Seed oil 45-4
+ss246865400	SDS 14-7
+ss246870684	SDS 14-7
+ss246875694	Seed oil 45-4
+ss247085505	SDS 14-8
+ss247098566	SDS 14-8
+ss247937603	Seed oil 45-5
+ss247937719	SDS 14-9
+ss247940172	Seed oil 45-5
+ss247942156	SDS 14-9
+ss247942156	Seed oleic 10-1
+ss247950750	Seed linolenic 13-1
+ss247950750	Seed stearic 9-1
+ss247957446	Seed linoleic 9-3
+ss247965852	Seed linolenic 13-1
+ss247970215	Seed linolenic 13-2
+ss248275088	SDS 14-10
+ss248275088	Seed oil 45-6
+ss248275088	Seed protein 45-1
+ss248278947	Seed oil 45-7
+ss248293401	SDS 14-10
+ss248293401	Seed oil 45-6
+ss248293401	Seed protein 45-1
+ss248308274	Seed linolenic 13-3
+ss248308822	Seed linolenic 13-2
+ss248308943	Seed oil 45-8
+ss248309108	Seed oil 45-8
+ss248330608	Seed oil 45-7
+ss248604753	SDS 14-11
+ss248604753	Seed linolenic 13-4
+ss248616287	SDS 14-11
+ss248616287	Seed linolenic 13-3
+ss248977568	SDS 14-12
+ss248977568	Seed linoleic 9-2
+ss248977568	Seed stearic 9-1
+ss248979552	Seed linoleic 9-1
+ss248979552	Seed palmitic 9-2
+ss248980834	Seed linolenic 13-5
+ss248981433	Seed linoleic 9-3
+ss248981433	Seed oil 45-9
+ss248981433	Seed oleic 10-2
+ss248981847	Seed linolenic 13-4
+ss248982430	Seed oil 45-10
+ss248982430	Seed oil 45-11
+ss248982430	Seed oil 45-9
+ss248983974	SDS 14-12
+ss248993887	Seed linoleic 9-2
+ss248993887	Seed oleic 10-1
+ss249010538	Seed linolenic 13-6
+ss249037210	Seed oil 45-10
+ss249037210	Seed oleic 10-3
+ss249039670	Seed linolenic 13-5
+ss249039670	Seed oleic 10-2
+ss249186914	Seed sucrose 4-3
+ss249621644	Seed palmitic 9-2
+ss249629157	Seed palmitic 9-1
+ss250232030	SDS 14-13
+ss250233870	SDS 14-13
+SSR0203_1	SDS 13-10
+SSR0233_1	SDS 13-15
+SSR06-657	Seed linolenic 12-6
+SSR06-682	Seed linolenic 12-6
+SSR14-1341	Crude protein, R6 1-3
+SSR14-1370	Crude protein, R6 1-3
+SSR14-1370	Seed linolenic 12-3
+SSR15-0141	Seed linolenic 12-7
+SSR2277_1	Row spacing response 3-3
+SSR2496_1	Row spacing response 3-6
+Staga002	Seed oil 39-6
+T	Plant height 19-3
+T	Pod maturity 15-3
+T	Seed number 2-1
+T	Seed number 2-2
+T	Seed weight 16-1
+T	Seed weight 19-1
+T	Seed weight 20-1
+T	Seed yield 17-2
+T005_1	SCN 10-3
+T005_1	SCN 11-3
+T028_1	SDS 13-8
+T028_1	Seed height 1-2
+T028_1	Seed height 1-2
+T028_1	Seed weight 6-3
+T028_1	Seed yield to weight ratio 2-1
+T036_2	Fe effic 3-3
+T036_2	Fe effic 7-1
+T036_2	Fe effic 8-2
+T036_2	Fe effic 9-3
+T153_1	Seed coat hardness 1-2
+T153_1	Seed oil 1-1
+T153_1	Seed sucrose 1-3
+T153_1	Seed weight 4-5
+T153_3	Seed abortion 1-6
+T155_1	Seed galactose 1-1
+T155_1	Seed oil 10-1
+T155_1	Seed oil 3-2
+T155_1	Seed protein 2-1
+T155_1	Seed protein 9-1
+T155_1	Seed weight 1-3
+T155_2	SCN 19-1
+T169_1	Seed sucrose 1-11
+Tel750	Row spacing response 3-1
+Ti	Seed protein 14-1
+W1	Fusarium lesion length 1-2
+W1	Hypocotyl length 1-2
+W1	Seed length 1-8
+W1	Seed length 1-8
+ZZ	Branching 1-6
+ZZ	Branching 1-7
+ZZ	First flower 12-4
+ZZ	First flower 12-5
+ZZ	First flower 12-6
+ZZ	First flower 12-7
+ZZ	First flower 12-8
+ZZ	First flower 21-5
+ZZ	Leaflet length 10-5
+ZZ	Leaflet length 10-6
+ZZ	Lodging 18-4
+ZZ	Lodging 18-5
+ZZ	Lodging 18-6
+ZZ	Lodging 18-7
+ZZ	Lodging 18-8
+ZZ	Node number 1-10
+ZZ	Node number 1-11
+ZZ	Node number 1-12
+ZZ	Node number 1-13
+ZZ	Node number 1-9
+ZZ	Node number 2-10
+ZZ	Node number 2-4
+ZZ	Node number 2-5
+ZZ	Node number 2-6
+ZZ	Node number 2-7
+ZZ	Node number 2-8
+ZZ	Node number 2-9
+ZZ	Plant height 20-10
+ZZ	Plant height 20-11
+ZZ	Plant height 20-12
+ZZ	Plant height 20-7
+ZZ	Plant height 20-8
+ZZ	Plant height 20-9
+ZZ	Plant height 21-4
+ZZ	Plant height 21-5
+ZZ	Plant height 21-6
+ZZ	Plant height 21-7
+ZZ	Plant height 21-8
+ZZ	Plant height 23-7
+ZZ	Plant height 23-8
+ZZ	Pod maturity 17-10
+ZZ	Pod maturity 17-11
+ZZ	Pod maturity 17-12
+ZZ	Pod maturity 17-7
+ZZ	Pod maturity 17-8
+ZZ	Pod maturity 17-9
+ZZ	Pod maturity 18-10
+ZZ	Pod maturity 18-11
+ZZ	Pod maturity 18-5
+ZZ	Pod maturity 18-6
+ZZ	Pod maturity 18-7
+ZZ	Pod maturity 18-8
+ZZ	Pod maturity 18-9
+ZZ	Pod maturity 21-2
+ZZ	Pod maturity 21-3
+ZZ	Pod maturity 21-4
+ZZ	Pod maturity 22-10
+ZZ	Pod number 2-3
+ZZ	Pod number 2-4
+ZZ	Pods per node 1-6
+ZZ	Pods per node 1-7
+ZZ	Pods per node 2-5
+ZZ	Pods per node 2-6
+ZZ	Seed linoleic 3-4
+ZZ	Seed linoleic 3-5
+ZZ	Seed oil 25-3
+ZZ	Seed oil 25-4
+ZZ	Seed oil 27-11
+ZZ	Seed oil 27-12
+ZZ	Seed oil 28-4
+ZZ	Seed oleic 3-4
+ZZ	Seed palmitic 4-7
+ZZ	Seed weight 24-4
+ZZ	Seed weight 25-5
+ZZ	Seed weight 25-6
+ZZ	Seed weight 25-7
+ZZ	Seed weight 25-8
+ZZ	Seed weight per plant 1-5
+ZZ	Seed weight per plant 1-6
+ZZ	Seed weight per plant 1-7
+ZZ	Seed yield 18-4
+ZZ	Seed yield 18-5
+ZZ	Seed yield 18-6
+ZZ	Seed yield 18-7
+ZZ	Seed yield 18-8
+ZZ	Seed yield 18-9
+ZZ	Seed yield 19-6
+ZZ	Seed yield 19-7
+ZZ	Seed yield 21-9
+mysql> \q

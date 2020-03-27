@@ -1,0 +1,112 @@
+#phenotype	ontologyId
+Seed protein	SOY:0001676
+Seed oil	SOY:0001668
+Seed yield	SOY:0001622
+Seed weight	SOY:0001629
+Plant height	SOY:0001365
+Leaf carotenoid content	SOY:0002223
+First flower	SOY:0001640
+Interbranch length	SOY:0002235
+Branching	SOY:0001318
+Canopy width	SOY:0001325
+Leaflet chlorophyll	SOY:0001859
+Seed palmitic	SOY:0001673
+Seed long-chain fatty acid	SOY:0002233
+Seed stearic	SOY:0001626
+Seed alpha-linolenic acid	SOY:0002232
+Flower color	SOY:0001352
+Hilum color	SOY:0001367
+Seed amino acids	SOY:0001757
+Leaflet area	SOY:0001385
+Leaflet length	SOY:0001379
+Leaflet shape	SOY:0001389
+Leaflet width	SOY:0001614
+Lodging	SOY:0001393
+Seed set	SOY:0001419
+R8 full maturity	SOY:0001646
+Pod shattering	SOY:0001302
+Pubescence color	SOY:0001719
+Reproductive stage length	SOY:0001824
+Seed coat luster	SOY:0001416
+Seed coat color	SOY:0001414
+Seed height	SOY:0001598
+Seed width to height ratio	SOY:0001980
+Seed length to thickness ratio	SOY:0001978
+Seed thickness	SOY:0001598
+Seed volume	SOY:0001600
+Stem termination type	SOY:0001688
+Internode length	SOY:0001679
+Node number	SOY:0001752
+Pod number	SOY:0001702
+Stem shape, main	SOY:0002234
+Seed oil to protein ratio	SOY:0001689
+Total seed number	SOY:0001616
+Seed isoflavone	SOY:0001849
+Seed oleic	SOY:0001671
+Seed linoleic	SOY:0001391
+Seed linolenic	SOY:0001392
+Ureide content	SOY:0002231
+Canopy cover	SOY:0002230
+Branch number, main stem	SOY:0001318
+Stem diameter, main	SOY:0001624
+Seeds per plant	SOY:0001616
+Reproductive period	SOY:0002109
+Iron deficiency chlorosis	SOY:0001373
+Seed Ala	SOY:0001758
+Seed Arg	SOY:0001764
+Seed Asp	SOY:0001785
+Seed Cys	SOY:0001344
+Seed Glu	SOY:0001763
+Seed Gly	SOY:0001765
+Seed His	SOY:0001762
+Seed Ile	SOY:0001784
+Seed Leu	SOY:0001783
+Seed Lys	SOY:0001760
+Seed Met	SOY:0001709
+Seed Phe	SOY:0001771
+Seed Pro	SOY:0001761
+Seed Ser	SOY:0001770
+Seed Thr	SOY:0001767
+Seed Trp	SOY:0001769
+Seed Tyr	SOY:0001772
+Seed Val	SOY:0001759
+Sclero	SOY:0001479
+SCN	SOY:0001335
+Stem determination	SOY:0001781
+Pubescence form	SOY:0001720
+SDS root retention	SOY:0001460
+SDS dry matter retention	SOY:0001460
+Bacterial pustule	SOY:0001685
+BSR	SOY:0001320
+Diaporthe stem canker	SOY:0001458
+SDS	SOY:0001460
+Asian Soybean Rust	SOY:0001472
+Reniform nematode	SOY:0001699
+Bean pod mottle virus	SOY:0001490
+Peanut mottle virus	SOY:0001499
+Soybean mosaic virus	SOY:0001501
+Tobacco ringspot virus	SOY:0001321
+Mexican bean beetle	SOY:0001545
+Potato leafhopper	SOY:0001548
+Pubescence density	SOY:0001721
+Soybean aphid	SOY:0001851
+Soybean looper	SOY:0001543
+Velvetbean caterpillar	SOY:0001565
+WUE	SOY:0001313
+Shoot Ca	SOY:0002258
+Shoot Mg	SOY:0002260
+Shoot K	SOY:0002262
+Shoot P	SOY:0001602
+Shoot S	SOY:0002264
+Shoot B	SOY:0002266
+Shoot Cu	SOY:0002268
+Shoot Fe	SOY:0002270
+Shoot Mn	SOY:0002272
+Shoot Zn	SOY:0002274
+Salt tolerance 	SOY:0001609
+Al tolerance	SOY:0001309
+Yellow Mosaic Virus	SOY:0001314
+Seed stearic	SOY:0001673
+Phytoph	SOY:0001716
+P use efficiency	SOY:0002222
+Seed protein	SOY:0002216

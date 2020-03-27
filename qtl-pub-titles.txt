@@ -1,0 +1,322 @@
+| A comparative study on segregation analysis and QTL mapping of quantitative traits in plants-with a case in soybean                                                                            |
+| A major and stable QTL associated with seed weight in soybean across multiple environments and genetic backgrounds                                                                             |
+| A major QTL conditioning salt tolerance in S-100 soybean and descendent cultivars                                                                                                              |
+| A Major QTL Controlling Seed Cadmium Accumulation in Soybean                                                                                                                                   |
+| A major QTL, qPDH1, is commonly involved in shattering resistance of soybean cultivars                                                                                                         |
+| A quantitative trait locus influencing tolerance in Phytophthora root rot in the soybean cultivar 'Conrad'                                                                                     |
+| A Retrospective DNA Marker Assessment of the Development of Insect Resistant Soybean                                                                                                           |
+| A SNP in GmBADH2 gene associates with fragrance in vegetable soybean variety Kaori and SNAP marker development for the fragrance                                                               |
+| A study on relative importance of additive, epistasis and unmapped QTL for Aluminum tolerance at seedling stage in soybean                                                                     |
+| Alcohol dehydrogenase (ADH) activity in soybean (Glycine max [L.] Merr.) under flooding stress                                                                                                 |
+| Aluminum tolerance associated with quantitative trait loci derived from soybean PI 416937 in hydroponics                                                                                       |
+| An additional QTL for water use efficiency in soybean                                                                                                                                          |
+| An informative linkage map of soybean reveals QTLs for flowering time, leaflet morphology and regions of segregation distortion                                                                |
+| An Integrated Quantitative Trait Locus Map of Oil Content in Soybean, Glycine max (L.) Merr., Generated Using a Meta-Analysis Method for Mining Genes                                          |
+| An RFLP marker associated with resistance to phomopsis seed decay in soybean PI 417479                                                                                                         |
+| Analysis of a quantitative trait locus allele from wild soybean that increases seed protein concentration in soybean                                                                           |
+| Analysis of additive and epistatic quantitative trait loci underlying fatty acid concentrations in soybean seeds across multiple environments                                                  |
+| Analysis of Genes Underlying Soybean Quantitative Trait Loci Conferring Partial Resistance to Phytophthora sojae                                                                               |
+| Analysis of QTLs for the Trichome Density on the Upper and Downer Surface of Leaf Blade in Soybean [Glycine max (L.) Merr.]                                                                    |
+| Analysis of Quantitative Trait Loci (QTLs) for Seed Size and Fatty Acid Composition Using Recombinant Inbred Lines in Soybean                                                                  |
+| Analysis of quantitative trait loci associated with leaflet types in two recombinant inbred lines of soybean                                                                                   |
+| Analysis of quantitative trait loci for main plant traits in soybean                                                                                                                           |
+| Analysis of quantitative trait loci for protein and lipid contents in soybean seeds using recombinant inbred linesÊ                                                                            |
+| Association analysis using SSR markers to find QTL for seed protein content in soybean                                                                                                         |
+| Association of loci underlying field-resistance to soybean sudden-death syndrome (SDS) and cyst-nematode (SCN) RACE-3                                                                          |
+| Association of RFLP markers with loci conferring broad-based resistance to the soybean cyst nematode (Heterodera glycines).                                                                    |
+| Bayesian mapping of quantitative trait loci (QTL) controlling soybean cyst nematode resistant                                                                                                  |
+| Characterization of Resistance to Brown Stem Rot of Soybean in Five Accessions from Central China                                                                                              |
+| Clustering among loci underlying soybean resistance to Fusarium solani, SDS and SCN in near-isogeniclines                                                                                      |
+| Common loci underlie field resistance to soybean sudden death syndrome in Forrest, Pyramid, Essex, and Douglas                                                                                 |
+| Comparison of Phenotypic Methods and Yield Contributions of Quantitative Trait Loci for Partial Resistance to Phyophthora sojae in Soybean                                                     |
+| Confirmation of a Seed Yield QTL in soybean                                                                                                                                                    |
+| Confirmation of delayed canopy wilting QTLs from multiple soybean mapping populations                                                                                                          |
+| Confirmation of molecular markers and agronomic traits associated with seed phytate content in two soybean RIL populations                                                                     |
+| Confirmation of quantitative trait loci for resistance to multiple-HG types of soybean cyst nematode (Heterodera glycines Ichinohe)                                                            |
+| Conserved salt tolerance quantitative trait loci (QTL) in wild and cultivated soybeans                                                                                                         |
+| Conversion of AFLP bands into high-throughput DNA markers                                                                                                                                      |
+| Definition of Soybean Genomic Regions That Control Seed Phytoestrogen Amounts                                                                                                                  |
+| Detection and fine-mapping of Soybean mosaic virus resistance genes via linkage and association analysis in soybean                                                                            |
+| Detection of linked QTL for soybean brown stem rot resistance in 'BSR 101' as expressed in a growth chamber environment.                                                                       |
+| Detection of novel QTLs for foxglove aphid resistance in soybean                                                                                                                               |
+| Detection of quantitative trait loci controlling UV-B resistance in soybean                                                                                                                    |
+| Detection of quantitative trait loci for marker-assisted selection of soybean isoflavone genistein                                                                                             |
+| Detection of quantitative trait loci for phosphorus deficiency tolerance at soybean seedling stage                                                                                             |
+| Determination of the genetic architecture of seed size and shape via linkage and association analysis in soybean (Glycine max L. Merr.)                                                        |
+| Determining the linkage of quantitative trait loci to RFLP markers using extreme phenotypes of recombinant inbreds of soybean (Glycine max L. Merr.).                                          |
+| Dissection of two soybean QTL conferring partial resistance to Phytophthora sojae through sequence and gene expression analysis                                                                |
+| DNA marker analysis of loci conferring resistance to peanut root-knot nematode in soybean                                                                                                      |
+| DNA marker analysis of loci underlying resistance to soybean cyst nematode (Heterodera glycines Ichinohe).                                                                                     |
+| DNA markers associated with resistance to javanese root-knot nematode in soybean                                                                                                               |
+| DNA markers for resistance to Heterodera glycines I. race 3 in soybean cultivar Peking                                                                                                         |
+| Epistatic expression of quantitative trait loci (QTL) in soybean [Glycine max (L.) Merr.] determined by QTL association with RFLP alleles.                                                     |
+| Evaluation of Marker-Assisted Introgression of Yield QTL Alleles into Adapted Soybean                                                                                                          |
+| Fine Mapping of a Seed Protein QTL on Soybean Linkage Group I and Its Correlated Effects on Agronomic Traits                                                                                   |
+| Forrest resistance to the soybean cyst nematode is bigenic: saturation mapping of the Rhg1 and Rhg4 loci                                                                                       |
+| Genetic analysis and QTL detection of reproductive period and post-flowering photoperiod responses in soybean                                                                                  |
+| Genetic analysis and quantitative trait locus identification of the reproductive to vegetative growth period ratio in soybean (Glycine max (L.) Merr.)                                         |
+| Genetic analysis infers Dt loci resistance to Fusarium solani f. sp. Glycines in indeterminate soybeans                                                                                        |
+| Genetic analysis of antixenosis resistance to the common cutworm (Spodoptera litura Fabricius) and its relationship with pubescence characteristics in soybean (Glycine max (L.) Merr.)        |
+| Genetic Analysis of Root and Shoot Traits in the 'Essex' by 'Forrest' Recombinant Inbred Line (RIL) Population of Soybean [Glycine max (L.) Merr.]                                             |
+| Genetic analysis of soybean hard seededness with molecular markers.                                                                                                                            |
+| Genetic Analysis of Soybean Plant Height, Hypocotyl and Internode Lengths                                                                                                                      |
+| Genetic analysis of yield components in the PI 438489B by 'Hamilton' recombinant inbred line (RIL) population of soybean [Glycine max (L.) Merr.]                                              |
+| Genetic basis of soybean adaptation to North American vs. Asian mega-environments in two independent populations from Canadian x Chinese crosses                                               |
+| Genetic components and major QTL confer resistance to bean pyralid (Lamprosema indicata Fabricius) under multiple environments in four RIL populations of soybean                              |
+| Genetic control of soybean seed isoflavone content: importance of statistical model and epistasis in complex traits                                                                            |
+| Genetic control of soybean seed oil: I. QTL and genes associated with seed oil concentration in RIL populations derived from crossing moderately high-oil parents                              |
+| Genetic control of soybean seed oil: II. QTL and genes that increase oil concentration without decreasing protein or with increased seed yield                                                 |
+| Genetic Mapping and Confirmation of Quantitative Trait Loci for Seed Protein and Oil Contents and Seed Weight in Soybean                                                                       |
+| Genetic mapping of agronomic traits using recombinant inbred lines of soybean.                                                                                                                 |
+| Genetic Mapping of Loci Associated with Seed Phytic Acid Content in CX1834-1-2 Soybean                                                                                                         |
+| Genetic mapping of loci underlying field resistance to soybean sudden death syndrome (SDS).                                                                                                    |
+| Genetic mapping of QTLs conditioning soybean sprout yield and quality                                                                                                                          |
+| Genetic mapping of QTLs underlying partial resistance to Sclerotinia sclerotiorum in Soybean PI 391589A and PI 391589B                                                                         |
+| Genetic mapping of quantitative trait loci conditioning salt tolerance in wild soybean                                                                                                         |
+| Genetic mapping of seed shape in three populations of recombinant inbred lines of soybean (Glycine max L. Merr.)                                                                               |
+| Genetic mapping of soybean cyst nematode race-3 resistance loci in the soybean PI 437.654                                                                                                      |
+| Genetic mapping of three quantitative trait loci for soybean aphid resistance in PI 567324                                                                                                     |
+| Genetic mapping revealed two loci for soybean aphid resistance in PI 567301B                                                                                                                   |
+| Genetic relationship between lipid content and linolenic acid concentration in soybean seeds                                                                                                   |
+| Genetic structure composed of additive QTL, epistatic QTL pairs and collective unmapped minor QTL conferring oil content and fatty acid components of soybeans                                 |
+| Genetics and mapping of quantitative traits for nodule number, weight, and size in soybean (Glycine max L.[Merr.])                                                                             |
+| Genetics of Seed Abortion and Reproductive Traits in Soybean                                                                                                                                   |
+| Genetics of soybean agronomic traits: I. Comparison of three related recombinant inbred populations                                                                                            |
+| Genetics of soybean agronomic traits: II. Interactions between yield quantitative trait loci in soybean                                                                                        |
+| Genome mapping of soybean cyst nematode resistance genes in Peking, PI90763, and PI88788 using DNA markers                                                                                     |
+| Genomic regions associated with amino acid composition in soybean                                                                                                                              |
+| Genomic regions containing QTL for plant height, internodes length, and flower color in soybean [Glycine max (L.) Merr]                                                                        |
+| Genomic Regions Governing Soybean Seed Nitrogen Accumulation                                                                                                                                   |
+| High-throughput genotyping for a polymorphism linked to soybean cyst nematode resistance gene Rhg4 by using Taqman (TM) probes                                                                 |
+| Identification and Confirmation of Quantitative Trait Loci Associated with Soybean Seed Hardness                                                                                               |
+| Identification and evaluation of quantitative trait loci underlying resistance to multiple HG types of soybean cyst nematode                                                                   |
+| Identification and validation of a major QTL for salt tolerance in soybean                                                                                                                     |
+| Identification and validation of an over-dominant QTL controlling soybean weight using populations derived from Glycine max x Glycine soja                                                     |
+| Identification and validation of quantitative trait loci for seed yield, oil and protein contents in two recombinant inbred line populations of soybean.                                       |
+| Identification of a major QTL allele from wild soybean (Glycine soja Sieb. & Zucc.) for increasing alkaline salt tolerance in soybean                                                          |
+| Identification of a new fragrance allele in soybean and development of its functional marker                                                                                                   |
+| Identification of a new major QTL associated with resistance to soybean cyst nematode (Heterodera glycines)                                                                                    |
+| Identification of a QTL Associated with Tolerance of Soybean to Soil Waterlogging                                                                                                              |
+| Identification of AFLP markers in soybean linked to resistance to Meloidogyne javanica and conversion to sequence characterized amplified regions (SCARs)                                      |
+| Identification of candidate genes underlying an iron efficiency quantitative trait locus in soybean                                                                                            |
+| Identification of genomic regions determining flower and pod numbers development in soybean (Glycine max L)                                                                                    |
+| Identification of molecular markers linked to quantitative trait loci for soybean resistance to corn earworm                                                                                   |
+| Identification of new QTLs for seed mineral, cysteine, and methionine concentrations in soybean                                                                                                |
+| Identification of novel QTL for leaf traits in soybean                                                                                                                                         |
+| Identification of Novel QTL Governing Root Architectural Traits in an Interspecific Soybean Population                                                                                         |
+| Identification of positive yield QTL alleles from exotic soybean germplasm in two backcross populations                                                                                        |
+| Identification of putative QTL that underlie yield in interspecific soybean backcross populations                                                                                              |
+| Identification of QTL controlling post-flowering period in soybean                                                                                                                             |
+| Identification of QTL for increased fibrous roots in soybean                                                                                                                                   |
+| Identification of QTL for Resistance to Sclerotinia Stem Rot in Soybean Plant Introduction 194639                                                                                              |
+| Identification of QTL in soybean underlying resistance to herbivory by Japanese beetles (Popillia japonica, Newman)                                                                            |
+| Identification of QTL underlying isoflavone contents in soybean seeds among multiple environments                                                                                              |
+| Identification of QTL underlying soluble pigment content in soybean stems related to resistance to soybean white mold (Sclerotinia sclerotiorum)                                               |
+| Identification of QTL underlying somatic embryogenesis capacity of immaure embryos in soybean (Glycine max (L.) Merr.)                                                                         |
+| Identification of QTL underlying soybean agglutinin content in soybean seeds and analysis for epistatic effects among multiple genetic backgrounds and environments                            |
+| Identification of QTL underlying the resistance of soybean to pod borer, Leguminivora glycinivorella (Mats.) obraztsov, and correlations with plant, pod and seed traits                       |
+| Identification of QTL underlying vitamin E contents in soybean seed among multiple environments                                                                                                |
+| Identification of QTLs associated with limited leaf hydraulic conductance in soybean                                                                                                           |
+| Identification of QTLs Associated with Partial Resistance to White Mold in Soybean Using Field-Based Inoculation                                                                               |
+| Identification of QTLs associated with resistance to soybean cyst nematode races 2, 3 and 5 in soybean PI 90763                                                                                |
+| Identification of QTLs controlling somatic embryogenesis using RI population of cultivar X weedy soybean                                                                                       |
+| Identification of QTLs for Resistance to Sclerotinia sclerotiorum in Soybean                                                                                                                   |
+| Identification of QTLs for seed and pod traits in soybean and analysis for additive effects and epistatic effects of QTLs among multiple environments                                          |
+| Identification of QTLs underlying water-logging tolerance in soybean                                                                                                                           |
+| Identification of Quantitative Trait Loci (QTL) Underlying Protein, Oil, and Five Major Fatty AcidsÕ Contents in Soybean                                                                       |
+| Identification of quantitative trait loci (QTLs) for seed protein concentration in soybean and analysis for additive effects and epistatic effects of QTLs under multiple environments         |
+| Identification of quantitative trait loci controlling linolenic acid concentration in PI483463 (Glycine soja).                                                                                 |
+| Identification of quantitative trait loci controlling nodulation and shoot mass in progenies from two Brazilian soybean cultivars                                                              |
+| Identification of quantitative trait loci controlling sucrose content in soybean (Glycine max)                                                                                                 |
+| Identification of quantitative trait loci for partial resistance to Phytophthora sojae in soybean                                                                                              |
+| Identification of quantitative trait loci for plant height, lodging, and maturity in a soybean population segregating for growth habit.                                                        |
+| Identification of Quantitative Trait Loci for Sucrose Content in Soybean Seed                                                                                                                  |
+| Identification of quantitative trait loci underlying seed protein and oil contents of soybean across multi-genetic backgrounds and environments                                                |
+| Identification of soybean genotypes resistant to Fusarium graminearum and genetic mapping of resistance quantitative trait loci in the cultivar Conrad                                         |
+| Identification of the quantitative trait loci (QTL) underlying water soluble protein content in soybean                                                                                        |
+| Identification, mapping, and confirmation of a soybean gene for bud blight resistance                                                                                                          |
+| Inheritance and genetic mapping of resistance to Rhizoctonia root and hypocotyl rot in soybean.                                                                                                |
+| Inheritance and QTL mapping of related root traits in soybean at the seedling stage                                                                                                            |
+| Inheritance of partial resistance to Sclerotinia stem rot in soybean                                                                                                                           |
+| Interactions between quantitative trait loci in soybean in which trait variation at one locus is conditional upon a specific allele at another                                                 |
+| Interval mapping of quantitative trait loci for reproductive, morphological, and seed traits of soybean (Glycine max L.).                                                                      |
+| Intricate environment-modulated genetic networks control isoflavone accumulation in soybean seeds                                                                                              |
+| Iso-lines and inbred-lines confirmed loci that underlie resistance from cultivar 'Hartwig' to three soybean cyst nematode populations                                                          |
+| Localization of a Quantitative Trait Locus Providing Brown Stem Rot Resistance in the Soybean Cultivar Bell                                                                                    |
+| Localization of Two Loci that Confer Resistance to Soybean Cyst Nematode from Glycine soja PI 468916	Crop Sci. 2005, 45(6):2473-2481                                                           |
+| Loci underlying resistance to manganese toxicity mapped in a soybean recombinant inbred line population of 'Essex' x 'Forrest'                                                                 |
+| Loci underlying resistance to Race 3 of soybean cyst nematode in Glycine soja plant introduction 468916                                                                                        |
+| Major locus and other novel additive and epistatic loci involved in modulation of isoflavone concentration in soybean seeds                                                                    |
+| Mapping and Comparison of Quantitative Trait Loci for Oleic Acid Seed Content in Two Segregating Soybean Populations                                                                           |
+| Mapping and comparison of quantitative trait loci for soybean branching phenotype in two locations                                                                                             |
+| Mapping and confirmation of a new sudden death syndrome resistance QTL on linkage group D2 from the soybean genotypes PI 567374 and Ripley                                                     |
+| Mapping genetic loci for flowering time, maturity, and photoperiod insensitivity in soybean                                                                                                    |
+| Mapping genetic loci for iron deficiency chlorosis in soybean                                                                                                                                  |
+| Mapping Isoflavone QTL with Main, Epistatic and QTL _ Environment Effects in Recombinant Inbred Lines of Soybean                                                                               |
+| Mapping of putative quantitative trait loci controlling the total oligosaccharide and sucrose content of Glycine max seeds                                                                     |
+| Mapping of QTL associated with chilling tolerance during reproductive growth in soybean                                                                                                        |
+| Mapping of QTLs associated with biological nitrogen fixation traits in soybean                                                                                                                 |
+| Mapping of quantitative trait loci associated with resistance to Phytophthora sojae and flooding tolerance in soybean                                                                          |
+| Mapping of quantitative trait loci for canopy-wilting trait in soybean (Glycine max L. Merr)                                                                                                   |
+| Mapping QTL for Individual and Total Isoflavone Content in Soybean Seeds.                                                                                                                      |
+| Mapping QTL for seed protein and oil content in eight soybean populations                                                                                                                      |
+| Mapping QTL tolerance to Phytophthora root rot in soybean using microsatellite and RAPD/SCAR derived markers                                                                                   |
+| Mapping QTLs for 100-seed weight in an interspecific soybean cross of Williams 82 (Glycine max) and PI 366121 (Glycine soja)                                                                   |
+| Mapping QTLs for Phosphorus-deficiency Tolerance in Soybean at Seedling Stage                                                                                                                  |
+| Mapping QTLs for Tissue Culture Response in Soybean (Glycine max (L.) Merr.)                                                                                                                   |
+| Mapping QTLs with epistatic effecs and QTL-by environment interactions for seed coat cracking in soybeans                                                                                      |
+| Mapping quantitative trait loci (QTLs) underlying seed vitamin E content in soybean with main, epistatic and QTL x environment effects                                                         |
+| Mapping quantitative trait loci associated with chlorophyll a fluorescence parameters in soybean (Glycine max (L.) Merr.)                                                                      |
+| Mapping Quantitative Trait Loci for Partial Resistance to Phytophthora sojae in a Soybean Interspecific Cross                                                                                  |
+| Mapping quantitative trait loci for root development under hypoxia conditions in soybean (Glycine max L. Merr.)                                                                                |
+| Mapping Resistance to Multiple Races of Heterodera glycines in Soybean PI 89772                                                                                                                |
+| Mapping WTLs for seed yield and drought susceptiblity index in soybean (Glycine max L.) across different environments                                                                          |
+| Meta-analysis to refine map position and reduce confidence intervals for delayed-canopy-wilting QTLs in soybean                                                                                |
+| Microsatellite markers identify three additional quantitative trait loci for resistance to soybean sudden-death syndrome (SDS) in Essex x Forrest RILs                                         |
+| Modifier QTL for fatty acid composition in soybean oil                                                                                                                                         |
+| Modulations in gene expression and mapping of genes associated with cyst nematode infection of soybean                                                                                         |
+| Molecular characterization of iron deficiency chlorosis in soybean                                                                                                                             |
+| Molecular characterization of resistance to Heterodera glycines in soybean PI 438489B                                                                                                          |
+| Molecular mapping and identification of soybean fatty acid modifier quantitative trait loci                                                                                                    |
+| Molecular Mapping Genes Conditioning Reduced Palmitic Acid Content in N87-2122-4 Soybean                                                                                                       |
+| Molecular mapping of soybean aphid resistance gense in PI 567541B                                                                                                                              |
+| Molecular mapping of soybean rust resistance in soybean accession PI 561356 and SNP haplotype analysis o the Rpp1 region in diverse germplasm                                                  |
+| Molecular mapping of soybean seed tocopherols in the cross ÔOAC BayfieldÕ 3 ÔOAC ShireÕ                                                                                                        |
+| Molecular Marker Analysis of Days to Flowering in Vegetable Soybean (Glycine max (L.) Merrill)                                                                                                 |
+| Molecular Marker Analysis of Seed Size in Soybean                                                                                                                                              |
+| Molecular Marker Satt481 is Associated with Iron-Deficiency Chlorosis Resistance in a Soybean Breeding Population                                                                              |
+| Molecular Markers Associated with Linolenic Acid in Soybean                                                                                                                                    |
+| Molecular markers associated with seed weight in two soybean populations                                                                                                                       |
+| Molecular markers associated with soybean plant height, lodging, and maturity across locations.                                                                                                |
+| Molecular markers associated with water use efficiency and leaf ash in soybean                                                                                                                 |
+| Molecular Markers Linked to Brown Stem Rot Resistance Genes, Rbs1 and Rbs2, in Soybean                                                                                                         |
+| Molecular markers residing close to the Rhg4 locus conferring resistance to soybean cyst nematode race 3 on linkage group A of soybean.                                                        |
+| Molecular markers useful for detecting resistance to brown stem rot in soybean                                                                                                                 |
+| Molecular-marker analysis of seed-weight: genomic locations, gene action, and evidence for orthologous evolution among three legume species.                                                   |
+| Multi-environment mapping and meta-analysis of 100-seed weight in soybean                                                                                                                      |
+| Near Isogenic Lines Confirm a Soybean Cyst Nematode Resistance Gene from PI 88788 on Linkage Group J                                                                                           |
+| Near Isogenic Lines Confirm a Soybean Cyst Nematode Resistance Gene from PI88788 on Linkage Group J                                                                                            |
+| Novel major quantitative trait loci regulating the content of isoflavone in soybean seeds                                                                                                      |
+| Novel quantitative trait loci for broad-based resistance to soybean cyst nematode (Heterodera glycines Ichinohe) in soybean PI 567516C                                                         |
+| Novel Quantitative Trait Loci for Forage Quality Traits in a Cross between PI 483463 and ÔHutchesonÕ in Soybean                                                                                |
+| Novel quantitative trait loci for partial resistance to Phytophthora sojae in soybean PI 398841                                                                                                |
+| Nutrient solution screening of Fe chlorosis resistance in soybean evaluated by molecular characterization                                                                                      |
+| Phenotypic variation and identification of quantitative trait loci for ozone tolerance in a Fiskeby IIIÊ_ÊMandarin (Ottawa) soybean population                                                 |
+| Pod dehiscence of soybean: trait identification of quantitative trait loci                                                                                                                     |
+| Polygenic inheritance of canopy wilting in soybean                                                                                                                                             |
+| Population-specific QTLs and their different epistatic interactions for pod dehiscence in soybean [Glycine max (L.) Merr.]                                                                     |
+| Positional mapping and identification of novel quantitative trait locus responsible for UV-B radiation tolerance in soybean [Glycine maxÊ(L.) Merr.]                                           |
+| Possible identification of quantitative trait loci affecting iron efficiency in soybean.                                                                                                       |
+| Putative alleles for increased yield from soybean plant introductions                                                                                                                          |
+| Putative quantitative trait loci associated with calcium content in soybean seed                                                                                                               |
+| Pyramided QTL underlying tolerance to Phytophthora root rot in mega-environments from soybean cultivars Conrad and Hefeng 25                                                                   |
+| QTL affecting fitness of hybrids between wild and cultivated soybeans in experimental fields                                                                                                   |
+| QTL analyses of seed weight during the development of soybean (Glycine max L. Merr.)                                                                                                           |
+| QTL Analysis for Dynamic Expression of Chlorophyll Content in Soybean                                                                                                                          |
+| QTL analysis for resistance to Soybean dwarf virus in Indonesian soybean cultivar Wilis                                                                                                        |
+| QTL analysis of cleistogamy in soybean                                                                                                                                                         |
+| QTL analysis of flooding tolerance in soybean at an early vegetative growth stage                                                                                                              |
+| QTL Analysis of Low Temperature-Induced Browning in Soybean Seed Coats                                                                                                                         |
+| QTL Analysis of Major Agronomic Traits in Soybean                                                                                                                                              |
+| QTL analysis of net-like cracking in soybean seed coats                                                                                                                                        |
+| QTL Analysis of Resistance to Soybean Cyst Nematode Race 3 in Soybean Cultivar Toyomusume                                                                                                      |
+| QTL analysis of root traits as related to phosphorus efficiency in soybean                                                                                                                     |
+| QTL Analysis of Seed Coat Cracking in Soybean                                                                                                                                                  |
+| QTL analysis of seed-flooding tolerance in soybean (Glycine max [L.] Merr.)                                                                                                                    |
+| QTL Analysis of Soybean Seed Coat Discoloration Associated with II TT Genotype                                                                                                                 |
+| QTL analysis of soybean seed weight across multi-genetic backgrounds and environments                                                                                                          |
+| QTL associated with horizontal resistance to soybean cyst nematode in Glycine soja PI464925B                                                                                                   |
+| QTL Associated with Yield in Three Backcross-Derived Populations of Soybean                                                                                                                    |
+| QTL for resistance to soybean cyst nematode races 3, 9, and 14 in cultivar Hartwig                                                                                                             |
+| QTL for seed protein and amino acids in the Benning _ Danbaekkong soybean population                                                                                                           |
+| QTL identification of flowering time at three different latitudes reveals homeologous genomic regions that control flowering in soybean                                                        |
+| QTL Identification of Yield-Related Traits and their Association with Flowering and Maturity in Soybean                                                                                        |
+| QTL in mega-environments: I. Universal and specific seed yield QTL detected in a population derived from a cross of high-yielding adapted x high-yielding exotic soybean lines                 |
+| QTL in mega-environments: II. Agronomic trait QTL co-localized with seed yield QTL detected in a population derived from a cross of high-yielding adapted x high-yielding exotic soybean lines |
+| QTL Mapping for Major Agronomic Traits across Two Years in Soybean (Glycine max L. Merr.)                                                                                                      |
+| QTL Mapping for Photoperiod Insensitivity of a Japanese Soybean Landrace Sakamotowase                                                                                                          |
+| QTL Mapping of Antibiosis Resistance to Common Cutworm (Spodoptera litura Fabricius) in Soybean                                                                                                |
+| QTL Mapping of Isoflavone, Oil and Protein Contents in Soybean (Glycine max L. Merr.)                                                                                                          |
+| QTL mapping of phosphorus deficiency tolerance in soybean (Glycine max L. Merr.)                                                                                                               |
+| QTL mapping of soybean oil content for marker-assisted selection in plant breeding program                                                                                                     |
+| QTL Mapping of soybean resistance to whitefly (Bemisia tabaci Gennadius) under multi-environment conditions                                                                                    |
+| QTL mapping of ten agronomic traits on the soybean (Glycine max L. Merr) genetic map and their association with EST markers                                                                    |
+| QTL underlying resistance to two HG types of Heterodera glycines found in soybean cultivar 'L-10'                                                                                              |
+| QTL underlying the resistance to soybean aphid (Aphis glycines Matsumura) through isoflavone-mediated antibiosis in soybean cultivar 'Zhongdou 27'                                             |
+| QTL, additive and epistatic effects for SCN resistance in PI 437654                                                                                                                            |
+| QTLs conditioning early growth in a soybean population segregating for growth habit.                                                                                                           |
+| QTLs for resistance to Phomopsis seed decay are associated with days to maturity in soybean (Glycine max)                                                                                      |
+| QTLs for resistance to Phomopsis seed decay are associated with days to maturity in soybean (Glycine max).                                                                                     |
+| Qualitative genetics and cytogenetics.                                                                                                                                                         |
+| Quantitative Trait Loci (QTL) Mapping for Glycinin and beta-Conglycinin Contents in Soybean (Glycine max L. Merr.)                                                                             |
+| Quantitative Trait Loci (QTL) that Underlie SCN Resistance in Soybean [Glycine max (L.) Merr.] PI438489B by ÔHamiltonÕ Recombinant Inbred Line (RIL) Population                                |
+| Quantitative trait loci analysis for the developmental behavior of Soybean (Glycine max L. Merr.)                                                                                              |
+| Quantitative trait loci analysis of stem strength and related traits in soybean                                                                                                                |
+| Quantitative Trait Loci Associated with Cell Wall Polysaccharides in Soybean Seed                                                                                                              |
+| Quantitative Trait Loci Associated with Foliar Trigonelline Accumulation in Glycine Max L                                                                                                      |
+| Quantitative trait loci associated with moisture, protein, and oil content in soybean                                                                                                          |
+| Quantitative Trait Loci Associated with Oligosaccharide and Sucrose Contents on Soybean (Glycine max L.)                                                                                       |
+| Quantitative Trait Loci controlling sulfur containing amino acids methionine and cysteine, in soybean seeds                                                                                    |
+| Quantitative trait loci for agronomic and seed quality traits in an F-2 and F-4:6 soybean population                                                                                           |
+| Quantitative trait loci for agronomic traits in soybean                                                                                                                                        |
+| Quantitative trait loci for antibiosis resistance to corn earworm in soybean                                                                                                                   |
+| Quantitative trait loci for antixenosis resistance to corn earworm in soybean                                                                                                                  |
+| Quantitative Trait Loci for B-Conglycinin (7S) and Glycinin (11S) Fractions of Soybean Storage Protein                                                                                         |
+| Quantitative Trait Loci for Partial Resistance to Phytophthora sojae in Soybean                                                                                                                |
+| Quantitative Trait Loci for Seed Protein and Oil Concentration, and Seed Size in Soybean                                                                                                       |
+| Quantitative trait loci in Two Soybean Recombinant Inbred Line Populations Segregating for Yield and Disease Resistance                                                                        |
+| Quantitative trait loci mapping of pubescence density and flowering time of insect-resistant soybean                                                                                           |
+| Quantitative Trait Loci Mapping of Seed Hardness in Soybean                                                                                                                                    |
+| Quantitative trait loci underlying host responses of soybean toÊFusarium virguliformeÊtoxins that cause foliar sudden death syndrome                                                           |
+| Quantitative trait loci underlying resistance to sudden death syndrome (SDS) in MD96-5722 by ‘Spencer’ recombinant inbred line population of soybean                                           |
+| Quantitative Trait Loci Underlying Resistance to Three Soybean Cyst Nematode Populations in Soybean PI 404198A                                                                                 |
+| Quantitative trait locus (QTL) analysis of pod related traits in different environments in soybean                                                                                             |
+| Quantitative trait locus analysis of flowering time in soybean using a RFLP linkage map                                                                                                        |
+| Quantitative trait locus analysis of saturated fatty acids in a population of recombinant inbred lines of soybean                                                                              |
+| Quantitative trait locus analysis of seed sulfur-containing amino acids in two recombinant inbred line populations of soybean                                                                  |
+| Quantitative traitl oci for partial resistance to Phytophthora sojae in soybean                                                                                                                |
+| Relationship between asparagine metabolism and protein concentration in soybean seed                                                                                                           |
+| Resistance to soybean sudden death syndrome and root colonization by Fusarium solani f. sp. glycine in near-isogenic lines.                                                                    |
+| Restriction Fragment Length Polymorphism Analysis of Soybean Fatty Acid Content                                                                                                                |
+| RFLP analysis of chlorimuron ethyl sensitivity in soybean                                                                                                                                      |
+| RFLP analysis of soybean seed protein and oil content                                                                                                                                          |
+| RFLP loci associated with soybean seed protein and oil content across populations and locations                                                                                                |
+| RFLP mapping in soybean: association between marker loci and variation in quantative traits.                                                                                                   |
+| RFLP mapping of resistance to southern root-knot nematode in soybean                                                                                                                           |
+| RFLP markers associated with soybean cyst nematode resistance and seed composition in a 'Peking' x 'Essex' population.                                                                         |
+| Rhg1 alleles from soybean PI 437654 and PI 88788 respond differentially to isolates of Heterodera glycines in the greenhouse                                                                   |
+| Seed and agronomic QTL in low linolenic acid, lipoxygenase-free soybean (Glycine max (L.) Merrill) germplasm.                                                                                  |
+| Seed quality QTL in a prominent soybean population                                                                                                                                             |
+| Seed quality QTLs identified in a molecular map of early maturing soybean                                                                                                                      |
+| Selecting soybean cultivars for dual resistance to soybean cyst nematode and sudden death syndrome using two DNA markers.                                                                      |
+| Separate loci underlie resistance to root infection and leaf scorch during soybean sudden death syndrome                                                                                       |
+| Simple sequence repeat markers linked to a major QTL controlling pod shattering in soybean                                                                                                     |
+| SNP markers linked to QTL conditioning plant height, lodging, and maturity in soybean                                                                                                          |
+| Soybean oil content QTL mapping and integrating with meta-analysis method for mining genes                                                                                                     |
+| Soybean QTL for Yield and Yield Components Associated with Glycine soja Alleles                                                                                                                |
+| Soybean Quantitative Trait Loci conditioning Soybean Rust-Induced Canopy Damage                                                                                                                |
+| Soybean quantitative trait loci for resistance to insects                                                                                                                                      |
+| Soybean Response to Water:A QTL Analysis of Drought Tolerance                                                                                                                                  |
+| SSR mapping and confirmation of the QTL from PI96354 conditioning soybean resistance to southern root-knot nematode                                                                            |
+| SSR markers associated with seed longevity in soybean                                                                                                                                          |
+| SSR Markers Linking to Seed Traits and Total Oil Content in Soybean                                                                                                                            |
+| SSR- and SNP-related QTL underlying linolenic acid and other fatty acid contents in soybean seeds across multiple environments                                                                 |
+| Targeted comparative genome analysis and qualitative mapping of a major partial-resistance gene to the soybean cyst nematode.                                                                  |
+| The 'PI 438489B' by 'Hamilton' SNP-based genetic linkage map of soybean [Glycine max (L.) Merr.] identified quantitative trait loci that underlie seedling SDS resistance                      |
+| The genetic control of tolerance t aluminum toxicity in the Essex by Forrest recombinant inbred line population                                                                                |
+| The presence or absence of the soybean Kunitz trypsin inhibitor as a quantitative trait locus for seed protein content                                                                         |
+| The seed protein, oil, and yield QTL on soybean linkage group I                                                                                                                                |
+| Transgressive segregation of isoflavone contents under the control of four QTLs in a cross between distantly related soybean varieties                                                         |
+| Two additional loci underlying durable field resistance to soybean sudden death syndrome (SDS).                                                                                                |
+| Two microsatellite markers that flank the major soybean cyst nematode resistance locus.                                                                                                        |
+| Unconditional and conditional QTL underlying the genetic interrelationships between soybean seed isoflavone, and protein or oil contents                                                       |
+| Use of the QTL approach to the study of soybean trait relationships in two populations of recombinant inbred lines at the F7 and F8 generations                                                |
+| Validation and Designation of Quantitative Trait Loci for Seed Protein, Seed Oil, and Seed Weight from Two Soybean Populations                                                                 |
+| Validation of Low-Phytate QTLs and Evaluation of Seedling Emergence of Low-Phytate Soybeans                                                                                                    |
+| Validation of mega-environment universal and specific QTL associated with seed yield and agronomic traits in soybeans                                                                          |
+| Validation of microsatellite markers for assisted selection of soybean resistance to cyst nematode races 3 and 14                                                                              |
+| Variation of GmIRCHS (Glycine max inverted-repeat CHS pseudogene) is related to tolerance of low temperature-induced seed coat discoloration in yellow soybean                                 |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+318 rows in set (0.36 sec)
+
+mysql> \q

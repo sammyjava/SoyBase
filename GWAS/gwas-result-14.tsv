@@ -1,0 +1,32 @@
+#identifier	phenotype	marker	pvalue
+Branch number, main stem 1-g2	Branch number, main stem	ss107912965	0.02663
+Branch number, main stem 1-g3	Branch number, main stem	ss107912978	0.007598
+Branch number, main stem 1-g4	Branch number, main stem	ss107913130	0.0144
+Branch number, main stem 1-g5	Branch number, main stem	ss107913147	0.000254
+Branch number, main stem 1-g6	Branch number, main stem	ss107913489	5.46E-05
+Branch number, main stem 1-g1	Branch number, main stem	ss107920459	0.01247
+Plant height 2-g2	Plant height	ss107912550	0.000921
+Plant height 2-g3	Plant height	ss107919771	0.01032
+Plant height 2-g1	Plant height	ss107920090	0.000865
+Pod number 2-g2	Pod number	ss107912550	0.00018
+Pod number 2-g5	Pod number	ss107913806	8.45E-05
+Pod number 2-g6	Pod number	ss107913815	8.45E-05
+Pod number 2-g1	Pod number	ss107916660	0.000327
+Pod number 2-g3	Pod number	ss107917367	6.62E-07
+Pod number 2-g8	Pod number	ss107918045	0.01007
+Pod number 2-g4	Pod number	ss107918865	4.81E-05
+Pod number 2-g7	Pod number	ss107920459	0.09236
+Seed weight 2-g1	Seed weight	ss107913198	0.000716
+Seed weight 2-g2	Seed weight	ss107913562	0.0189
+Seed weight 2-g4	Seed weight	ss107913806	2.89E-10
+Seed weight 2-g3	Seed weight	ss107913815	2.89E-10
+Seed yield 2-g1	Seed yield	ss107913076	0.7894
+Seed yield 2-g2	Seed yield	ss107913110	0.0527
+Seed yield 2-g3	Seed yield	ss107913503	0.001188
+Seed yield 2-g4	Seed yield	ss107913538	0.000127
+Seeds per plant 2-g1	Seeds per plant	ss107916660	0.000265
+Seeds per plant 2-g2	Seeds per plant	ss107917367	1.51E-08
+Seeds per plant 2-g3	Seeds per plant	ss107918865	1.11E-05
+Seeds per plant 2-g5	Seeds per plant	ss107918968	0.7796
+Seeds per plant 2-g4	Seeds per plant	ss107919771	0.1078
+Stem diameter, main 1-g1	Stem diameter, main	ss107913943	3.27E-07
